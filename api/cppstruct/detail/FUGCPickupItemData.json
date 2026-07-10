@@ -1,0 +1,1 @@
+{"Name":"FUGCPickupItemData","Description":"拾取物物品数据","Variables":[{"Name":"PickupWrapper","Type":"AActor *","Description":"物品所在的拾取物Actor","Redirect":""},{"Name":"ItemDefineID","Type":"FItemDefineID","Description":"物品 DefineID","Redirect":""},{"Name":"ItemCount","Type":"int32","Description":"物品数量","Redirect":""}]}

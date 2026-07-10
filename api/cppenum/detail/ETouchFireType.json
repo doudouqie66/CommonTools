@@ -1,0 +1,1 @@
+{"Name":"ETouchFireType","Description":" ","Variables":[{"Name":"NotFire","Value":"0","Description":" "},{"Name":"ButtonFire","Value":"1","Description":" "},{"Name":"TouchForceFire","Value":"2","Description":" "},{"Name":"DoubleClickFire","Value":"3","Description":" "}]}

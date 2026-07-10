@@ -1,0 +1,1 @@
+{"Name":"EOverlapObjectType","Description":" ","Variables":[{"Name":"Default","Value":"0","Description":" "},{"Name":"Static","Value":"1","Description":" "},{"Name":"Dynamic","Value":"2","Description":" "},{"Name":"Player","Value":"3","Description":" "},{"Name":"Vehicle","Value":"4","Description":" "}]}

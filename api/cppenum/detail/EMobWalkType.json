@@ -1,0 +1,1 @@
+{"Name":"EMobWalkType","Description":" ","Variables":[{"Name":"Normal","Value":"0","Description":" "},{"Name":"IdleWalk","Value":"1","Description":" "},{"Name":"AttackWalk","Value":"2","Description":" "},{"Name":"SprintRun","Value":"3","Description":" "},{"Name":"Sideways","Value":"4","Description":" "},{"Name":"MaxSpeed","Value":"5","Description":" "}]}

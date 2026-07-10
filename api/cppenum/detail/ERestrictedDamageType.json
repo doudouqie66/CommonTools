@@ -1,0 +1,1 @@
+{"Name":"ERestrictedDamageType","Description":" ","Variables":[{"Name":"Default","Value":"0","Description":" "},{"Name":"ShootDamage","Value":"1","Description":" "},{"Name":"MeleeDamage","Value":"2","Description":" "},{"Name":"SkillDamage","Value":"3","Description":" "},{"Name":"VehicleDamage","Value":"4","Description":" "}]}

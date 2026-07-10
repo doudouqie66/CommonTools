@@ -1,0 +1,1 @@
+{"Name":"ETrajectoryMoveState","Description":" ","Variables":[{"Name":"ETMS_Empty","Value":"0","Description":" "},{"Name":"ETMS_StayInit","Value":"1","Description":" "},{"Name":"ETMS_Forward","Value":"2","Description":" "},{"Name":"ETMS_StayTar","Value":"3","Description":" "},{"Name":"ETMS_Reverse","Value":"4","Description":" "}]}

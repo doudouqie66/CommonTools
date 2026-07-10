@@ -1,0 +1,1 @@
+{"Name":"FBillboardData","Description":"","Variables":[{"Name":"Position","Type":"FVector","Description":"","Redirect":""},{"Name":"UVs","Type":"TArray \u003c FVector2D \u003e","Description":"","Redirect":""}]}

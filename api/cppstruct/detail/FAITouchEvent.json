@@ -1,0 +1,1 @@
+{"Name":"FAITouchEvent","Description":"","Variables":[{"Name":"TouchReceiver","Type":"AActor *","Description":"","Redirect":""},{"Name":"OtherActor","Type":"AActor *","Description":"","Redirect":""}]}

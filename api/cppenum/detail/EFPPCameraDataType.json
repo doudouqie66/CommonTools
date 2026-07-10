@@ -1,0 +1,1 @@
+{"Name":"EFPPCameraDataType","Description":" ","Variables":[{"Name":"EFPPCameraType_InVehicle","Value":"0","Description":" "},{"Name":"EFPPCameraType_Shoveling","Value":"1","Description":" "},{"Name":"EFPPCameraType_PopKartAccelerate","Value":"2","Description":" "},{"Name":"EFPPCameraType_Max","Value":"3","Description":" "}]}

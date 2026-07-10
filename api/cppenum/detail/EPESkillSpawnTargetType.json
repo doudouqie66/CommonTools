@@ -1,0 +1,1 @@
+{"Name":"EPESkillSpawnTargetType","Description":" ","Variables":[{"Name":"E_PESKILL_SpawnTarget_Self","Value":"0","Description":" "},{"Name":"E_PESKILL_SpawnTarget_SelectTarget","Value":"1","Description":" "},{"Name":"E_PESKILL_SpawnTarget_SelectTransform","Value":"2","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"ELogLevel","Description":" ","Variables":[{"Name":"Log","Value":"0","Description":"记录级别"},{"Name":"Warning","Value":"1","Description":"警告级别"},{"Name":"Error","Value":"2","Description":"错误级别"}]}

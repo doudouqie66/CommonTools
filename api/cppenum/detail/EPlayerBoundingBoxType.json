@@ -1,0 +1,1 @@
+{"Name":"EPlayerBoundingBoxType","Description":" ","Variables":[{"Name":"Invalid","Value":"0","Description":" "},{"Name":"BuildingBox","Value":"1","Description":" "},{"Name":"LandscapeBox","Value":"2","Description":" "},{"Name":"ConvexMeshBox","Value":"3","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"EPlayOnBuildMode","Description":" ","Variables":[{"Name":"PlayOnBuild_Always","Value":"0","Description":" "},{"Name":"PlayOnBuild_Never","Value":"1","Description":" "},{"Name":"PlayOnBuild_Default","Value":"2","Description":" "},{"Name":"PlayOnBuild_IfEditorBuiltLocally","Value":"3","Description":" "}]}

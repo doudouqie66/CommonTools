@@ -1,0 +1,1 @@
+{"Name":"EClimbState","Description":" ","Variables":[{"Name":"eClimbStart","Value":"0","Description":" "},{"Name":"eClimbing","Value":"1","Description":" "},{"Name":"eClimbCatchTop","Value":"2","Description":" "},{"Name":"eClimbCatchMoveTop","Value":"3","Description":" "},{"Name":"eClimbDefault","Value":"4","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"EGameplayTaskState","Description":" ","Variables":[{"Name":"Uninitialized","Value":"0","Description":" "},{"Name":"AwaitingActivation","Value":"1","Description":" "},{"Name":"Paused","Value":"2","Description":" "},{"Name":"Active","Value":"3","Description":" "},{"Name":"Finished","Value":"4","Description":" "}]}

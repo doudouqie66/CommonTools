@@ -1,0 +1,1 @@
+{"Name":"FBoneMirrorConfig_AutoLR","Description":"","Variables":[{"Name":"MirrorBoneStart","Type":"FName","Description":"","Redirect":""},{"Name":"Depth","Type":"int32","Description":"","Redirect":""}]}

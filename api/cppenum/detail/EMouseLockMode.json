@@ -1,0 +1,1 @@
+{"Name":"EMouseLockMode","Description":" ","Variables":[{"Name":"DoNotLock","Value":"0","Description":" "},{"Name":"LockOnCapture","Value":"1","Description":" "},{"Name":"LockAlways","Value":"2","Description":" "}]}

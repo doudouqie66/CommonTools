@@ -1,0 +1,1 @@
+{"Name":"FAIMoveRequest","Description":"","Variables":[{"Name":"GoalActor","Type":"AActor *","Description":"move goal: actor","Redirect":""}]}

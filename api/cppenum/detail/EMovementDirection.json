@@ -1,0 +1,1 @@
+{"Name":"EMovementDirection","Description":" ","Variables":[{"Name":"EForward","Value":"0","Description":" "},{"Name":"EBackward","Value":"1","Description":" "},{"Name":"ELeft","Value":"2","Description":" "},{"Name":"ERight","Value":"3","Description":" "}]}

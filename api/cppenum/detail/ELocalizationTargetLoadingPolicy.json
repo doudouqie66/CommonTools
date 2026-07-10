@@ -1,0 +1,1 @@
+{"Name":"ELocalizationTargetLoadingPolicy","Description":" ","Variables":[{"Name":"Never","Value":"0","Description":" "},{"Name":"Always","Value":"1","Description":" "},{"Name":"Editor","Value":"2","Description":" "},{"Name":"Game","Value":"3","Description":" "},{"Name":"PropertyNames","Value":"4","Description":" "},{"Name":"ToolTips","Value":"5","Description":" "}]}

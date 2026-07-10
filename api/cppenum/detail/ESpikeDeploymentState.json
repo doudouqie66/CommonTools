@@ -1,0 +1,1 @@
+{"Name":"ESpikeDeploymentState","Description":" ","Variables":[{"Name":"PreDeploy","Value":"0","Description":" "},{"Name":"Deploying","Value":"1","Description":" "},{"Name":"PostDeploy","Value":"2","Description":" "},{"Name":"Popped","Value":"3","Description":" "},{"Name":"Idle","Value":"4","Description":" "}]}

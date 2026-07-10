@@ -1,0 +1,1 @@
+{"Name":"FMovieSceneColorKeyStruct","Description":"Proxy structure for color section key data.","Variables":[{"Name":"Color","Type":"FLinearColor","Description":"The key's color value.","Redirect":""},{"Name":"Time","Type":"float","Description":"The key's time.","Redirect":""}]}

@@ -1,0 +1,1 @@
+{"Name":"EDamageBoxDetectType","Description":" ","Variables":[{"Name":"SweepCharacterInTimer","Value":"0","Description":" "},{"Name":"ComponentBeginOverlapEvent","Value":"1","Description":" "},{"Name":"HitActor","Value":"2","Description":" "}]}

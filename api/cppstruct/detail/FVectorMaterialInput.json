@@ -1,0 +1,1 @@
+{"Name":"FVectorMaterialInput","Description":"","Variables":[{"Name":"UseConstant","Type":"uint32","Description":"","Redirect":""},{"Name":"Constant","Type":"FVector","Description":"","Redirect":""}]}

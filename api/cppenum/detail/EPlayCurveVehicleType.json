@@ -1,0 +1,1 @@
+{"Name":"EPlayCurveVehicleType","Description":" ","Variables":[{"Name":"EnterVehicle","Value":"0","Description":" "},{"Name":"ExitVehicle","Value":"1","Description":" "},{"Name":"AfterEnterVehicle","Value":"2","Description":" "},{"Name":"AnyVehicleState","Value":"3","Description":" "}]}

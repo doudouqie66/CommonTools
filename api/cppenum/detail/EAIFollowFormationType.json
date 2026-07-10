@@ -1,0 +1,1 @@
+{"Name":"EAIFollowFormationType","Description":" ","Variables":[{"Name":"Idle","Value":"0","Description":" "},{"Name":"SlowWalk","Value":"1","Description":" "},{"Name":"Walk","Value":"2","Description":" "},{"Name":"Run","Value":"3","Description":" "},{"Name":"Sprint","Value":"4","Description":" "}]}

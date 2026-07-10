@@ -1,0 +1,1 @@
+{"Name":"FDirectoryPath","Description":"Structure for directory paths that are displayed in the UI.","Variables":[{"Name":"Path","Type":"FString","Description":"The path to the directory.","Redirect":""}]}

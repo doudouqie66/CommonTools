@@ -1,0 +1,1 @@
+{"Name":"EMagicMoveVehicleState","Description":" ","Variables":[{"Name":"Walking","Value":"0","Description":" "},{"Name":"MovingToVehicle","Value":"1","Description":" "},{"Name":"Riding","Value":"2","Description":" "},{"Name":"Braking","Value":"3","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"FWSPropKey","Description":"","Variables":[{"Name":"WidgetName","Type":"FName","Description":"","Redirect":""},{"Name":"PropName","Type":"FName","Description":"","Redirect":""},{"Name":"bIsSlotProp","Type":"bool","Description":"","Redirect":""}]}

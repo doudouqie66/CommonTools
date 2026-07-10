@@ -1,0 +1,1 @@
+{"Name":"FNavCollisionCylinder","Description":"","Variables":[{"Name":"Offset","Type":"FVector","Description":"","Redirect":""},{"Name":"Radius","Type":"float","Description":"","Redirect":""},{"Name":"Height","Type":"float","Description":"","Redirect":""}]}

@@ -1,0 +1,1 @@
+{"Name":"EAKEventDisableType","Description":" ","Variables":[{"Name":"DisableType_MuteAll","Value":"0","Description":" "},{"Name":"DisableType_AutonomosOnly","Value":"1","Description":" "},{"Name":"DisableType_SimulatedProxyOnly","Value":"2","Description":" "},{"Name":"DisableType_All","Value":"3","Description":" "}]}

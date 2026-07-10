@@ -1,0 +1,1 @@
+{"Name":"FIntegralKey","Description":"An integral key, which holds the key time and the key value","Variables":[{"Name":"Time","Type":"float","Description":"The keyed time","Redirect":""},{"Name":"Value","Type":"int32","Description":"The keyed integral value","Redirect":""}]}

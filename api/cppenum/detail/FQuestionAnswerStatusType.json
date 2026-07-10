@@ -1,0 +1,1 @@
+{"Name":"FQuestionAnswerStatusType","Description":" ","Variables":[{"Name":"Normal","Value":"0","Description":" "},{"Name":"Correct","Value":"1","Description":" "},{"Name":"Wrong","Value":"2","Description":" "}]}

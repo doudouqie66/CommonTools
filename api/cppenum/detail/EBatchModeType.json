@@ -1,0 +1,1 @@
+{"Name":"EBatchModeType","Description":" ","Variables":[{"Name":"EBMT_OFF","Value":"0","Description":" "},{"Name":"EBMT_1D","Value":"1","Description":" "},{"Name":"EBMT_2D","Value":"2","Description":" "},{"Name":"EBMT_SELECT","Value":"3","Description":" "},{"Name":"EBMT_GROUP","Value":"4","Description":" "}]}

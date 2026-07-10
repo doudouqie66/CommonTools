@@ -1,0 +1,1 @@
+{"Name":"EMapWidgetType","Description":" ","Variables":[{"Name":"EMWT_None","Value":"0","Description":" "},{"Name":"EMWT_Fighting_MiniMap","Value":"1","Description":" "},{"Name":"EMWT_Fighting_EntireMap","Value":"2","Description":" "},{"Name":"EMWT_Observe_MiniMap","Value":"3","Description":" "},{"Name":"EMWT_Observe_EntireMap","Value":"4","Description":" "}]}

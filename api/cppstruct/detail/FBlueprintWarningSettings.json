@@ -1,0 +1,1 @@
+{"Name":"FBlueprintWarningSettings","Description":"","Variables":[{"Name":"WarningIdentifier","Type":"FName","Description":"","Redirect":""},{"Name":"WarningDescription","Type":"FText","Description":"","Redirect":""},{"Name":"WarningBehavior","Type":"EBlueprintWarningBehavior","Description":"","Redirect":""}]}

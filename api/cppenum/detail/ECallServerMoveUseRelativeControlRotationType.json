@@ -1,0 +1,1 @@
+{"Name":"ECallServerMoveUseRelativeControlRotationType","Description":" ","Variables":[{"Name":"ClientCallServer","Value":"1","Description":" "},{"Name":"DSAdjustClient","Value":"2","Description":" "},{"Name":"DSAdjustClientByRootMotion","Value":"4","Description":" "}]}

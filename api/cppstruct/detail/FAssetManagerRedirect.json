@@ -1,0 +1,1 @@
+{"Name":"FAssetManagerRedirect","Description":"Simple structure for redirecting an old asset namepath to a new one","Variables":[{"Name":"Old","Type":"FString","Description":"","Redirect":""},{"Name":"New","Type":"FString","Description":"","Redirect":""}]}

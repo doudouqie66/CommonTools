@@ -1,0 +1,1 @@
+{"Name":"EPlayerMoveState","Description":" ","Variables":[{"Name":"Default","Value":"0","Description":" "},{"Name":"ByFlyingVehicle","Value":"1","Description":" "},{"Name":"ByFloatVehicle","Value":"2","Description":" "},{"Name":"ByLandVehicle","Value":"3","Description":" "},{"Name":"OnFoot","Value":"4","Description":" "}]}

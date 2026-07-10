@@ -1,0 +1,1 @@
+{"Name":"EBackpackItemState","Description":" ","Variables":[{"Name":"Empty","Value":"0","Description":"空格子"},{"Name":"Unlock","Value":"1","Description":"已解锁, 有物品"},{"Name":"Lock","Value":"2","Description":"上锁格子"},{"Name":"Overflow","Value":"3","Description":"溢出容量格子"},{"Name":"Error","Value":"4","Description":"异常格子"}]}

@@ -1,0 +1,1 @@
+{"Name":"FScalarMaterialInput","Description":"","Variables":[{"Name":"UseConstant","Type":"uint32","Description":"","Redirect":""},{"Name":"Constant","Type":"float","Description":"","Redirect":""}]}

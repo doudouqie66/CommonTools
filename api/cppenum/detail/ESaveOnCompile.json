@@ -1,0 +1,1 @@
+{"Name":"ESaveOnCompile","Description":" ","Variables":[{"Name":"SoC_Never","Value":"0","Description":" "},{"Name":"SoC_SuccessOnly","Value":"1","Description":" "},{"Name":"SoC_Always","Value":"2","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"EEffectSpreadState","Description":" ","Variables":[{"Name":"ESS_InitialTrace","Value":"0","Description":" "},{"Name":"ESS_InitialProcess","Value":"1","Description":" "},{"Name":"ESS_Spreading","Value":"2","Description":" "},{"Name":"ESS_SpreadDone","Value":"3","Description":" "},{"Name":"ESS_Ending","Value":"4","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"ETileMapProjectionMode","Description":" ","Variables":[{"Name":"Orthogonal","Value":"0","Description":" "},{"Name":"IsometricDiamond","Value":"1","Description":" "},{"Name":"IsometricStaggered","Value":"2","Description":" "},{"Name":"HexagonalStaggered","Value":"3","Description":" "}]}

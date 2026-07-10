@@ -1,0 +1,1 @@
+{"Name":"EHideAndSeekRespawnReason","Description":" ","Variables":[{"Name":"InvalidReason","Value":"0","Description":" "},{"Name":"PlayerInit","Value":"1","Description":" "},{"Name":"RoundReset","Value":"2","Description":" "},{"Name":"ShapeSelect","Value":"3","Description":" "},{"Name":"Death","Value":"4","Description":" "},{"Name":"Revival","Value":"5","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"ECookProgressDisplayMode","Description":" ","Variables":[{"Name":"Nothing","Value":"0","Description":" "},{"Name":"RemainingPackages","Value":"1","Description":" "},{"Name":"PackageNames","Value":"2","Description":" "},{"Name":"NamesAndRemainingPackages","Value":"3","Description":" "},{"Name":"Max","Value":"4","Description":" "}]}

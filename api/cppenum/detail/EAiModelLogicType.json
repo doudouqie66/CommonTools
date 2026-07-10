@@ -1,0 +1,1 @@
+{"Name":"EAiModelLogicType","Description":" ","Variables":[{"Name":"EAMLT_None","Value":"0","Description":" "},{"Name":"EAMLT_Tdm","Value":"1","Description":" "},{"Name":"EAMLT_TdmBad","Value":"2","Description":" "},{"Name":"EAMLT_Sa","Value":"3","Description":" "},{"Name":"EAMLT_SaBad","Value":"4","Description":" "}]}

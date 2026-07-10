@@ -1,0 +1,1 @@
+{"Name":"FLevelSequenceSnapshotSettings","Description":"","Variables":[{"Name":"ZeroPadAmount","Type":"uint8","Description":"Zero pad frames","Redirect":""},{"Name":"FrameRate","Type":"float","Description":"Playback framerate","Redirect":""}]}

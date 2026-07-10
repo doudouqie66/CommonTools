@@ -1,0 +1,1 @@
+{"Name":"EArithmeticKeyOperation","Description":" ","Variables":[{"Name":"Equal","Value":"0","Description":" "},{"Name":"NotEqual","Value":"1","Description":" "},{"Name":"Less","Value":"2","Description":" "},{"Name":"LessOrEqual","Value":"3","Description":" "},{"Name":"Greater","Value":"4","Description":" "},{"Name":"GreaterOrEqual","Value":"5","Description":" "}]}

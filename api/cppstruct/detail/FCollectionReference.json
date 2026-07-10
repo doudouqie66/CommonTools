@@ -1,0 +1,1 @@
+{"Name":"FCollectionReference","Description":"Reference to an editor collection of assets. This allows an editor-only picker UI","Variables":[{"Name":"CollectionName","Type":"FName","Description":"Name of the collection","Redirect":""}]}

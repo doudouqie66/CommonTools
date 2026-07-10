@@ -1,0 +1,1 @@
+{"Name":"EAddSkillEffectPositionType","Description":" ","Variables":[{"Name":"SKILL_EFFECT_POSITION_BOTTOM","Value":"0","Description":" "},{"Name":"SKILL_EFFECT_POSITION_AFTER_SELECTION","Value":"1","Description":" "},{"Name":"SKILL_EFFECT_POSITION_BEFORE_SELECTION","Value":"2","Description":" "},{"Name":"SKILL_EFFECT_POSITION_TOP","Value":"3","Description":" "}]}

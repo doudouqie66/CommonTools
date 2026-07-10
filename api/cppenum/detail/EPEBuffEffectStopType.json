@@ -1,0 +1,1 @@
+{"Name":"EPEBuffEffectStopType","Description":" ","Variables":[{"Name":"PEBuffEffectStopType_None","Value":"0","Description":" "},{"Name":"PEBuffEffectStopType_Stack","Value":"1","Description":" "},{"Name":"PEBuffEffectStopType_Unapply","Value":"2","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"EItemGAActiveCondition","Description":" ","Variables":[{"Name":"ActiveOnPickup","Value":"1","Description":" "},{"Name":"ActiveOnUse","Value":"2","Description":" "},{"Name":"ActiveOnPutOn","Value":"3","Description":" "},{"Name":"ActiveOnManual","Value":"255","Description":" "}]}

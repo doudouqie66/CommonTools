@@ -1,0 +1,1 @@
+{"Name":"FPhysicalAnimationProfile","Description":"","Variables":[{"Name":"ProfileName","Type":"FName","Description":"Profile name used to identify set of physical animation parameters","Redirect":""},{"Name":"PhysicalAnimationData","Type":"FPhysicalAnimationData","Description":"Physical animation parameters used to drive animation","Redirect":""}]}

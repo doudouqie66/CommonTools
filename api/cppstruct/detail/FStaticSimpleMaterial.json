@@ -1,0 +1,1 @@
+{"Name":"FStaticSimpleMaterial","Description":"","Variables":[{"Name":"MaterialIndex","Type":"int32","Description":"","Redirect":""},{"Name":"SimpleMaterial","Type":"UMaterialInterface *","Description":"","Redirect":""}]}

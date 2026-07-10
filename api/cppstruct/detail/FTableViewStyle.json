@@ -1,0 +1,1 @@
+{"Name":"FTableViewStyle","Description":"Represents the appearance of an STableView","Variables":[{"Name":"BackgroundBrush","Type":"FSlateBrush","Description":"Brush used when a selected row is active","Redirect":""}]}

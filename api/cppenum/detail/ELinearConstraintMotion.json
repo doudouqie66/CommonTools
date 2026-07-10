@@ -1,0 +1,1 @@
+{"Name":"ELinearConstraintMotion","Description":" ","Variables":[{"Name":"LCM_Free","Value":"0","Description":" "},{"Name":"LCM_Limited","Value":"1","Description":" "},{"Name":"LCM_Locked","Value":"2","Description":" "},{"Name":"LCM_MAX","Value":"3","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"ESkillNodeActionType","Description":" ","Variables":[{"Name":"ES_SelectAll","Value":"0","Description":" "},{"Name":"ES_Delete","Value":"1","Description":" "},{"Name":"ES_Copy","Value":"2","Description":" "},{"Name":"ES_Cut","Value":"3","Description":" "},{"Name":"ES_Duplicate","Value":"4","Description":" "}]}

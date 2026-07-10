@@ -1,0 +1,1 @@
+{"Name":"FEngineShowFlagsSetting","Description":"","Variables":[{"Name":"ShowFlagName","Type":"FString","Description":"","Redirect":""},{"Name":"Enabled","Type":"bool","Description":"","Redirect":""}]}

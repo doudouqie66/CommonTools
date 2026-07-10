@@ -1,0 +1,1 @@
+{"Name":"EBoneModificationMode","Description":" ","Variables":[{"Name":"BMM_Ignore","Value":"0","Description":" "},{"Name":"BMM_Replace","Value":"1","Description":" "},{"Name":"BMM_Additive","Value":"2","Description":" "},{"Name":"BMM_Multiply","Value":"3","Description":" "}]}

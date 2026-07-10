@@ -1,0 +1,1 @@
+{"Name":"FLightingChannels","Description":"","Variables":[{"Name":"bChannel0","Type":"uint8","Description":"Default channel for all primitives and lights.","Redirect":""},{"Name":"bChannel1","Type":"uint8","Description":"","Redirect":""},{"Name":"bChannel2","Type":"uint8","Description":"","Redirect":""}]}

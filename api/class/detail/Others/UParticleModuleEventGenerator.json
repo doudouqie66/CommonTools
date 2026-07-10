@@ -1,0 +1,1 @@
+{"Name":"UParticleModuleEventGenerator","Description":"","Variables":[{"Name":"Events","Type":"TArray \u003c struct FParticleEvent_GenerateInfo \u003e","Description":"","Redirect":""}],"Functions":null,"Parents":["UParticleModuleEventBase"],"Event":null,"Delegate":null,"Language":"cpp"}

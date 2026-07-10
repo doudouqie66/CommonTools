@@ -1,0 +1,1 @@
+{"Name":"FBonesTransfroms","Description":"","Variables":[{"Name":"Names","Type":"TArray \u003c FName \u003e","Description":"Array of names","Redirect":""},{"Name":"Transforms","Type":"TArray \u003c FTransform \u003e","Description":"Array of transforms","Redirect":""}]}

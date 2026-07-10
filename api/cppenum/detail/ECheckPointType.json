@@ -1,0 +1,1 @@
+{"Name":"ECheckPointType","Description":" ","Variables":[{"Name":"ECheckPointType_None","Value":"0","Description":" "},{"Name":"ECheckPointType_Start","Value":"1","Description":" "},{"Name":"ECheckPointType_End","Value":"2","Description":" "},{"Name":"ECheckPointType_Guide","Value":"3","Description":" "},{"Name":"ECheckPointType_CheckScore","Value":"4","Description":" "}]}

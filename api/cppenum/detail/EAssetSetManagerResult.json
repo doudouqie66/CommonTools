@@ -1,0 +1,1 @@
+{"Name":"EAssetSetManagerResult","Description":" ","Variables":[{"Name":"DoNotSet","Value":"0","Description":" "},{"Name":"SetButDoNotRecurse","Value":"1","Description":" "},{"Name":"SetAndRecurse","Value":"2","Description":" "},{"Name":"DoNotSetButRecurse","Value":"3","Description":" "}]}

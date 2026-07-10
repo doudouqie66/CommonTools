@@ -1,0 +1,1 @@
+{"Name":"FTireFrictionScalePair","Description":"DEPRECATED Pairs desired tire friction scale with tire type","Variables":[{"Name":"TireType","Type":"UTireType *","Description":"Tire type","Redirect":""},{"Name":"FrictionScale","Type":"float","Description":"Friction scale for this type of tire","Redirect":""}]}

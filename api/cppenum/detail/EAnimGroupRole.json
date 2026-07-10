@@ -1,0 +1,1 @@
+{"Name":"EAnimGroupRole","Description":" ","Variables":[{"Name":"CanBeLeader","Value":"0","Description":" "},{"Name":"AlwaysFollower","Value":"1","Description":" "},{"Name":"AlwaysLeader","Value":"2","Description":" "},{"Name":"TransitionLeader","Value":"3","Description":" "},{"Name":"TransitionFollower","Value":"4","Description":" "}]}

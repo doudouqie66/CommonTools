@@ -1,0 +1,1 @@
+{"Name":"EFeatureSetType","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"DedicateServer","Value":"1","Description":" "},{"Name":"Autonomous","Value":"2","Description":" "},{"Name":"Simulate_Team","Value":"3","Description":" "},{"Name":"Simulate_NonTeam","Value":"4","Description":" "},{"Name":"Max","Value":"5","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"EHomePawnState","Description":" ","Variables":[{"Name":"HOME_PAWN_CLASSIC_STATE","Value":"0","Description":" "},{"Name":"HOME_PAWN_BUILDING_STATE","Value":"1","Description":" "},{"Name":"HOME_PAWN_FLOATING_STATE","Value":"2","Description":" "},{"Name":"HOME_PAWN_STATE_MAX","Value":"3","Description":" "}]}

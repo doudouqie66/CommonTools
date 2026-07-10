@@ -1,0 +1,1 @@
+{"Name":"EVHSeatGUIType","Description":" ","Variables":[{"Name":"EVHSeatGUIType_NoSeat","Value":"0","Description":" "},{"Name":"EVHSeatGUIType_Empty","Value":"1","Description":" "},{"Name":"EVHSeatGUIType_Other","Value":"2","Description":" "},{"Name":"EVHSeatGUIType_Self","Value":"3","Description":" "},{"Name":"EVHSeatGUIType_Max","Value":"4","Description":" "}]}

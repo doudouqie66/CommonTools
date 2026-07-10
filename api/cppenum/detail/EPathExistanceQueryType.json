@@ -1,0 +1,1 @@
+{"Name":"EPathExistanceQueryType","Description":" ","Variables":[{"Name":"NavmeshRaycast2D","Value":"0","Description":" "},{"Name":"HierarchicalQuery","Value":"1","Description":" "},{"Name":"RegularPathFinding","Value":"2","Description":" "}]}

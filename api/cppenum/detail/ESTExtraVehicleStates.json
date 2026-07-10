@@ -1,0 +1,1 @@
+{"Name":"ESTExtraVehicleStates","Description":" ","Variables":[{"Name":"EVS_NONE","Value":"0","Description":" "},{"Name":"EVS_SPEED","Value":"1","Description":" "},{"Name":"EVS_ELECTRONIC_FAILURE","Value":"2","Description":" "},{"Name":"EVS_INVINCIBLE","Value":"3","Description":" "},{"Name":"EVS_MAX","Value":"4","Description":" "}]}

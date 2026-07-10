@@ -1,0 +1,1 @@
+{"Name":"FFloatRangeBound","Description":"","Variables":[{"Name":"Type","Type":"TEnumAsByte \u003c ERangeBoundTypes :: Type \u003e","Description":"","Redirect":""},{"Name":"Value","Type":"float","Description":"","Redirect":""}]}

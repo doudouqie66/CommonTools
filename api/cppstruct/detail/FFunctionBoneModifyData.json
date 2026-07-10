@@ -1,0 +1,1 @@
+{"Name":"FFunctionBoneModifyData","Description":"","Variables":[{"Name":"BoneName","Type":"FName","Description":"","Redirect":""},{"Name":"CSTransform","Type":"FTransform","Description":"","Redirect":""}]}

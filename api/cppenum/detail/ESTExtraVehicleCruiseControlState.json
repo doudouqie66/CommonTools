@@ -1,0 +1,1 @@
+{"Name":"ESTExtraVehicleCruiseControlState","Description":" ","Variables":[{"Name":"VCCS_None","Value":"0","Description":" "},{"Name":"VCCS_ShowUI","Value":"1","Description":" "},{"Name":"VCCS_NormalCruise","Value":"2","Description":" "},{"Name":"VCCS_BoostCruise","Value":"3","Description":" "}]}

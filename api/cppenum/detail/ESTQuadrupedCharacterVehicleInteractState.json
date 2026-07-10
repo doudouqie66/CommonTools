@@ -1,0 +1,1 @@
+{"Name":"ESTQuadrupedCharacterVehicleInteractState","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"EnterVehicle","Value":"1","Description":" "},{"Name":"LeaveVehicle","Value":"2","Description":" "},{"Name":"LeanOutVehicle","Value":"3","Description":" "},{"Name":"InVehicle","Value":"4","Description":" "}]}

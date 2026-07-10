@@ -1,0 +1,1 @@
+{"Name":"ESuggestProjVelocityTraceOption","Description":" ","Variables":[{"Name":"DoNotTrace","Value":"0","Description":" "},{"Name":"TraceFullPath","Value":"1","Description":" "},{"Name":"OnlyTraceWhileAscending","Value":"2","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"EDragDropMode","Description":" ","Variables":[{"Name":"DDM_None","Value":"0","Description":" "},{"Name":"DDM_Drag","Value":"1","Description":"-- 不支持拖放"},{"Name":"DDM_Drop","Value":"2","Description":"-- 不支持拖放 -- 仅支持拖出"},{"Name":"DDM_DragAndDrop","Value":"3","Description":"-- 不支持拖放 -- 仅支持拖出 -- 仅支持放入"}]}

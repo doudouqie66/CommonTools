@@ -1,0 +1,1 @@
+{"Name":"EBlockyAccessType","Description":" ","Variables":[{"Name":"EBAT_Global","Value":"0","Description":" "},{"Name":"EBAT_Canvas","Value":"1","Description":" "},{"Name":"EBAT_Local","Value":"2","Description":" "},{"Name":"EBAT_CallBack","Value":"3","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"FPESkillConsume","Description":"技能消耗","Variables":[{"Name":"ConsumeAttrItems","Type":"TArray \u003c FPESkillConsumeAttribute \u003e","Description":"技能消耗数值Array","Redirect":""},{"Name":"ConsumeItems","Type":"TArray \u003c FPESkillConsumeItem \u003e","Description":"技能消耗物品Array","Redirect":""}]}

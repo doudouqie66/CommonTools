@@ -1,0 +1,1 @@
+{"Name":"FInterpCurveVector2D","Description":"","Variables":[{"Name":"Points","Type":"TArray \u003c FInterpCurvePointVector2D \u003e","Description":"","Redirect":""},{"Name":"bIsLooped","Type":"bool","Description":"","Redirect":""},{"Name":"LoopKeyOffset","Type":"float","Description":"","Redirect":""}]}

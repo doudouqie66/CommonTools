@@ -1,0 +1,1 @@
+{"Name":"EPCGTransformLerpMode","Description":" ","Variables":[{"Name":"QuatInterp","Value":"0","Description":" "},{"Name":"EulerInterp","Value":"1","Description":" "},{"Name":"DualQuatInterp","Value":"2","Description":" "}]}

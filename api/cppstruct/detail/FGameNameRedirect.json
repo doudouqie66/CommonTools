@@ -1,0 +1,1 @@
+{"Name":"FGameNameRedirect","Description":"","Variables":[{"Name":"OldGameName","Type":"FName","Description":"","Redirect":""},{"Name":"NewGameName","Type":"FName","Description":"","Redirect":""}]}

@@ -1,0 +1,1 @@
+{"Name":"FTTTrackBase","Description":"","Variables":[{"Name":"TrackName","Type":"FName","Description":"Name of this track","Redirect":""},{"Name":"bIsExternalCurve","Type":"bool","Description":"Flag to identify internalexternal curve","Redirect":""}]}

@@ -1,0 +1,1 @@
+{"Name":"EUGCMobile_RTECameraCommandType","Description":" ","Variables":[{"Name":"CreateCameraConfig","Value":"0","Description":" "},{"Name":"DeleteCameraConfig","Value":"1","Description":" "},{"Name":"CreateCameraShake","Value":"2","Description":" "},{"Name":"DeleteCameraShake","Value":"3","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"FGameplayTagTableRow","Description":"Simple struct for a table row in the gameplay tag table and element in the ini list","Variables":[{"Name":"Tag","Type":"FName","Description":"Tag specified in the table","Redirect":""},{"Name":"DevComment","Type":"FString","Description":"Developer comment clarifying the usage of a particular tag, not user facing","Redirect":""}]}

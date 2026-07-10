@@ -1,0 +1,1 @@
+{"Name":"FMovieSceneSubtitleParams","Description":"","Variables":[{"Name":"SubTitleText","Type":"FText","Description":"BlendOutTimeWhenStop","Redirect":""},{"Name":"Tags","Type":"TArray \u003c FMovieSceneSubtitleTagsKeyValue \u003e","Description":"","Redirect":""}]}

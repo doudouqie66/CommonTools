@@ -1,0 +1,1 @@
+{"Name":"EFBXTestPlanActionType","Description":" ","Variables":[{"Name":"Import","Value":"0","Description":" "},{"Name":"Reimport","Value":"1","Description":" "},{"Name":"AddLOD","Value":"2","Description":" "},{"Name":"ReimportLOD","Value":"3","Description":" "},{"Name":"ImportReload","Value":"4","Description":" "}]}

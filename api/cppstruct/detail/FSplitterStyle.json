@@ -1,0 +1,1 @@
+{"Name":"FSplitterStyle","Description":"Represents the appearance of an SSplitter","Variables":[{"Name":"HandleNormalBrush","Type":"FSlateBrush","Description":"Brush used to draw the handle in its normal state","Redirect":""},{"Name":"HandleHighlightBrush","Type":"FSlateBrush","Description":"Brush used to draw the handle in its highlight state","Redirect":""}]}

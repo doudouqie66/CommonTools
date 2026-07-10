@@ -1,0 +1,1 @@
+{"Name":"AnimPhysCollisionType","Description":" ","Variables":[{"Name":"CoM","Value":"0","Description":" "},{"Name":"CustomSphere","Value":"1","Description":" "},{"Name":"InnerSphere","Value":"2","Description":" "},{"Name":"OuterSphere","Value":"3","Description":" "}]}

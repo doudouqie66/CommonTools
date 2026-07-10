@@ -1,0 +1,1 @@
+{"Name":"UDataAsset","Description":"Base class for a simple asset containing data. The editor will list this in the content browser if you inherit from this class","Variables":[{"Name":"NativeClass","Type":"TSubclassOf \u003c UDataAsset \u003e","Description":"","Redirect":""}],"Functions":null,"Parents":["UObject"],"Event":null,"Delegate":null,"Language":"cpp"}

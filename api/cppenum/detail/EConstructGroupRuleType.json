@@ -1,0 +1,1 @@
+{"Name":"EConstructGroupRuleType","Description":" ","Variables":[{"Name":"ECGRT_POSITIONING","Value":"0","Description":" "},{"Name":"ECGRT_VALIDATING","Value":"1","Description":" "},{"Name":"ECGRT_DATA","Value":"2","Description":" "},{"Name":"ECGRT_BATCH_POSITIONING","Value":"3","Description":" "},{"Name":"ECGRT_MAX","Value":"4","Description":" "}]}

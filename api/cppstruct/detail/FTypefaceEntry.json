@@ -1,0 +1,1 @@
+{"Name":"FTypefaceEntry","Description":"A single entry in a typeface","Variables":[{"Name":"Name","Type":"FName","Description":"Name used to identify this font within its typeface","Redirect":""},{"Name":"Font","Type":"FFontData","Description":"Raw font data for this font","Redirect":""}]}

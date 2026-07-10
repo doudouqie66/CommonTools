@@ -1,0 +1,1 @@
+{"Name":"ERTECopyMoveType","Description":" ","Variables":[{"Name":"CopyMoveType_None","Value":"0","Description":" "},{"Name":"CopyMoveType_FreeMove","Value":"1","Description":" "},{"Name":"CopyMoveType_Translation","Value":"2","Description":" "},{"Name":"CopyMoveType_Rotation","Value":"3","Description":" "}]}

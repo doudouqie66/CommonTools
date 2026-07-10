@@ -1,0 +1,1 @@
+{"Name":"FAnimSlotGroup","Description":"","Variables":[{"Name":"GroupName","Type":"FName","Description":"","Redirect":""},{"Name":"SlotNames","Type":"TArray \u003c FName \u003e","Description":"","Redirect":""}]}

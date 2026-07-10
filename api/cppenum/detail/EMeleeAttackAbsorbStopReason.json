@@ -1,0 +1,1 @@
+{"Name":"EMeleeAttackAbsorbStopReason","Description":" ","Variables":[{"Name":"Timeout","Value":"0","Description":" "},{"Name":"Finished","Value":"1","Description":" "},{"Name":"Blocked","Value":"2","Description":" "},{"Name":"ForceStop","Value":"3","Description":" "}]}

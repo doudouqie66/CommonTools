@@ -1,0 +1,1 @@
+{"Name":"EPathFollowingAction","Description":" ","Variables":[{"Name":"Error","Value":"0","Description":" "},{"Name":"NoMove","Value":"1","Description":" "},{"Name":"DirectMove","Value":"2","Description":" "},{"Name":"PartialPath","Value":"3","Description":" "},{"Name":"PathToGoal","Value":"4","Description":" "}]}

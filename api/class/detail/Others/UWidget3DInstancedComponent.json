@@ -1,0 +1,1 @@
+{"Name":"UWidget3DInstancedComponent","Description":"","Variables":[{"Name":"PerInstanceData","Type":"TArray \u003c FInstancedWidget3DInstanceData \u003e","Description":"","Redirect":""},{"Name":"InstancingRandomSeed","Type":"int32","Description":"","Redirect":""}],"Functions":null,"Parents":["UWidgetComponent"],"Event":null,"Delegate":null,"Language":"cpp"}

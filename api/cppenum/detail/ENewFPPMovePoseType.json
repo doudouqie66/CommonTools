@@ -1,0 +1,1 @@
+{"Name":"ENewFPPMovePoseType","Description":" ","Variables":[{"Name":"Pose_Idle","Value":"0","Description":" "},{"Name":"Pose_Walk","Value":"1","Description":" "},{"Name":"Pose_Run","Value":"2","Description":" "},{"Name":"Pose_Sprint","Value":"3","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"EOperationRunResult","Description":" ","Variables":[{"Name":"OpRunning","Value":"0","Description":" "},{"Name":"OpSuccess","Value":"1","Description":" "},{"Name":"OpAutoFinish","Value":"2","Description":" "},{"Name":"OpFail","Value":"3","Description":" "},{"Name":"OpNotStarted","Value":"4","Description":" "}]}

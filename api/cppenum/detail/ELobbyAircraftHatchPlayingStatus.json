@@ -1,0 +1,1 @@
+{"Name":"ELobbyAircraftHatchPlayingStatus","Description":" ","Variables":[{"Name":"Play","Value":"0","Description":" "},{"Name":"PlayAndStopInTheEnd","Value":"1","Description":" "},{"Name":"JumpAndPause","Value":"2","Description":" "},{"Name":"Stopped","Value":"3","Description":" "}]}

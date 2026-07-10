@@ -1,0 +1,1 @@
+{"Name":"EBeaconConnectionState","Description":" ","Variables":[{"Name":"Invalid","Value":"0","Description":" "},{"Name":"Closed","Value":"1","Description":" "},{"Name":"Pending","Value":"2","Description":" "},{"Name":"Open","Value":"3","Description":" "}]}

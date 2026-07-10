@@ -1,0 +1,1 @@
+{"Name":"EIndoorOutdoorMask","Description":" ","Variables":[{"Name":"IOM_NONE","Value":"0","Description":" "},{"Name":"IOM_INDOOR","Value":"1","Description":" "},{"Name":"IOM_OUTDOOR","Value":"2","Description":" "},{"Name":"IOM_BOTH","Value":"3","Description":" "},{"Name":"IOM_MAX","Value":"4","Description":" "}]}

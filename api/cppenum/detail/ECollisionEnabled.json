@@ -1,0 +1,1 @@
+{"Name":"ECollisionEnabled","Description":" ","Variables":[{"Name":"NoCollision","Value":"0","Description":" "},{"Name":"QueryOnly","Value":"1","Description":" "},{"Name":"PhysicsOnly","Value":"2","Description":" "},{"Name":"QueryAndPhysics","Value":"3","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"EEnvQueryStatus","Description":" ","Variables":[{"Name":"Processing","Value":"0","Description":" "},{"Name":"Success","Value":"1","Description":" "},{"Name":"Failed","Value":"2","Description":" "},{"Name":"Aborted","Value":"3","Description":" "},{"Name":"OwnerLost","Value":"4","Description":" "},{"Name":"MissingParam","Value":"5","Description":" "}]}

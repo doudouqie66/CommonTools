@@ -1,0 +1,1 @@
+{"Name":"ESelectBuildingParts","Description":" ","Variables":[{"Name":"Floor","Value":"0","Description":" "},{"Name":"Wall","Value":"1","Description":" "},{"Name":"WallAndFloor","Value":"2","Description":" "},{"Name":"Grid","Value":"3","Description":" "},{"Name":"All","Value":"4","Description":" "}]}

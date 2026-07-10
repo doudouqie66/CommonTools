@@ -1,0 +1,1 @@
+{"Name":"EClassLoadBeginTime","Description":" ","Variables":[{"Name":"ELoadBegin_None","Value":"0","Description":" "},{"Name":"ELoadBegin_ClientLobby","Value":"1","Description":" "},{"Name":"ELoadBegin_StartFight","Value":"2","Description":" "}]}

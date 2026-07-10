@@ -1,0 +1,1 @@
+{"Name":"EAttachVehicleShapeCollisionEnableType","Description":" ","Variables":[{"Name":"EAVSCEK_None","Value":"0","Description":" "},{"Name":"EAVSCEK_KeepSceneQuery","Value":"1","Description":" "},{"Name":"EAVSCEK_KeepCollision","Value":"2","Description":" "},{"Name":"EAVSCEK_All","Value":"3","Description":" "}]}

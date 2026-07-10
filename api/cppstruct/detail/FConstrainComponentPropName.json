@@ -1,0 +1,1 @@
+{"Name":"FConstrainComponentPropName","Description":"Struct used to specify the property name of the component to constrain","Variables":[{"Name":"ComponentName","Type":"FName","Description":"Name of property","Redirect":""}]}

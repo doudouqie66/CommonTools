@@ -1,0 +1,1 @@
+{"Name":"EElecMusicState","Description":" ","Variables":[{"Name":"StartState","Value":"0","Description":" "},{"Name":"StartToPlay","Value":"1","Description":" "},{"Name":"Playing","Value":"2","Description":" "},{"Name":"DropItemAdvanced","Value":"3","Description":" "},{"Name":"DropItemOrdinary","Value":"4","Description":" "},{"Name":"GameEnd","Value":"5","Description":" "}]}

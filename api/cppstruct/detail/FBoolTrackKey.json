@@ -1,0 +1,1 @@
+{"Name":"FBoolTrackKey","Description":"Information for one event in the track.","Variables":[{"Name":"Time","Type":"float","Description":"","Redirect":""},{"Name":"Value","Type":"uint32","Description":"","Redirect":""}]}

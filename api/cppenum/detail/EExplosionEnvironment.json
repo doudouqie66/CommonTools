@@ -1,0 +1,1 @@
+{"Name":"EExplosionEnvironment","Description":" ","Variables":[{"Name":"Explosion_InValid","Value":"0","Description":" "},{"Name":"Explosion_InNormal","Value":"1","Description":" "},{"Name":"Explosion_InAir","Value":"2","Description":" "},{"Name":"Explosion_InWater","Value":"3","Description":" "}]}

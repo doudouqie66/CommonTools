@@ -1,0 +1,1 @@
+{"Name":"AnimationKeyFormat","Description":" ","Variables":[{"Name":"AKF_ConstantKeyLerp","Value":"0","Description":" "},{"Name":"AKF_VariableKeyLerp","Value":"1","Description":" "},{"Name":"AKF_PerTrackCompression","Value":"2","Description":" "},{"Name":"AKF_PerTrackVariableBit","Value":"3","Description":" "},{"Name":"AKF_MAX","Value":"4","Description":" "}]}

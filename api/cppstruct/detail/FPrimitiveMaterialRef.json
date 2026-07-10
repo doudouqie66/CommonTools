@@ -1,0 +1,1 @@
+{"Name":"FPrimitiveMaterialRef","Description":"Reference to a specific material in a PrimitiveComponent.","Variables":[{"Name":"Primitive","Type":"UPrimitiveComponent *","Description":"","Redirect":""},{"Name":"Decal","Type":"UDecalComponent *","Description":"","Redirect":""},{"Name":"ElementIndex","Type":"int32","Description":"","Redirect":""}]}

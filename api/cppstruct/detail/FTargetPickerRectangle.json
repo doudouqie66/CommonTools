@@ -1,0 +1,1 @@
+{"Name":"FTargetPickerRectangle","Description":"Rectangle","Variables":[{"Name":"Width","Type":"float","Description":"宽度","Redirect":""},{"Name":"Length","Type":"float","Description":"长度","Redirect":""},{"Name":"Height","Type":"float","Description":"高度","Redirect":""}]}

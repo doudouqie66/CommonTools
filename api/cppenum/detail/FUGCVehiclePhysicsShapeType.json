@@ -1,0 +1,1 @@
+{"Name":"FUGCVehiclePhysicsShapeType","Description":" ","Variables":[{"Name":"Sphere","Value":"0","Description":" "},{"Name":"Box","Value":"1","Description":" "},{"Name":"Capsule","Value":"2","Description":" "}]}

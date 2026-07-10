@@ -1,0 +1,1 @@
+{"Name":"ESkillEventTargetCampType","Description":" ","Variables":[{"Name":"ESkillEventCampRelationType_Same","Value":"0","Description":" "},{"Name":"ESkillEventCampRelationType_Enemy","Value":"1","Description":" "},{"Name":"ESkillEventCampRelationType_All","Value":"2","Description":" "}]}

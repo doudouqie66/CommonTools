@@ -1,0 +1,1 @@
+{"Name":"EHeroType","Description":" ","Variables":[{"Name":"EHT_None","Value":"0","Description":" "},{"Name":"EHT_Assault","Value":"1","Description":" "},{"Name":"EHT_Agile","Value":"2","Description":" "},{"Name":"EHT_Medic","Value":"3","Description":" "},{"Name":"EHT_Engineer","Value":"4","Description":" "},{"Name":"EHT_Supply","Value":"5","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"EUpdateWaypointResult","Description":" ","Variables":[{"Name":"Default","Value":"0","Description":" "},{"Name":"InvalidWaypoint","Value":"1","Description":" "},{"Name":"ArrivedWaypoint","Value":"2","Description":" "},{"Name":"PathFinished","Value":"3","Description":" "}]}

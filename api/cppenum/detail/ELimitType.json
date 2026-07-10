@@ -1,0 +1,1 @@
+{"Name":"ELimitType","Description":" ","Variables":[{"Name":"NotLimited","Value":"1","Description":"不限购"},{"Name":"DailyLimit","Value":"2","Description":"每日限购"},{"Name":"WeeklyLimit","Value":"3","Description":"每周限购"},{"Name":"PermanentLimit","Value":"4","Description":"永久限购"}]}

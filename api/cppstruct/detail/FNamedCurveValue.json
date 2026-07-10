@@ -1,0 +1,1 @@
+{"Name":"FNamedCurveValue","Description":"Namevalue pair for retrieving curve values","Variables":[{"Name":"Name","Type":"FName","Description":"The name of the curve","Redirect":""},{"Name":"Value","Type":"float","Description":"The value of the curve","Redirect":""}]}

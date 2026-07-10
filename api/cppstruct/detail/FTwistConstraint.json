@@ -1,0 +1,1 @@
+{"Name":"FTwistConstraint","Description":"Angular roll constraint","Variables":[{"Name":"TwistLimitDegrees","Type":"float","Description":"Symmetric angle of roll along the X-axis.","Redirect":""},{"Name":"TwistMotion","Type":"TEnumAsByte \u003c enum EAngularConstraintMotion \u003e","Description":"Indicates whether the Swing1 limit is used.","Redirect":""}]}

@@ -1,0 +1,1 @@
+{"Name":"EGGameGalleryType","Description":" ","Variables":[{"Name":"EGGameGalleryType_ClassicGallery","Value":"0","Description":" "},{"Name":"EGGameGalleryType_EscapeGallery","Value":"1","Description":" "},{"Name":"EGGameGalleryType_Other","Value":"2","Description":" "},{"Name":"EGGameGalleryType_MAXNUM","Value":"3","Description":" "}]}

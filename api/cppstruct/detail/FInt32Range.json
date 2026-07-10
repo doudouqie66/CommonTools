@@ -1,0 +1,1 @@
+{"Name":"FInt32Range","Description":"","Variables":[{"Name":"LowerBound","Type":"FInt32RangeBound","Description":"","Redirect":""},{"Name":"UpperBound","Type":"FInt32RangeBound","Description":"","Redirect":""}]}

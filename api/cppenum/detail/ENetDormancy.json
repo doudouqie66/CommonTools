@@ -1,0 +1,1 @@
+{"Name":"ENetDormancy","Description":" ","Variables":[{"Name":"DORM_Never","Value":"0","Description":" "},{"Name":"DORM_Awake","Value":"1","Description":" "},{"Name":"DORM_DormantAll","Value":"2","Description":" "},{"Name":"DORM_DormantPartial","Value":"3","Description":" "},{"Name":"DORM_Initial","Value":"4","Description":" "},{"Name":"DORN_MAX","Value":"5","Description":" "}]}

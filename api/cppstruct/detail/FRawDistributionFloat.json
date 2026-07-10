@@ -1,0 +1,1 @@
+{"Name":"FRawDistributionFloat","Description":"","Variables":[{"Name":"MinValue","Type":"float","Description":"","Redirect":""},{"Name":"MaxValue","Type":"float","Description":"","Redirect":""},{"Name":"Distribution","Type":"UDistributionFloat *","Description":"","Redirect":""}]}

@@ -1,0 +1,1 @@
+{"Name":"FPreviewMeshCollectionEntry","Description":"An entry in a preview mesh collection","Variables":[{"Name":"SkeletalMesh","Type":"TSoftObjectPtr \u003c USkeletalMesh \u003e","Description":"The skeletal mesh to display","Redirect":""}]}

@@ -1,0 +1,1 @@
+{"Name":"FManagementRuleSwitch","Description":"ini配置使用，规则开关","Variables":[{"Name":"bEnable","Type":"bool","Description":"","Redirect":""},{"Name":"bFlip","Type":"bool","Description":"","Redirect":""}]}

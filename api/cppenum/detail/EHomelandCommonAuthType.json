@@ -1,0 +1,1 @@
+{"Name":"EHomelandCommonAuthType","Description":" ","Variables":[{"Name":"Auth_None","Value":"0","Description":" "},{"Name":"ActivitySwitchAuth_Stranger","Value":"1","Description":" "},{"Name":"ActivitySwitchAuth_Friend","Value":"2","Description":" "}]}

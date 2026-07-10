@@ -1,0 +1,1 @@
+{"Name":"DragonBoatMatchState","Description":" ","Variables":[{"Name":"NoteReady","Value":"0","Description":" "},{"Name":"Standby","Value":"1","Description":" "},{"Name":"InMatch","Value":"2","Description":" "},{"Name":"Win","Value":"3","Description":" "},{"Name":"End","Value":"4","Description":" "},{"Name":"TimeOut","Value":"5","Description":" "}]}

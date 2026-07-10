@@ -1,0 +1,1 @@
+{"Name":"EVehicleSeatType","Description":" ","Variables":[{"Name":"EVehSeatType_Driver","Value":"0","Description":" "},{"Name":"EVehSeatType_Left","Value":"1","Description":" "},{"Name":"EVehSeatType_Right","Value":"2","Description":" "},{"Name":"EVehSeatType_Max","Value":"3","Description":" "}]}

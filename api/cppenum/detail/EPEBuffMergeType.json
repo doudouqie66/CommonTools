@@ -1,0 +1,1 @@
+{"Name":"EPEBuffMergeType","Description":" ","Variables":[{"Name":"PEBuffMergeType_Refresh","Value":"0","Description":" "},{"Name":"PEBuffMergeType_AppendDuration","Value":"1","Description":" "},{"Name":"PEBuffMergeType_Stack","Value":"2","Description":" "},{"Name":"PEBuffMergeType_RefreshTimeOnly","Value":"3","Description":" "}]}

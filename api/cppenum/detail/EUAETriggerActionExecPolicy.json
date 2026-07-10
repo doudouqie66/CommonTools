@@ -1,0 +1,1 @@
+{"Name":"EUAETriggerActionExecPolicy","Description":" ","Variables":[{"Name":"ExecOnServer","Value":"0","Description":" "},{"Name":"ExecOnFilterClientWithKeep","Value":"1","Description":" "},{"Name":"ExecOnClientWithBroadCast","Value":"2","Description":" "},{"Name":"ExecOnFilterClientsWithBroadCast","Value":"3","Description":" "}]}

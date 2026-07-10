@@ -1,0 +1,1 @@
+{"Name":"APVSExtraVisibilityActor","Description":"","Variables":[{"Name":"ExtraVisibilityInfo","Type":"TMap \u003c int32 , FExtraPVSInfo \u003e","Description":"","Redirect":""}],"Functions":null,"Parents":["AActor"],"Event":null,"Delegate":null,"Language":"cpp"}

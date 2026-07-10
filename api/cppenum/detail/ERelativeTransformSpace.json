@@ -1,0 +1,1 @@
+{"Name":"ERelativeTransformSpace","Description":" ","Variables":[{"Name":"RTS_World","Value":"0","Description":" "},{"Name":"RTS_Actor","Value":"1","Description":" "},{"Name":"RTS_Component","Value":"2","Description":" "},{"Name":"RTS_ParentBoneSpace","Value":"3","Description":" "},{"Name":"RTS_ViewTranslated","Value":"4","Description":" "}]}

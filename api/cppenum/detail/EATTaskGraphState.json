@@ -1,0 +1,1 @@
+{"Name":"EATTaskGraphState","Description":" ","Variables":[{"Name":"EATTaskGraphsState_Init","Value":"0","Description":" "},{"Name":"EATTaskGraphsState_Process","Value":"1","Description":" "},{"Name":"EATTaskGraphsState_End","Value":"2","Description":" "}]}

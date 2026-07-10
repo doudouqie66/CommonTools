@@ -1,0 +1,1 @@
+{"Name":"EPrimaryAssetCookRule","Description":" ","Variables":[{"Name":"Unknown","Value":"0","Description":" "},{"Name":"NeverCook","Value":"1","Description":" "},{"Name":"DevelopmentCook","Value":"2","Description":" "},{"Name":"AlwaysCook","Value":"3","Description":" "}]}

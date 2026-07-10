@@ -1,0 +1,1 @@
+{"Name":"EReleaseToFireType","Description":" ","Variables":[{"Name":"RELEASEFIRE_NONE","Value":"0","Description":" "},{"Name":"RELEASEFIRE_SHOTGUN","Value":"1","Description":" "},{"Name":"RELEASEFIRE_SNIPER","Value":"2","Description":" "},{"Name":"RELEASEFIRE_BRUST","Value":"3","Description":" "}]}

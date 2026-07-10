@@ -1,0 +1,1 @@
+{"Name":"ETwitterRequestMethod","Description":" ","Variables":[{"Name":"TRM_Get","Value":"0","Description":" "},{"Name":"TRM_Post","Value":"1","Description":" "},{"Name":"TRM_Delete","Value":"2","Description":" "},{"Name":"TRM_MAX","Value":"3","Description":" "}]}

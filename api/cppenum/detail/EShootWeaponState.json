@@ -1,0 +1,1 @@
+{"Name":"EShootWeaponState","Description":" ","Variables":[{"Name":"SWS_Idle","Value":"0","Description":" "},{"Name":"SWS_NoneIdle","Value":"1","Description":" "},{"Name":"SWS_Shooting","Value":"2","Description":" "},{"Name":"SWS_Reloading","Value":"3","Description":" "},{"Name":"SWS_ReloadDone","Value":"4","Description":" "}]}

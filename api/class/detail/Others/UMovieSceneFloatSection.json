@@ -1,0 +1,1 @@
+{"Name":"UMovieSceneFloatSection","Description":"A single floating point section","Variables":[{"Name":"FloatCurve","Type":"FRichCurve","Description":"Curve data","Redirect":""}],"Functions":null,"Parents":["UMovieSceneSection","IKeyframeSection\u003cfloat\u003e"],"Event":null,"Delegate":null,"Language":"cpp"}

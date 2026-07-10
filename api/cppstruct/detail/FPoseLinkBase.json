@@ -1,0 +1,1 @@
+{"Name":"FPoseLinkBase","Description":"A pose link to another node","Variables":[{"Name":"LinkID","Type":"int32","Description":"Serialized link ID, used to build the non-serialized pointer map.","Redirect":""},{"Name":"SourceLinkID","Type":"int32","Description":"The source link ID, used for debug visualization.","Redirect":""}]}

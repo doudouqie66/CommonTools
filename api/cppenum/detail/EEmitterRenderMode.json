@@ -1,0 +1,1 @@
+{"Name":"EEmitterRenderMode","Description":" ","Variables":[{"Name":"ERM_Normal","Value":"0","Description":" "},{"Name":"ERM_Point","Value":"1","Description":" "},{"Name":"ERM_Cross","Value":"2","Description":" "},{"Name":"ERM_LightsOnly","Value":"3","Description":" "},{"Name":"ERM_None","Value":"4","Description":" "},{"Name":"ERM_MAX","Value":"5","Description":" "}]}

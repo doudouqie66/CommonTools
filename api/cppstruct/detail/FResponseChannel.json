@@ -1,0 +1,1 @@
+{"Name":"FResponseChannel","Description":"","Variables":[{"Name":"Channel","Type":"FName","Description":"This should match DisplayName of ECollisionChannel\n\t \tMeta data of custom channels can be used as well","Redirect":""},{"Name":"Response","Type":"TEnumAsByte \u003c enum ECollisionResponse \u003e","Description":"","Redirect":""}]}

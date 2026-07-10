@@ -1,0 +1,1 @@
+{"Name":"EOverlapObjectCheckType","Description":" ","Variables":[{"Name":"NotValid","Value":"0","Description":" "},{"Name":"Point","Value":"1","Description":" "},{"Name":"Box","Value":"2","Description":" "},{"Name":"Sphere","Value":"3","Description":" "}]}

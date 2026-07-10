@@ -1,0 +1,1 @@
+{"Name":"ELowMemoryGCLevel","Description":" ","Variables":[{"Name":"NoGC","Value":"0","Description":" "},{"Name":"FreeUnusedAndCache","Value":"1","Description":" "},{"Name":"PendingCrash","Value":"2","Description":" "}]}

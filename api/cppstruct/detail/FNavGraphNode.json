@@ -1,0 +1,1 @@
+{"Name":"FNavGraphNode","Description":"","Variables":[{"Name":"Owner","Type":"UObject *","Description":"Who's this node referring to? This will most commonly point to an actor or a component","Redirect":""}]}

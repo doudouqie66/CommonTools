@@ -1,0 +1,1 @@
+{"Name":"EAutoAimType","Description":" ","Variables":[{"Name":"FullTime","Value":"0","Description":" "},{"Name":"OnlyFire","Value":"1","Description":" "},{"Name":"OnlyTouch","Value":"2","Description":" "},{"Name":"OnlyNotTouch","Value":"3","Description":" "},{"Name":"TouchOrFire","Value":"4","Description":" "},{"Name":"None","Value":"5","Description":" "}]}

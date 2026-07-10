@@ -1,0 +1,1 @@
+{"Name":"FAtlasTextures","Description":"","Variables":[{"Name":"Textures","Type":"TArray \u003c FTextureInfo \u003e","Description":"","Redirect":""},{"Name":"TextureSize","Type":"FVector2D","Description":"","Redirect":""},{"Name":"MinMipMapTextureIdx","Type":"int32","Description":"","Redirect":""}]}

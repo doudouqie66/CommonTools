@@ -1,0 +1,1 @@
+{"Name":"EPawnActionResult","Description":" ","Variables":[{"Name":"NotStarted","Value":"0","Description":" "},{"Name":"InProgress","Value":"1","Description":" "},{"Name":"Success","Value":"2","Description":" "},{"Name":"Failed","Value":"3","Description":" "},{"Name":"Aborted","Value":"4","Description":" "}]}

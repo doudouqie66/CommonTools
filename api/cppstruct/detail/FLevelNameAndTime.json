@@ -1,0 +1,1 @@
+{"Name":"FLevelNameAndTime","Description":"","Variables":[{"Name":"LevelName","Type":"FString","Description":"","Redirect":""},{"Name":"LevelChangeTimeInMS","Type":"uint32","Description":"","Redirect":""}]}

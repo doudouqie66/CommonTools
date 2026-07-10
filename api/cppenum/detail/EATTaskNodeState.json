@@ -1,0 +1,1 @@
+{"Name":"EATTaskNodeState","Description":" ","Variables":[{"Name":"EATTaskNodeState_Init","Value":"0","Description":" "},{"Name":"EATTaskNodeState_Process","Value":"1","Description":" "},{"Name":"EATTaskNodeState_End","Value":"2","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"EHISMCullState","Description":" ","Variables":[{"Name":"Visible","Value":"0","Description":" "},{"Name":"FrustumCulled","Value":"1","Description":" "},{"Name":"DistanceCulled","Value":"2","Description":" "},{"Name":"OcclusionCulled","Value":"3","Description":" "},{"Name":"Unknown","Value":"4","Description":" "}]}

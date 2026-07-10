@@ -1,0 +1,1 @@
+{"Name":"ERuntimeGenerationType","Description":" ","Variables":[{"Name":"Static","Value":"0","Description":" "},{"Name":"DynamicModifiersOnly","Value":"1","Description":" "},{"Name":"Dynamic","Value":"2","Description":" "},{"Name":"LegacyGeneration","Value":"3","Description":" "}]}

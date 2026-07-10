@@ -1,0 +1,1 @@
+{"Name":"FLocationBoneSocketInfo","Description":"","Variables":[{"Name":"BoneSocketName","Type":"FName","Description":"The name of the bonesocket on the skeletal mesh","Redirect":""},{"Name":"Offset","Type":"FVector","Description":"The offset from the bonesocket to use","Redirect":""}]}

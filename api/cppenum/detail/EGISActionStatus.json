@@ -1,0 +1,1 @@
+{"Name":"EGISActionStatus","Description":" ","Variables":[{"Name":"EGISAS_NONE","Value":"0","Description":" "},{"Name":"EGISAS_START","Value":"1","Description":" "},{"Name":"EGISAS_INPROGRESS","Value":"2","Description":" "},{"Name":"EGISAS_FINISH","Value":"3","Description":" "}]}

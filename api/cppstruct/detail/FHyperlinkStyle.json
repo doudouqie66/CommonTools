@@ -1,0 +1,1 @@
+{"Name":"FHyperlinkStyle","Description":"Represents the appearance of an SHyperlink","Variables":[{"Name":"UnderlineStyle","Type":"FButtonStyle","Description":"Underline style","Redirect":""},{"Name":"TextStyle","Type":"FTextBlockStyle","Description":"Text style","Redirect":""},{"Name":"Padding","Type":"FMargin","Description":"Padding","Redirect":""}]}

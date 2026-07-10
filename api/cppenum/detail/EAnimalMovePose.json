@@ -1,0 +1,1 @@
+{"Name":"EAnimalMovePose","Description":" ","Variables":[{"Name":"Walk","Value":"0","Description":" "},{"Name":"Trot","Value":"1","Description":" "},{"Name":"Run","Value":"2","Description":" "},{"Name":"KeepCurrentPose","Value":"3","Description":" "}]}

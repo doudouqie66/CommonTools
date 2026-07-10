@@ -1,0 +1,1 @@
+{"Name":"EUGCMobileDataOperationCode","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"ClientInit","Value":"1","Description":" "},{"Name":"Pull","Value":"2","Description":" "},{"Name":"Push","Value":"3","Description":" "},{"Name":"Commit","Value":"4","Description":" "},{"Name":"Checkout","Value":"5","Description":" "}]}

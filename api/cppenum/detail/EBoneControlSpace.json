@@ -1,0 +1,1 @@
+{"Name":"EBoneControlSpace","Description":" ","Variables":[{"Name":"BCS_WorldSpace","Value":"0","Description":" "},{"Name":"BCS_ComponentSpace","Value":"1","Description":" "},{"Name":"BCS_ParentBoneSpace","Value":"2","Description":" "},{"Name":"BCS_BoneSpace","Value":"3","Description":" "},{"Name":"BCS_MAX","Value":"4","Description":" "}]}

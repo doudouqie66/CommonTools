@@ -1,0 +1,1 @@
+{"Name":"ParticleSystemLODMethod","Description":" ","Variables":[{"Name":"PARTICLESYSTEMLODMETHOD_Automatic","Value":"0","Description":" "},{"Name":"PARTICLESYSTEMLODMETHOD_DirectSet","Value":"1","Description":" "},{"Name":"PARTICLESYSTEMLODMETHOD_ActivateAutomatic","Value":"2","Description":" "}]}

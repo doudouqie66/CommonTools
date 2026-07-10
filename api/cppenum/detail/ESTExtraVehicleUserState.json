@@ -1,0 +1,1 @@
+{"Name":"ESTExtraVehicleUserState","Description":" ","Variables":[{"Name":"EVUS_OutOfVehicle","Value":"0","Description":" "},{"Name":"EVUS_AsDriver","Value":"1","Description":" "},{"Name":"EVUS_ASPassenger","Value":"2","Description":" "}]}

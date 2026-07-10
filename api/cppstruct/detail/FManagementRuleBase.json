@@ -1,0 +1,1 @@
+{"Name":"FManagementRuleBase","Description":"Base structure for management rule checks","Variables":[{"Name":"bEnable","Type":"bool","Description":"","Redirect":""},{"Name":"bFlip","Type":"bool","Description":"","Redirect":""}]}

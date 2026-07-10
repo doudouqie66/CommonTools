@@ -1,0 +1,1 @@
+{"Name":"FTOD_LightParameters","Description":"","Variables":[{"Name":"Falloff","Type":"float","Description":"","Redirect":""},{"Name":"Coloring","Type":"float","Description":"","Redirect":""},{"Name":"SkyColoring","Type":"float","Description":"","Redirect":""},{"Name":"CloudColoring","Type":"float","Description":"","Redirect":""}]}

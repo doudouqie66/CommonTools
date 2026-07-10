@@ -1,0 +1,1 @@
+{"Name":"EPCGCreateSplineMode","Description":" ","Variables":[{"Name":"CreateDataOnly","Value":"0","Description":" "},{"Name":"CreateComponent","Value":"1","Description":" "},{"Name":"CreateNewActor","Value":"2","Description":" "}]}

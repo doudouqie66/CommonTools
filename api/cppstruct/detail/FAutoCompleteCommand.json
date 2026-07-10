@@ -1,0 +1,1 @@
+{"Name":"FAutoCompleteCommand","Description":"Structure for auto-complete commands and their descriptions.","Variables":[{"Name":"Command","Type":"FString","Description":"","Redirect":""},{"Name":"Desc","Type":"FString","Description":"","Redirect":""}]}

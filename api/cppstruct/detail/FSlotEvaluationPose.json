@@ -1,0 +1,1 @@
+{"Name":"FSlotEvaluationPose","Description":"Helper struct for Slot node pose evaluation.","Variables":[{"Name":"AdditiveType","Type":"TEnumAsByte \u003c EAdditiveAnimationType \u003e","Description":"Type of additive for pose","Redirect":""},{"Name":"Weight","Type":"float","Description":"Weight of pose","Redirect":""}]}

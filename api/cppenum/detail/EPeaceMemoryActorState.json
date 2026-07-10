@@ -1,0 +1,1 @@
+{"Name":"EPeaceMemoryActorState","Description":" ","Variables":[{"Name":"EPMAS_WaitEndRecord","Value":"0","Description":" "},{"Name":"EPMAS_WaitUploadData","Value":"1","Description":" "},{"Name":"EPMAS_HasUploadData","Value":"2","Description":" "},{"Name":"EPMAS_Max","Value":"3","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"UDeviceProfileManager","Description":"Implements a helper class that manages all profiles in the Device","Variables":[{"Name":"Profiles","Type":"TArray \u003c UObject * \u003e","Description":"","Redirect":""}],"Functions":null,"Parents":["UObject"],"Event":null,"Delegate":null,"Language":"cpp"}

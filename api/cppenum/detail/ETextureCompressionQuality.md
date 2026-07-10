@@ -1,0 +1,19 @@
+---
+title: ETextureCompressionQuality
+---
+
+# ETextureCompressionQuality
+
+ 
+
+## Variables
+
+| Name | Type | Description |
+|------|------|-------------|
+| TCQ_Default |  |   |
+| TCQ_Lowest |  |   |
+| TCQ_Low |  |   |
+| TCQ_Medium |  |   |
+| TCQ_High |  |   |
+| TCQ_Highest |  |   |
+| TCQ_MAX |  |   |

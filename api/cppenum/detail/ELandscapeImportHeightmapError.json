@@ -1,0 +1,1 @@
+{"Name":"ELandscapeImportHeightmapError","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"FileNotFound","Value":"1","Description":" "},{"Name":"InvalidSize","Value":"2","Description":" "},{"Name":"CorruptFile","Value":"3","Description":" "},{"Name":"ColorPng","Value":"4","Description":" "},{"Name":"LowBitDepth","Value":"5","Description":" "}]}

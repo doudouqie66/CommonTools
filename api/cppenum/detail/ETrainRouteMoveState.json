@@ -1,0 +1,1 @@
+{"Name":"ETrainRouteMoveState","Description":" ","Variables":[{"Name":"Static","Value":"0","Description":" "},{"Name":"Moving","Value":"1","Description":" "},{"Name":"Stopping","Value":"2","Description":" "}]}

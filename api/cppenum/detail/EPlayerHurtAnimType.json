@@ -1,0 +1,1 @@
+{"Name":"EPlayerHurtAnimType","Description":" ","Variables":[{"Name":"EPlayerHurtAnim_None","Value":"0","Description":" "},{"Name":"EPlayerHurtAnim_Point","Value":"1","Description":" "},{"Name":"EPlayerHurtAnim_Melee","Value":"2","Description":" "},{"Name":"EPlayerHurtAnim_Max","Value":"3","Description":" "}]}

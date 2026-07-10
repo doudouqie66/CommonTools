@@ -1,0 +1,1 @@
+{"Name":"FBox","Description":"A bounding box.\n  The full C++ class is located here: Engine\\Source\\Runtime\\Core\\Public\\Math\\Box.h","Variables":[{"Name":"Min","Type":"FVector","Description":"","Redirect":""},{"Name":"Max","Type":"FVector","Description":"","Redirect":""},{"Name":"IsValid","Type":"uint8","Description":"","Redirect":""}]}

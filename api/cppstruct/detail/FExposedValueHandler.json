@@ -1,0 +1,1 @@
+{"Name":"FExposedValueHandler","Description":"","Variables":[{"Name":"BoundFunction","Type":"FName","Description":"","Redirect":""},{"Name":"CopyRecords","Type":"TArray \u003c FExposedValueCopyRecord \u003e","Description":"","Redirect":""}]}

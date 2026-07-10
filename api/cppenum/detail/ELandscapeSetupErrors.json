@@ -1,0 +1,1 @@
+{"Name":"ELandscapeSetupErrors","Description":" ","Variables":[{"Name":"LSE_None","Value":"0","Description":" "},{"Name":"LSE_NoLandscapeInfo","Value":"1","Description":" "},{"Name":"LSE_CollsionXY","Value":"2","Description":" "},{"Name":"LSE_NoLayerInfo","Value":"3","Description":" "},{"Name":"LSE_MAX","Value":"4","Description":" "}]}

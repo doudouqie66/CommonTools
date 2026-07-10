@@ -1,0 +1,21 @@
+---
+title: EMaterialDecalResponse
+---
+
+# EMaterialDecalResponse
+
+ 
+
+## Variables
+
+| Name | Type | Description |
+|------|------|-------------|
+| MDR_None |  |   |
+| MDR_ColorNormalRoughness |  |   |
+| MDR_Color |  |   |
+| MDR_ColorNormal |  |   |
+| MDR_ColorRoughness |  |   |
+| MDR_Normal |  |   |
+| MDR_NormalRoughness |  |   |
+| MDR_Roughness |  |   |
+| MDR_MAX |  |   |

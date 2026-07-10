@@ -1,0 +1,1 @@
+{"Name":"ShootWeaponAnimType","Description":" ","Variables":[{"Name":"SWAT_Shoot","Value":"0","Description":" "},{"Name":"SWAT_NoneShoot","Value":"1","Description":" "},{"Name":"SWAT_Reload","Value":"2","Description":" "},{"Name":"SWAT_IdleToNoneIdle","Value":"3","Description":" "}]}

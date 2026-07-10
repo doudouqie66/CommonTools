@@ -1,0 +1,1 @@
+{"Name":"EMoviePlaybackType","Description":" ","Variables":[{"Name":"MT_Normal","Value":"0","Description":" "},{"Name":"MT_Looped","Value":"1","Description":" "},{"Name":"MT_LoadingLoop","Value":"2","Description":" "},{"Name":"MT_MAX","Value":"3","Description":" "}]}

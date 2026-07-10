@@ -1,0 +1,1 @@
+{"Name":"EFaceRotCheckRetType","Description":" ","Variables":[{"Name":"FaceRotCheckRet_DisableSeparation","Value":"0","Description":" "},{"Name":"FaceRotCheckRet_EnableSeparation","Value":"1","Description":" "},{"Name":"FaceRotCheckRet_NeedBlend","Value":"2","Description":" "}]}

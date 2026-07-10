@@ -1,0 +1,1 @@
+{"Name":"EPropReplacePlatform","Description":" ","Variables":[{"Name":"EPropReplacePlatform_NONE","Value":"0","Description":" "},{"Name":"EPropReplacePlatform_Mobile","Value":"1","Description":" "},{"Name":"EPropReplacePlatform_WinRelease","Value":"2","Description":" "},{"Name":"EPropReplacePlatform_OpenHarmony","Value":"3","Description":" "}]}

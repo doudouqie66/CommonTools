@@ -1,0 +1,1 @@
+{"Name":"EParrotEffectType","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"Summoned","Value":"1","Description":" "},{"Name":"Dismissed","Value":"2","Description":" "},{"Name":"Death","Value":"3","Description":" "},{"Name":"SkillDismiss","Value":"4","Description":" "},{"Name":"SkillReturn","Value":"5","Description":" "}]}

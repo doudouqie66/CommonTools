@@ -1,0 +1,1 @@
+{"Name":"EStereoLayerShape","Description":" ","Variables":[{"Name":"SLSH_QuadLayer","Value":"0","Description":" "},{"Name":"SLSH_CylinderLayer","Value":"1","Description":" "},{"Name":"SLSH_CubemapLayer","Value":"2","Description":" "},{"Name":"SLSH_MAX","Value":"3","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"FUGCRankingListAwardItem","Description":"排行榜物品结构体","Variables":[{"Name":"ItemID","Type":"int32","Description":"物品ID","Redirect":""},{"Name":"ItemNum","Type":"int32","Description":"物品数量","Redirect":""}]}

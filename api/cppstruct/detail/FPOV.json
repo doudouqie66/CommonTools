@@ -1,0 +1,1 @@
+{"Name":"FPOV","Description":"Point Of View type.","Variables":[{"Name":"Location","Type":"FVector","Description":"Location","Redirect":""},{"Name":"Rotation","Type":"FRotator","Description":"Rotation","Redirect":""},{"Name":"FOV","Type":"float","Description":"FOV angle","Redirect":""}]}

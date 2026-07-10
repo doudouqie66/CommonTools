@@ -1,0 +1,1 @@
+{"Name":"ETimeLineCheckResult","Description":" ","Variables":[{"Name":"TLCR_NoCheck","Value":"0","Description":" "},{"Name":"TLCR_OK","Value":"1","Description":" "},{"Name":"TLCR_ERR_UP","Value":"2","Description":" "},{"Name":"TLCR_ERR_DN","Value":"3","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"ERootMotionFinishVelocityMode","Description":" ","Variables":[{"Name":"MaintainLastRootMotionVelocity","Value":"0","Description":" "},{"Name":"SetVelocity","Value":"1","Description":" "},{"Name":"ClampVelocity","Value":"2","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"ELogTypeID","Description":" ","Variables":[{"Name":"ObserverStuckLog","Value":"0","Description":" "},{"Name":"ObserverFallingLog","Value":"1","Description":" "},{"Name":"DSPullLog","Value":"2","Description":" "},{"Name":"ClientPositionErrorLog","Value":"3","Description":" "}]}

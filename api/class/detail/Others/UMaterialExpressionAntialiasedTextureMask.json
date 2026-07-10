@@ -1,0 +1,1 @@
+{"Name":"UMaterialExpressionAntialiasedTextureMask","Description":"","Variables":[{"Name":"Threshold","Type":"float","Description":"","Redirect":""},{"Name":"Channel","Type":"TEnumAsByte \u003c enum ETextureColorChannel \u003e","Description":"","Redirect":""}],"Functions":null,"Parents":["UMaterialExpressionTextureSampleParameter2D"],"Event":null,"Delegate":null,"Language":"cpp"}

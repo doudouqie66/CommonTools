@@ -1,0 +1,1 @@
+{"Name":"ECarringState","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"Waitting","Value":"1","Description":" "},{"Name":"PuttingUp","Value":"2","Description":" "},{"Name":"Carring","Value":"3","Description":" "},{"Name":"PuttingDown","Value":"4","Description":" "}]}

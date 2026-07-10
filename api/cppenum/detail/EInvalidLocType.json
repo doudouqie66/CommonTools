@@ -1,0 +1,1 @@
+{"Name":"EInvalidLocType","Description":" ","Variables":[{"Name":"NoReason","Value":"0","Description":" "},{"Name":"PawnBlock","Value":"1","Description":" "},{"Name":"PlatformBlock","Value":"2","Description":" "},{"Name":"SceneBlock","Value":"3","Description":" "},{"Name":"BeyongArea","Value":"4","Description":" "},{"Name":"PlatformFloating","Value":"5","Description":" "}]}

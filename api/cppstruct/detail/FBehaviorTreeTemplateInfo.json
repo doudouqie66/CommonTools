@@ -1,0 +1,1 @@
+{"Name":"FBehaviorTreeTemplateInfo","Description":"","Variables":[{"Name":"Asset","Type":"UBehaviorTree *","Description":"behavior tree asset","Redirect":""},{"Name":"Template","Type":"UBTCompositeNode *","Description":"initialized template","Redirect":""}]}

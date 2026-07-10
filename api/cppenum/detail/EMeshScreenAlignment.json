@@ -1,0 +1,1 @@
+{"Name":"EMeshScreenAlignment","Description":" ","Variables":[{"Name":"PSMA_MeshFaceCameraWithRoll","Value":"0","Description":" "},{"Name":"PSMA_MeshFaceCameraWithSpin","Value":"1","Description":" "},{"Name":"PSMA_MeshFaceCameraWithLockedAxis","Value":"2","Description":" "},{"Name":"PSMA_MAX","Value":"3","Description":" "}]}

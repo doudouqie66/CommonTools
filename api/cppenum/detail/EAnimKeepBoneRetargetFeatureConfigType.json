@@ -1,0 +1,1 @@
+{"Name":"EAnimKeepBoneRetargetFeatureConfigType","Description":" ","Variables":[{"Name":"E_AKBRFCT_ItemSubType","Value":"-1","Description":" "},{"Name":"E_AKBRFCT_ItemID","Value":"-1","Description":"-- the value appears as -1 more due to UHT parse error rather than it actually be -1."}]}

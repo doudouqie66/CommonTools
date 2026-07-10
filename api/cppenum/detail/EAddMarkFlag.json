@@ -1,0 +1,1 @@
+{"Name":"EAddMarkFlag","Description":" ","Variables":[{"Name":"EAMF_None","Value":"0","Description":" "},{"Name":"EAMF_MiniMapOnly","Value":"1","Description":" "},{"Name":"EAMF_EntireMapOnly","Value":"2","Description":" "},{"Name":"EAMF_Both","Value":"3","Description":" "}]}

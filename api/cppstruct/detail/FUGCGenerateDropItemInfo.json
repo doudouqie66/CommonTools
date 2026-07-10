@@ -1,0 +1,1 @@
+{"Name":"FUGCGenerateDropItemInfo","Description":"蓝图配置掉落物信息","Variables":[{"Name":"ItemID","Type":"int32","Description":"掉落物ItemID","Redirect":""},{"Name":"Count","Type":"int32","Description":"掉落物数量","Redirect":""}]}

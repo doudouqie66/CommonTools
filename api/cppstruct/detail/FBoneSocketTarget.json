@@ -1,0 +1,1 @@
+{"Name":"FBoneSocketTarget","Description":"","Variables":[{"Name":"bUseSocket","Type":"bool","Description":"","Redirect":""},{"Name":"BoneReference","Type":"FBoneReference","Description":"","Redirect":""},{"Name":"SocketReference","Type":"FSocketReference","Description":"","Redirect":""}]}

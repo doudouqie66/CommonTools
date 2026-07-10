@@ -1,0 +1,1 @@
+{"Name":"EClosure_RunSide","Description":" ","Variables":[{"Name":"RunSide_None","Value":"0","Description":" "},{"Name":"RunSide_DS","Value":"1","Description":" "},{"Name":"RunSide_Client","Value":"2","Description":" "},{"Name":"RunSide_Both","Value":"3","Description":" "}]}

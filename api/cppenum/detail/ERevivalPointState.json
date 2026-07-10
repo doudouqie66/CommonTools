@@ -1,0 +1,1 @@
+{"Name":"ERevivalPointState","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"Start","Value":"1","Description":" "},{"Name":"Revivaling","Value":"2","Description":" "},{"Name":"RevivalFinish","Value":"3","Description":" "},{"Name":"RevivalCD","Value":"4","Description":" "},{"Name":"Destroy","Value":"5","Description":" "}]}

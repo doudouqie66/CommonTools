@@ -1,0 +1,1 @@
+{"Name":"EGraphType","Description":" ","Variables":[{"Name":"GT_Function","Value":"0","Description":" "},{"Name":"GT_Ubergraph","Value":"1","Description":" "},{"Name":"GT_Macro","Value":"2","Description":" "},{"Name":"GT_Animation","Value":"3","Description":" "},{"Name":"GT_StateMachine","Value":"4","Description":" "},{"Name":"GT_MAX","Value":"5","Description":" "}]}

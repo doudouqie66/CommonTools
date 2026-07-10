@@ -1,0 +1,1 @@
+{"Name":"FGameModePawnPool","Description":"简单的pawn对象池 add by czcheng 2025.10.15","Variables":[{"Name":"PawnPool","Type":"TMap \u003c APlayerController * , APawn * \u003e","Description":"","Redirect":""}]}

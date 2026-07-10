@@ -1,0 +1,1 @@
+{"Name":"EConfigFileSourceControlStatus","Description":" ","Variables":[{"Name":"CFSCS_Unknown","Value":"0","Description":" "},{"Name":"CFSCS_Writable","Value":"1","Description":" "},{"Name":"CFSCS_Locked","Value":"2","Description":" "}]}

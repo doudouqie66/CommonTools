@@ -1,0 +1,1 @@
+{"Name":"ESTVehicleWeaponControlMode","Description":" ","Variables":[{"Name":"EVehicleInvalidControl","Value":"0","Description":" "},{"Name":"EVehicleClassicControl","Value":"1","Description":" "},{"Name":"EVehicleSeparateControl","Value":"2","Description":" "}]}

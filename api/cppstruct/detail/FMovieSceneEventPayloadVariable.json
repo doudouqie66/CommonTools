@@ -1,0 +1,1 @@
+{"Name":"FMovieSceneEventPayloadVariable","Description":"Value definition for any type-agnostic variable (exported as text)","Variables":[{"Name":"Value","Type":"FString","Description":"","Redirect":""}]}

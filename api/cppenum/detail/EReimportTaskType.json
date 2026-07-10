@@ -1,0 +1,1 @@
+{"Name":"EReimportTaskType","Description":" ","Variables":[{"Name":"Task_None","Value":"0","Description":" "},{"Name":"Task_Mesh_LOD","Value":"1","Description":" "},{"Name":"Task_Mesh_UCX","Value":"2","Description":" "},{"Name":"Task_Texture","Value":"3","Description":" "},{"Name":"Task_Mesh_New","Value":"4","Description":" "}]}

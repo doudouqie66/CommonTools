@@ -1,0 +1,1 @@
+{"Name":"EPerfStandardOperator","Description":" ","Variables":[{"Name":"GreaterThan","Value":"0","Description":" "},{"Name":"GreaterThanOrEqual","Value":"1","Description":" "},{"Name":"LessThan","Value":"2","Description":" "},{"Name":"LessThanOrEqual","Value":"3","Description":" "},{"Name":"Equal","Value":"4","Description":" "},{"Name":"NotEqual","Value":"5","Description":" "}]}

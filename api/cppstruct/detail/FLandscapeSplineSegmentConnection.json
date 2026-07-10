@@ -1,0 +1,1 @@
+{"Name":"FLandscapeSplineSegmentConnection","Description":"","Variables":[{"Name":"ControlPoint","Type":"ULandscapeSplineControlPoint *","Description":"","Redirect":""},{"Name":"TangentLen","Type":"float","Description":"","Redirect":""},{"Name":"SocketName","Type":"FName","Description":"","Redirect":""}]}

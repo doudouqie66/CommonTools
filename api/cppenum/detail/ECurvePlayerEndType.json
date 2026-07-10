@@ -1,0 +1,1 @@
+{"Name":"ECurvePlayerEndType","Description":" ","Variables":[{"Name":"NotEnd","Value":"0","Description":" "},{"Name":"EndNormal","Value":"1","Description":" "},{"Name":"EndInterrupt","Value":"2","Description":" "},{"Name":"InterruptNotNormalEnd","Value":"3","Description":" "}]}

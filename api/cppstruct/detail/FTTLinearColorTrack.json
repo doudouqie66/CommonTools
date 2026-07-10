@@ -1,0 +1,1 @@
+{"Name":"FTTLinearColorTrack","Description":"Structure storing information about one color interpolation track","Variables":[{"Name":"CurveLinearColor","Type":"UCurveLinearColor *","Description":"Curve object used to define color value over time","Redirect":""}]}

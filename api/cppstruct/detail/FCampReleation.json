@@ -1,0 +1,1 @@
+{"Name":"FCampReleation","Description":"","Variables":[{"Name":"CampA_ID","Type":"int32","Description":"","Redirect":""},{"Name":"CampB_ID","Type":"int32","Description":"","Redirect":""},{"Name":"Releation","Type":"ECampRelation","Description":"","Redirect":""}]}

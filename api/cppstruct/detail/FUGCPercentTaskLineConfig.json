@@ -1,0 +1,1 @@
+{"Name":"FUGCPercentTaskLineConfig","Description":"活跃任务线配置结构体","Variables":[{"Name":"PercentTaskID","Type":"int32","Description":"任务ID","Redirect":""},{"Name":"Priority","Type":"int32","Description":"任务排序优先级","Redirect":""}]}

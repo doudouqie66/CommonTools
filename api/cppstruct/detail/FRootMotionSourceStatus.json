@@ -1,0 +1,1 @@
+{"Name":"FRootMotionSourceStatus","Description":"Structure for RootMotionSource status flags \n  (used for convenience instead of having to manually manipulate flag bitfields)","Variables":[{"Name":"Flags","Type":"uint8","Description":"","Redirect":""}]}

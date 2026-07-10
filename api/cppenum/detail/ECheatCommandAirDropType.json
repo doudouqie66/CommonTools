@@ -1,0 +1,1 @@
+{"Name":"ECheatCommandAirDropType","Description":" ","Variables":[{"Name":"ECCADT_None","Value":"0","Description":" "},{"Name":"ECCADT_Normal","Value":"1","Description":" "},{"Name":"ECCADT_Vehicle","Value":"2","Description":" "},{"Name":"ECCADT_Max","Value":"3","Description":" "}]}

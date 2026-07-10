@@ -1,0 +1,1 @@
+{"Name":"ECameraModeSwitchResult","Description":" ","Variables":[{"Name":"Success","Value":"0","Description":" "},{"Name":"DefaultError","Value":"1","Description":" "},{"Name":"DeadError","Value":"2","Description":" "},{"Name":"AirAttackError","Value":"3","Description":" "},{"Name":"ForceFPP","Value":"4","Description":" "},{"Name":"TypeError","Value":"5","Description":" "}]}

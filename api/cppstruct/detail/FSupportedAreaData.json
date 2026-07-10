@@ -1,0 +1,1 @@
+{"Name":"FSupportedAreaData","Description":"","Variables":[{"Name":"AreaClassName","Type":"FString","Description":"","Redirect":""},{"Name":"AreaID","Type":"int32","Description":"","Redirect":""},{"Name":"AreaClass","Type":"UClass *","Description":"","Redirect":""}]}

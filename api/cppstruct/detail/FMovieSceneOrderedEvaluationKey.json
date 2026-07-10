@@ -1,0 +1,1 @@
+{"Name":"FMovieSceneOrderedEvaluationKey","Description":"Struct that stores the key for an evaluated entity, and the index at which it was (or is to be) evaluated","Variables":[{"Name":"Key","Type":"FMovieSceneEvaluationKey","Description":"","Redirect":""},{"Name":"EvaluationIndex","Type":"uint32","Description":"","Redirect":""}]}

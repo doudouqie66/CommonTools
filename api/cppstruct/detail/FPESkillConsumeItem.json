@@ -1,0 +1,1 @@
+{"Name":"FPESkillConsumeItem","Description":"消耗物品信息","Variables":[{"Name":"ItemID","Type":"int32","Description":"消耗物品ID","Redirect":""},{"Name":"ItemNum","Type":"int32","Description":"消耗物品数量","Redirect":""}]}

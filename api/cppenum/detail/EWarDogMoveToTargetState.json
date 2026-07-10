@@ -1,0 +1,1 @@
+{"Name":"EWarDogMoveToTargetState","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"MoveToTarget","Value":"1","Description":" "},{"Name":"MoveToTargetEnd","Value":"2","Description":" "},{"Name":"MoveToTargetFailed","Value":"3","Description":" "},{"Name":"MoveToTargetSuccess","Value":"4","Description":" "}]}

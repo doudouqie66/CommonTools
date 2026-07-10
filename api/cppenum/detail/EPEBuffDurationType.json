@@ -1,0 +1,1 @@
+{"Name":"EPEBuffDurationType","Description":" ","Variables":[{"Name":"PEBuffDurationType_Normal","Value":"0","Description":" "},{"Name":"PEBuffDurationType_ReduceStackAndRefresh","Value":"1","Description":" "},{"Name":"PEBuffDurationType_IndependentCount","Value":"2","Description":" "}]}

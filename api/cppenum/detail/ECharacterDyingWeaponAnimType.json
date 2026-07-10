@@ -1,0 +1,1 @@
+{"Name":"ECharacterDyingWeaponAnimType","Description":" ","Variables":[{"Name":"CharDyingWeaponAnim_Move","Value":"0","Description":" "},{"Name":"CharDyingWeaponAnim_Aim","Value":"1","Description":" "},{"Name":"CharDyingWeaponAnim_Switch","Value":"2","Description":" "},{"Name":"CharDyingWeaponAnim_MAX","Value":"3","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"FMovieSceneEventPtrs","Description":"Compiled reflection pointers for the event function and parameters","Variables":[{"Name":"Function","Type":"UFunction *","Description":"","Redirect":""},{"Name":"BoundObjectProperty","Type":"UProperty *","Description":"","Redirect":""}]}

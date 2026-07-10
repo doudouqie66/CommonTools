@@ -1,0 +1,1 @@
+{"Name":"EInputConsumeOptions","Description":" ","Variables":[{"Name":"ICO_ConsumeAll","Value":"0","Description":" "},{"Name":"ICO_ConsumeBoundKeys","Value":"1","Description":" "},{"Name":"ICO_ConsumeNone","Value":"2","Description":" "},{"Name":"ICO_MAX","Value":"3","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"ENameMatchMode","Description":" ","Variables":[{"Name":"StartWith","Value":"0","Description":" "},{"Name":"EndWith","Value":"1","Description":" "},{"Name":"Wildcard","Value":"2","Description":" "},{"Name":"RegExp","Value":"3","Description":" "},{"Name":"Equal","Value":"4","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"FAISightEvent","Description":"","Variables":[{"Name":"SeenActor","Type":"AActor *","Description":"","Redirect":""},{"Name":"Observer","Type":"AActor *","Description":"","Redirect":""}]}

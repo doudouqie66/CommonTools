@@ -1,0 +1,1 @@
+{"Name":"FDynamicGenerateTargetNavigation","Description":"","Variables":[{"Name":"TargetLocation","Type":"FVector","Description":"","Redirect":""},{"Name":"GenerateRadiusMin","Type":"float","Description":"","Redirect":""},{"Name":"GenerateRadiusMax","Type":"float","Description":"","Redirect":""}]}

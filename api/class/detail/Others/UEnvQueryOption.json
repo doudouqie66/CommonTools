@@ -1,0 +1,1 @@
+{"Name":"UEnvQueryOption","Description":"","Variables":[{"Name":"Generator","Type":"UEnvQueryGenerator *","Description":"","Redirect":""},{"Name":"Tests","Type":"TArray \u003c UEnvQueryTest * \u003e","Description":"","Redirect":""}],"Functions":null,"Parents":["UObject"],"Event":null,"Delegate":null,"Language":"cpp"}

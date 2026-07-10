@@ -1,0 +1,1 @@
+{"Name":"FAnimNode_RotateRootBone","Description":"","Variables":[{"Name":"BasePose","Type":"FPoseLink","Description":"","Redirect":""},{"Name":"Pitch","Type":"float","Description":"","Redirect":""},{"Name":"Yaw","Type":"float","Description":"","Redirect":""},{"Name":"MeshToComponent","Type":"FRotator","Description":"","Redirect":""}]}

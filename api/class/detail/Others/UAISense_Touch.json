@@ -1,0 +1,1 @@
+{"Name":"UAISense_Touch","Description":"","Variables":[{"Name":"RegisteredEvents","Type":"TArray \u003c FAITouchEvent \u003e","Description":"","Redirect":""}],"Functions":null,"Parents":["UAISense"],"Event":null,"Delegate":null,"Language":"cpp"}

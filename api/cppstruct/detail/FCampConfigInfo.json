@@ -1,0 +1,1 @@
+{"Name":"FCampConfigInfo","Description":"","Variables":[{"Name":"CampID","Type":"int32","Description":"","Redirect":""},{"Name":"CampName","Type":"FName","Description":"","Redirect":""}]}

@@ -1,0 +1,1 @@
+{"Name":"MIDIEventType","Description":" ","Variables":[{"Name":"TYPE_NOTE_ON","Value":"0","Description":" "},{"Name":"TYPE_NOTE_OFF","Value":"1","Description":" "},{"Name":"TYPE_NOTE_ON_AND_TYPE_NOTE_OFF","Value":"2","Description":" "}]}

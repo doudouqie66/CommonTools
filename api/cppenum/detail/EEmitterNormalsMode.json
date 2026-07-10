@@ -1,0 +1,1 @@
+{"Name":"EEmitterNormalsMode","Description":" ","Variables":[{"Name":"ENM_CameraFacing","Value":"0","Description":" "},{"Name":"ENM_Spherical","Value":"1","Description":" "},{"Name":"ENM_Cylindrical","Value":"2","Description":" "},{"Name":"ENM_MAX","Value":"3","Description":" "}]}

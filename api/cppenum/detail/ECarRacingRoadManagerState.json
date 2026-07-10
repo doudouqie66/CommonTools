@@ -1,0 +1,1 @@
+{"Name":"ECarRacingRoadManagerState","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"GameStart","Value":"1","Description":" "},{"Name":"Running","Value":"2","Description":" "},{"Name":"GameOver","Value":"3","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"EGISUIActionType","Description":" ","Variables":[{"Name":"EGISA_SelectAll","Value":"0","Description":" "},{"Name":"EGISA_Delete","Value":"1","Description":" "},{"Name":"EGISA_Copy","Value":"2","Description":" "},{"Name":"EGISA_Cut","Value":"3","Description":" "},{"Name":"EGISA_Duplicate","Value":"4","Description":" "}]}

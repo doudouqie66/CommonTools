@@ -1,0 +1,1 @@
+{"Name":"FFastArraySerializerItem","Description":"Base struct for items using Fast TArray Replication","Variables":[{"Name":"ReplicationID","Type":"int32","Description":"Engine Modify End","Redirect":""},{"Name":"ReplicationKey","Type":"int32","Description":"","Redirect":""},{"Name":"MostRecentArrayReplicationKey","Type":"int32","Description":"","Redirect":""}]}

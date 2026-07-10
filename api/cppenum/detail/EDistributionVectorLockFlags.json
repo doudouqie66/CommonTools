@@ -1,0 +1,1 @@
+{"Name":"EDistributionVectorLockFlags","Description":" ","Variables":[{"Name":"EDVLF_None","Value":"0","Description":" "},{"Name":"EDVLF_XY","Value":"1","Description":" "},{"Name":"EDVLF_XZ","Value":"2","Description":" "},{"Name":"EDVLF_YZ","Value":"3","Description":" "},{"Name":"EDVLF_XYZ","Value":"4","Description":" "},{"Name":"EDVLF_MAX","Value":"5","Description":" "}]}

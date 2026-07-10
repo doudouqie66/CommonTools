@@ -1,0 +1,1 @@
+{"Name":"ETrackToggleAction","Description":" ","Variables":[{"Name":"ETTA_Off","Value":"0","Description":" "},{"Name":"ETTA_On","Value":"1","Description":" "},{"Name":"ETTA_Toggle","Value":"2","Description":" "},{"Name":"ETTA_Trigger","Value":"3","Description":" "},{"Name":"ETTA_MAX","Value":"4","Description":" "}]}

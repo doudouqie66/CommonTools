@@ -1,0 +1,1 @@
+{"Name":"ETelecontrolState","Description":" ","Variables":[{"Name":"TECS_None","Value":"0","Description":" "},{"Name":"TECS_ControlledByPlayer","Value":"1","Description":" "},{"Name":"TECS_ControlledByAI","Value":"2","Description":" "}]}

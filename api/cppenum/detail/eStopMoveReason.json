@@ -1,0 +1,1 @@
+{"Name":"eStopMoveReason","Description":" ","Variables":[{"Name":"Default","Value":"0","Description":" "},{"Name":"Turning","Value":"1","Description":" "},{"Name":"Tag","Value":"2","Description":" "},{"Name":"CustomMoveMode","Value":"3","Description":" "},{"Name":"Dead","Value":"4","Description":" "}]}

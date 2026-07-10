@@ -1,0 +1,1 @@
+{"Name":"EEndPlayReason","Description":" ","Variables":[{"Name":"Destroyed","Value":"0","Description":" "},{"Name":"LevelTransition","Value":"1","Description":" "},{"Name":"EndPlayInEditor","Value":"2","Description":" "},{"Name":"RemovedFromWorld","Value":"3","Description":" "},{"Name":"Quit","Value":"4","Description":" "}]}

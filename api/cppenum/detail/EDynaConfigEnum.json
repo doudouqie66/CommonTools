@@ -1,0 +1,1 @@
+{"Name":"EDynaConfigEnum","Description":" ","Variables":[{"Name":"GameModeProperty","Value":"0","Description":" "},{"Name":"ConsoleVariable","Value":"1","Description":" "},{"Name":"ConsoleVariableByControlChannel","Value":"2","Description":" "},{"Name":"SecurityScheme","Value":"3","Description":" "},{"Name":"None","Value":"4","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"EPESkillTargetsSortType","Description":" ","Variables":[{"Name":"E_PESKILL_TargetsSort_Random","Value":"0","Description":" "},{"Name":"E_PESKILL_TargetsSort_DistancePrior","Value":"1","Description":" "},{"Name":"E_PESKILL_TargetsSort_AnglePrior","Value":"2","Description":" "},{"Name":"E_PESKILL_TargetsSort_Custom","Value":"3","Description":" "}]}

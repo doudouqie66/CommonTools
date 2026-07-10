@@ -1,0 +1,1 @@
+{"Name":"FAnimNode_Slot","Description":"","Variables":[{"Name":"Source","Type":"FPoseLink","Description":"","Redirect":""},{"Name":"SlotName","Type":"FName","Description":"","Redirect":""},{"Name":"GroupName","Type":"FName","Description":"","Redirect":""},{"Name":"bAlwaysUpdateSourcePose","Type":"bool","Description":"","Redirect":""}]}

@@ -1,0 +1,1 @@
+{"Name":"FSoundSourceBusSendInfo","Description":"","Variables":[{"Name":"SendLevel","Type":"float","Description":"","Redirect":""},{"Name":"SoundSourceBus","Type":"USoundSourceBus *","Description":"","Redirect":""}]}

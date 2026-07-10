@@ -1,0 +1,137 @@
+---
+title: ECharacterNewFPPAnimType
+---
+
+# ECharacterNewFPPAnimType
+
+ 
+
+## Variables
+
+| Name | Type | Description |
+|------|------|-------------|
+| ECharNewFPPAnim_BasePose |  |   |
+| ECharNewFPPAnim_BasePose_TPP |  |   |
+| ECharNewFPPAnim_BasePose_NearDeath |  |   |
+| ECharNewFPPAnim_MoveIdle |  |   |
+| ECharNewFPPAnim_MoveWalk |  |   |
+| ECharNewFPPAnim_MoveRun |  |   |
+| ECharNewFPPAnim_MoveSprint |  |   |
+| ECharNewFPPAnim_MoveNearDeath |  |   |
+| ECharNewFPPAnim_MoveLoopIdle |  |   |
+| ECharNewFPPAnim_MoveLoopWalk |  |   |
+| ECharNewFPPAnim_MoveLoopRun |  |   |
+| ECharNewFPPAnim_MoveLoopSprint |  |   |
+| ECharNewFPPAnim_MoveLoopBS |  |   |
+| ECharNewFPPAnim_MoveLoopNearDeath |  |   |
+| ECharNewFPPAnim_WallPoseOffset |  |   |
+| ECharNewFPPAnim_RunPoseOffset |  |   |
+| ECharNewFPPAnim_SprintPoseOffset |  |   |
+| ECharNewFPPAnim_MoveChange_IdleToWalk |  |   |
+| ECharNewFPPAnim_MoveChange_IdleToRun |  |   |
+| ECharNewFPPAnim_MoveChange_IdleToSprint |  |   |
+| ECharNewFPPAnim_MoveChange_WalkToIdle |  |   |
+| ECharNewFPPAnim_MoveChange_WalkToRun |  |   |
+| ECharNewFPPAnim_MoveChange_WalkToSprint |  |   |
+| ECharNewFPPAnim_MoveChange_RunToIdle |  |   |
+| ECharNewFPPAnim_MoveChange_RunToWalk |  |   |
+| ECharNewFPPAnim_MoveChange_RunToSprint |  |   |
+| ECharNewFPPAnim_MoveChange_SprintToIdle |  |   |
+| ECharNewFPPAnim_MoveChange_SprintToWalk |  |   |
+| ECharNewFPPAnim_MoveChange_SprintToRun |  |   |
+| ECharNewFPPAnim_MoveChange_IdleToMove |  |   |
+| ECharNewFPPAnim_MoveChange_MoveToIdle |  |   |
+| ECharNewFPPAnim_PoseChange_ToCrouch_Idle |  |   |
+| ECharNewFPPAnim_PoseChange_ToCrouch_Walk |  |   |
+| ECharNewFPPAnim_PoseChange_ToCrouch_Run |  |   |
+| ECharNewFPPAnim_PoseChange_ToCrouch_Sprint |  |   |
+| ECharNewFPPAnim_PoseChange_ToProne_Idle |  |   |
+| ECharNewFPPAnim_PoseChange_ToProne_Walk |  |   |
+| ECharNewFPPAnim_PoseChange_ToProne_Run |  |   |
+| ECharNewFPPAnim_PoseChange_ToProne_Sprint |  |   |
+| ECharNewFPPAnim_PoseChange_ToStand_Idle |  |   |
+| ECharNewFPPAnim_PoseChange_ToStand_Walk |  |   |
+| ECharNewFPPAnim_PoseChange_ToStand_Run |  |   |
+| ECharNewFPPAnim_PoseChange_ToStand_Sprint |  |   |
+| ECharNewFPPAnim_PickM |  |   |
+| ECharNewFPPAnim_PickL |  |   |
+| ECharNewFPPAnim_Aim |  |   |
+| ECharNewFPPAnim_Aim_Scope |  |   |
+| ECharNewFPPAnim_Equip_Left_First |  |   |
+| ECharNewFPPAnim_Equip_Left |  |   |
+| ECharNewFPPAnim_UnEquip_Left |  |   |
+| ECharNewFPPAnim_Equip_Right_First |  |   |
+| ECharNewFPPAnim_Equip_Right |  |   |
+| ECharNewFPPAnim_UnEquip_Right |  |   |
+| ECharNewFPPAnim_Equip_Empty |  |   |
+| ECharNewFPPAnim_Hurt |  |   |
+| ECharNewFPPAnim_Hurt_New |  |   |
+| ECharNewFPPAnim_Reload |  |   |
+| ECharNewFPPAnim_TacticsReload |  |   |
+| ECharNewFPPAnim_ReloadType1 |  |   |
+| ECharNewFPPAnim_ReloadType2 |  |   |
+| ECharNewFPPAnim_Fire |  |   |
+| ECharNewFPPAnim_SpecialFire |  |   |
+| ECharNewFPPAnim_AimFire |  |   |
+| ECharNewFPPAnim_FireMode_Change |  |   |
+| ECharNewFPPAnim_Accumulate |  |   |
+| ECharNewFPPAnim_PostFire |  |   |
+| ECharNewFPPAnim_Turn_L |  |   |
+| ECharNewFPPAnim_Turn_R |  |   |
+| ECharNewFPPAnim_PullingPlug |  |   |
+| ECharNewFPPAnim_PutDownWeapon |  |   |
+| ECharNewFPPAnim_Peek |  |   |
+| ECharNewFPPAnim_PeekScope |  |   |
+| ECharNewFPPAnim_PeekLeftAim |  |   |
+| ECharNewFPPAnim_PeekRightAim |  |   |
+| ECharNewFPPAnim_ForegripAnim |  |   |
+| ECharNewFPPAnim_SprintToProne |  |   |
+| ECharNewFPPAnim_OpenDoor |  |   |
+| ECharNewFPPAnim_ShovelLoop |  |   |
+| ECharNewFPPAnim_EnterShovel |  |   |
+| ECharNewFPPAnim_LeaveShovel |  |   |
+| ECharNewFPPAnim_MovementUpBodyOverride |  |   |
+| ECharNewFPPAnim_DropWeapon |  |   |
+| ECharNewFPPAnim_Dead |  |   |
+| ECharNewFPPAnim_Dead_Swim |  |   |
+| ECharNewFPPAnim_Dead_Impact_Fly |  |   |
+| ECharNewFPPAnim_Dead_Impact_End |  |   |
+| ECharNewFPPAnim_Swim_Up |  |   |
+| ECharNewFPPAnim_Swim_Down |  |   |
+| ECharNewFPPAnim_Swim_UpToDown |  |   |
+| ECharNewFPPAnim_Swim_DownToUp |  |   |
+| ECharNewFPPAnim_MoveChange_EnterNearDeath |  |   |
+| ECharNewFPPAnim_MoveChange_LeaveNearDeath |  |   |
+| ECharNewFPPAnim_MoveChange_Dying_Rescue |  |   |
+| ECharNewFPPAnim_UnEquip_Override |  |   |
+| ECharNewFPPAnim_Equip_Shield_Moving |  |   |
+| ECharNewFPPAnim_UnEquip_Shield_Moving |  |   |
+| ECharNewFPPAnim_WeaponInspect |  |   |
+| ECharNewFPPAnim_Dead_Rand1 |  |   |
+| ECharNewFPPAnim_Dead_Rand2 |  |   |
+| ECharNewFPPAnim_Dead_Forward |  |   |
+| ECharNewFPPAnim_Dead_Backward |  |   |
+| ECharNewFPPAnim_Scope_In |  |   |
+| ECharNewFPPAnim_Scope_InLeft |  |   |
+| ECharNewFPPAnim_Scope_Out |  |   |
+| ECharNewFPPAnim_Scope_Angle |  |   |
+| ECharNewFPPAnim_MoveIdle_Scope |  |   |
+| ECharNewFPPAnim_MoveLoopIdle_Scope |  |   |
+| ECharNewFPPAnim_MoveLoopWalk_Scope |  |   |
+| ECharNewFPPAnim_Fire_Scope |  |   |
+| ECharNewFPPAnim_PoseChange_Scope_ToCrouch_Idle |  |   |
+| ECharNewFPPAnim_PoseChange_Scope_ToCrouch_Walk |  |   |
+| ECharNewFPPAnim_PoseChange_Scope_ToCrouch_Run |  |   |
+| ECharNewFPPAnim_PoseChange_Scope_ToCrouch_Sprint |  |   |
+| ECharNewFPPAnim_PoseChange_Scope_ToProne_Idle |  |   |
+| ECharNewFPPAnim_PoseChange_Scope_ToProne_Walk |  |   |
+| ECharNewFPPAnim_PoseChange_Scope_ToProne_Run |  |   |
+| ECharNewFPPAnim_PoseChange_Scope_ToProne_Sprint |  |   |
+| ECharNewFPPAnim_PoseChange_Scope_ToStand_Idle |  |   |
+| ECharNewFPPAnim_PoseChange_Scope_ToStand_Walk |  |   |
+| ECharNewFPPAnim_PoseChange_Scope_ToStand_Run |  |   |
+| ECharNewFPPAnim_PoseChange_Scope_ToStand_Sprint |  |   |
+| ECharNewFPPAnim_Fire_Volley |  |   |
+| ECharNewFPPAnim_Kick |  |   |
+| ECharNewFPPAnim_Accumulate_Scope |  |   |
+| ECharNewFPPAnim_Max |  |   |

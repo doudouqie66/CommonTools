@@ -1,0 +1,1 @@
+{"Name":"FLODStealConfig","Description":"","Variables":[{"Name":"StealerTileShortName","Type":"FString","Description":"","Redirect":""},{"Name":"TargetTileShortName","Type":"FString","Description":"","Redirect":""}]}

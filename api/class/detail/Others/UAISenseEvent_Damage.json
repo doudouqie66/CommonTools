@@ -1,0 +1,1 @@
+{"Name":"UAISenseEvent_Damage","Description":"","Variables":[{"Name":"Event","Type":"FAIDamageEvent","Description":"","Redirect":""}],"Functions":null,"Parents":["UAISenseEvent"],"Event":null,"Delegate":null,"Language":"cpp"}

@@ -1,0 +1,1 @@
+{"Name":"EAIStatParachuteState","Description":" ","Variables":[{"Name":"NONE","Value":"0","Description":" "},{"Name":"IN_PLANE","Value":"1","Description":" "},{"Name":"FREE_FALL","Value":"2","Description":" "},{"Name":"PARACHUTE_OPEN","Value":"3","Description":" "}]}

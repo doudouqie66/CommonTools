@@ -1,0 +1,1 @@
+{"Name":"ERiceGlueBallAreaState","Description":" ","Variables":[{"Name":"ERGBAS_None","Value":"0","Description":" "},{"Name":"ERGBAS_CoolingDown","Value":"1","Description":" "},{"Name":"ERGBAS_Waiting","Value":"2","Description":" "},{"Name":"ERGBAS_Battle","Value":"3","Description":" "}]}

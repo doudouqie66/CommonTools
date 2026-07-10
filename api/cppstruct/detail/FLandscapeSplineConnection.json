@@ -1,0 +1,1 @@
+{"Name":"FLandscapeSplineConnection","Description":"","Variables":[{"Name":"Segment","Type":"ULandscapeSplineSegment *","Description":"","Redirect":""},{"Name":"End","Type":"uint32","Description":"","Redirect":""}]}

@@ -1,0 +1,1 @@
+{"Name":"EValueCompareLogic","Description":" ","Variables":[{"Name":"LessThan","Value":"0","Description":" "},{"Name":"EqualOrLessThan","Value":"1","Description":" "},{"Name":"GreatThan","Value":"2","Description":" "},{"Name":"EqualOrGreatThan","Value":"3","Description":" "}]}

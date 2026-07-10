@@ -1,0 +1,1 @@
+{"Name":"FExposureSettings","Description":"Settings to allow designers to override the automatic expose","Variables":[{"Name":"LogOffset","Type":"int32","Description":"","Redirect":""},{"Name":"bFixed","Type":"bool","Description":"","Redirect":""}]}

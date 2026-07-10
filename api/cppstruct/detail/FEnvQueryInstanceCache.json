@@ -1,0 +1,1 @@
+{"Name":"FEnvQueryInstanceCache","Description":"cache of instances with sorted tests","Variables":[{"Name":"Template","Type":"UEnvQuery *","Description":"query template, duplicated in manager's world","Redirect":""}]}

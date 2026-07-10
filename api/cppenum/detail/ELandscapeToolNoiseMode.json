@@ -1,0 +1,1 @@
+{"Name":"ELandscapeToolNoiseMode","Description":" ","Variables":[{"Name":"Invalid","Value":"-1","Description":" "},{"Name":"Both","Value":"0","Description":"-- the value appears as -1 more due to UHT parse error rather than it actually be -1."},{"Name":"Add","Value":"1","Description":" "},{"Name":"Sub","Value":"2","Description":" "}]}

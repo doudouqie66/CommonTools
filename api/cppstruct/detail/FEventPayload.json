@@ -1,0 +1,1 @@
+{"Name":"FEventPayload","Description":"","Variables":[{"Name":"EventName","Type":"FName","Description":"The name of the event to trigger","Redirect":""},{"Name":"Parameters","Type":"FMovieSceneEventParameters","Description":"The event parameters","Redirect":""}]}

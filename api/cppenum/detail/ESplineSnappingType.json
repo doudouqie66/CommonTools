@@ -1,0 +1,1 @@
+{"Name":"ESplineSnappingType","Description":" ","Variables":[{"Name":"NoSnapping","Value":"0","Description":" "},{"Name":"SnapToSurface","Value":"1","Description":" "},{"Name":"SnapToGround","Value":"2","Description":" "}]}

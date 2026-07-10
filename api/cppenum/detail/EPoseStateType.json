@@ -1,0 +1,1 @@
+{"Name":"EPoseStateType","Description":" ","Variables":[{"Name":"PoseStateType_Stand","Value":"0","Description":" "},{"Name":"PoseStateType_Crouch","Value":"1","Description":" "},{"Name":"PoseStateType_Prone","Value":"2","Description":" "},{"Name":"PoseStateType_None","Value":"3","Description":" "}]}

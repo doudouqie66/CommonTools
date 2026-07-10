@@ -1,0 +1,1 @@
+{"Name":"EBGMStatus","Description":" ","Variables":[{"Name":"Stop","Value":"0","Description":" "},{"Name":"Play_ZombieWarning","Value":"1","Description":" "},{"Name":"Play_SpawnZombie","Value":"2","Description":" "},{"Name":"Play_SpawnBoss","Value":"3","Description":" "},{"Name":"Play_BossDead","Value":"4","Description":" "}]}

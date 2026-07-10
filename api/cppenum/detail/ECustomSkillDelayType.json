@@ -1,0 +1,1 @@
+{"Name":"ECustomSkillDelayType","Description":" ","Variables":[{"Name":"EDelayNone","Value":"0","Description":" "},{"Name":"EDelayPunish","Value":"1","Description":" "},{"Name":"EDelayAlways","Value":"2","Description":" "}]}

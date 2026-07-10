@@ -1,0 +1,1 @@
+{"Name":"FUGCItemSpawnerInfo","Description":"物资生成管理器上每个刷新点的配置","Variables":[{"Name":"Spawner","Type":"AUGCItemSpawner *","Description":"使用的刷新点","Redirect":""},{"Name":"bOverrideItemConfig","Type":"bool","Description":"是否覆盖该刷新点上的物资配置，开启则刷新点上的配置无效，使用这里的配置","Redirect":""},{"Name":"ItemConfig","Type":"FUGCItemSpawnerItemConfig","Description":"配置刷新点上的物资配置","Redirect":""}]}

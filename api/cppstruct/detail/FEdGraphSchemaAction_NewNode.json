@@ -1,0 +1,1 @@
+{"Name":"FEdGraphSchemaAction_NewNode","Description":"Action to add a node to the graph","Variables":[{"Name":"NodeTemplate","Type":"UEdGraphNode *","Description":"Template of node we want to create","Redirect":""}]}

@@ -1,0 +1,1 @@
+{"Name":"EAISenseGrenadeType","Description":" ","Variables":[{"Name":"ExplosionGrenade","Value":"0","Description":" "},{"Name":"BurningGrenade","Value":"1","Description":" "},{"Name":"SmokingGrenade","Value":"2","Description":" "},{"Name":"FlashBomb","Value":"3","Description":" "},{"Name":"Grenade_MaxNum","Value":"4","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"UStaticMeshIndoorVolumeContainerComponent","Description":"","Variables":[{"Name":"StaticMeshes","Type":"TArray \u003c UStaticMesh * \u003e","Description":"","Redirect":""},{"Name":"InstanceRuns","Type":"TArray \u003c FInstanceRun \u003e","Description":"","Redirect":""}],"Functions":null,"Parents":["USceneComponent"],"Event":null,"Delegate":null,"Language":"cpp"}

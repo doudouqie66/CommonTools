@@ -1,0 +1,1 @@
+{"Name":"EGundamModelStatus","Description":" ","Variables":[{"Name":"EGundamModelStatus_None","Value":"0","Description":" "},{"Name":"EGundamModelStatus_Stand","Value":"1","Description":" "},{"Name":"EGundamModelStatus_Launching","Value":"2","Description":" "},{"Name":"EGundamModelStatus_Destroyed","Value":"3","Description":" "}]}

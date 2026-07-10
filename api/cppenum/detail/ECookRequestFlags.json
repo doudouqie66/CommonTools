@@ -1,0 +1,1 @@
+{"Name":"ECookRequestFlags","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"ReEnqueued","Value":"1","Description":" "},{"Name":"Unsolicited","Value":"2","Description":" "},{"Name":"FromOthers","Value":"4","Description":" "}]}

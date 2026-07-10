@@ -1,0 +1,1 @@
+{"Name":"FParticleEditorPromotionSettings","Description":"Holds settings for the particle editor build promotion tests","Variables":[{"Name":"DefaultParticleAsset","Type":"FFilePath","Description":"Default particle asset to use for tests","Redirect":""}]}

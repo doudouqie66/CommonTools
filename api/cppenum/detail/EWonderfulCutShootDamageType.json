@@ -1,0 +1,1 @@
+{"Name":"EWonderfulCutShootDamageType","Description":" ","Variables":[{"Name":"WonderfulCutHurtType_None","Value":"0","Description":" "},{"Name":"WonderfulCutHurtType_Kill","Value":"1","Description":" "},{"Name":"WonderfulCutHurtType_LastBreath","Value":"2","Description":" "},{"Name":"WonderfulCutHurtType_Hurt","Value":"3","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"EUserWidgetFadingStatus","Description":" ","Variables":[{"Name":"UserWidgetFadingStatus_None","Value":"0","Description":" "},{"Name":"UserWidgetFadingStatus_FadingIn","Value":"1","Description":" "},{"Name":"UserWidgetFadingStatus_FadingOut","Value":"2","Description":" "}]}

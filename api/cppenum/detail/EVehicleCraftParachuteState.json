@@ -1,0 +1,1 @@
+{"Name":"EVehicleCraftParachuteState","Description":" ","Variables":[{"Name":"EVehicleCraft_None","Value":"0","Description":" "},{"Name":"EVehicleCraft_FreeFall","Value":"1","Description":" "},{"Name":"EVehicleCraft_Opening","Value":"2","Description":" "},{"Name":"EVehicleCraft_Landed","Value":"3","Description":" "}]}

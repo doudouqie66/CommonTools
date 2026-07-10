@@ -1,0 +1,1 @@
+{"Name":"ECOSResourceErrorCode","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"DownloadError","Value":"1","Description":" "},{"Name":"UnzipError","Value":"2","Description":" "},{"Name":"CheckError","Value":"3","Description":" "},{"Name":"MergeError","Value":"4","Description":" "}]}

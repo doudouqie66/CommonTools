@@ -1,0 +1,1 @@
+{"Name":"EWeaponsCompanionVoiceEvent","Description":" ","Variables":[{"Name":"Tick","Value":"0","Description":" "},{"Name":"FirstDead","Value":"1","Description":" "},{"Name":"OnWeaponEquipOrUnEquip","Value":"2","Description":" "},{"Name":"OnAddRuleActiveCount","Value":"3","Description":" "},{"Name":"OnChangeUsingWeapon","Value":"4","Description":" "}]}

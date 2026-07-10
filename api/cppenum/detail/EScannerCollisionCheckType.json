@@ -1,0 +1,1 @@
+{"Name":"EScannerCollisionCheckType","Description":" ","Variables":[{"Name":"All","Value":"0","Description":" "},{"Name":"Or","Value":"1","Description":" "},{"Name":"TraceFlag","Value":"2","Description":" "},{"Name":"ProfileName","Value":"3","Description":" "}]}

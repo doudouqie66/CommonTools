@@ -1,0 +1,1 @@
+{"Name":"ETaskActionType","Description":" ","Variables":[{"Name":"ETAT_Common","Value":"0","Description":" "},{"Name":"ETAT_CollectItem","Value":"1","Description":" "},{"Name":"ETAT_RedoCollectItem","Value":"2","Description":" "},{"Name":"ETAT_KillPlayer","Value":"3","Description":" "}]}

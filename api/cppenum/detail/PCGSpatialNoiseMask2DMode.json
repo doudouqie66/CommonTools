@@ -1,0 +1,1 @@
+{"Name":"PCGSpatialNoiseMask2DMode","Description":" ","Variables":[{"Name":"Perlin","Value":"0","Description":" "},{"Name":"Caustic","Value":"1","Description":" "},{"Name":"FractionalBrownian","Value":"2","Description":" "}]}

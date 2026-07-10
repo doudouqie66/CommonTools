@@ -1,0 +1,1 @@
+{"Name":"EVectorDBType","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"Faiss","Value":"1","Description":" "},{"Name":"Milvus","Value":"2","Description":" "},{"Name":"Pinecone","Value":"3","Description":" "}]}

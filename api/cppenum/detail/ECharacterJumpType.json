@@ -1,0 +1,1 @@
+{"Name":"ECharacterJumpType","Description":" ","Variables":[{"Name":"ECharJump_InPlace","Value":"0","Description":" "},{"Name":"ECharJump_Forward","Value":"1","Description":" "},{"Name":"ECharJump_Scope","Value":"2","Description":" "},{"Name":"ECharJump_Max","Value":"3","Description":" "}]}

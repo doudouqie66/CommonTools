@@ -1,0 +1,1 @@
+{"Name":"EParticleSystemOcclusionBoundsMethod","Description":" ","Variables":[{"Name":"EPSOBM_None","Value":"0","Description":" "},{"Name":"EPSOBM_ParticleBounds","Value":"1","Description":" "},{"Name":"EPSOBM_CustomBounds","Value":"2","Description":" "}]}

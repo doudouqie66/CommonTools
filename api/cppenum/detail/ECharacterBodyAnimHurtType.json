@@ -1,0 +1,1 @@
+{"Name":"ECharacterBodyAnimHurtType","Description":" ","Variables":[{"Name":"Body_None","Value":"0","Description":" "},{"Name":"Body_Head","Value":"1","Description":" "},{"Name":"Body_Torso","Value":"2","Description":" "},{"Name":"Body_Leg","Value":"3","Description":" "}]}

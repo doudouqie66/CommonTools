@@ -1,0 +1,1 @@
+{"Name":"EUGCMobileMotionCheckResult","Description":" ","Variables":[{"Name":"NoError","Value":"1","Description":" "},{"Name":"PosRotDataInvalid","Value":"2","Description":" "},{"Name":"PositionError","Value":"4","Description":" "},{"Name":"RotationError","Value":"8","Description":" "}]}

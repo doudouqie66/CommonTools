@@ -1,0 +1,1 @@
+{"Name":"ETwitterIntegrationDelegate","Description":" ","Variables":[{"Name":"TID_AuthorizeComplete","Value":"0","Description":" "},{"Name":"TID_TweetUIComplete","Value":"1","Description":" "},{"Name":"TID_RequestComplete","Value":"2","Description":" "},{"Name":"TID_MAX","Value":"3","Description":" "}]}

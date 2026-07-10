@@ -1,0 +1,1 @@
+{"Name":"FVOscillator","Description":"Defines FVector oscillation.","Variables":[{"Name":"X","Type":"FFOscillator","Description":"Oscillation in the X axis.","Redirect":""},{"Name":"Y","Type":"FFOscillator","Description":"Oscillation in the Y axis.","Redirect":""},{"Name":"Z","Type":"FFOscillator","Description":"Oscillation in the Z axis.","Redirect":""}]}

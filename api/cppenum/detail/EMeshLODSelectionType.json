@@ -1,0 +1,1 @@
+{"Name":"EMeshLODSelectionType","Description":" ","Variables":[{"Name":"AllLODs","Value":"0","Description":" "},{"Name":"SpecificLOD","Value":"1","Description":" "},{"Name":"CalculateLOD","Value":"2","Description":" "},{"Name":"LowestDetailLOD","Value":"3","Description":" "}]}

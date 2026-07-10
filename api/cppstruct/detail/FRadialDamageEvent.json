@@ -1,0 +1,1 @@
+{"Name":"FRadialDamageEvent","Description":"","Variables":[{"Name":"Params","Type":"FRadialDamageParams","Description":"","Redirect":""},{"Name":"Origin","Type":"FVector","Description":"","Redirect":""},{"Name":"ComponentHits","Type":"TArray \u003c FHitResult \u003e","Description":"","Redirect":""}]}

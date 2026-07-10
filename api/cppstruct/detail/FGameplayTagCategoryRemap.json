@@ -1,0 +1,1 @@
+{"Name":"FGameplayTagCategoryRemap","Description":"Category remapping. This allows base engine tag category meta data to remap to multiple project-specific categories.","Variables":[{"Name":"BaseCategory","Type":"FString","Description":"","Redirect":""},{"Name":"RemapCategories","Type":"TArray \u003c FString \u003e","Description":"","Redirect":""}]}

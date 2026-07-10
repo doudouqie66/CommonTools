@@ -1,0 +1,1 @@
+{"Name":"EPCGCopyAttributesOperation","Description":" ","Variables":[{"Name":"CopyEachSourceToEachTargetRespectively","Value":"0","Description":" "},{"Name":"MergeSourcesAndCopyToAllTargets","Value":"1","Description":" "},{"Name":"CopyEachSourceOnEveryTarget","Value":"2","Description":" "}]}

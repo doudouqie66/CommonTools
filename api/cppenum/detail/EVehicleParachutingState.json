@@ -1,0 +1,1 @@
+{"Name":"EVehicleParachutingState","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"Acceleration","Value":"1","Description":" "},{"Name":"Idle","Value":"2","Description":" "},{"Name":"Deceleration","Value":"3","Description":" "},{"Name":"Ending","Value":"4","Description":" "}]}

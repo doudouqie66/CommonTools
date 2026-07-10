@@ -1,0 +1,1 @@
+{"Name":"FSimulatedRootMotionReplicatedMove","Description":"","Variables":[{"Name":"Time","Type":"float","Description":"Local time when move was received on client and saved.","Redirect":""},{"Name":"RootMotion","Type":"FRepRootMotionMontage","Description":"Root Motion information","Redirect":""}]}

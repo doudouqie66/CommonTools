@@ -1,0 +1,1 @@
+{"Name":"EPESkillEventInputType","Description":" ","Variables":[{"Name":"EPESkillEventInputType_Click","Value":"0","Description":" "},{"Name":"EPESkillEventInputType_Press","Value":"1","Description":" "},{"Name":"EPESkillEventInputType_Release","Value":"2","Description":" "},{"Name":"EPESkillEventInputType_LongPress","Value":"3","Description":" "}]}

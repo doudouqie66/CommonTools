@@ -1,0 +1,1 @@
+{"Name":"EScannerMatParamType","Description":" ","Variables":[{"Name":"ScalarParameter","Value":"0","Description":" "},{"Name":"VectorParameter","Value":"1","Description":" "},{"Name":"TextureParameter","Value":"2","Description":" "},{"Name":"FontParameter","Value":"3","Description":" "},{"Name":"StaticSwitchParameter","Value":"4","Description":" "}]}

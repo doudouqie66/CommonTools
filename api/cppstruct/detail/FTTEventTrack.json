@@ -1,0 +1,1 @@
+{"Name":"FTTEventTrack","Description":"Structure storing information about one event track","Variables":[{"Name":"CurveKeys","Type":"UCurveFloat *","Description":"Curve object used to store keys","Redirect":""}]}

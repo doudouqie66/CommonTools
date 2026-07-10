@@ -1,0 +1,1 @@
+{"Name":"EPerfValueType","Description":" ","Variables":[{"Name":"Integer","Value":"0","Description":" "},{"Name":"Float","Value":"1","Description":" "},{"Name":"Percentage","Value":"2","Description":" "},{"Name":"TimeMs","Value":"3","Description":" "},{"Name":"MemoryBytes","Value":"4","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"ERichCurveInterpMode","Description":" ","Variables":[{"Name":"RCIM_Linear","Value":"0","Description":" "},{"Name":"RCIM_Constant","Value":"1","Description":" "},{"Name":"RCIM_Cubic","Value":"2","Description":" "},{"Name":"RCIM_None","Value":"3","Description":" "}]}

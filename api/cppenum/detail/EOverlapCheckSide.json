@@ -1,0 +1,1 @@
+{"Name":"EOverlapCheckSide","Description":" ","Variables":[{"Name":"OverlapCheckSide_OnlyClient","Value":"0","Description":" "},{"Name":"OverlapCheckSide_OnlyServer","Value":"1","Description":" "},{"Name":"OverlapCheckSide_BothSide","Value":"2","Description":" "}]}

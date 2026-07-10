@@ -1,0 +1,1 @@
+{"Name":"EVirtualItemAddItemSource","Description":" ","Variables":[{"Name":"Custom","Value":"0","Description":"调用Add接口添加"},{"Name":"Buy","Value":"1","Description":"商业化（绿洲币）购买"},{"Name":"Compensate","Value":"2","Description":"补偿"},{"Name":"Redeem","Value":"3","Description":"兑换"},{"Name":"Mail","Value":"4","Description":"邮件领取"}]}

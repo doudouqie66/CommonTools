@@ -1,0 +1,1 @@
+{"Name":"EDynaConsoleVariableNetExecutionPolicy","Description":" ","Variables":[{"Name":"Both","Value":"0","Description":" "},{"Name":"ServerOnly","Value":"1","Description":" "},{"Name":"ClientOnly","Value":"2","Description":" "}]}

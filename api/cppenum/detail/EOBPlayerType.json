@@ -1,0 +1,1 @@
+{"Name":"EOBPlayerType","Description":" ","Variables":[{"Name":"EOBTypeNull","Value":"0","Description":" "},{"Name":"EOBTypeCameraTypePlayer","Value":"1","Description":" "},{"Name":"EOBTypeCameraTypeFreeView","Value":"2","Description":" "},{"Name":"EOBTypeCameraTypeMap","Value":"3","Description":" "},{"Name":"EOBTypeCameraTypePos","Value":"4","Description":" "}]}

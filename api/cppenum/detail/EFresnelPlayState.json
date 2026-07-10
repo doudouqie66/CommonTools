@@ -1,0 +1,1 @@
+{"Name":"EFresnelPlayState","Description":" ","Variables":[{"Name":"EFresnelPlayState_None","Value":"0","Description":" "},{"Name":"EFresnelPlayState_WaitForStart","Value":"1","Description":" "},{"Name":"EFresnelPlayState_Play","Value":"2","Description":" "}]}

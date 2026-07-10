@@ -1,0 +1,1 @@
+{"Name":"EMVVMBindingMode","Description":" ","Variables":[{"Name":"OneWayToDestination","Value":"0","Description":" "},{"Name":"TwoWay","Value":"1","Description":" "},{"Name":"OneWayToSource","Value":"2","Description":" "},{"Name":"OneTimeToDestination","Value":"3","Description":" "},{"Name":"OneTimeToSource","Value":"4","Description":" "}]}

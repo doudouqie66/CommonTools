@@ -1,0 +1,1 @@
+{"Name":"ENetEmoteType","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"Interrupt","Value":"1","Description":" "},{"Name":"PlayEmote","Value":"2","Description":" "},{"Name":"FollowEmote","Value":"3","Description":" "},{"Name":"PairEmote","Value":"4","Description":" "},{"Name":"SetEmoteRate","Value":"5","Description":" "}]}

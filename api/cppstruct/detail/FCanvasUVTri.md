@@ -1,0 +1,21 @@
+---
+title: FCanvasUVTri
+---
+
+# FCanvasUVTri
+
+Simple 2d triangle with UVs
+
+## Variables
+
+| Name | Type | Description |
+|------|------|-------------|
+| V0_Pos | FVector2D | Position of first vertex |
+| V0_UV | FVector2D | UV of first vertex |
+| V0_Color | FLinearColor | Color of first vertex |
+| V1_Pos | FVector2D | Position of second vertex |
+| V1_UV | FVector2D | UV of second vertex |
+| V1_Color | FLinearColor | Color of second vertex |
+| V2_Pos | FVector2D | Position of third vertex |
+| V2_UV | FVector2D | UV of third vertex |
+| V2_Color | FLinearColor | Color of third vertex |

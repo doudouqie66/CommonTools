@@ -1,0 +1,1 @@
+{"Name":"FVirtualBone","Description":"","Variables":[{"Name":"SourceBoneName","Type":"FName","Description":"","Redirect":""},{"Name":"TargetBoneName","Type":"FName","Description":"","Redirect":""},{"Name":"VirtualBoneName","Type":"FName","Description":"","Redirect":""}]}

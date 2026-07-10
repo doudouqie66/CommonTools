@@ -1,0 +1,1 @@
+{"Name":"EDepthOfFieldMethod","Description":" ","Variables":[{"Name":"DOFM_BokehDOF","Value":"0","Description":" "},{"Name":"DOFM_Gaussian","Value":"1","Description":" "},{"Name":"DOFM_CircleDOF","Value":"2","Description":" "},{"Name":"DOFM_MAX","Value":"3","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"FA2CSPose","Description":"Component space poses.","Variables":[{"Name":"ComponentSpaceFlags","Type":"TArray \u003c uint8 \u003e","Description":"Once evaluated to be mesh space, this flag will be set.","Redirect":""}]}

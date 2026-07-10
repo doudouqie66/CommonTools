@@ -1,0 +1,1 @@
+{"Name":"FComponentSpacePose","Description":"A pose in component space (i.e. each transform is relative to the component's transform)","Variables":[{"Name":"Transforms","Type":"TArray \u003c FTransform \u003e","Description":"","Redirect":""},{"Name":"Names","Type":"TArray \u003c FName \u003e","Description":"","Redirect":""}]}

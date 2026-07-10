@@ -1,0 +1,1 @@
+{"Name":"EPinHidingMode","Description":" ","Variables":[{"Name":"NeverAsPin","Value":"0","Description":" "},{"Name":"PinHiddenByDefault","Value":"1","Description":" "},{"Name":"PinShownByDefault","Value":"2","Description":" "},{"Name":"AlwaysAsPin","Value":"3","Description":" "}]}

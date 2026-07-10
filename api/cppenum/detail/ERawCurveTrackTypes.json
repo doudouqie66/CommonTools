@@ -1,0 +1,1 @@
+{"Name":"ERawCurveTrackTypes","Description":" ","Variables":[{"Name":"RCT_Float","Value":"0","Description":" "},{"Name":"RCT_Vector","Value":"1","Description":" "},{"Name":"RCT_Transform","Value":"2","Description":" "},{"Name":"RCT_MAX","Value":"3","Description":" "}]}

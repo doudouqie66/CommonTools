@@ -1,0 +1,1 @@
+{"Name":"ParticleReplayState","Description":" ","Variables":[{"Name":"PRS_Disabled","Value":"0","Description":" "},{"Name":"PRS_Capturing","Value":"1","Description":" "},{"Name":"PRS_Replaying","Value":"2","Description":" "},{"Name":"PRS_MAX","Value":"3","Description":" "}]}

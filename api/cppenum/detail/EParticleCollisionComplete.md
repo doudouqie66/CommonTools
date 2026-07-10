@@ -1,0 +1,19 @@
+---
+title: EParticleCollisionComplete
+---
+
+# EParticleCollisionComplete
+
+ 
+
+## Variables
+
+| Name | Type | Description |
+|------|------|-------------|
+| EPCC_Kill |  |   |
+| EPCC_Freeze |  |   |
+| EPCC_HaltCollisions |  |   |
+| EPCC_FreezeTranslation |  |   |
+| EPCC_FreezeRotation |  |   |
+| EPCC_FreezeMovement |  |   |
+| EPCC_MAX |  |   |

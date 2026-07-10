@@ -1,0 +1,1 @@
+{"Name":"FSubtitleCue","Description":"A line of subtitle text and the time at which it should be displayed.","Variables":[{"Name":"Text","Type":"FText","Description":"The text to appear in the subtitle.","Redirect":""},{"Name":"Time","Type":"float","Description":"The time at which the subtitle is to be displayed, in seconds relative to the beginning of the line.","Redirect":""}]}

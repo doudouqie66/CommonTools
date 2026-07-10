@@ -1,0 +1,1 @@
+{"Name":"EHomelandMutexState","Description":" ","Variables":[{"Name":"HOME_MUTEX_NONE","Value":"0","Description":" "},{"Name":"HOME_MUTEX_INTERACT","Value":"1","Description":" "},{"Name":"HOME_MUTEX_BUILDING","Value":"2","Description":" "},{"Name":"HOME_MUTEX_MAX","Value":"3","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"EProxyLODCollisionType","Description":" ","Variables":[{"Name":"NoCollisionGeneration","Value":"0","Description":" "},{"Name":"SimplifiedGeneration","Value":"1","Description":" "},{"Name":"ConvexHullGeneration","Value":"2","Description":" "}]}

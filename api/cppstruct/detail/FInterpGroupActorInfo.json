@@ -1,0 +1,1 @@
+{"Name":"FInterpGroupActorInfo","Description":"A group and all the actors controlled by the group","Variables":[{"Name":"ObjectName","Type":"FName","Description":"","Redirect":""},{"Name":"Actors","Type":"TArray \u003c AActor * \u003e","Description":"","Redirect":""}]}

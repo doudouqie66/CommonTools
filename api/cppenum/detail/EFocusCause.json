@@ -1,0 +1,1 @@
+{"Name":"EFocusCause","Description":" ","Variables":[{"Name":"Mouse","Value":"0","Description":" "},{"Name":"Navigation","Value":"1","Description":" "},{"Name":"SetDirectly","Value":"2","Description":" "},{"Name":"Cleared","Value":"3","Description":" "},{"Name":"OtherWidgetLostFocus","Value":"4","Description":" "},{"Name":"WindowActivate","Value":"5","Description":" "}]}

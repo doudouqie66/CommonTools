@@ -1,0 +1,1 @@
+{"Name":"EProjectPackagingBuild","Description":" ","Variables":[{"Name":"Always","Value":"0","Description":" "},{"Name":"Never","Value":"1","Description":" "},{"Name":"IfProjectHasCode","Value":"2","Description":" "},{"Name":"IfEditorWasBuiltLocally","Value":"3","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"ECullingStrategy","Description":" ","Variables":[{"Name":"CullOnEntry","Value":"0","Description":" "},{"Name":"CullOnExit","Value":"1","Description":" "},{"Name":"OnlyReservedOnEntry","Value":"2","Description":" "}]}

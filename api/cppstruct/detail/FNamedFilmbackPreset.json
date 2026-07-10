@@ -1,0 +1,1 @@
+{"Name":"FNamedFilmbackPreset","Description":"A named bundle of filmback settings used to implement filmback presets","Variables":[{"Name":"Name","Type":"FString","Description":"Name for the preset.","Redirect":""},{"Name":"FilmbackSettings","Type":"FCameraFilmbackSettings","Description":"","Redirect":""}]}

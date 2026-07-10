@@ -1,0 +1,1 @@
+{"Name":"EPCGMatchMaxDistanceMode","Description":" ","Variables":[{"Name":"NoMaxDistance","Value":"0","Description":" "},{"Name":"UseConstantMaxDistance","Value":"1","Description":" "},{"Name":"AttributeMaxDistance","Value":"2","Description":" "}]}

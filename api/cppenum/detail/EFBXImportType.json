@@ -1,0 +1,1 @@
+{"Name":"EFBXImportType","Description":" ","Variables":[{"Name":"FBXIT_StaticMesh","Value":"0","Description":" "},{"Name":"FBXIT_SkeletalMesh","Value":"1","Description":" "},{"Name":"FBXIT_Animation","Value":"2","Description":" "},{"Name":"FBXIT_MAX","Value":"3","Description":" "}]}

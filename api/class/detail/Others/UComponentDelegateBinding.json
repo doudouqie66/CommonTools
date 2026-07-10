@@ -1,0 +1,1 @@
+{"Name":"UComponentDelegateBinding","Description":"","Variables":[{"Name":"ComponentDelegateBindings","Type":"TArray \u003c FBlueprintComponentDelegateBinding \u003e","Description":"","Redirect":""}],"Functions":null,"Parents":["UDynamicBlueprintBinding"],"Event":null,"Delegate":null,"Language":"cpp"}

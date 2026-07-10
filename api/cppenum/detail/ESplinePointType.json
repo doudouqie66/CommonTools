@@ -1,0 +1,1 @@
+{"Name":"ESplinePointType","Description":" ","Variables":[{"Name":"Linear","Value":"0","Description":" "},{"Name":"Curve","Value":"1","Description":" "},{"Name":"Constant","Value":"2","Description":" "},{"Name":"CurveClamped","Value":"3","Description":" "},{"Name":"CurveCustomTangent","Value":"4","Description":" "}]}

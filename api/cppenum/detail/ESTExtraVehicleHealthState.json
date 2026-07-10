@@ -1,0 +1,1 @@
+{"Name":"ESTExtraVehicleHealthState","Description":" ","Variables":[{"Name":"VHS_Good","Value":"0","Description":" "},{"Name":"VHS_Smoking","Value":"1","Description":" "},{"Name":"VHS_Burning","Value":"2","Description":" "},{"Name":"VHS_Destroyed","Value":"3","Description":" "}]}

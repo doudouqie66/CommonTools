@@ -1,0 +1,1 @@
+{"Name":"FRootMotionSource_ConstantForce","Description":"ConstantForce applies a fixed force to the target","Variables":[{"Name":"Force","Type":"FVector","Description":"","Redirect":""},{"Name":"StrengthOverTime","Type":"UCurveFloat *","Description":"","Redirect":""}]}

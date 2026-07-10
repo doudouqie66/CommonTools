@@ -1,0 +1,1 @@
+{"Name":"EPlayOnLaunchConfiguration","Description":" ","Variables":[{"Name":"LaunchConfig_Default","Value":"0","Description":" "},{"Name":"LaunchConfig_Debug","Value":"1","Description":" "},{"Name":"LaunchConfig_Development","Value":"2","Description":" "},{"Name":"LaunchConfig_Test","Value":"3","Description":" "},{"Name":"LaunchConfig_Shipping","Value":"4","Description":" "}]}

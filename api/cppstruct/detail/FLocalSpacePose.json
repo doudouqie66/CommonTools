@@ -1,0 +1,1 @@
+{"Name":"FLocalSpacePose","Description":"A pose in local space (i.e. each transform is relative to its parent)","Variables":[{"Name":"Transforms","Type":"TArray \u003c FTransform \u003e","Description":"","Redirect":""},{"Name":"Names","Type":"TArray \u003c FName \u003e","Description":"","Redirect":""}]}

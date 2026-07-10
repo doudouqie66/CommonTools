@@ -1,0 +1,1 @@
+{"Name":"EPlayerLadderState","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"PreClimbing","Value":"1","Description":" "},{"Name":"OnLadder","Value":"2","Description":" "},{"Name":"PlatformVaulting","Value":"3","Description":" "},{"Name":"OnLadderPause","Value":"4","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"EVisibilityTrackCondition","Description":" ","Variables":[{"Name":"EVTC_Always","Value":"0","Description":" "},{"Name":"EVTC_GoreEnabled","Value":"1","Description":" "},{"Name":"EVTC_GoreDisabled","Value":"2","Description":" "},{"Name":"EVTC_MAX","Value":"3","Description":" "}]}

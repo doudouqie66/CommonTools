@@ -1,0 +1,1 @@
+{"Name":"EAICheckShootingPoseType","Description":" ","Variables":[{"Name":"ShootingPose_Normal","Value":"0","Description":" "},{"Name":"ShootingPose_Stand","Value":"1","Description":" "},{"Name":"ShootingPose_Peek","Value":"2","Description":" "},{"Name":"ShootingPose_WaitVisibilityCheck","Value":"254","Description":" "}]}

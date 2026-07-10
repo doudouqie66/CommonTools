@@ -1,0 +1,1 @@
+{"Name":"EAIFollowSpeedType","Description":" ","Variables":[{"Name":"SlowWalk","Value":"0","Description":" "},{"Name":"Walk","Value":"1","Description":" "},{"Name":"Run","Value":"2","Description":" "},{"Name":"Sprint","Value":"3","Description":" "},{"Name":"OverSprint","Value":"4","Description":" "}]}

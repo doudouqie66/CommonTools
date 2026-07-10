@@ -1,0 +1,1 @@
+{"Name":"EUGCMobileBindLimit","Description":" ","Variables":[{"Name":"NOLIMIT","Value":"0","Description":" "},{"Name":"ONLYCHILD","Value":"1","Description":" "},{"Name":"ONLYPARENT","Value":"2","Description":" "},{"Name":"LIMIT","Value":"3","Description":" "}]}

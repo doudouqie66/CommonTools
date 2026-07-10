@@ -1,0 +1,1 @@
+{"Name":"EShadowCacheInvalidationBehavior","Description":" ","Variables":[{"Name":"Auto","Value":"0","Description":" "},{"Name":"Always","Value":"1","Description":" "},{"Name":"Rigid","Value":"2","Description":" "},{"Name":"Static","Value":"3","Description":" "}]}

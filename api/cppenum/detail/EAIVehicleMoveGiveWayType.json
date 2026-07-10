@@ -1,0 +1,1 @@
+{"Name":"EAIVehicleMoveGiveWayType","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"LowThrottle","Value":"1","Description":" "},{"Name":"RandomSteering","Value":"2","Description":" "},{"Name":"NoSteeringBrake","Value":"3","Description":" "}]}

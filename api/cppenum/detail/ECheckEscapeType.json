@@ -1,0 +1,1 @@
+{"Name":"ECheckEscapeType","Description":" ","Variables":[{"Name":"NoCheck","Value":"0","Description":" "},{"Name":"CheckGlobal","Value":"1","Description":" "},{"Name":"CheckTeam","Value":"2","Description":" "},{"Name":"WarmGame","Value":"3","Description":" "}]}

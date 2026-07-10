@@ -1,0 +1,1 @@
+{"Name":"FBlendSample","Description":"Sample data","Variables":[{"Name":"Animation","Type":"UAnimSequence *","Description":"","Redirect":""},{"Name":"SampleValue","Type":"FVector","Description":"","Redirect":""},{"Name":"RateScale","Type":"float","Description":"","Redirect":""}]}

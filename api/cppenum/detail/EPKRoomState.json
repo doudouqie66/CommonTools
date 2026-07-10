@@ -1,0 +1,1 @@
+{"Name":"EPKRoomState","Description":" ","Variables":[{"Name":"Waiting","Value":"0","Description":" "},{"Name":"BeginCanQuit","Value":"1","Description":" "},{"Name":"BeginCanNotQuit","Value":"2","Description":" "},{"Name":"Fighting","Value":"3","Description":" "},{"Name":"End","Value":"4","Description":" "}]}

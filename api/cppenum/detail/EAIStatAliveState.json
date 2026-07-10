@@ -1,0 +1,1 @@
+{"Name":"EAIStatAliveState","Description":" ","Variables":[{"Name":"ALIVE","Value":"0","Description":" "},{"Name":"DYING","Value":"1","Description":" "},{"Name":"DEAD","Value":"2","Description":" "},{"Name":"EVACUATED","Value":"3","Description":" "}]}

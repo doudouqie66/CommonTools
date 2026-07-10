@@ -1,0 +1,1 @@
+{"Name":"EGameplayTagAnimListCompType","Description":" ","Variables":[{"Name":"AnimListComp_Character","Value":"0","Description":" "},{"Name":"AnimListComp_Weapon","Value":"1","Description":" "},{"Name":"AnimListComp_Monster","Value":"2","Description":" "},{"Name":"AnimListComp_Max","Value":"3","Description":" "}]}

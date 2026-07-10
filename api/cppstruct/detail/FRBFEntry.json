@@ -1,0 +1,1 @@
+{"Name":"FRBFEntry","Description":"Struct storing a particular entry within the RBF","Variables":[{"Name":"Values","Type":"TArray \u003c float \u003e","Description":"Set of values for this target, size must be TargetDimensions","Redirect":""}]}

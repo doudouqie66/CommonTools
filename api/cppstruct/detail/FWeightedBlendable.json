@@ -1,0 +1,1 @@
+{"Name":"FWeightedBlendable","Description":"","Variables":[{"Name":"Weight","Type":"float","Description":"0:no effect .. 1:full effect","Redirect":""},{"Name":"Object","Type":"UObject *","Description":"should be of the IBlendableInterface type but UProperties cannot express that","Redirect":""}]}

@@ -1,0 +1,1 @@
+{"Name":"FPaperTileMetadata","Description":"","Variables":[{"Name":"UserDataName","Type":"FName","Description":"","Redirect":""},{"Name":"CollisionData","Type":"FSpriteGeometryCollection","Description":"","Redirect":""},{"Name":"TerrainMembership","Type":"uint8","Description":"","Redirect":""}]}

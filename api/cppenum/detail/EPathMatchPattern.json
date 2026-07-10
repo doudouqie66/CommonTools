@@ -1,0 +1,1 @@
+{"Name":"EPathMatchPattern","Description":" ","Variables":[{"Name":"Exact","Value":"0","Description":" "},{"Name":"StartsWith","Value":"1","Description":" "},{"Name":"EndsWith","Value":"2","Description":" "},{"Name":"Contains","Value":"3","Description":" "},{"Name":"Wildcard","Value":"4","Description":" "},{"Name":"Regex","Value":"5","Description":" "}]}

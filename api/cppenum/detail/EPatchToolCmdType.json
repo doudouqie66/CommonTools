@@ -1,0 +1,1 @@
+{"Name":"EPatchToolCmdType","Description":" ","Variables":[{"Name":"kPatchToolNone","Value":"0","Description":" "},{"Name":"kPatchToolGenGameFileList","Value":"1","Description":" "},{"Name":"kPatchToolCheckPatchFileList","Value":"2","Description":" "},{"Name":"kPatchToolAddMaterialRef","Value":"3","Description":" "}]}

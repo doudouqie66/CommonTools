@@ -1,0 +1,1 @@
+{"Name":"FClothVertBoneData","Description":"","Variables":[{"Name":"NumInfluences","Type":"int32","Description":"","Redirect":""},{"Name":"BoneIndices","Type":"uint16","Description":"","Redirect":""},{"Name":"BoneWeights","Type":"float","Description":"","Redirect":""}]}

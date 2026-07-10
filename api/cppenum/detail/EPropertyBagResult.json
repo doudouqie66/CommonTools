@@ -1,0 +1,1 @@
+{"Name":"EPropertyBagResult","Description":" ","Variables":[{"Name":"Success","Value":"0","Description":" "},{"Name":"TypeMismatch","Value":"1","Description":" "},{"Name":"OutOfBounds","Value":"2","Description":" "},{"Name":"PropertyNotFound","Value":"3","Description":" "}]}

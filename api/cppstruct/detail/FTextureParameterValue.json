@@ -1,0 +1,1 @@
+{"Name":"FTextureParameterValue","Description":"Editable texture parameter.","Variables":[{"Name":"ParameterName","Type":"FName","Description":"","Redirect":""},{"Name":"ParameterValue","Type":"UTexture *","Description":"","Redirect":""},{"Name":"ExpressionGUID","Type":"FGuid","Description":"","Redirect":""}]}

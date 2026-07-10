@@ -1,0 +1,1 @@
+{"Name":"FOptionalMovieSceneBlendType","Description":"Optional blend type structure","Variables":[{"Name":"BlendType","Type":"EMovieSceneBlendType","Description":"The actual blend type","Redirect":""},{"Name":"bIsValid","Type":"bool","Description":"Boolean indicating whether BlendType is valid","Redirect":""}]}

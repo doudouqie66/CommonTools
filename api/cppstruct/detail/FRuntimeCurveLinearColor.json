@@ -1,0 +1,1 @@
+{"Name":"FRuntimeCurveLinearColor","Description":"","Variables":[{"Name":"ColorCurves","Type":"FRichCurve","Description":"","Redirect":""},{"Name":"ExternalCurve","Type":"UCurveLinearColor *","Description":"","Redirect":""}]}

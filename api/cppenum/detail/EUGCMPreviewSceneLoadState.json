@@ -1,0 +1,1 @@
+{"Name":"EUGCMPreviewSceneLoadState","Description":" ","Variables":[{"Name":"IDLE","Value":"0","Description":" "},{"Name":"LOADING","Value":"1","Description":" "},{"Name":"LOADED","Value":"2","Description":" "},{"Name":"UNLOADING","Value":"3","Description":" "},{"Name":"UNLOADED","Value":"4","Description":" "}]}

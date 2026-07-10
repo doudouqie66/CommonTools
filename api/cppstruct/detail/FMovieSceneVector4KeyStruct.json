@@ -1,0 +1,1 @@
+{"Name":"FMovieSceneVector4KeyStruct","Description":"Proxy structure for vector4 section key data.","Variables":[{"Name":"Vector","Type":"FVector4","Description":"They key's vector value.","Redirect":""}]}

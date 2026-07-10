@@ -1,0 +1,1 @@
+{"Name":"ESuperPeopleSkillActionType","Description":" ","Variables":[{"Name":"ESPSAT_None","Value":"0","Description":" "},{"Name":"ESPSAT_Immediately","Value":"1","Description":" "},{"Name":"ESPSAT_Hold","Value":"2","Description":" "},{"Name":"ESPSAT_Exec","Value":"3","Description":" "},{"Name":"ESPSAT_Cancel","Value":"4","Description":" "}]}

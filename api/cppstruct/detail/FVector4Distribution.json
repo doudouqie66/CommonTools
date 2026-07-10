@@ -1,0 +1,1 @@
+{"Name":"FVector4Distribution","Description":"Type-safe 4-vector distribution.","Variables":[{"Name":"Table","Type":"FDistributionLookupTable","Description":"","Redirect":""}]}

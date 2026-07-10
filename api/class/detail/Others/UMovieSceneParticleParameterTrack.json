@@ -1,0 +1,1 @@
+{"Name":"UMovieSceneParticleParameterTrack","Description":"Handles manipulation of material parameters in a movie scene.","Variables":[{"Name":"Sections","Type":"TArray \u003c UMovieSceneSection * \u003e","Description":"The sections owned by this track .","Redirect":""}],"Functions":null,"Parents":["UMovieSceneNameableTrack"],"Event":null,"Delegate":null,"Language":"cpp"}

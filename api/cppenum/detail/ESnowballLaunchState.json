@@ -1,0 +1,1 @@
+{"Name":"ESnowballLaunchState","Description":" ","Variables":[{"Name":"ESLS_None","Value":"0","Description":" "},{"Name":"ESLS_Pushing","Value":"1","Description":" "},{"Name":"ESLS_JumpingIn","Value":"2","Description":" "},{"Name":"ESLS_RollingAfterLaunch","Value":"3","Description":" "},{"Name":"ESLS_Finish","Value":"4","Description":" "}]}

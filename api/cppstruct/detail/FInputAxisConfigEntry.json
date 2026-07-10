@@ -1,0 +1,1 @@
+{"Name":"FInputAxisConfigEntry","Description":"Configurable properties for control axes.","Variables":[{"Name":"AxisKeyName","Type":"FName","Description":"Axis Key these properties apply to","Redirect":""},{"Name":"AxisProperties","Type":"FInputAxisProperties","Description":"Properties for the Axis Key","Redirect":""}]}

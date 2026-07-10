@@ -1,0 +1,1 @@
+{"Name":"EMoveBaseSpeedType","Description":" ","Variables":[{"Name":"MBST_Normal","Value":"0","Description":" "},{"Name":"MBST_Dynamic","Value":"1","Description":" "},{"Name":"MBST_Fast","Value":"2","Description":" "},{"Name":"MBST_Fly","Value":"3","Description":" "}]}

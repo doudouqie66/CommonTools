@@ -1,0 +1,1 @@
+{"Name":"EMagicFieldEventType","Description":" ","Variables":[{"Name":"OnEnter","Value":"0","Description":" "},{"Name":"OnExit","Value":"1","Description":" "},{"Name":"OnInterval","Value":"2","Description":" "},{"Name":"OnStart","Value":"3","Description":" "},{"Name":"OnEnd","Value":"4","Description":" "}]}

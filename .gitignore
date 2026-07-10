@@ -1,0 +1,15 @@
+# OS
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# Obsidian workspace cache (个人布局状态，不重要)
+.obsidian/workspace.json
+.obsidian/workspace
+
+# Claude 会话缓存
+.claude/projects/
+.claude/sessions/
+
+# 脚本备份
+*.bak

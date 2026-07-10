@@ -1,0 +1,1 @@
+{"Name":"UMapBuildDataRegistry","Description":"","Variables":[{"Name":"LevelLightingQuality","Type":"TEnumAsByte \u003c enum ELightingBuildQuality \u003e","Description":"The lighting quality the level was last built with","Redirect":""}],"Functions":null,"Parents":["UObject"],"Event":null,"Delegate":null,"Language":"cpp"}

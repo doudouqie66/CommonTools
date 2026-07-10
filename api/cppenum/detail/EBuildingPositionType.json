@@ -1,0 +1,1 @@
+{"Name":"EBuildingPositionType","Description":" ","Variables":[{"Name":"BPT_NONE","Value":"0","Description":" "},{"Name":"BPT_NEAR","Value":"1","Description":" "},{"Name":"BPT_FAR","Value":"2","Description":" "},{"Name":"BPT_MAX","Value":"3","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"ECallingVehicleResult","Description":" ","Variables":[{"Name":"CanntBeCalled","Value":"0","Description":" "},{"Name":"OnTheWay","Value":"1","Description":" "},{"Name":"OutOfDistance","Value":"2","Description":" "},{"Name":"OtherCalled","Value":"3","Description":" "}]}

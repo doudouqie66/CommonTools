@@ -1,0 +1,1 @@
+{"Name":"FTOD_SunAndMoon","Description":"","Variables":[{"Name":"CloudMaskMul","Type":"float","Description":"","Redirect":""},{"Name":"RimContrast","Type":"float","Description":"","Redirect":""},{"Name":"UseSunOrMoon","Type":"float","Description":"","Redirect":""},{"Name":"SunMoonTransparent","Type":"float","Description":"","Redirect":""}]}

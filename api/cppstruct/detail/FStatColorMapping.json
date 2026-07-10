@@ -1,0 +1,1 @@
+{"Name":"FStatColorMapping","Description":"","Variables":[{"Name":"StatName","Type":"FString","Description":"","Redirect":""},{"Name":"ColorMap","Type":"TArray \u003c FStatColorMapEntry \u003e","Description":"","Redirect":""},{"Name":"DisableBlend","Type":"uint32","Description":"","Redirect":""}]}

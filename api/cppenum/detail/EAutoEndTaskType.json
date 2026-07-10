@@ -1,0 +1,1 @@
+{"Name":"EAutoEndTaskType","Description":" ","Variables":[{"Name":"AutoEndTaskType_None","Value":"0","Description":" "},{"Name":"AutoEndTaskType_Deactivate","Value":"1","Description":" "},{"Name":"AutoEndTaskType_LeaveCurrentState","Value":"2","Description":" "}]}

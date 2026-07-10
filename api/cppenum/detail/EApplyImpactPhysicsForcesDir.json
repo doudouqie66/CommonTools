@@ -1,0 +1,1 @@
+{"Name":"EApplyImpactPhysicsForcesDir","Description":" ","Variables":[{"Name":"Normal","Value":"0","Description":" "},{"Name":"UseBumpedImpactPointCentre","Value":"1","Description":" "},{"Name":"UseBumpedImpactPointCentreAndDirAlterStandard","Value":"2","Description":" "},{"Name":"UseBumpedImpactPointCentreAndDirStandard","Value":"3","Description":" "}]}

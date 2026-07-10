@@ -1,0 +1,1 @@
+{"Name":"FAnchors","Description":"Describes how a widget is anchored.","Variables":[{"Name":"Minimum","Type":"FVector2D","Description":"Holds the minimum anchors, left + top.","Redirect":""},{"Name":"Maximum","Type":"FVector2D","Description":"Holds the maximum anchors, right + bottom.","Redirect":""}]}

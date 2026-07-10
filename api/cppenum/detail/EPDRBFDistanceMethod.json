@@ -1,0 +1,1 @@
+{"Name":"EPDRBFDistanceMethod","Description":" ","Variables":[{"Name":"Euclidean","Value":"0","Description":" "},{"Name":"Quaternion","Value":"1","Description":" "},{"Name":"SwingAngle","Value":"2","Description":" "},{"Name":"TwistAngle","Value":"3","Description":" "},{"Name":"DefaultMethod","Value":"4","Description":" "},{"Name":"DirectionVector","Value":"5","Description":" "}]}

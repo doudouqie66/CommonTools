@@ -1,0 +1,1 @@
+{"Name":"EFarmOperationType","Description":" ","Variables":[{"Name":"Plant","Value":"0","Description":" "},{"Name":"Watering","Value":"1","Description":" "},{"Name":"Weed","Value":"2","Description":" "},{"Name":"Harvest","Value":"3","Description":" "},{"Name":"DigOut","Value":"4","Description":" "},{"Name":"TakeSeed","Value":"5","Description":" "}]}

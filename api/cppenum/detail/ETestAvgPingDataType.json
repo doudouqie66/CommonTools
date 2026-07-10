@@ -1,0 +1,1 @@
+{"Name":"ETestAvgPingDataType","Description":" ","Variables":[{"Name":"NotValid","Value":"0","Description":" "},{"Name":"Replicated","Value":"1","Description":" "},{"Name":"ReliableRPC","Value":"2","Description":" "},{"Name":"UnReliableRPC","Value":"3","Description":" "}]}

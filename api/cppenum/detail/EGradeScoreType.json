@@ -1,0 +1,1 @@
+{"Name":"EGradeScoreType","Description":" ","Variables":[{"Name":"GST_GPU","Value":"0","Description":" "},{"Name":"GST_Memory","Value":"1","Description":" "},{"Name":"GST_CPUCore","Value":"2","Description":" "},{"Name":"GST_CPUFreq","Value":"3","Description":" "},{"Name":"GST_MAX","Value":"4","Description":" "}]}

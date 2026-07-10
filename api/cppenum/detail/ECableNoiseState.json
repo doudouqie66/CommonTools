@@ -1,0 +1,1 @@
+{"Name":"ECableNoiseState","Description":" ","Variables":[{"Name":"Idle","Value":"0","Description":" "},{"Name":"Flying","Value":"1","Description":" "},{"Name":"Impact","Value":"2","Description":" "},{"Name":"Settling","Value":"3","Description":" "},{"Name":"Taut","Value":"4","Description":" "}]}

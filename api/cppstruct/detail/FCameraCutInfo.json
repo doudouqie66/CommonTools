@@ -1,0 +1,1 @@
+{"Name":"FCameraCutInfo","Description":"Helper struct for storing the camera world-position for each camera cut in the cinematic.","Variables":[{"Name":"Location","Type":"FVector","Description":"","Redirect":""},{"Name":"TimeStamp","Type":"float","Description":"","Redirect":""}]}

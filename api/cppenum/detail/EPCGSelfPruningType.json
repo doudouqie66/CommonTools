@@ -1,0 +1,1 @@
+{"Name":"EPCGSelfPruningType","Description":" ","Variables":[{"Name":"LargeToSmall","Value":"0","Description":" "},{"Name":"SmallToLarge","Value":"1","Description":" "},{"Name":"AllEqual","Value":"2","Description":" "},{"Name":"None","Value":"3","Description":" "},{"Name":"RemoveDuplicates","Value":"4","Description":" "}]}

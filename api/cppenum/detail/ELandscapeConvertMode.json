@@ -1,0 +1,1 @@
+{"Name":"ELandscapeConvertMode","Description":" ","Variables":[{"Name":"Invalid","Value":"-1","Description":" "},{"Name":"Expand","Value":"0","Description":"-- the value appears as -1 more due to UHT parse error rather than it actually be -1."},{"Name":"Clip","Value":"1","Description":" "},{"Name":"Resample","Value":"2","Description":" "}]}

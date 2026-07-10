@@ -1,0 +1,1 @@
+{"Name":"FMovieScene3DRotationKeyStruct","Description":"Proxy structure for translation keys in 3D transform sections.","Variables":[{"Name":"Rotation","Type":"FRotator","Description":"The key's rotation value.","Redirect":""},{"Name":"Time","Type":"float","Description":"The key's time.","Redirect":""}]}

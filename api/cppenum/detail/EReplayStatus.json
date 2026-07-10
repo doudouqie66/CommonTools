@@ -1,0 +1,1 @@
+{"Name":"EReplayStatus","Description":" ","Variables":[{"Name":"NeedInstall","Value":"0","Description":" "},{"Name":"Installed","Value":"1","Description":" "},{"Name":"Downloading","Value":"2","Description":" "},{"Name":"DownloadingPause","Value":"3","Description":" "}]}

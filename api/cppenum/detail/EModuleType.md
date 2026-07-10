@@ -1,0 +1,22 @@
+---
+title: EModuleType
+---
+
+# EModuleType
+
+ 
+
+## Variables
+
+| Name | Type | Description |
+|------|------|-------------|
+| EPMT_General |  |   |
+| EPMT_TypeData |  |   |
+| EPMT_Beam |  |   |
+| EPMT_Trail |  |   |
+| EPMT_Spawn |  |   |
+| EPMT_Required |  |   |
+| EPMT_Event |  |   |
+| EPMT_Light |  |   |
+| EPMT_SubUV |  |   |
+| EPMT_MAX |  |   |

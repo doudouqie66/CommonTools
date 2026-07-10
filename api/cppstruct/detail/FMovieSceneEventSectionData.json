@@ -1,0 +1,1 @@
+{"Name":"FMovieSceneEventSectionData","Description":"A curve of events","Variables":[{"Name":"KeyTimes","Type":"TArray \u003c float \u003e","Description":"Sorted array of key times","Redirect":""},{"Name":"KeyValues","Type":"TArray \u003c FEventPayload \u003e","Description":"Array of values that correspond to each key time","Redirect":""}]}

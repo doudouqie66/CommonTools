@@ -1,0 +1,1 @@
+{"Name":"FUIOperationType","Description":" ","Variables":[{"Name":"OP_Create","Value":"0","Description":" "},{"Name":"OP_Destroy","Value":"1","Description":" "},{"Name":"OP_Show","Value":"2","Description":" "},{"Name":"OP_Hide","Value":"3","Description":" "}]}

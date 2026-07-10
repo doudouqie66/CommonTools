@@ -1,0 +1,1 @@
+{"Name":"FMovieSceneSpawnSectionTemplate","Description":"Spawn track eval template that evaluates a curve","Variables":[{"Name":"Curve","Type":"FIntegralCurve","Description":"","Redirect":""}]}

@@ -1,0 +1,1 @@
+{"Name":"ETriggerLevelLoadState","Description":" ","Variables":[{"Name":"Loading","Value":"0","Description":" "},{"Name":"Loaded","Value":"1","Description":" "},{"Name":"Unloading","Value":"2","Description":" "},{"Name":"Unloaded","Value":"3","Description":" "}]}

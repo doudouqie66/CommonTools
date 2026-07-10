@@ -1,0 +1,1 @@
+{"Name":"FNavigationSystemRunMode","Description":" ","Variables":[{"Name":"InvalidMode","Value":"0","Description":" "},{"Name":"GameMode","Value":"1","Description":" "},{"Name":"EditorMode","Value":"2","Description":" "},{"Name":"SimulationMode","Value":"3","Description":" "},{"Name":"PIEMode","Value":"4","Description":" "}]}

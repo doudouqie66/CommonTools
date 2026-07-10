@@ -1,0 +1,1 @@
+{"Name":"FScriptNetworkRemoteContent","Description":"","Variables":[{"Name":"Content","Type":"TArray \u003c uint8 \u003e","Description":"","Redirect":""},{"Name":"ContentNumBits","Type":"int32","Description":"","Redirect":""}]}

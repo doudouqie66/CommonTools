@@ -1,0 +1,1 @@
+{"Name":"FStringCurve","Description":"Implements a curve of FStrings.","Variables":[{"Name":"DefaultValue","Type":"FString","Description":"Default value","Redirect":""},{"Name":"Keys","Type":"TArray \u003c FStringCurveKey \u003e","Description":"Sorted array of keys","Redirect":""}]}

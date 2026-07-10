@@ -1,0 +1,1 @@
+{"Name":"FROscillator","Description":"Defines FRotator oscillation.","Variables":[{"Name":"Pitch","Type":"FFOscillator","Description":"Pitch oscillation.","Redirect":""},{"Name":"Yaw","Type":"FFOscillator","Description":"Yaw oscillation.","Redirect":""},{"Name":"Roll","Type":"FFOscillator","Description":"Roll oscillation.","Redirect":""}]}

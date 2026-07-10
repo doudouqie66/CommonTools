@@ -1,0 +1,1 @@
+{"Name":"FNameCurve","Description":"Implements a curve of FNames.","Variables":[{"Name":"Keys","Type":"TArray \u003c FNameCurveKey \u003e","Description":"Sorted array of keys","Redirect":""}]}

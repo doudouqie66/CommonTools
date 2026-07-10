@@ -1,0 +1,1 @@
+{"Name":"FRootMotionSourceSettings","Description":"Structure for RootMotionSource option flags \n  (used for convenience instead of having to manually manipulate flag bitfields)","Variables":[{"Name":"Flags","Type":"uint8","Description":"","Redirect":""}]}

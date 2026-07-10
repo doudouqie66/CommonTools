@@ -1,0 +1,1 @@
+{"Name":"USoundNodeConcatenator","Description":"","Variables":[{"Name":"InputVolume","Type":"TArray \u003c float \u003e","Description":"Volume multiplier for each input.","Redirect":""}],"Functions":null,"Parents":["USoundNode"],"Event":null,"Delegate":null,"Language":"cpp"}

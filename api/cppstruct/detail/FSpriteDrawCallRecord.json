@@ -1,0 +1,1 @@
+{"Name":"FSpriteDrawCallRecord","Description":"","Variables":[{"Name":"Destination","Type":"FVector","Description":"","Redirect":""},{"Name":"BaseTexture","Type":"UTexture *","Description":"","Redirect":""},{"Name":"Color","Type":"FColor","Description":"","Redirect":""}]}

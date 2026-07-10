@@ -1,0 +1,12 @@
+---
+title: FBehaviorTreeTemplateInfo
+---
+
+# FBehaviorTreeTemplateInfo
+
+## Variables
+
+| Name | Type | Description |
+|------|------|-------------|
+| Asset | UBehaviorTree * | behavior tree asset |
+| Template | UBTCompositeNode * | initialized template |

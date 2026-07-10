@@ -1,0 +1,1 @@
+{"Name":"EFindPointOnNavmeshType","Description":" ","Variables":[{"Name":"FindOnNavmesh_Default","Value":"1","Description":" "},{"Name":"FindOnNavmesh_UpWard","Value":"2","Description":" "},{"Name":"FindOnNavmesh_DownWard","Value":"3","Description":" "}]}

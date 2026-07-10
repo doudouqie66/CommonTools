@@ -1,0 +1,1 @@
+{"Name":"EIdeaDecalParentType","Description":" ","Variables":[{"Name":"NoParent","Value":"0","Description":" "},{"Name":"MovableStaticMesh","Value":"1","Description":" "},{"Name":"SkeletalMesh","Value":"2","Description":" "},{"Name":"DestroyableStaticMesh","Value":"3","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"EMCPErrorCode","Description":" ","Variables":[{"Name":"InvalidParams","Value":"0","Description":" "},{"Name":"NotFound","Value":"1","Description":" "},{"Name":"NotSupported","Value":"2","Description":" "},{"Name":"InternalError","Value":"3","Description":" "},{"Name":"Unauthorized","Value":"4","Description":" "}]}

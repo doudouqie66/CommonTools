@@ -1,0 +1,1 @@
+{"Name":"EUGCM_ActorSelectType","Description":" ","Variables":[{"Name":"SkipChild","Value":"0","Description":" "},{"Name":"ReplaceChildToRoot","Value":"1","Description":" "},{"Name":"EnableChild","Value":"2","Description":" "},{"Name":"EnableChildOnlyWhenRootNotSelected","Value":"3","Description":" "},{"Name":"Default","Value":"1","Description":" "}]}

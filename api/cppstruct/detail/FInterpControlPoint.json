@@ -1,0 +1,1 @@
+{"Name":"FInterpControlPoint","Description":"","Variables":[{"Name":"PositionControlPoint","Type":"FVector","Description":"","Redirect":""},{"Name":"bPositionIsRelative","Type":"bool","Description":"","Redirect":""}]}

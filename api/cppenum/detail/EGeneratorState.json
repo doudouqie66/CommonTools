@@ -1,0 +1,1 @@
+{"Name":"EGeneratorState","Description":" ","Variables":[{"Name":"EInitial","Value":"0","Description":" "},{"Name":"ENotGenerated","Value":"1","Description":" "},{"Name":"EGenerated","Value":"2","Description":" "},{"Name":"ETerminated","Value":"3","Description":" "}]}

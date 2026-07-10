@@ -1,0 +1,1 @@
+{"Name":"EConstructRuleType","Description":" ","Variables":[{"Name":"ECRT_POSITIONING","Value":"0","Description":" "},{"Name":"ECRT_VALIDATING","Value":"1","Description":" "},{"Name":"ECRT_DATA","Value":"2","Description":" "},{"Name":"ECRT_BATCH_POSITIONING","Value":"3","Description":" "},{"Name":"ECRT_MAX","Value":"4","Description":" "}]}

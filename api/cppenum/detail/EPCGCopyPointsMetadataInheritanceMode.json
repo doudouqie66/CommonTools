@@ -1,0 +1,1 @@
+{"Name":"EPCGCopyPointsMetadataInheritanceMode","Description":" ","Variables":[{"Name":"SourceFirst","Value":"0","Description":" "},{"Name":"TargetFirst","Value":"1","Description":" "},{"Name":"SourceOnly","Value":"2","Description":" "},{"Name":"TargetOnly","Value":"3","Description":" "},{"Name":"None","Value":"4","Description":" "}]}

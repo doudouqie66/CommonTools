@@ -1,0 +1,1 @@
+{"Name":"ERootMotionMode","Description":" ","Variables":[{"Name":"NoRootMotionExtraction","Value":"0","Description":" "},{"Name":"IgnoreRootMotion","Value":"1","Description":" "},{"Name":"RootMotionFromEverything","Value":"2","Description":" "},{"Name":"RootMotionFromMontagesOnly","Value":"3","Description":" "}]}

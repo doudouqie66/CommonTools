@@ -1,0 +1,1 @@
+{"Name":"FLaunchOnTestSettings","Description":"Holds settings for the editor Launch On With Map Iterations test.","Variables":[{"Name":"LaunchOnTestmap","Type":"FFilePath","Description":"Map to be used for the Launch On test","Redirect":""},{"Name":"DeviceID","Type":"FString","Description":"Device to be used","Redirect":""}]}

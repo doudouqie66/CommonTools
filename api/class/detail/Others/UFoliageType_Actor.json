@@ -1,0 +1,1 @@
+{"Name":"UFoliageType_Actor","Description":"","Variables":[{"Name":"ActorClass","Type":"TSubclassOf \u003c AActor \u003e","Description":"","Redirect":""},{"Name":"bShouldAttachToBaseComponent","Type":"bool","Description":"","Redirect":""}],"Functions":null,"Parents":["UFoliageType"],"Event":null,"Delegate":null,"Language":"cpp"}

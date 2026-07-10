@@ -1,0 +1,1 @@
+{"Name":"FPairCachedBoneInfo","Description":"","Variables":[{"Name":"ResetRoll","Type":"bool","Description":"","Redirect":""},{"Name":"PreBoneCached","Type":"FCachedBoneParamInfo","Description":"","Redirect":""},{"Name":"PostBoneCached","Type":"FCachedBoneParamInfo","Description":"","Redirect":""}]}

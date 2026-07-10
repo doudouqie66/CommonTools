@@ -1,0 +1,1 @@
+{"Name":"UBTDecorator_IsBBEntryOfClass","Description":"","Variables":[{"Name":"TestClass","Type":"TSubclassOf \u003c UObject \u003e","Description":"","Redirect":""}],"Functions":null,"Parents":["UBTDecorator_BlackboardBase"],"Event":null,"Delegate":null,"Language":"cpp"}

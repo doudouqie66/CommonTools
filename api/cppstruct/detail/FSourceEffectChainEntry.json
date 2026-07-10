@@ -1,0 +1,1 @@
+{"Name":"FSourceEffectChainEntry","Description":"","Variables":[{"Name":"Preset","Type":"USoundEffectSourcePreset *","Description":"","Redirect":""},{"Name":"bBypass","Type":"uint32","Description":"","Redirect":""}]}

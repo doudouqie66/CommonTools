@@ -1,0 +1,1 @@
+{"Name":"EPlayerBodyPartType","Description":" ","Variables":[{"Name":"PBPT_Head","Value":"0","Description":" "},{"Name":"PBPT_LeftArm","Value":"1","Description":" "},{"Name":"PBPT_RightArm","Value":"2","Description":" "},{"Name":"PBPT_LeftLeg","Value":"3","Description":" "},{"Name":"PBPT_RightLeg","Value":"4","Description":" "},{"Name":"PBPT_Body","Value":"5","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"EBlurType","Description":" ","Variables":[{"Name":"BlurType_Default","Value":"0","Description":" "},{"Name":"BlurType_Directional","Value":"1","Description":" "},{"Name":"BlurType_Radial","Value":"2","Description":" "},{"Name":"BlurType_Rotate","Value":"3","Description":" "}]}

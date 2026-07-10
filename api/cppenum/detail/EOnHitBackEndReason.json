@@ -1,0 +1,1 @@
+{"Name":"EOnHitBackEndReason","Description":" ","Variables":[{"Name":"EOnHitBackEndReason_Normal","Value":"0","Description":" "},{"Name":"EOnHitBackEndReason_Collision","Value":"1","Description":" "},{"Name":"EOnHitBackEndReason_ReplaceByPrior","Value":"2","Description":" "},{"Name":"EOnHitBackEndReason_Unknown","Value":"3","Description":" "}]}

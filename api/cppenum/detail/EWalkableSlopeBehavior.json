@@ -1,0 +1,1 @@
+{"Name":"EWalkableSlopeBehavior","Description":" ","Variables":[{"Name":"WalkableSlope_Default","Value":"0","Description":" "},{"Name":"WalkableSlope_Increase","Value":"1","Description":" "},{"Name":"WalkableSlope_Decrease","Value":"2","Description":" "},{"Name":"WalkableSlope_Unwalkable","Value":"3","Description":" "},{"Name":"WalkableSlope_Max","Value":"4","Description":" "}]}

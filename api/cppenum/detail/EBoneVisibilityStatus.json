@@ -1,0 +1,1 @@
+{"Name":"EBoneVisibilityStatus","Description":" ","Variables":[{"Name":"BVS_HiddenByParent","Value":"0","Description":" "},{"Name":"BVS_Visible","Value":"1","Description":" "},{"Name":"BVS_ExplicitlyHidden","Value":"2","Description":" "},{"Name":"BVS_MAX","Value":"3","Description":" "}]}

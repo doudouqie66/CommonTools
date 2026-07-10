@@ -1,0 +1,1 @@
+{"Name":"FGameModeName","Description":"Helper structure, used to associate GameModes with shortcut names.","Variables":[{"Name":"Name","Type":"FString","Description":"Abbreviationprefix that can be used as an alias for the class name","Redirect":""},{"Name":"GameMode","Type":"FSoftClassPath","Description":"GameMode class to load","Redirect":""}]}

@@ -1,0 +1,1 @@
+{"Name":"FManagementRuleFNameArrayCheck","Description":"Structure to encapsulate a set of assetsdirectories with a flip flag","Variables":[{"Name":"Names","Type":"TSet \u003c FName \u003e","Description":"","Redirect":""}]}

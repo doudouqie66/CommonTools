@@ -1,0 +1,1 @@
+{"Name":"FMeshSectionInfoMap","Description":"Map containing per-section settings for each section of each LOD.","Variables":[{"Name":"Map","Type":"TMap \u003c uint32 , FMeshSectionInfo \u003e","Description":"Maps an LOD+Section to the material it should render with.","Redirect":""}]}

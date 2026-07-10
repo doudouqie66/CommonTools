@@ -1,0 +1,1 @@
+{"Name":"FMovieScene3DLocationKeyStruct","Description":"Proxy structure for translation keys in 3D transform sections.","Variables":[{"Name":"Location","Type":"FVector","Description":"The key's translation value.","Redirect":""},{"Name":"Time","Type":"float","Description":"The key's time.","Redirect":""}]}
