@@ -1,0 +1,1 @@
+{"Name":"FConfigOverriderSetting","Description":"","Variables":[{"Name":"Key","Type":"FString","Description":"","Redirect":""},{"Name":"Value","Type":"float","Description":"","Redirect":""},{"Name":"CacheValue","Type":"float","Description":"","Redirect":""}]}

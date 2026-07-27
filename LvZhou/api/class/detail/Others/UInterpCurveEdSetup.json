@@ -1,0 +1,1 @@
+{"Name":"UInterpCurveEdSetup","Description":"","Variables":[{"Name":"Tabs","Type":"TArray \u003c struct FCurveEdTab \u003e","Description":"","Redirect":""},{"Name":"ActiveTab","Type":"int32","Description":"","Redirect":""}],"Functions":null,"Parents":["UObject"],"Event":null,"Delegate":null,"Language":"cpp"}

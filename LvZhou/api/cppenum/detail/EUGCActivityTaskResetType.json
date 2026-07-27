@@ -1,0 +1,1 @@
+{"Name":"EUGCActivityTaskResetType","Description":" ","Variables":[{"Name":"DailyReset","Value":"1","Description":" "},{"Name":"WeeklyReset","Value":"2","Description":" "},{"Name":"MonthlyReset","Value":"3","Description":" "},{"Name":"NotReset","Value":"4","Description":" "}]}

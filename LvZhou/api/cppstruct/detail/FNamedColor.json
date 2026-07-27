@@ -1,0 +1,1 @@
+{"Name":"FNamedColor","Description":"A named color","Variables":[{"Name":"Value","Type":"FColor","Description":"","Redirect":""},{"Name":"Name","Type":"FName","Description":"","Redirect":""}]}

@@ -1,0 +1,1 @@
+{"Name":"EVehicleTeleportSkillState","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"StartTeleport","Value":"1","Description":" "},{"Name":"Teleporting","Value":"2","Description":" "},{"Name":"EndTeleport","Value":"3","Description":" "}]}

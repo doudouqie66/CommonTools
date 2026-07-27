@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784732067679-qdoo946qs",
+  "providerId": "claude",
+  "title": "Create folder with Markdown note",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784732067679,
+  "updatedAt": 1784860608240,
+  "lastResponseAt": 1784780938254,
+  "sessionId": "08d1fe1b-b1ba-4223-a92d-c82275044c1e",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "08d1fe1b-b1ba-4223-a92d-c82275044c1e"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1698,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 35712,
+    "contextWindow": 200000,
+    "contextTokens": 37410,
+    "percentage": 19,
+    "contextWindowIsAuthoritative": true
+  }
+}

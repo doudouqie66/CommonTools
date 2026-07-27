@@ -1,0 +1,1 @@
+{"Name":"FNamedLensPreset","Description":"A named bundle of lens settings used to implement lens presets.","Variables":[{"Name":"Name","Type":"FString","Description":"Name for the preset.","Redirect":""},{"Name":"LensSettings","Type":"FCameraLensSettings","Description":"","Redirect":""}]}

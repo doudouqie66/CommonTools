@@ -1,0 +1,20 @@
+---
+title: EImportanceLevel
+---
+
+# EImportanceLevel
+
+ 
+
+## Variables
+
+| Name | Type | Description |
+|------|------|-------------|
+| IL_Off |  |   |
+| IL_Lowest |  |   |
+| IL_Low |  |   |
+| IL_Normal |  |   |
+| IL_High |  |   |
+| IL_Highest |  |   |
+| TEMP_BROKEN2 |  |   |
+| EImportanceLevel_MAX |  |   |

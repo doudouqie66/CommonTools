@@ -1,0 +1,1 @@
+{"Name":"UMaterialExpressionViewProperty","Description":"","Variables":[{"Name":"Property","Type":"TEnumAsByte \u003c EMaterialExposedViewProperty \u003e","Description":"View input property to be accessed","Redirect":""}],"Functions":null,"Parents":["UMaterialExpression"],"Event":null,"Delegate":null,"Language":"cpp"}

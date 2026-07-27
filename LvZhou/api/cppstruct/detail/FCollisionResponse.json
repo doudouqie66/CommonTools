@@ -1,0 +1,1 @@
+{"Name":"FCollisionResponse","Description":"","Variables":[{"Name":"ResponseToChannels","Type":"FCollisionResponseContainer","Description":"Types of objects that this physics objects will collide with.","Redirect":""},{"Name":"ResponseArray","Type":"TArray \u003c FResponseChannel \u003e","Description":"Custom Channels for Responses","Redirect":""}]}

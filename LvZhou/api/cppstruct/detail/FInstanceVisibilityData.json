@@ -1,0 +1,1 @@
+{"Name":"FInstanceVisibilityData","Description":"","Variables":[{"Name":"PVSHandlerID","Type":"int32","Description":"","Redirect":""},{"Name":"InsVisibilityID","Type":"int32","Description":"","Redirect":""},{"Name":"bAllowOverride","Type":"bool","Description":"","Redirect":""},{"Name":"OverrideTo","Type":"bool","Description":"","Redirect":""}]}

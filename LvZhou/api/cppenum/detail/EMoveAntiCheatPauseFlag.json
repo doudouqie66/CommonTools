@@ -1,0 +1,1 @@
+{"Name":"EMoveAntiCheatPauseFlag","Description":" ","Variables":[{"Name":"EMACPF_Default","Value":"-1","Description":" "},{"Name":"EMACPF_MAX","Value":"-1","Description":"-- the value appears as -1 more due to UHT parse error rather than it actually be -1."}]}

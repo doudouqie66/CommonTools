@@ -1,0 +1,1 @@
+{"Name":"EAccumulateEnergyByHitStatus","Description":" ","Variables":[{"Name":"StatusNone","Value":"0","Description":" "},{"Name":"MaintainEnergy","Value":"1","Description":" "},{"Name":"DecreaseEnergy","Value":"2","Description":" "},{"Name":"SkillActivating","Value":"3","Description":" "},{"Name":"SkillCD","Value":"4","Description":" "}]}

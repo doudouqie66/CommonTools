@@ -1,0 +1,1 @@
+{"Name":"EUGCChooseEnemyType","Description":" ","Variables":[{"Name":"Player","Value":"0","Description":" "},{"Name":"Monster","Value":"1","Description":" "},{"Name":"PlayerAndMonster","Value":"2","Description":" "},{"Name":"MonsterAndPlayer","Value":"3","Description":" "}]}

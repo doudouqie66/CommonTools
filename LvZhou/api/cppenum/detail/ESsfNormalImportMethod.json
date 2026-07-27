@@ -1,0 +1,1 @@
+{"Name":"ESsfNormalImportMethod","Description":" ","Variables":[{"Name":"SSFNIM_ComputeNormals","Value":"0","Description":" "},{"Name":"SSFNIM_ImportNormals","Value":"1","Description":" "},{"Name":"SSFNIM_ImportNormalsAndTangents","Value":"2","Description":" "},{"Name":"SSFNIM_MAX","Value":"3","Description":" "}]}

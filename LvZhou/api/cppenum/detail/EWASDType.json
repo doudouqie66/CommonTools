@@ -1,0 +1,1 @@
+{"Name":"EWASDType","Description":" ","Variables":[{"Name":"WASD_Always","Value":"0","Description":" "},{"Name":"WASD_RMBOnly","Value":"1","Description":" "},{"Name":"WASD_Never","Value":"2","Description":" "},{"Name":"WASD_MAX","Value":"3","Description":" "}]}

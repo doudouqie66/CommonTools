@@ -1,0 +1,1 @@
+{"Name":"EActionStateType","Description":" ","Variables":[{"Name":"EActionState_None","Value":"0","Description":" "},{"Name":"EActionState_AddAction","Value":"1","Description":" "},{"Name":"EActionState_StartAction","Value":"2","Description":" "},{"Name":"EActionState_EndAction","Value":"3","Description":" "},{"Name":"EActionState_DeleteAction","Value":"4","Description":" "}]}

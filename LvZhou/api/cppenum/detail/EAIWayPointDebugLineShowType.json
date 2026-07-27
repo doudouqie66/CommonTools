@@ -1,0 +1,1 @@
+{"Name":"EAIWayPointDebugLineShowType","Description":" ","Variables":[{"Name":"AIWayPointDebugLineShowNone","Value":"0","Description":" "},{"Name":"AIWayPointDebugLineShowSelectedOnly","Value":"1","Description":" "},{"Name":"AIWayPointDebugLineShowAll","Value":"2","Description":" "}]}

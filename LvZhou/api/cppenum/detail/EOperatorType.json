@@ -1,0 +1,1 @@
+{"Name":"EOperatorType","Description":" ","Variables":[{"Name":"EOperator_Equal","Value":"0","Description":" "},{"Name":"EOperator_Greater","Value":"1","Description":" "},{"Name":"EOperator_Less","Value":"2","Description":" "},{"Name":"EOperator_GreaterEqual","Value":"3","Description":" "},{"Name":"EOperator_LessEqual","Value":"4","Description":" "}]}

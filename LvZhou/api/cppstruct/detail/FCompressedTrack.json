@@ -1,0 +1,1 @@
+{"Name":"FCompressedTrack","Description":"","Variables":[{"Name":"ByteStream","Type":"TArray \u003c uint8 \u003e","Description":"","Redirect":""},{"Name":"Times","Type":"TArray \u003c float \u003e","Description":"","Redirect":""},{"Name":"Mins","Type":"float","Description":"","Redirect":""},{"Name":"Ranges","Type":"float","Description":"","Redirect":""}]}

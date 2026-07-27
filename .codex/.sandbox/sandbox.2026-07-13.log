@@ -1,0 +1,1090 @@
+[2026-07-13 15:15:27.980 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "PIE debug failed: lua file validation faile[2026-07-13 15:15:27.980 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "GiftPack|SignInEvent|ShopV2|RankingList|Tas[2026-07-13 15:15:27.979 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-Content -LiteralPath 'C:/Users/admin/.codex/sk
+
+
+[2026-07-13 15:15:27.984 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-ChildItem -Force | Select-Object Name,Mode
+[2026-07-13 15:15:28.109 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4024)
+[2026-07-13 15:15:28.110 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4024)[2026-07-13 15:15:28.110 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4024)
+
+[2026-07-13 15:15:28.110 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4024)
+[2026-07-13T07:15:28.142078900+00:00] granting write ACE to C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan for sandbox group and capability SID
+[2026-07-13T07:15:28.142231200+00:00] granting write ACE to C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan for sandbox group and capability SID
+[2026-07-13T07:15:28.142973500+00:00] granting write ACE to C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan for sandbox group and capability SID
+[2026-07-13T07:15:28.143016+00:00] granting write ACE to C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan for sandbox group and capability SID
+[2026-07-13T07:15:28.158897900+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:15:28.162155600+00:00] granting read ACE to C:\Users\admin\.android for sandbox users
+[[[2026-07-13T07:15:28.162521+00:002026-07-13T07:15:28.162528300+00:002026-07-13T07:15:28.162571500+00:00] ] read ACL helper already running; skipping
+read ACL helper already running; skipping] 
+read ACL helper already running; skipping
+[2026-07-13T07:15:28.166306+00:00] read ACL run completed
+[2026-07-13T07:15:28.549530300+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13T07:15:28.549638+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[[2026-07-13T07:15:28.549646800+00:002026-07-13T07:15:28.549673100+00:00] ] setup refresh: processed 2 write roots (read roots delegated); errors=[]setup refresh: processed 2 write roots (read roots delegated); errors=[]
+
+[2026-07-13 15:15:28.549 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:15:28.549 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:15:28.549 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:15:28.549 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:15:28.566 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe[2026-07-13 15:15:28.566 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+
+[2026-07-13 15:15:28.566 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe[2026-07-13 15:15:28.566 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+
+[2026-07-13 15:15:28.567 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:15:28.567 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe[2026-07-13 15:15:28.567 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:15:28.567 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+
+[2026-07-13 15:15:28.567 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:15:28.567 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:15:28.567 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe[2026-07-13 15:15:28.567 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+
+[2026-07-13 15:15:28.915 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "GiftPack|SignInEvent|ShopV2|RankingList|Tas
+[2026-07-13 15:15:28.955 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "PIE debug failed: lua file validation faile
+[2026-07-13 15:15:28.972 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-Content -LiteralPath 'C:/Users/admin/.codex/sk
+[2026-07-13 15:15:29.078 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-ChildItem -Force | Select-Object Name,Mode
+[2026-07-13 15:15:49.650 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-Content -LiteralPath 'Script\Blueprint\UI\UI02
+[2026-07-13 15:15:49.652 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "UGCGameSystem\.UGCRequire\(.*Script\.(GiftP
+[2026-07-13 15:15:49.656 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "GiftPackManager|SignInEventManager|ShopV2Ma
+[2026-07-13 15:15:49.657 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "UGCGameSystem\.UGCRequire\(\"ExtendResource
+[2026-07-13 15:15:49.765 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4024)
+[2026-07-13 15:15:49.767 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4024)
+[2026-07-13 15:15:49.768 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4024)
+[2026-07-13 15:15:49.769 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4024)
+[2026-07-13T07:15:49.782535300+00:00] granting write ACE to C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan for sandbox group and capability SID
+[2026-07-13T07:15:49.785500600+00:00] granting write ACE to C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan for sandbox group and capability SID
+[2026-07-13T07:15:49.785596100+00:00] granting write ACE to C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan for sandbox group and capability SID
+[2026-07-13T07:15:49.787269100+00:00] granting write ACE to C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan for sandbox group and capability SID
+[2026-07-13T07:15:49.803690500+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:15:49.807834900+00:00] read ACL helper already running; skipping
+[2026-07-13T07:15:49.807969800+00:00] read ACL helper already running; skipping
+[2026-07-13T07:15:49.808031100+00:00] read ACL helper already running; skipping
+[2026-07-13T07:15:49.808551800+00:00] read ACL run completed
+[2026-07-13T07:15:50.133671300+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13T07:15:50.133831100+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13T07:15:50.133843700+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13T07:15:50.133886200+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:15:50.133 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:15:50.133 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:15:50.133 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:15:50.133 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:15:50.148 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:15:50.148 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:15:50.148 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:15:50.149 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:15:50.149 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:15:50.149 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:15:50.149 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:15:50.149 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:15:50.452 codex.exe] FAILURE: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "UGCGameSystem\.UGCRequire\(.*Script\.(GiftP (exit code 1)
+[2026-07-13 15:15:50.494 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "GiftPackManager|SignInEventManager|ShopV2Ma
+[2026-07-13 15:15:50.527 codex.exe] FAILURE: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "UGCGameSystem\.UGCRequire\(\"ExtendResource (exit code 1)[2026-07-13 15:15:50.527 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-Content -LiteralPath 'Script\Blueprint\UI\UI02
+
+[2026-07-13 15:16:01.430 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-ChildItem -Recurse -Filter '*.lua' | Measure-O
+[2026-07-13 15:16:01.453 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-Content -LiteralPath 'Script\Blueprint\UI\UI02
+[2026-07-13 15:16:01.454 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "UGCGameSystem\.UGCRequire" -S ExtendResourc
+[2026-07-13 15:16:01.460 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "GiftPackManager|ShopV2Manager|RankingListMa
+[2026-07-13 15:16:01.527 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4024)
+[2026-07-13T07:16:01.554049400+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:16:01.554 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:16:01.564 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4024)
+[2026-07-13 15:16:01.565 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4024)
+[2026-07-13 15:16:01.565 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4024)
+[2026-07-13 15:16:01.576 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:16:01.577 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:16:01.588309400+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:16:01.591104300+00:00[] read ACL helper already running; skipping spawn2026-07-13T07:16:01.591108400+00:00
+] read ACL helper already running; skipping spawn
+[2026-07-13T07:16:01.591689100+00:00] read ACL helper already running; skipping spawn
+[2026-07-13T07:16:01.595839400+00:00] read ACL run completed
+[[2026-07-13T07:16:01.598541400+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]2026-07-13T07:16:01.598541900+00:00
+] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13T07:16:01.598763200+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:16:01.598 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:16:01.598 codex-windows-sandbox-setup.exe] setup binary completed[2026-07-13 15:16:01.598 codex-windows-sandbox-setup.exe] setup binary completed
+
+[2026-07-13 15:16:01.612 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe[2026-07-13 15:16:01.612 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:16:01.612 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+
+[2026-07-13 15:16:01.613 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe[2026-07-13 15:16:01.613 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:16:01.613 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+
+[2026-07-13 15:16:01.882 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "UGCGameSystem\.UGCRequire" -S ExtendResourc
+[2026-07-13 15:16:01.905 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "GiftPackManager|ShopV2Manager|RankingListMa
+[2026-07-13 15:16:01.996 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-Content -LiteralPath 'Script\Blueprint\UI\UI02
+[2026-07-13 15:16:02.011 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-ChildItem -Recurse -Filter '*.lua' | Measure-O
+[2026-07-13 15:16:10.429 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-Content -LiteralPath 'Script\Blueprint\UI\Fei.
+[2026-07-13 15:16:10.430 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "function Fei:|ShopV2Manager" -S Script\Blue
+[2026-07-13 15:16:10.515 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4024)[2026-07-13 15:16:10.515 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4024)
+
+[2026-07-13T07:16:10.545727100+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:16:10.545 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13T07:16:10.552231600+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:16:10.552 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:16:10.563 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:16:10.564 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:16:10.567 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:16:10.567 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:16:10.572927400+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:16:10.576229400+00:00] read ACL helper already running; skipping
+[2026-07-13T07:16:10.576513+00:00] read ACL run completed
+[2026-07-13 15:16:10.672 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "Button_4_OnClicked|PurchaseShopItem|EnsureS
+[2026-07-13 15:16:10.751 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4024)
+[2026-07-13T07:16:10.770707+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:16:10.770 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:16:10.779 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:16:10.779 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:16:10.786784700+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:16:10.790506300+00:00] read ACL run completed
+[2026-07-13 15:16:10.809 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "function Fei:|ShopV2Manager" -S Script\Blue
+[2026-07-13 15:16:10.911 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-Content -LiteralPath 'Script\Blueprint\UI\Fei.
+[2026-07-13 15:16:10.991 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "Button_4_OnClicked|PurchaseShopItem|EnsureS
+[2026-07-13 15:16:40.569 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-Content -LiteralPath 'ExtendResource\ShopV2\Of
+[2026-07-13 15:16:40.569 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-Content -LiteralPath 'ExtendResource\Lottery\O
+[2026-07-13 15:16:40.578 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-Content -LiteralPath 'ExtendResource\RankingLi
+[2026-07-13 15:16:40.594 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-Content -LiteralPath 'ExtendResource\SignInEve
+[2026-07-13 15:16:40.688 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4024)
+[2026-07-13 15:16:40.689 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4024)
+[2026-07-13 15:16:40.690 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4024)
+[2026-07-13 15:16:40.699 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4024)
+[2026-07-13T07:16:40.707897600+00:00] [setup refresh: processed 2 write roots (read roots delegated); errors=[]2026-07-13T07:16:40.707941100+00:00
+] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:16:40.707 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:16:40.707 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13T07:16:40.709847100+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:16:40.709 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13T07:16:40.722432300+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:16:40.722 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:16:40.725 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:16:40.725 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe[2026-07-13 15:16:40.725 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+
+[[2026-07-13T07:16:40.727300700+00:002026-07-13T07:16:40.727310+00:00] read-acl-only mode: applying read ACLs] 
+read ACL helper already running; skipping
+[2026-07-13 15:16:40.726 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe[2026-07-13 15:16:40.726 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+
+[2026-07-13 15:16:40.726 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:16:40.728605100+00:00] read ACL helper already running; skipping
+[2026-07-13T07:16:40.733056300+00:00] read ACL run completed
+[2026-07-13 15:16:40.734 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:16:40.734 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:16:40.742032100+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:16:40.745721500+00:00] read ACL run completed
+[2026-07-13 15:16:41.023 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-Content -LiteralPath 'ExtendResource\ShopV2\Of
+[2026-07-13 15:16:41.040 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-Content -LiteralPath 'ExtendResource\Lottery\O
+[2026-07-13 15:16:41.075 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-Content -LiteralPath 'ExtendResource\RankingLi
+[2026-07-13 15:16:41.091 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-Content -LiteralPath 'ExtendResource\SignInEve
+[2026-07-13 15:17:02.793 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:02.843 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4308)
+[2026-07-13T07:17:02.855812500+00:00] granting write ACE to C:\tmp for sandbox group and capability SID
+[2026-07-13T07:17:02.857653100+00:00] applied deny ACE to protect C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan\.agents
+[2026-07-13T07:17:02.858262100+00:00] applied deny ACE to protect C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan\.git
+[2026-07-13T07:17:02.859195500+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:02.859 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:02.865 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:02.865 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:02.865 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:02.870007200+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:02.872886800+00:00] read ACL run completed
+[2026-07-13 15:17:03.036 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:03.094 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:03.110101600+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:03.110 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:03.115 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:03.115 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:03.115 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:03.122066100+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:03.127280800+00:00] read ACL run completed
+[2026-07-13 15:17:03.256 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:03.310 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:03.327242900+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:03.327 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:03.332 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:03.332 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:03.332 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:03.341104400+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:03.344324600+00:00] read ACL run completed
+[2026-07-13 15:17:03.465 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:03.528 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:03.546083100+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:03.546 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:03.551 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:03.552 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:03.552 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:03.560167500+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:03.563397200+00:00] read ACL run completed
+[2026-07-13 15:17:13.634 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:13.684 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:13.701260600+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:13.701 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:13.708 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:13.709 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:13.709 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:13.719122700+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:13.723415500+00:00] read ACL run completed
+[2026-07-13 15:17:13.866 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:13.918 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:13.937040400+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:13.937 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:13.944 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:13.945 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:13.945 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:13.952992600+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:13.956161+00:00] read ACL run completed
+[2026-07-13 15:17:14.078 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:14.129 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:14.144501200+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:14.144 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:14.150 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:14.150 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:14.150 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:14.159028400+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:14.162537800+00:00] read ACL run completed
+[2026-07-13 15:17:14.273 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:14.320 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:14.334151+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:14.334 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:14.340 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:14.341 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:14.341 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:14.347182400+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:14.350121800+00:00] read ACL run completed
+[2026-07-13 15:17:41.470 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:41.522 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:41.539303300+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:41.539 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:41.546 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:41.546 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:41.546 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:41.555957900+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:41.560809400+00:00] read ACL run completed
+[2026-07-13 15:17:41.682 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:41.729 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:41.745085900+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:41.745 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:41.749 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:41.749 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:41.749 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:41.755789400+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:41.760502600+00:00] read ACL run completed
+[2026-07-13 15:17:41.871 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:41.919 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:41.934612900+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:41.934 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:41.940 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:41.941 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:41.941 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:41.947857100+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:41.951008900+00:00] read ACL run completed
+[2026-07-13 15:17:42.061 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:42.109 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:42.124597100+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:42.124 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:42.128 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:42.129 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:42.129 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:42.136443100+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:42.139515300+00:00] read ACL run completed
+[2026-07-13 15:17:42.250 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:42.299 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:42.313236300+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:42.313 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:42.318 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:42.318 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:42.318 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:42.324346300+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:42.327590600+00:00] read ACL run completed
+[2026-07-13 15:17:42.443 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:42.491 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:42.507812100+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:42.507 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:42.513 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:42.513 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:42.513 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:42.521536700+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:42.524897800+00:00] read ACL run completed
+[2026-07-13 15:17:42.644 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:42.689 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:42.703643200+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:42.703 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:42.709 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:42.709 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:42.709 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:42.715449900+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:42.718725900+00:00] read ACL run completed
+[2026-07-13 15:17:42.829 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:42.876 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:42.890557+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:42.890 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:42.894 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:42.895 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:42.895 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:42.900804300+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:42.905074300+00:00] read ACL run completed
+[2026-07-13 15:17:43.022 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:43.067 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:43.080713900+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:43.080 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:43.086 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:43.086 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:43.086 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:43.092773200+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:43.095729200+00:00] read ACL run completed
+[2026-07-13 15:17:43.213 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:43.265 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:43.284962800+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:43.284 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:43.289 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:43.289 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:43.289 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:43.296113800+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:43.299939600+00:00] read ACL run completed
+[2026-07-13 15:17:43.408 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:43.454 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:43.467956300+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:43.467 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:43.472 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:43.472 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:43.472 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:43.479616600+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:43.482951100+00:00] read ACL run completed
+[2026-07-13 15:17:43.593 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:43.639 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:43.653416600+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:43.653 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:43.658 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:43.658 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:43.659 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:43.665118200+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:43.668188900+00:00] read ACL run completed
+[2026-07-13 15:17:43.778 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:43.826 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:43.840842700+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:43.840 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:43.845 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:43.845 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:43.845 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:43.852469600+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:43.856681500+00:00] read ACL run completed
+[2026-07-13 15:17:43.965 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:44.013 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:44.029896800+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:44.029 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:44.036 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:44.036 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:44.036 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:44.042758600+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:44.045914500+00:00] read ACL run completed
+[2026-07-13 15:17:44.164 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:44.213 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:44.227376800+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:44.227 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:44.233 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:44.233 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:44.233 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:44.239931300+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:44.243174700+00:00] read ACL run completed
+[2026-07-13 15:17:44.354 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:44.402 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:44.417209500+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:44.417 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:44.421 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:44.421 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:44.422 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:44.429809100+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:44.433602800+00:00] read ACL run completed
+[2026-07-13 15:17:44.546 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:44.594 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:44.609007+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:44.609 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:44.615 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:44.615 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:44.615 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:44.623127200+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:44.627326500+00:00] read ACL run completed
+[2026-07-13 15:17:44.736 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:44.783 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:44.798392500+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:44.798 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:44.803 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:44.803 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:44.804 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:44.811722900+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:44.814819500+00:00] read ACL run completed
+[2026-07-13 15:17:44.931 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:44.978 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:44.993384700+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:44.993 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:44.997 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:44.998 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:44.998 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:45.007541600+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:45.010735800+00:00] read ACL run completed
+[2026-07-13 15:17:45.124 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:45.171 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:45.186402400+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:45.186 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:45.192 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:45.192 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:45.192 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:45.199108800+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:45.202597600+00:00] read ACL run completed
+[2026-07-13 15:17:45.311 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:45.358 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:45.373878300+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:45.373 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:45.379 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:45.380 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:45.380 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:45.386278+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:45.389266200+00:00] read ACL run completed
+[2026-07-13 15:17:45.514 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:45.563 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:45.578704700+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:45.578 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:45.583 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:45.583 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:45.583 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:45.589858300+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:45.594523700+00:00] read ACL run completed
+[2026-07-13 15:17:45.722 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:45.769 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:45.783101600+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:45.783 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:45.788 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:45.788 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:45.788 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:45.796452500+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:45.799815+00:00] read ACL run completed
+[2026-07-13 15:17:45.913 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:45.960 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:45.975232+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:45.975 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:45.980 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:45.980 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:45.981 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:45.988273500+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:45.991406200+00:00] read ACL run completed
+[2026-07-13 15:17:46.123 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:46.170 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:46.187942+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:46.187 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:46.192 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:46.192 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:46.193 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:46.200917500+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:46.204004100+00:00] read ACL run completed
+[2026-07-13 15:17:46.313 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:46.360 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:46.376757400+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:46.376 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:46.382 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:46.382 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:46.382 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:46.388203900+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:46.391429400+00:00] read ACL run completed
+[2026-07-13 15:17:46.505 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:46.555 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:46.571176600+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:46.571 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:46.576 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:46.577 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:46.577 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:46.586731100+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:46.590172500+00:00] read ACL run completed
+[2026-07-13 15:17:46.707 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:46.757 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:46.770879700+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:46.770 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:46.776 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:46.776 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:46.776 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:46.782862700+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:46.785985400+00:00] read ACL run completed
+[2026-07-13 15:17:46.898 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:46.946 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:46.960523400+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:46.960 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:46.964 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:46.965 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:46.965 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:46.973910+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:46.977069400+00:00] read ACL run completed
+[2026-07-13 15:17:47.090 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:47.137 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:47.151460700+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:47.151 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:47.156 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:47.156 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:47.156 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:47.162696200+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:47.167771400+00:00] read ACL run completed
+[2026-07-13 15:17:47.279 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:47.329 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:47.345727200+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:47.345 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:47.351 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:47.352 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:47.352 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:47.359149300+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:47.364856100+00:00] read ACL run completed
+[2026-07-13 15:17:47.478 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:47.525 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:47.541610200+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:47.541 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:47.547 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:47.547 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:47.547 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:47.554746600+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:47.559110100+00:00] read ACL run completed
+[2026-07-13 15:17:47.688 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:47.742 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:47.760133700+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:47.760 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:47.764 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:47.764 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:47.764 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:47.773830900+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:47.777111200+00:00] read ACL run completed
+[2026-07-13 15:17:47.891 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:47.941 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:47.958519900+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:47.958 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:47.963 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:47.964 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:47.964 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:47.975033400+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:47.979324100+00:00] read ACL run completed
+[2026-07-13 15:17:48.094 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:48.141 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:48.156117600+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:48.156 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:48.160 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:48.160 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:48.161 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:48.169704400+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:48.173132200+00:00] read ACL run completed
+[2026-07-13 15:17:48.282 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:17:48.329 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:17:48.342654900+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:17:48.342 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:17:48.348 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:48.349 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:17:48.349 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:17:48.354510400+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:17:48.357647+00:00] read ACL run completed
+[2026-07-13 15:18:03.645 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-Content -LiteralPath 'C:/Users/admin/.codex/sk
+[2026-07-13 15:18:03.655 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$files = @('Script\Blueprint\UI\UI02.lua','Script\
+[2026-07-13 15:18:03.656 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$files = Get-ChildItem -Path 'Script','ExtendResou
+[2026-07-13 15:18:03.664 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "Temporarily disabled: .*official package at
+[2026-07-13 15:18:03.715 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4296)
+[2026-07-13 15:18:03.732 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4296)
+[2026-07-13 15:18:03.732 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4296)
+[2026-07-13T07:18:03.733939400+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:18:03.733 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:18:03.736 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4296)
+[2026-07-13 15:18:03.745 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:18:03.746 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:18:03.747719800+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:18:03.748020700+00:00] read ACL helper already running; skipping spawn
+[2026-07-13T07:18:03.748830400+00:00] read ACL helper already running; skipping spawn
+[2026-07-13T07:18:03.750825800+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13T07:18:03.751340+00:00] read ACL run completed
+[2026-07-13 15:18:03.750 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13T07:18:03.756182400+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13T07:18:03.756856100+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:18:03.756 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:18:03.756 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:18:03.761 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:18:03.762 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:18:03.765 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:18:03.765 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:18:03.765 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:18:03.765 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:18:03.772612200+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:18:03.776016100+00:00] read ACL run completed
+[2026-07-13 15:18:04.070 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-Content -LiteralPath 'C:/Users/admin/.codex/sk
+[2026-07-13 15:18:04.085 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "Temporarily disabled: .*official package at
+[2026-07-13 15:18:04.142 codex.exe] FAILURE: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$files = @('Script\Blueprint\UI\UI02.lua','Script\ (exit code 1)
+[2026-07-13 15:18:04.221 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$files = Get-ChildItem -Path 'Script','ExtendResou
+[2026-07-13 15:18:11.252 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$files = Get-ChildItem -Path 'Script','ExtendResou
+[2026-07-13 15:18:11.319 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4296)
+[2026-07-13T07:18:11.335295200+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:18:11.335 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:18:11.346 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:18:11.346 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:18:11.351749700+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:18:11.355031600+00:00] read ACL run completed
+[2026-07-13 15:18:11.709 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$files = Get-ChildItem -Path 'Script','ExtendResou
+[2026-07-13 15:18:17.386 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:18:17.431 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:18:17.445371200+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:18:17.445 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:18:17.449 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:18:17.449 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:18:17.450 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:18:17.458138900+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:18:17.461917100+00:00] read ACL run completed
+[2026-07-13 15:18:17.581 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:18:17.629 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:18:17.643115900+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:18:17.643 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:18:17.647 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:18:17.648 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:18:17.648 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:18:17.655059+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:18:17.658350100+00:00] read ACL run completed
+[2026-07-13 15:18:17.770 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:18:17.816 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:18:17.831219700+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:18:17.831 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:18:17.836 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:18:17.836 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:18:17.836 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:18:17.842333700+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:18:17.845369200+00:00] read ACL run completed
+[2026-07-13 15:18:17.958 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:18:18.005 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:18:18.020862700+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:18:18.020 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:18:18.025 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:18:18.025 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:18:18.025 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:18:18.032361800+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:18:18.035300400+00:00] read ACL run completed
+[2026-07-13 15:18:34.102 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "local (SignInEventManager|ShopV2Manager|Ran
+[2026-07-13 15:18:34.103 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$files = Get-ChildItem -Path 'Script','ExtendResou
+[2026-07-13 15:18:34.112 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$files = Get-ChildItem -Path 'ExtendResource' -Rec
+[2026-07-13 15:18:34.113 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$files = @('Script\Blueprint\UI\UI02.lua','Script\
+[2026-07-13 15:18:34.202 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4296)
+[2026-07-13 15:18:34.202 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4296)
+[2026-07-13 15:18:34.207 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4296)
+[2026-07-13 15:18:34.209 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4296)
+[2026-07-13T07:18:34.222785100+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:18:34.222 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13T07:18:34.224505300+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:18:34.224 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13T07:18:34.227611400+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:18:34.227 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13T07:18:34.229433900+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:18:34.229 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:18:34.236 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:18:34.237 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:18:34.239 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:18:34.239 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[[2026-07-13T07:18:34.242520600+00:00] 2026-07-13T07:18:34.242552800+00:00read-acl-only mode: applying read ACLs
+] read ACL helper already running; skipping
+[2026-07-13 15:18:34.242 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:18:34.242 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:18:34.243 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:18:34.244 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:18:34.247316300+00:00] read ACL run completed
+[2026-07-13T07:18:34.247829300+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:18:34.247961500+00:00] read ACL helper already running; skipping
+[2026-07-13T07:18:34.251547+00:00] read ACL run completed
+[2026-07-13 15:18:34.484 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "local (SignInEventManager|ShopV2Manager|Ran
+[2026-07-13 15:18:34.625 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$files = @('Script\Blueprint\UI\UI02.lua','Script\
+[2026-07-13 15:18:34.676 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$files = Get-ChildItem -Path 'Script','ExtendResou
+[2026-07-13 15:18:34.754 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$files = Get-ChildItem -Path 'ExtendResource' -Rec
+[2026-07-13 15:18:51.586 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-Content -LiteralPath 'ExtendResource\ShopV2\Of
+[2026-07-13 15:18:51.639 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4296)
+[2026-07-13T07:18:51.654897700+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:18:51.654 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:18:51.662 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:18:51.662 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:18:51.666284300+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:18:51.669314600+00:00] read ACL run completed
+[2026-07-13 15:18:51.800 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-Content -LiteralPath 'ExtendResource\GiftPack\
+[2026-07-13 15:18:51.801 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "Delegate\.New|Delegate" -S ExtendResource\S
+[2026-07-13 15:18:51.803 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-Content -LiteralPath 'ExtendResource\Lottery\O
+[2026-07-13 15:18:51.898 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-Content -LiteralPath 'ExtendResource\ShopV2\Of
+[2026-07-13 15:18:51.899 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4296)
+[2026-07-13 15:18:51.908 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4296)
+[2026-07-13 15:18:51.910 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4296)
+[2026-07-13T07:18:51.929446800+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:18:51.929 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13T07:18:51.936905200+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13T07:18:51.937091700+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:18:51.936 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:18:51.937 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:18:51.939 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:18:51.939 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:18:51.947975200+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13 15:18:51.949 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:18:51.950 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:18:51.950 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:18:51.950 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:18:51.953282300+00:00] read ACL run completed
+[2026-07-13T07:18:51.957560100+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:18:51.957661800+00:00] read ACL helper already running; skipping
+[2026-07-13T07:18:51.962966500+00:00] read ACL run completed
+[2026-07-13 15:18:52.175 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "Delegate\.New|Delegate" -S ExtendResource\S
+[2026-07-13 15:18:52.183 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-Content -LiteralPath 'ExtendResource\GiftPack\
+[2026-07-13 15:18:52.213 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-Content -LiteralPath 'ExtendResource\Lottery\O
+[2026-07-13 15:19:12.133 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:19:12.178 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:19:12.193127+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:19:12.193 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:19:12.200 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:12.201 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:12.201 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:19:12.209461500+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:19:12.212612300+00:00] read ACL run completed
+[2026-07-13 15:19:12.326 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:19:12.373 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:19:12.388180+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:19:12.388 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:19:12.393 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:12.394 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:12.394 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:19:12.401757200+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:19:12.405061+00:00] read ACL run completed
+[2026-07-13 15:19:12.516 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:19:12.563 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:19:12.579296600+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:19:12.579 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:19:12.585 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:12.585 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:12.585 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:19:12.593562900+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:19:12.596668500+00:00] read ACL run completed
+[2026-07-13 15:19:12.715 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:19:12.760 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:19:12.777830900+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:19:12.777 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:19:12.787 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:12.788 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:12.789 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:19:12.800751900+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:19:12.806040100+00:00] read ACL run completed
+[2026-07-13 15:19:12.930 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:19:12.976 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:19:12.991150700+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:19:12.991 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:19:12.995 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:12.995 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:12.996 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:19:13.002994+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:19:13.006026700+00:00] read ACL run completed
+[2026-07-13 15:19:13.114 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:19:13.158 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:19:13.173307700+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:19:13.173 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:19:13.177 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:13.177 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:13.178 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:19:13.184420700+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:19:13.187561800+00:00] read ACL run completed
+[2026-07-13 15:19:13.302 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:19:13.350 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:19:13.369357400+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:19:13.369 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:19:13.374 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:13.374 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:13.374 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:19:13.381209300+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:19:13.384566400+00:00] read ACL run completed
+[2026-07-13 15:19:13.504 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:19:13.553 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:19:13.568148400+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:19:13.568 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:19:13.572 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:13.572 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:13.572 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:19:13.581834400+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:19:13.585127300+00:00] read ACL run completed
+[2026-07-13 15:19:13.696 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:19:13.741 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:19:13.756576700+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:19:13.756 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:19:13.761 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:13.761 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:13.761 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:19:13.767964700+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:19:13.771857800+00:00] read ACL run completed
+[2026-07-13 15:19:13.887 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:19:13.933 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:19:13.947932500+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:19:13.947 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:19:13.955 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:13.955 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:13.955 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:19:13.961733900+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:19:13.964724700+00:00] read ACL run completed
+[2026-07-13 15:19:14.080 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:19:14.127 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:19:14.143602200+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:19:14.143 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:19:14.148 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:14.149 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:14.149 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:19:14.155507400+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:19:14.158555900+00:00] read ACL run completed
+[2026-07-13 15:19:14.276 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:19:14.328 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:19:14.341545800+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:19:14.341 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:19:14.346 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:14.347 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:14.347 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:19:14.352596700+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:19:14.355958+00:00] read ACL run completed
+[2026-07-13 15:19:14.478 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:19:14.523 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:19:14.537984900+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:19:14.538 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:19:14.544 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:14.544 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:14.544 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:19:14.551456500+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:19:14.554574300+00:00] read ACL run completed
+[2026-07-13 15:19:14.676 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:19:14.724 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:19:14.739633600+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:19:14.739 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:19:14.744 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:14.745 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:14.745 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:19:14.751372300+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:19:14.754858+00:00] read ACL run completed
+[2026-07-13 15:19:14.873 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:19:14.921 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:19:14.934779800+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:19:14.934 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:19:14.939 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:14.939 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:14.939 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:19:14.945536300+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:19:14.948614800+00:00] read ACL run completed
+[2026-07-13 15:19:15.060 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:19:15.106 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:19:15.119962700+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:19:15.119 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:19:15.124 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:15.124 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:15.125 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:19:15.131598+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:19:15.135171600+00:00] read ACL run completed
+[2026-07-13 15:19:15.244 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:19:15.290 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:19:15.304528400+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:19:15.304 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:19:15.309 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:15.309 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:15.309 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:19:15.316170800+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:19:15.319260800+00:00] read ACL run completed
+[2026-07-13 15:19:15.430 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:19:15.475 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:19:15.488758700+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:19:15.488 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:19:15.494 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:15.495 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:15.495 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:19:15.502088200+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:19:15.505172900+00:00] read ACL run completed
+[2026-07-13 15:19:15.616 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:19:15.663 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:19:15.678423+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:19:15.678 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:19:15.683 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:15.683 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:15.683 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:19:15.690245200+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:19:15.693784300+00:00] read ACL run completed
+[2026-07-13 15:19:15.805 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:19:15.853 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:19:15.868386100+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:19:15.868 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:19:15.873 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:15.874 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:15.874 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:19:15.881005700+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:19:15.884128800+00:00] read ACL run completed
+[2026-07-13 15:19:15.996 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:19:16.043 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:19:16.056961900+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:19:16.056 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:19:16.061 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:16.061 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:16.062 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:19:16.068399+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:19:16.072186500+00:00] read ACL run completed
+[2026-07-13 15:19:16.184 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:19:16.230 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:19:16.243972900+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:19:16.244 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:19:16.250 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:16.251 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:16.251 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:19:16.259181100+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:19:16.262678800+00:00] read ACL run completed
+[2026-07-13 15:19:16.381 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:19:16.429 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:19:16.444270300+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:19:16.444 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:19:16.449 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:16.449 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:16.449 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:19:16.454532400+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:19:16.457554300+00:00] read ACL run completed
+[2026-07-13 15:19:16.574 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:19:16.621 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:19:16.639133+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:19:16.639 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:19:16.645 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:16.645 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:16.645 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:19:16.652155100+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:19:16.655933800+00:00] read ACL run completed
+[2026-07-13 15:19:16.769 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:19:16.817 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:19:16.837523800+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:19:16.837 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:19:16.843 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:16.843 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:16.843 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:19:16.850284200+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:19:16.854053300+00:00] read ACL run completed
+[2026-07-13 15:19:16.978 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:19:17.026 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:19:17.044956+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:19:17.045 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:19:17.057 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:17.057 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:17.057 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:19:17.069940400+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:19:17.073249900+00:00] read ACL run completed
+[2026-07-13 15:19:17.180 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:19:17.225 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:19:17.239281400+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:19:17.239 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:19:17.243 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:17.243 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:17.243 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:19:17.251045+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:19:17.254319600+00:00] read ACL run completed
+[2026-07-13 15:19:17.369 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-07-13 15:19:17.414 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\HunHuan, payload_len=4584)
+[2026-07-13T07:19:17.428397100+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:19:17.428 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:19:17.432 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:17.433 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:17.433 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:19:17.438919800+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:19:17.442899600+00:00] read ACL run completed
+[2026-07-13 15:19:40.952 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$files = Get-ChildItem -Path 'Script','ExtendResou
+[2026-07-13 15:19:40.969 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "Temporarily disabled|local (SignInEventMana
+[2026-07-13 15:19:40.970 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$root=(Get-Location).Path; $matches=Get-ChildItem 
+[2026-07-13 15:19:40.974 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+where.exe lua 2>$null; where.exe luac 2>$null
+[2026-07-13 15:19:41.047 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4296)
+[2026-07-13 15:19:41.063 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4296)
+[2026-07-13 15:19:41.068 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4296)
+[2026-07-13T07:19:41.068746+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:19:41.068 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:19:41.070 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4296)
+[2026-07-13T07:19:41.080619700+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:19:41.080 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:41.081 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:41.080 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13T07:19:41.084453100+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:19:41.085586200+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13T07:19:41.086037200+00:00] read ACL helper already running; skipping spawn
+[2026-07-13 15:19:41.085 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13T07:19:41.088886400+00:00] read ACL run completed
+[2026-07-13T07:19:41.090160700+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 15:19:41.090 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 15:19:41.095 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:41.095 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:41.097 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:41.098 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:19:41.098990800+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13 15:19:41.100 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 15:19:41.100 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T07:19:41.102524100+00:00] read ACL run completed
+[2026-07-13T07:19:41.102766300+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T07:19:41.106064200+00:00] read ACL run completed
+[2026-07-13 15:19:41.360 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "Temporarily disabled|local (SignInEventMana
+[2026-07-13 15:19:41.442 codex.exe] FAILURE: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+where.exe lua 2>$null; where.exe luac 2>$null (exit code 1)
+[2026-07-13 15:19:41.719 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$files = Get-ChildItem -Path 'Script','ExtendResou
+[2026-07-13 15:19:41.753 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$root=(Get-Location).Path; $matches=Get-ChildItem 
+[2026-07-13 16:29:51.282 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-Content -LiteralPath 'C:\Users\admin\.codex\sk
+[2026-07-13 16:29:51.331 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4296)
+[2026-07-13T08:29:51.352632100+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-13 16:29:51.352 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-13 16:29:51.362 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 16:29:51.362 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.707.41301-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13 16:29:51.362 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.144.0-alpha.4.exe
+[2026-07-13T08:29:51.366677300+00:00] read-acl-only mode: applying read ACLs
+[2026-07-13T08:29:51.371283900+00:00] read ACL run completed
+[2026-07-13 16:29:51.584 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-Content -LiteralPath 'C:\Users\admin\.codex\sk

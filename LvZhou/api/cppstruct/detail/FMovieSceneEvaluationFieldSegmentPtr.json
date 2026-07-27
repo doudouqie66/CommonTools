@@ -1,0 +1,1 @@
+{"Name":"FMovieSceneEvaluationFieldSegmentPtr","Description":"A pointer to a particular segment of a track held within an evaluation template","Variables":[{"Name":"SegmentIndex","Type":"int32","Description":"The index of the segment within the track (see FMovieSceneEvaluationTrack::Segments)","Redirect":""}]}

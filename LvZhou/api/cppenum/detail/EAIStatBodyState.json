@@ -1,0 +1,1 @@
+{"Name":"EAIStatBodyState","Description":" ","Variables":[{"Name":"NORMAL","Value":"0","Description":" "},{"Name":"JUMP","Value":"1","Description":" "},{"Name":"CROUCH","Value":"2","Description":" "},{"Name":"CRAWL","Value":"3","Description":" "},{"Name":"JUMP_WALL","Value":"4","Description":" "}]}

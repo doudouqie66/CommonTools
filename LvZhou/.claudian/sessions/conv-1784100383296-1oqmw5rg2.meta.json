@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784100383296-1oqmw5rg2",
+  "providerId": "claude",
+  "title": "Add folder for character level system",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784100383297,
+  "updatedAt": 1784104441008,
+  "lastResponseAt": 1784100762749,
+  "sessionId": "076725f1-2158-41ee-8ba4-554e7b1d7f80",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "076725f1-2158-41ee-8ba4-554e7b1d7f80"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 225,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 39168,
+    "contextWindow": 200000,
+    "contextTokens": 39393,
+    "percentage": 20,
+    "contextWindowIsAuthoritative": true
+  }
+}

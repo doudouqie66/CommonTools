@@ -1,0 +1,1 @@
+{"Name":"EMobaSpecificActorType","Description":" ","Variables":[{"Name":"MobaSpecificActorType_AccelerationPad","Value":"0","Description":" "},{"Name":"MobaSpecificActorType_ShieldingWall","Value":"1","Description":" "},{"Name":"MobaSpecificActorType_Tower","Value":"2","Description":" "}]}

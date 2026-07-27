@@ -1,0 +1,1 @@
+{"Name":"EPEBuffEffectNetworkMode","Description":" ","Variables":[{"Name":"PEBuffEffectNetworkMode_AuthorityOnly","Value":"0","Description":" "},{"Name":"PEBuffEffectNetworkMode_ClientOnly","Value":"1","Description":" "},{"Name":"PEBuffEffectNetworkMode_Both","Value":"2","Description":" "}]}

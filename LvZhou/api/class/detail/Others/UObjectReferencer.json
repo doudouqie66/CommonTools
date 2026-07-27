@@ -1,0 +1,1 @@
+{"Name":"UObjectReferencer","Description":"","Variables":[{"Name":"ReferencedObjects","Type":"TArray \u003c UObject * \u003e","Description":"Array of objects being referenced.","Redirect":""}],"Functions":null,"Parents":["UObject"],"Event":null,"Delegate":null,"Language":"cpp"}

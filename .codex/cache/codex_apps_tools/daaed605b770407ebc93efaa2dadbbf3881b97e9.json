@@ -1,0 +1,2268 @@
+{
+  "schema_version": 4,
+  "tools": [
+    {
+      "server_name": "codex_apps",
+      "supports_parallel_tool_calls": false,
+      "server_origin": null,
+      "tool_name": "_execute_document_command",
+      "tool_namespace": "codex_apps__codex_document_control",
+      "namespace_description": "Use Codex Document Control to find connected document sessions, inspect the tools supported by a selected session, and execute one supported tool against that session. Call `list_document_sessions` first to choose the intended connected session, call `get_document_tool_schemas` before constructing tool arguments, then call `execute_document_command` with a caller-stable `idempotency_key`. Use this only for connected Codex document control; do not use it for general spreadsheet, presentation, or document tasks without a connected document session.",
+      "tool": {
+        "name": "codex_document_control.execute_document_command",
+        "title": "execute_document_command",
+        "description": "Execute one supported surface-specific tool against a connected Codex document session. First call `list_document_sessions` to choose the intended `executor_session_id` and `supported_tools[].name`, then call `get_document_tool_schemas` for the selected `surface`, that `supported_tools[].name` as `tool_name`, and `version` before constructing `args`. `idempotency_key` must be a caller-stable key that you reuse verbatim only when retrying the same logical document-control command; use a new key for a different command.",
+        "inputSchema": {
+          "properties": {
+            "executor_session_id": {
+              "description": "Exact `executor_session_id` copied from the selected Codex document session returned by `list_document_sessions`.",
+              "title": "Executor Session Id",
+              "type": "string"
+            },
+            "idempotency_key": {
+              "description": "Caller-stable idempotency key for this logical document-control command. Reuse the exact same key only for retries of the same command.",
+              "maxLength": 512,
+              "minLength": 1,
+              "title": "Idempotency Key",
+              "type": "string"
+            },
+            "tool_name": {
+              "description": "Exact selected session `supported_tools[].name` copied from `list_document_sessions`.",
+              "title": "Tool Name",
+              "type": "string"
+            },
+            "args": {
+              "additionalProperties": {},
+              "description": "JSON object of arguments matching the selected tool's `input_schema` from `get_document_tool_schemas`.",
+              "title": "Args",
+              "type": "object"
+            }
+          },
+          "required": [
+            "executor_session_id",
+            "idempotency_key",
+            "tool_name",
+            "args"
+          ],
+          "title": "execute_document_command_input",
+          "type": "object",
+          "additionalProperties": false
+        },
+        "outputSchema": {
+          "properties": {
+            "result": {
+              "additionalProperties": false,
+              "description": "The server's response to a tool call.",
+              "properties": {
+                "_meta": {
+                  "anyOf": [
+                    {
+                      "additionalProperties": true,
+                      "type": "object"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ],
+                  "default": null,
+                  "title": "Meta"
+                },
+                "content": {
+                  "items": {
+                    "anyOf": [
+                      {
+                        "additionalProperties": false,
+                        "description": "Text content for a message.",
+                        "properties": {
+                          "type": {
+                            "const": "text",
+                            "title": "Type",
+                            "type": "string"
+                          },
+                          "text": {
+                            "title": "Text",
+                            "type": "string"
+                          },
+                          "annotations": {
+                            "anyOf": [
+                              {
+                                "additionalProperties": false,
+                                "properties": {
+                                  "audience": {
+                                    "anyOf": [
+                                      {
+                                        "items": {
+                                          "enum": [
+                                            "user",
+                                            "assistant"
+                                          ],
+                                          "type": "string"
+                                        },
+                                        "type": "array"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Audience"
+                                  },
+                                  "priority": {
+                                    "anyOf": [
+                                      {
+                                        "maximum": 1.0,
+                                        "minimum": 0.0,
+                                        "type": "number"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Priority"
+                                  }
+                                },
+                                "title": "Annotations",
+                                "type": "object"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null
+                          },
+                          "_meta": {
+                            "anyOf": [
+                              {
+                                "additionalProperties": true,
+                                "type": "object"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null,
+                            "title": "Meta"
+                          }
+                        },
+                        "required": [
+                          "type",
+                          "text"
+                        ],
+                        "title": "TextContent",
+                        "type": "object"
+                      },
+                      {
+                        "additionalProperties": false,
+                        "description": "Image content for a message.",
+                        "properties": {
+                          "type": {
+                            "const": "image",
+                            "title": "Type",
+                            "type": "string"
+                          },
+                          "data": {
+                            "title": "Data",
+                            "type": "string"
+                          },
+                          "mimeType": {
+                            "title": "Mimetype",
+                            "type": "string"
+                          },
+                          "annotations": {
+                            "anyOf": [
+                              {
+                                "additionalProperties": false,
+                                "properties": {
+                                  "audience": {
+                                    "anyOf": [
+                                      {
+                                        "items": {
+                                          "enum": [
+                                            "user",
+                                            "assistant"
+                                          ],
+                                          "type": "string"
+                                        },
+                                        "type": "array"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Audience"
+                                  },
+                                  "priority": {
+                                    "anyOf": [
+                                      {
+                                        "maximum": 1.0,
+                                        "minimum": 0.0,
+                                        "type": "number"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Priority"
+                                  }
+                                },
+                                "title": "Annotations",
+                                "type": "object"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null
+                          },
+                          "_meta": {
+                            "anyOf": [
+                              {
+                                "additionalProperties": true,
+                                "type": "object"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null,
+                            "title": "Meta"
+                          }
+                        },
+                        "required": [
+                          "type",
+                          "data",
+                          "mimeType"
+                        ],
+                        "title": "ImageContent",
+                        "type": "object"
+                      },
+                      {
+                        "additionalProperties": false,
+                        "description": "Audio content for a message.",
+                        "properties": {
+                          "type": {
+                            "const": "audio",
+                            "title": "Type",
+                            "type": "string"
+                          },
+                          "data": {
+                            "title": "Data",
+                            "type": "string"
+                          },
+                          "mimeType": {
+                            "title": "Mimetype",
+                            "type": "string"
+                          },
+                          "annotations": {
+                            "anyOf": [
+                              {
+                                "additionalProperties": false,
+                                "properties": {
+                                  "audience": {
+                                    "anyOf": [
+                                      {
+                                        "items": {
+                                          "enum": [
+                                            "user",
+                                            "assistant"
+                                          ],
+                                          "type": "string"
+                                        },
+                                        "type": "array"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Audience"
+                                  },
+                                  "priority": {
+                                    "anyOf": [
+                                      {
+                                        "maximum": 1.0,
+                                        "minimum": 0.0,
+                                        "type": "number"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Priority"
+                                  }
+                                },
+                                "title": "Annotations",
+                                "type": "object"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null
+                          },
+                          "_meta": {
+                            "anyOf": [
+                              {
+                                "additionalProperties": true,
+                                "type": "object"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null,
+                            "title": "Meta"
+                          }
+                        },
+                        "required": [
+                          "type",
+                          "data",
+                          "mimeType"
+                        ],
+                        "title": "AudioContent",
+                        "type": "object"
+                      },
+                      {
+                        "additionalProperties": false,
+                        "description": "A resource that the server is capable of reading, included in a prompt or tool call result.\n\nNote: resource links returned by tools are not guaranteed to appear in the results of `resources/list` requests.",
+                        "properties": {
+                          "name": {
+                            "title": "Name",
+                            "type": "string"
+                          },
+                          "title": {
+                            "anyOf": [
+                              {
+                                "type": "string"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null,
+                            "title": "Title"
+                          },
+                          "uri": {
+                            "format": "uri",
+                            "minLength": 1,
+                            "title": "Uri",
+                            "type": "string"
+                          },
+                          "description": {
+                            "anyOf": [
+                              {
+                                "type": "string"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null,
+                            "title": "Description"
+                          },
+                          "mimeType": {
+                            "anyOf": [
+                              {
+                                "type": "string"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null,
+                            "title": "Mimetype"
+                          },
+                          "size": {
+                            "anyOf": [
+                              {
+                                "type": "integer"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null,
+                            "title": "Size"
+                          },
+                          "icons": {
+                            "anyOf": [
+                              {
+                                "items": {
+                                  "additionalProperties": false,
+                                  "description": "An icon for display in user interfaces.",
+                                  "properties": {
+                                    "src": {
+                                      "title": "Src",
+                                      "type": "string"
+                                    },
+                                    "mimeType": {
+                                      "anyOf": [
+                                        {
+                                          "type": "string"
+                                        },
+                                        {
+                                          "type": "null"
+                                        }
+                                      ],
+                                      "default": null,
+                                      "title": "Mimetype"
+                                    },
+                                    "sizes": {
+                                      "anyOf": [
+                                        {
+                                          "items": {
+                                            "type": "string"
+                                          },
+                                          "type": "array"
+                                        },
+                                        {
+                                          "type": "null"
+                                        }
+                                      ],
+                                      "default": null,
+                                      "title": "Sizes"
+                                    }
+                                  },
+                                  "required": [
+                                    "src"
+                                  ],
+                                  "title": "Icon",
+                                  "type": "object"
+                                },
+                                "type": "array"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null,
+                            "title": "Icons"
+                          },
+                          "annotations": {
+                            "anyOf": [
+                              {
+                                "additionalProperties": false,
+                                "properties": {
+                                  "audience": {
+                                    "anyOf": [
+                                      {
+                                        "items": {
+                                          "enum": [
+                                            "user",
+                                            "assistant"
+                                          ],
+                                          "type": "string"
+                                        },
+                                        "type": "array"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Audience"
+                                  },
+                                  "priority": {
+                                    "anyOf": [
+                                      {
+                                        "maximum": 1.0,
+                                        "minimum": 0.0,
+                                        "type": "number"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Priority"
+                                  }
+                                },
+                                "title": "Annotations",
+                                "type": "object"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null
+                          },
+                          "_meta": {
+                            "anyOf": [
+                              {
+                                "additionalProperties": true,
+                                "type": "object"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null,
+                            "title": "Meta"
+                          },
+                          "type": {
+                            "const": "resource_link",
+                            "title": "Type",
+                            "type": "string"
+                          }
+                        },
+                        "required": [
+                          "name",
+                          "uri",
+                          "type"
+                        ],
+                        "title": "ResourceLink",
+                        "type": "object"
+                      },
+                      {
+                        "additionalProperties": false,
+                        "description": "The contents of a resource, embedded into a prompt or tool call result.\n\nIt is up to the client how best to render embedded resources for the benefit\nof the LLM and/or the user.",
+                        "properties": {
+                          "type": {
+                            "const": "resource",
+                            "title": "Type",
+                            "type": "string"
+                          },
+                          "resource": {
+                            "anyOf": [
+                              {
+                                "additionalProperties": false,
+                                "description": "Text contents of a resource.",
+                                "properties": {
+                                  "uri": {
+                                    "format": "uri",
+                                    "minLength": 1,
+                                    "title": "Uri",
+                                    "type": "string"
+                                  },
+                                  "mimeType": {
+                                    "anyOf": [
+                                      {
+                                        "type": "string"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Mimetype"
+                                  },
+                                  "_meta": {
+                                    "anyOf": [
+                                      {
+                                        "additionalProperties": true,
+                                        "type": "object"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Meta"
+                                  },
+                                  "text": {
+                                    "title": "Text",
+                                    "type": "string"
+                                  }
+                                },
+                                "required": [
+                                  "uri",
+                                  "text"
+                                ],
+                                "title": "TextResourceContents",
+                                "type": "object"
+                              },
+                              {
+                                "additionalProperties": false,
+                                "description": "Binary contents of a resource.",
+                                "properties": {
+                                  "uri": {
+                                    "format": "uri",
+                                    "minLength": 1,
+                                    "title": "Uri",
+                                    "type": "string"
+                                  },
+                                  "mimeType": {
+                                    "anyOf": [
+                                      {
+                                        "type": "string"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Mimetype"
+                                  },
+                                  "_meta": {
+                                    "anyOf": [
+                                      {
+                                        "additionalProperties": true,
+                                        "type": "object"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Meta"
+                                  },
+                                  "blob": {
+                                    "title": "Blob",
+                                    "type": "string"
+                                  }
+                                },
+                                "required": [
+                                  "uri",
+                                  "blob"
+                                ],
+                                "title": "BlobResourceContents",
+                                "type": "object"
+                              }
+                            ],
+                            "title": "Resource"
+                          },
+                          "annotations": {
+                            "anyOf": [
+                              {
+                                "additionalProperties": false,
+                                "properties": {
+                                  "audience": {
+                                    "anyOf": [
+                                      {
+                                        "items": {
+                                          "enum": [
+                                            "user",
+                                            "assistant"
+                                          ],
+                                          "type": "string"
+                                        },
+                                        "type": "array"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Audience"
+                                  },
+                                  "priority": {
+                                    "anyOf": [
+                                      {
+                                        "maximum": 1.0,
+                                        "minimum": 0.0,
+                                        "type": "number"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Priority"
+                                  }
+                                },
+                                "title": "Annotations",
+                                "type": "object"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null
+                          },
+                          "_meta": {
+                            "anyOf": [
+                              {
+                                "additionalProperties": true,
+                                "type": "object"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null,
+                            "title": "Meta"
+                          }
+                        },
+                        "required": [
+                          "type",
+                          "resource"
+                        ],
+                        "title": "EmbeddedResource",
+                        "type": "object"
+                      }
+                    ]
+                  },
+                  "title": "Content",
+                  "type": "array"
+                },
+                "structuredContent": {
+                  "anyOf": [
+                    {
+                      "additionalProperties": true,
+                      "type": "object"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ],
+                  "default": null,
+                  "title": "Structuredcontent"
+                },
+                "isError": {
+                  "default": false,
+                  "title": "Iserror",
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "content"
+              ],
+              "title": "CallToolResult",
+              "type": "object"
+            }
+          },
+          "required": [
+            "result"
+          ],
+          "title": "execute_document_command_output",
+          "type": "object",
+          "additionalProperties": false
+        },
+        "annotations": {
+          "readOnlyHint": false,
+          "destructiveHint": true,
+          "openWorldHint": false
+        },
+        "_meta": {
+          "openai/outputTemplate": null,
+          "resource_name": "codex_document_control.execute_document_command",
+          "_codex_apps": {
+            "resource_uri": "/connector_openai_codex_document_control/implicit_link::connector_openai_codex_document_control/execute_document_command",
+            "contains_mcp_source": false
+          },
+          "connector_id": "connector_openai_codex_document_control",
+          "connector_name": "Codex Document Control",
+          "connector_description": "Use Codex Document Control to find connected document sessions, inspect the tools supported by a selected session, and execute one supported tool against that session. Call `list_document_sessions` first to choose the intended connected session, call `get_document_tool_schemas` before constructing tool arguments, then call `execute_document_command` with a caller-stable `idempotency_key`. Use this only for connected Codex document control; do not use it for general spreadsheet, presentation, or document tasks without a connected document session.",
+          "link_id": "implicit_link::connector_openai_codex_document_control"
+        }
+      },
+      "connector_id": "connector_openai_codex_document_control",
+      "connector_name": "Codex Document Control",
+      "plugin_display_names": []
+    },
+    {
+      "server_name": "codex_apps",
+      "supports_parallel_tool_calls": false,
+      "server_origin": null,
+      "tool_name": "_get_document_tool_schemas",
+      "tool_namespace": "codex_apps__codex_document_control",
+      "namespace_description": "Use Codex Document Control to find connected document sessions, inspect the tools supported by a selected session, and execute one supported tool against that session. Call `list_document_sessions` first to choose the intended connected session, call `get_document_tool_schemas` before constructing tool arguments, then call `execute_document_command` with a caller-stable `idempotency_key`. Use this only for connected Codex document control; do not use it for general spreadsheet, presentation, or document tasks without a connected document session.",
+      "tool": {
+        "name": "codex_document_control.get_document_tool_schemas",
+        "title": "get_document_tool_schemas",
+        "description": "Fetch the concrete input schemas for tools supported by a selected Codex document session before constructing `execute_document_command.args`. First call `list_document_sessions`, then pass the exact `surface`, selected `supported_tools[].name` as `tool_name`, and `version` values from that session's `supported_tools` records.",
+        "inputSchema": {
+          "properties": {
+            "items": {
+              "description": "Exact tool schema lookup keys from Codex document session discovery, keyed by `surface`, `supported_tools[].name` passed as `tool_name`, and `version`.",
+              "items": {
+                "additionalProperties": false,
+                "properties": {
+                  "surface": {
+                    "description": "Document surface. Use `excel` for Excel workbooks, `powerpoint` for PowerPoint presentations, or `sheets` for Google Sheets spreadsheets.",
+                    "enum": [
+                      "excel",
+                      "powerpoint",
+                      "sheets"
+                    ],
+                    "title": "Surface",
+                    "type": "string"
+                  },
+                  "tool_name": {
+                    "description": "Exact `supported_tools[].name` copied from the selected session.",
+                    "maxLength": 128,
+                    "title": "Tool Name",
+                    "type": "string"
+                  },
+                  "version": {
+                    "description": "Exact `supported_tools[].version` copied from the selected session.",
+                    "maxLength": 64,
+                    "title": "Version",
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "surface",
+                  "tool_name",
+                  "version"
+                ],
+                "title": "ArcToolSchemaLookupItem",
+                "type": "object"
+              },
+              "maxItems": 100,
+              "minItems": 1,
+              "title": "Items",
+              "type": "array"
+            }
+          },
+          "required": [
+            "items"
+          ],
+          "title": "get_document_tool_schemas_input",
+          "type": "object",
+          "additionalProperties": false
+        },
+        "outputSchema": {
+          "properties": {
+            "result": {
+              "additionalProperties": false,
+              "description": "The server's response to a tool call.",
+              "properties": {
+                "_meta": {
+                  "anyOf": [
+                    {
+                      "additionalProperties": true,
+                      "type": "object"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ],
+                  "default": null,
+                  "title": "Meta"
+                },
+                "content": {
+                  "items": {
+                    "anyOf": [
+                      {
+                        "additionalProperties": false,
+                        "description": "Text content for a message.",
+                        "properties": {
+                          "type": {
+                            "const": "text",
+                            "title": "Type",
+                            "type": "string"
+                          },
+                          "text": {
+                            "title": "Text",
+                            "type": "string"
+                          },
+                          "annotations": {
+                            "anyOf": [
+                              {
+                                "additionalProperties": false,
+                                "properties": {
+                                  "audience": {
+                                    "anyOf": [
+                                      {
+                                        "items": {
+                                          "enum": [
+                                            "user",
+                                            "assistant"
+                                          ],
+                                          "type": "string"
+                                        },
+                                        "type": "array"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Audience"
+                                  },
+                                  "priority": {
+                                    "anyOf": [
+                                      {
+                                        "maximum": 1.0,
+                                        "minimum": 0.0,
+                                        "type": "number"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Priority"
+                                  }
+                                },
+                                "title": "Annotations",
+                                "type": "object"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null
+                          },
+                          "_meta": {
+                            "anyOf": [
+                              {
+                                "additionalProperties": true,
+                                "type": "object"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null,
+                            "title": "Meta"
+                          }
+                        },
+                        "required": [
+                          "type",
+                          "text"
+                        ],
+                        "title": "TextContent",
+                        "type": "object"
+                      },
+                      {
+                        "additionalProperties": false,
+                        "description": "Image content for a message.",
+                        "properties": {
+                          "type": {
+                            "const": "image",
+                            "title": "Type",
+                            "type": "string"
+                          },
+                          "data": {
+                            "title": "Data",
+                            "type": "string"
+                          },
+                          "mimeType": {
+                            "title": "Mimetype",
+                            "type": "string"
+                          },
+                          "annotations": {
+                            "anyOf": [
+                              {
+                                "additionalProperties": false,
+                                "properties": {
+                                  "audience": {
+                                    "anyOf": [
+                                      {
+                                        "items": {
+                                          "enum": [
+                                            "user",
+                                            "assistant"
+                                          ],
+                                          "type": "string"
+                                        },
+                                        "type": "array"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Audience"
+                                  },
+                                  "priority": {
+                                    "anyOf": [
+                                      {
+                                        "maximum": 1.0,
+                                        "minimum": 0.0,
+                                        "type": "number"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Priority"
+                                  }
+                                },
+                                "title": "Annotations",
+                                "type": "object"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null
+                          },
+                          "_meta": {
+                            "anyOf": [
+                              {
+                                "additionalProperties": true,
+                                "type": "object"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null,
+                            "title": "Meta"
+                          }
+                        },
+                        "required": [
+                          "type",
+                          "data",
+                          "mimeType"
+                        ],
+                        "title": "ImageContent",
+                        "type": "object"
+                      },
+                      {
+                        "additionalProperties": false,
+                        "description": "Audio content for a message.",
+                        "properties": {
+                          "type": {
+                            "const": "audio",
+                            "title": "Type",
+                            "type": "string"
+                          },
+                          "data": {
+                            "title": "Data",
+                            "type": "string"
+                          },
+                          "mimeType": {
+                            "title": "Mimetype",
+                            "type": "string"
+                          },
+                          "annotations": {
+                            "anyOf": [
+                              {
+                                "additionalProperties": false,
+                                "properties": {
+                                  "audience": {
+                                    "anyOf": [
+                                      {
+                                        "items": {
+                                          "enum": [
+                                            "user",
+                                            "assistant"
+                                          ],
+                                          "type": "string"
+                                        },
+                                        "type": "array"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Audience"
+                                  },
+                                  "priority": {
+                                    "anyOf": [
+                                      {
+                                        "maximum": 1.0,
+                                        "minimum": 0.0,
+                                        "type": "number"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Priority"
+                                  }
+                                },
+                                "title": "Annotations",
+                                "type": "object"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null
+                          },
+                          "_meta": {
+                            "anyOf": [
+                              {
+                                "additionalProperties": true,
+                                "type": "object"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null,
+                            "title": "Meta"
+                          }
+                        },
+                        "required": [
+                          "type",
+                          "data",
+                          "mimeType"
+                        ],
+                        "title": "AudioContent",
+                        "type": "object"
+                      },
+                      {
+                        "additionalProperties": false,
+                        "description": "A resource that the server is capable of reading, included in a prompt or tool call result.\n\nNote: resource links returned by tools are not guaranteed to appear in the results of `resources/list` requests.",
+                        "properties": {
+                          "name": {
+                            "title": "Name",
+                            "type": "string"
+                          },
+                          "title": {
+                            "anyOf": [
+                              {
+                                "type": "string"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null,
+                            "title": "Title"
+                          },
+                          "uri": {
+                            "format": "uri",
+                            "minLength": 1,
+                            "title": "Uri",
+                            "type": "string"
+                          },
+                          "description": {
+                            "anyOf": [
+                              {
+                                "type": "string"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null,
+                            "title": "Description"
+                          },
+                          "mimeType": {
+                            "anyOf": [
+                              {
+                                "type": "string"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null,
+                            "title": "Mimetype"
+                          },
+                          "size": {
+                            "anyOf": [
+                              {
+                                "type": "integer"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null,
+                            "title": "Size"
+                          },
+                          "icons": {
+                            "anyOf": [
+                              {
+                                "items": {
+                                  "additionalProperties": false,
+                                  "description": "An icon for display in user interfaces.",
+                                  "properties": {
+                                    "src": {
+                                      "title": "Src",
+                                      "type": "string"
+                                    },
+                                    "mimeType": {
+                                      "anyOf": [
+                                        {
+                                          "type": "string"
+                                        },
+                                        {
+                                          "type": "null"
+                                        }
+                                      ],
+                                      "default": null,
+                                      "title": "Mimetype"
+                                    },
+                                    "sizes": {
+                                      "anyOf": [
+                                        {
+                                          "items": {
+                                            "type": "string"
+                                          },
+                                          "type": "array"
+                                        },
+                                        {
+                                          "type": "null"
+                                        }
+                                      ],
+                                      "default": null,
+                                      "title": "Sizes"
+                                    }
+                                  },
+                                  "required": [
+                                    "src"
+                                  ],
+                                  "title": "Icon",
+                                  "type": "object"
+                                },
+                                "type": "array"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null,
+                            "title": "Icons"
+                          },
+                          "annotations": {
+                            "anyOf": [
+                              {
+                                "additionalProperties": false,
+                                "properties": {
+                                  "audience": {
+                                    "anyOf": [
+                                      {
+                                        "items": {
+                                          "enum": [
+                                            "user",
+                                            "assistant"
+                                          ],
+                                          "type": "string"
+                                        },
+                                        "type": "array"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Audience"
+                                  },
+                                  "priority": {
+                                    "anyOf": [
+                                      {
+                                        "maximum": 1.0,
+                                        "minimum": 0.0,
+                                        "type": "number"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Priority"
+                                  }
+                                },
+                                "title": "Annotations",
+                                "type": "object"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null
+                          },
+                          "_meta": {
+                            "anyOf": [
+                              {
+                                "additionalProperties": true,
+                                "type": "object"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null,
+                            "title": "Meta"
+                          },
+                          "type": {
+                            "const": "resource_link",
+                            "title": "Type",
+                            "type": "string"
+                          }
+                        },
+                        "required": [
+                          "name",
+                          "uri",
+                          "type"
+                        ],
+                        "title": "ResourceLink",
+                        "type": "object"
+                      },
+                      {
+                        "additionalProperties": false,
+                        "description": "The contents of a resource, embedded into a prompt or tool call result.\n\nIt is up to the client how best to render embedded resources for the benefit\nof the LLM and/or the user.",
+                        "properties": {
+                          "type": {
+                            "const": "resource",
+                            "title": "Type",
+                            "type": "string"
+                          },
+                          "resource": {
+                            "anyOf": [
+                              {
+                                "additionalProperties": false,
+                                "description": "Text contents of a resource.",
+                                "properties": {
+                                  "uri": {
+                                    "format": "uri",
+                                    "minLength": 1,
+                                    "title": "Uri",
+                                    "type": "string"
+                                  },
+                                  "mimeType": {
+                                    "anyOf": [
+                                      {
+                                        "type": "string"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Mimetype"
+                                  },
+                                  "_meta": {
+                                    "anyOf": [
+                                      {
+                                        "additionalProperties": true,
+                                        "type": "object"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Meta"
+                                  },
+                                  "text": {
+                                    "title": "Text",
+                                    "type": "string"
+                                  }
+                                },
+                                "required": [
+                                  "uri",
+                                  "text"
+                                ],
+                                "title": "TextResourceContents",
+                                "type": "object"
+                              },
+                              {
+                                "additionalProperties": false,
+                                "description": "Binary contents of a resource.",
+                                "properties": {
+                                  "uri": {
+                                    "format": "uri",
+                                    "minLength": 1,
+                                    "title": "Uri",
+                                    "type": "string"
+                                  },
+                                  "mimeType": {
+                                    "anyOf": [
+                                      {
+                                        "type": "string"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Mimetype"
+                                  },
+                                  "_meta": {
+                                    "anyOf": [
+                                      {
+                                        "additionalProperties": true,
+                                        "type": "object"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Meta"
+                                  },
+                                  "blob": {
+                                    "title": "Blob",
+                                    "type": "string"
+                                  }
+                                },
+                                "required": [
+                                  "uri",
+                                  "blob"
+                                ],
+                                "title": "BlobResourceContents",
+                                "type": "object"
+                              }
+                            ],
+                            "title": "Resource"
+                          },
+                          "annotations": {
+                            "anyOf": [
+                              {
+                                "additionalProperties": false,
+                                "properties": {
+                                  "audience": {
+                                    "anyOf": [
+                                      {
+                                        "items": {
+                                          "enum": [
+                                            "user",
+                                            "assistant"
+                                          ],
+                                          "type": "string"
+                                        },
+                                        "type": "array"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Audience"
+                                  },
+                                  "priority": {
+                                    "anyOf": [
+                                      {
+                                        "maximum": 1.0,
+                                        "minimum": 0.0,
+                                        "type": "number"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Priority"
+                                  }
+                                },
+                                "title": "Annotations",
+                                "type": "object"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null
+                          },
+                          "_meta": {
+                            "anyOf": [
+                              {
+                                "additionalProperties": true,
+                                "type": "object"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null,
+                            "title": "Meta"
+                          }
+                        },
+                        "required": [
+                          "type",
+                          "resource"
+                        ],
+                        "title": "EmbeddedResource",
+                        "type": "object"
+                      }
+                    ]
+                  },
+                  "title": "Content",
+                  "type": "array"
+                },
+                "structuredContent": {
+                  "anyOf": [
+                    {
+                      "additionalProperties": true,
+                      "type": "object"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ],
+                  "default": null,
+                  "title": "Structuredcontent"
+                },
+                "isError": {
+                  "default": false,
+                  "title": "Iserror",
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "content"
+              ],
+              "title": "CallToolResult",
+              "type": "object"
+            }
+          },
+          "required": [
+            "result"
+          ],
+          "title": "get_document_tool_schemas_output",
+          "type": "object",
+          "additionalProperties": false
+        },
+        "annotations": {
+          "readOnlyHint": true,
+          "destructiveHint": false,
+          "openWorldHint": false
+        },
+        "_meta": {
+          "openai/outputTemplate": null,
+          "resource_name": "codex_document_control.get_document_tool_schemas",
+          "_codex_apps": {
+            "resource_uri": "/connector_openai_codex_document_control/implicit_link::connector_openai_codex_document_control/get_document_tool_schemas",
+            "contains_mcp_source": false
+          },
+          "connector_id": "connector_openai_codex_document_control",
+          "connector_name": "Codex Document Control",
+          "connector_description": "Use Codex Document Control to find connected document sessions, inspect the tools supported by a selected session, and execute one supported tool against that session. Call `list_document_sessions` first to choose the intended connected session, call `get_document_tool_schemas` before constructing tool arguments, then call `execute_document_command` with a caller-stable `idempotency_key`. Use this only for connected Codex document control; do not use it for general spreadsheet, presentation, or document tasks without a connected document session.",
+          "link_id": "implicit_link::connector_openai_codex_document_control"
+        }
+      },
+      "connector_id": "connector_openai_codex_document_control",
+      "connector_name": "Codex Document Control",
+      "plugin_display_names": []
+    },
+    {
+      "server_name": "codex_apps",
+      "supports_parallel_tool_calls": false,
+      "server_origin": null,
+      "tool_name": "_list_document_sessions",
+      "tool_namespace": "codex_apps__codex_document_control",
+      "namespace_description": "Use Codex Document Control to find connected document sessions, inspect the tools supported by a selected session, and execute one supported tool against that session. Call `list_document_sessions` first to choose the intended connected session, call `get_document_tool_schemas` before constructing tool arguments, then call `execute_document_command` with a caller-stable `idempotency_key`. Use this only for connected Codex document control; do not use it for general spreadsheet, presentation, or document tasks without a connected document session.",
+      "tool": {
+        "name": "codex_document_control.list_document_sessions",
+        "title": "list_document_sessions",
+        "description": "List the user's currently connected Codex document sessions and the surface-specific tools each session supports. Call this before executing a document-control command so you can choose the intended `executor_session_id` and `supported_tools[].name`.",
+        "inputSchema": {
+          "properties": {
+            "surface": {
+              "anyOf": [
+                {
+                  "enum": [
+                    "excel",
+                    "powerpoint",
+                    "sheets"
+                  ],
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "default": null,
+              "description": "Optional document surface filter. Use `excel` for Excel workbooks, `powerpoint` for PowerPoint presentations, or `sheets` for Google Sheets spreadsheets. Omit to list connected Codex document sessions across all supported surfaces.",
+              "title": "Surface"
+            }
+          },
+          "title": "list_document_sessions_input",
+          "type": "object",
+          "additionalProperties": false
+        },
+        "outputSchema": {
+          "properties": {
+            "result": {
+              "additionalProperties": false,
+              "description": "The server's response to a tool call.",
+              "properties": {
+                "_meta": {
+                  "anyOf": [
+                    {
+                      "additionalProperties": true,
+                      "type": "object"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ],
+                  "default": null,
+                  "title": "Meta"
+                },
+                "content": {
+                  "items": {
+                    "anyOf": [
+                      {
+                        "additionalProperties": false,
+                        "description": "Text content for a message.",
+                        "properties": {
+                          "type": {
+                            "const": "text",
+                            "title": "Type",
+                            "type": "string"
+                          },
+                          "text": {
+                            "title": "Text",
+                            "type": "string"
+                          },
+                          "annotations": {
+                            "anyOf": [
+                              {
+                                "additionalProperties": false,
+                                "properties": {
+                                  "audience": {
+                                    "anyOf": [
+                                      {
+                                        "items": {
+                                          "enum": [
+                                            "user",
+                                            "assistant"
+                                          ],
+                                          "type": "string"
+                                        },
+                                        "type": "array"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Audience"
+                                  },
+                                  "priority": {
+                                    "anyOf": [
+                                      {
+                                        "maximum": 1.0,
+                                        "minimum": 0.0,
+                                        "type": "number"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Priority"
+                                  }
+                                },
+                                "title": "Annotations",
+                                "type": "object"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null
+                          },
+                          "_meta": {
+                            "anyOf": [
+                              {
+                                "additionalProperties": true,
+                                "type": "object"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null,
+                            "title": "Meta"
+                          }
+                        },
+                        "required": [
+                          "type",
+                          "text"
+                        ],
+                        "title": "TextContent",
+                        "type": "object"
+                      },
+                      {
+                        "additionalProperties": false,
+                        "description": "Image content for a message.",
+                        "properties": {
+                          "type": {
+                            "const": "image",
+                            "title": "Type",
+                            "type": "string"
+                          },
+                          "data": {
+                            "title": "Data",
+                            "type": "string"
+                          },
+                          "mimeType": {
+                            "title": "Mimetype",
+                            "type": "string"
+                          },
+                          "annotations": {
+                            "anyOf": [
+                              {
+                                "additionalProperties": false,
+                                "properties": {
+                                  "audience": {
+                                    "anyOf": [
+                                      {
+                                        "items": {
+                                          "enum": [
+                                            "user",
+                                            "assistant"
+                                          ],
+                                          "type": "string"
+                                        },
+                                        "type": "array"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Audience"
+                                  },
+                                  "priority": {
+                                    "anyOf": [
+                                      {
+                                        "maximum": 1.0,
+                                        "minimum": 0.0,
+                                        "type": "number"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Priority"
+                                  }
+                                },
+                                "title": "Annotations",
+                                "type": "object"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null
+                          },
+                          "_meta": {
+                            "anyOf": [
+                              {
+                                "additionalProperties": true,
+                                "type": "object"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null,
+                            "title": "Meta"
+                          }
+                        },
+                        "required": [
+                          "type",
+                          "data",
+                          "mimeType"
+                        ],
+                        "title": "ImageContent",
+                        "type": "object"
+                      },
+                      {
+                        "additionalProperties": false,
+                        "description": "Audio content for a message.",
+                        "properties": {
+                          "type": {
+                            "const": "audio",
+                            "title": "Type",
+                            "type": "string"
+                          },
+                          "data": {
+                            "title": "Data",
+                            "type": "string"
+                          },
+                          "mimeType": {
+                            "title": "Mimetype",
+                            "type": "string"
+                          },
+                          "annotations": {
+                            "anyOf": [
+                              {
+                                "additionalProperties": false,
+                                "properties": {
+                                  "audience": {
+                                    "anyOf": [
+                                      {
+                                        "items": {
+                                          "enum": [
+                                            "user",
+                                            "assistant"
+                                          ],
+                                          "type": "string"
+                                        },
+                                        "type": "array"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Audience"
+                                  },
+                                  "priority": {
+                                    "anyOf": [
+                                      {
+                                        "maximum": 1.0,
+                                        "minimum": 0.0,
+                                        "type": "number"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Priority"
+                                  }
+                                },
+                                "title": "Annotations",
+                                "type": "object"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null
+                          },
+                          "_meta": {
+                            "anyOf": [
+                              {
+                                "additionalProperties": true,
+                                "type": "object"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null,
+                            "title": "Meta"
+                          }
+                        },
+                        "required": [
+                          "type",
+                          "data",
+                          "mimeType"
+                        ],
+                        "title": "AudioContent",
+                        "type": "object"
+                      },
+                      {
+                        "additionalProperties": false,
+                        "description": "A resource that the server is capable of reading, included in a prompt or tool call result.\n\nNote: resource links returned by tools are not guaranteed to appear in the results of `resources/list` requests.",
+                        "properties": {
+                          "name": {
+                            "title": "Name",
+                            "type": "string"
+                          },
+                          "title": {
+                            "anyOf": [
+                              {
+                                "type": "string"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null,
+                            "title": "Title"
+                          },
+                          "uri": {
+                            "format": "uri",
+                            "minLength": 1,
+                            "title": "Uri",
+                            "type": "string"
+                          },
+                          "description": {
+                            "anyOf": [
+                              {
+                                "type": "string"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null,
+                            "title": "Description"
+                          },
+                          "mimeType": {
+                            "anyOf": [
+                              {
+                                "type": "string"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null,
+                            "title": "Mimetype"
+                          },
+                          "size": {
+                            "anyOf": [
+                              {
+                                "type": "integer"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null,
+                            "title": "Size"
+                          },
+                          "icons": {
+                            "anyOf": [
+                              {
+                                "items": {
+                                  "additionalProperties": false,
+                                  "description": "An icon for display in user interfaces.",
+                                  "properties": {
+                                    "src": {
+                                      "title": "Src",
+                                      "type": "string"
+                                    },
+                                    "mimeType": {
+                                      "anyOf": [
+                                        {
+                                          "type": "string"
+                                        },
+                                        {
+                                          "type": "null"
+                                        }
+                                      ],
+                                      "default": null,
+                                      "title": "Mimetype"
+                                    },
+                                    "sizes": {
+                                      "anyOf": [
+                                        {
+                                          "items": {
+                                            "type": "string"
+                                          },
+                                          "type": "array"
+                                        },
+                                        {
+                                          "type": "null"
+                                        }
+                                      ],
+                                      "default": null,
+                                      "title": "Sizes"
+                                    }
+                                  },
+                                  "required": [
+                                    "src"
+                                  ],
+                                  "title": "Icon",
+                                  "type": "object"
+                                },
+                                "type": "array"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null,
+                            "title": "Icons"
+                          },
+                          "annotations": {
+                            "anyOf": [
+                              {
+                                "additionalProperties": false,
+                                "properties": {
+                                  "audience": {
+                                    "anyOf": [
+                                      {
+                                        "items": {
+                                          "enum": [
+                                            "user",
+                                            "assistant"
+                                          ],
+                                          "type": "string"
+                                        },
+                                        "type": "array"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Audience"
+                                  },
+                                  "priority": {
+                                    "anyOf": [
+                                      {
+                                        "maximum": 1.0,
+                                        "minimum": 0.0,
+                                        "type": "number"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Priority"
+                                  }
+                                },
+                                "title": "Annotations",
+                                "type": "object"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null
+                          },
+                          "_meta": {
+                            "anyOf": [
+                              {
+                                "additionalProperties": true,
+                                "type": "object"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null,
+                            "title": "Meta"
+                          },
+                          "type": {
+                            "const": "resource_link",
+                            "title": "Type",
+                            "type": "string"
+                          }
+                        },
+                        "required": [
+                          "name",
+                          "uri",
+                          "type"
+                        ],
+                        "title": "ResourceLink",
+                        "type": "object"
+                      },
+                      {
+                        "additionalProperties": false,
+                        "description": "The contents of a resource, embedded into a prompt or tool call result.\n\nIt is up to the client how best to render embedded resources for the benefit\nof the LLM and/or the user.",
+                        "properties": {
+                          "type": {
+                            "const": "resource",
+                            "title": "Type",
+                            "type": "string"
+                          },
+                          "resource": {
+                            "anyOf": [
+                              {
+                                "additionalProperties": false,
+                                "description": "Text contents of a resource.",
+                                "properties": {
+                                  "uri": {
+                                    "format": "uri",
+                                    "minLength": 1,
+                                    "title": "Uri",
+                                    "type": "string"
+                                  },
+                                  "mimeType": {
+                                    "anyOf": [
+                                      {
+                                        "type": "string"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Mimetype"
+                                  },
+                                  "_meta": {
+                                    "anyOf": [
+                                      {
+                                        "additionalProperties": true,
+                                        "type": "object"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Meta"
+                                  },
+                                  "text": {
+                                    "title": "Text",
+                                    "type": "string"
+                                  }
+                                },
+                                "required": [
+                                  "uri",
+                                  "text"
+                                ],
+                                "title": "TextResourceContents",
+                                "type": "object"
+                              },
+                              {
+                                "additionalProperties": false,
+                                "description": "Binary contents of a resource.",
+                                "properties": {
+                                  "uri": {
+                                    "format": "uri",
+                                    "minLength": 1,
+                                    "title": "Uri",
+                                    "type": "string"
+                                  },
+                                  "mimeType": {
+                                    "anyOf": [
+                                      {
+                                        "type": "string"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Mimetype"
+                                  },
+                                  "_meta": {
+                                    "anyOf": [
+                                      {
+                                        "additionalProperties": true,
+                                        "type": "object"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Meta"
+                                  },
+                                  "blob": {
+                                    "title": "Blob",
+                                    "type": "string"
+                                  }
+                                },
+                                "required": [
+                                  "uri",
+                                  "blob"
+                                ],
+                                "title": "BlobResourceContents",
+                                "type": "object"
+                              }
+                            ],
+                            "title": "Resource"
+                          },
+                          "annotations": {
+                            "anyOf": [
+                              {
+                                "additionalProperties": false,
+                                "properties": {
+                                  "audience": {
+                                    "anyOf": [
+                                      {
+                                        "items": {
+                                          "enum": [
+                                            "user",
+                                            "assistant"
+                                          ],
+                                          "type": "string"
+                                        },
+                                        "type": "array"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Audience"
+                                  },
+                                  "priority": {
+                                    "anyOf": [
+                                      {
+                                        "maximum": 1.0,
+                                        "minimum": 0.0,
+                                        "type": "number"
+                                      },
+                                      {
+                                        "type": "null"
+                                      }
+                                    ],
+                                    "default": null,
+                                    "title": "Priority"
+                                  }
+                                },
+                                "title": "Annotations",
+                                "type": "object"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null
+                          },
+                          "_meta": {
+                            "anyOf": [
+                              {
+                                "additionalProperties": true,
+                                "type": "object"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ],
+                            "default": null,
+                            "title": "Meta"
+                          }
+                        },
+                        "required": [
+                          "type",
+                          "resource"
+                        ],
+                        "title": "EmbeddedResource",
+                        "type": "object"
+                      }
+                    ]
+                  },
+                  "title": "Content",
+                  "type": "array"
+                },
+                "structuredContent": {
+                  "anyOf": [
+                    {
+                      "additionalProperties": true,
+                      "type": "object"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ],
+                  "default": null,
+                  "title": "Structuredcontent"
+                },
+                "isError": {
+                  "default": false,
+                  "title": "Iserror",
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "content"
+              ],
+              "title": "CallToolResult",
+              "type": "object"
+            }
+          },
+          "required": [
+            "result"
+          ],
+          "title": "list_document_sessions_output",
+          "type": "object",
+          "additionalProperties": false
+        },
+        "annotations": {
+          "readOnlyHint": true,
+          "destructiveHint": false,
+          "openWorldHint": false
+        },
+        "_meta": {
+          "openai/outputTemplate": null,
+          "resource_name": "codex_document_control.list_document_sessions",
+          "_codex_apps": {
+            "resource_uri": "/connector_openai_codex_document_control/implicit_link::connector_openai_codex_document_control/list_document_sessions",
+            "contains_mcp_source": false
+          },
+          "connector_id": "connector_openai_codex_document_control",
+          "connector_name": "Codex Document Control",
+          "connector_description": "Use Codex Document Control to find connected document sessions, inspect the tools supported by a selected session, and execute one supported tool against that session. Call `list_document_sessions` first to choose the intended connected session, call `get_document_tool_schemas` before constructing tool arguments, then call `execute_document_command` with a caller-stable `idempotency_key`. Use this only for connected Codex document control; do not use it for general spreadsheet, presentation, or document tasks without a connected document session.",
+          "link_id": "implicit_link::connector_openai_codex_document_control"
+        }
+      },
+      "connector_id": "connector_openai_codex_document_control",
+      "connector_name": "Codex Document Control",
+      "plugin_display_names": []
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"Name":"FPoseDriverTransform","Description":"Translation and rotation for a particular bone at a particular target","Variables":[{"Name":"TargetTranslation","Type":"FVector","Description":"Translation of this target","Redirect":""},{"Name":"TargetRotation","Type":"FRotator","Description":"Rotation of this target","Redirect":""}]}

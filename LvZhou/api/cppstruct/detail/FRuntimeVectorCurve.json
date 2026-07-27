@@ -1,0 +1,1 @@
+{"Name":"FRuntimeVectorCurve","Description":"","Variables":[{"Name":"VectorCurves","Type":"FRichCurve","Description":"","Redirect":""},{"Name":"ExternalCurve","Type":"UCurveVector *","Description":"","Redirect":""}]}

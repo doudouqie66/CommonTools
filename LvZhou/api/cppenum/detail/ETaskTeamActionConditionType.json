@@ -1,0 +1,1 @@
+{"Name":"ETaskTeamActionConditionType","Description":" ","Variables":[{"Name":"ETTACT_SameArea","Value":"1","Description":" "},{"Name":"ETTACT_SameEmote","Value":"2","Description":" "},{"Name":"ETTACT_SameEmoteInSameTime","Value":"3","Description":" "},{"Name":"ETTACT_SameEmoteInSameTimeAndArea","Value":"4","Description":" "}]}

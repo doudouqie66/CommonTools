@@ -1,0 +1,1 @@
+{"Name":"PCGSpatialNoiseMode","Description":" ","Variables":[{"Name":"Perlin2D","Value":"0","Description":" "},{"Name":"Caustic2D","Value":"1","Description":" "},{"Name":"Voronoi2D","Value":"2","Description":" "},{"Name":"FractionalBrownian2D","Value":"3","Description":" "},{"Name":"EdgeMask2D","Value":"4","Description":" "}]}

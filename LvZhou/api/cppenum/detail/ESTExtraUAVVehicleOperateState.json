@@ -1,0 +1,1 @@
+{"Name":"ESTExtraUAVVehicleOperateState","Description":" ","Variables":[{"Name":"Operate_Normal","Value":"0","Description":" "},{"Name":"Operate_WithUp","Value":"1","Description":" "},{"Name":"Operate_WithDown","Value":"2","Description":" "},{"Name":"Operate_Clear","Value":"3","Description":" "}]}

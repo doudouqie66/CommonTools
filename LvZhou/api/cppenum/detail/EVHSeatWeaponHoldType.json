@@ -1,0 +1,1 @@
+{"Name":"EVHSeatWeaponHoldType","Description":" ","Variables":[{"Name":"ESeatWeapon_None","Value":"0","Description":" "},{"Name":"ESeatWeapon_ShortOnly","Value":"1","Description":" "},{"Name":"ESeatWeapon_RifleOnly","Value":"2","Description":" "},{"Name":"ESeatWeapon_All","Value":"3","Description":" "},{"Name":"ESeatWeapon_AllExceptMelee","Value":"4","Description":" "}]}

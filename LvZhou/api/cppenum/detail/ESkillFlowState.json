@@ -1,0 +1,1 @@
+{"Name":"ESkillFlowState","Description":" ","Variables":[{"Name":"IDLE","Value":"0","Description":" "},{"Name":"RUNNING","Value":"1","Description":" "},{"Name":"PAUSE","Value":"2","Description":" "},{"Name":"ABORT","Value":"3","Description":" "},{"Name":"FINISH","Value":"4","Description":" "}]}

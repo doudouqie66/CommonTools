@@ -1,0 +1,1 @@
+{"Name":"EParticleCameraOffsetUpdateMethod","Description":" ","Variables":[{"Name":"EPCOUM_DirectSet","Value":"0","Description":" "},{"Name":"EPCOUM_Additive","Value":"1","Description":" "},{"Name":"EPCOUM_Scalar","Value":"2","Description":" "},{"Name":"EPCOUM_MAX","Value":"3","Description":" "}]}

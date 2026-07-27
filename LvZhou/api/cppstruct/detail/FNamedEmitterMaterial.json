@@ -1,0 +1,1 @@
+{"Name":"FNamedEmitterMaterial","Description":"","Variables":[{"Name":"Name","Type":"FName","Description":"","Redirect":""},{"Name":"Material","Type":"UMaterialInterface *","Description":"","Redirect":""}]}

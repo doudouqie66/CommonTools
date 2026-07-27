@@ -1,0 +1,1 @@
+{"Name":"EPESkillChargeState","Description":" ","Variables":[{"Name":"PE_Charge_Failed","Value":"0","Description":" "},{"Name":"PE_Charge_Succ","Value":"1","Description":" "},{"Name":"PE_Charge_Full","Value":"2","Description":" "},{"Name":"PE_Charge_Max","Value":"3","Description":" "}]}

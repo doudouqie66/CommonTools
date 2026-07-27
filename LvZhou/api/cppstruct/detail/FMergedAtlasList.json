@@ -1,0 +1,1 @@
+{"Name":"FMergedAtlasList","Description":"","Variables":[{"Name":"AtlasList","Type":"TMap \u003c ETextureType , FAtlasTexList \u003e","Description":"","Redirect":""},{"Name":"ReferenceAtlasType","Type":"ETextureType","Description":"","Redirect":""}]}

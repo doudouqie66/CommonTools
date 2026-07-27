@@ -1,0 +1,1 @@
+{"Name":"EDrivingCheckPointState","Description":" ","Variables":[{"Name":"DCPS_Invalid","Value":"0","Description":" "},{"Name":"DCPS_Unpass","Value":"1","Description":" "},{"Name":"DCPS_Pass","Value":"2","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"EAttenuationShape","Description":" ","Variables":[{"Name":"Sphere","Value":"0","Description":" "},{"Name":"Capsule","Value":"1","Description":" "},{"Name":"Box","Value":"2","Description":" "},{"Name":"Cone","Value":"3","Description":" "}]}

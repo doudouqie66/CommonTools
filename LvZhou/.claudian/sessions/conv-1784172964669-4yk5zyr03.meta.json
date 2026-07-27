@@ -1,0 +1,25 @@
+{
+  "id": "conv-1784172964669-4yk5zyr03",
+  "providerId": "claude",
+  "title": "Modify completed Lua UGC features",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784172964669,
+  "updatedAt": 1784176434061,
+  "lastResponseAt": 1784172999082,
+  "sessionId": "3915724f-e589-4c4b-a00e-6041811b81a2",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "3915724f-e589-4c4b-a00e-6041811b81a2"
+  },
+  "currentNote": "任务管理/_index.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 693,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 36352,
+    "contextWindow": 200000,
+    "contextTokens": 37045,
+    "percentage": 19,
+    "contextWindowIsAuthoritative": true
+  }
+}

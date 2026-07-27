@@ -1,0 +1,1 @@
+{"Name":"FTTFloatTrack","Description":"Structure storing information about one float interpolation track","Variables":[{"Name":"CurveFloat","Type":"UCurveFloat *","Description":"Curve object used to define float value over time","Redirect":""}]}

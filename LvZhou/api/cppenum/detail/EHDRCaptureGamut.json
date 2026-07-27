@@ -1,0 +1,1 @@
+{"Name":"EHDRCaptureGamut","Description":" ","Variables":[{"Name":"HCGM_Rec709","Value":"0","Description":" "},{"Name":"HCGM_P3DCI","Value":"1","Description":" "},{"Name":"HCGM_Rec2020","Value":"2","Description":" "},{"Name":"HCGM_ACES","Value":"3","Description":" "},{"Name":"HCGM_ACEScg","Value":"4","Description":" "},{"Name":"HCGM_MAX","Value":"5","Description":" "}]}

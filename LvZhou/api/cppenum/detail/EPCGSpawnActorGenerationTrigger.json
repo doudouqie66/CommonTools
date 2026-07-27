@@ -1,0 +1,1 @@
+{"Name":"EPCGSpawnActorGenerationTrigger","Description":" ","Variables":[{"Name":"Default","Value":"0","Description":" "},{"Name":"ForceGenerate","Value":"1","Description":" "},{"Name":"DoNotGenerateInEditor","Value":"2","Description":" "},{"Name":"DoNotGenerate","Value":"3","Description":" "}]}

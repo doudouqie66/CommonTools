@@ -1,0 +1,1 @@
+{"Name":"AMaterialInstanceActor","Description":"","Variables":[{"Name":"TargetActors","Type":"TArray \u003c AActor * \u003e","Description":"Pointer to actors that we want to control paramters of using Matinee.","Redirect":""}],"Functions":null,"Parents":["AActor"],"Event":null,"Delegate":null,"Language":"cpp"}

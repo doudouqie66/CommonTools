@@ -1,0 +1,112 @@
+[2026-06-16 10:12:29.669 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-Content -LiteralPath 'C:\Users\admin\.codex\pl
+[2026-06-16 10:12:29.684 codex.exe] sandbox setup required: offline firewall settings changed (stored_ports=[], desired_ports=[7897], stored_allow_local_binding=false, desired_allow_local_binding=false)
+[2026-06-16T02:12:30.394287200+00:00] ensuring sandbox users offline=CodexSandboxOffline online=CodexSandboxOnline
+[2026-06-16T02:12:30.576662900+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_udp protocol=17 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-16T02:12:30.690673100+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-16T02:12:30.821474+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=1-7896,7898-65535 LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-16T02:12:30.943853100+00:00] firewall rule configured name=codex_sandbox_offline_block_outbound protocol=256 RemoteAddresses=0.0.0.0-126.255.255.255,128.0.0.0-255.255.255.255,::,::2-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-16T02:12:30.953138600+00:00] WFP setup succeeded for CodexSandboxOffline with 12 installed filters
+[2026-06-16T02:12:31.520808800+00:00] granting write ACE to C:\Users\admin\AppData\Local\Temp for sandbox group and capability SID
+[2026-06-16T02:12:31.543614700+00:00] granting write ACE to C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo for sandbox group and capability SID
+[2026-06-16T02:12:31.550677500+00:00] read-acl-only mode: applying read ACLs
+[2026-06-16T02:12:31.553437+00:00] granting read ACE to C:\Users\admin\.claude.json for sandbox users
+[2026-06-16T02:12:31.554013500+00:00] granting read ACE to C:\Users\admin\.gitconfig for sandbox users
+[2026-06-16T02:12:31.554455400+00:00] granting read ACE to C:\Users\admin\.MUMUVMM for sandbox users
+[2026-06-16T02:12:31.556408500+00:00] granting read ACE to C:\Users\admin\.thumbnails for sandbox users
+[2026-06-16T02:12:31.558896900+00:00] granting read ACE to C:\Users\admin\gp_docs for sandbox users
+[2026-06-16T02:12:31.928032300+00:00] applied deny ACE to protect c:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo\.git
+[2026-06-16 10:12:31.931 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-16 10:12:31.988 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.609.30741-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=3476)
+[2026-06-16T02:12:32.003421400+00:00] read ACL helper already running; skipping spawn
+[2026-06-16T02:12:32.005770100+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-16 10:12:32.005 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-16 10:12:32.018 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.609.30741-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.140.0-alpha.2.exe
+[2026-06-16 10:12:32.168 codex.exe] helper copy: recopied command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.609.30741-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.140.0-alpha.2.exe
+[2026-06-16 10:12:32.168 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.140.0-alpha.2.exe
+[2026-06-16T02:12:32.475048+00:00] granting read ACE to C:\Users\admin\install.sh for sandbox users
+[2026-06-16T02:12:32.475646800+00:00] granting read ACE to C:\Users\admin\mercurial.ini for sandbox users
+[2026-06-16T02:12:32.476885600+00:00] granting read ACE to C:\Users\admin\UGC- for sandbox users
+[2026-06-16T02:12:32.542171700+00:00] granting read ACE to C:\Users\admin\UGC_L for sandbox users
+[2026-06-16T02:12:32.553547100+00:00] granting read ACE to C:\Users\admin\wiki_article.json for sandbox users
+[2026-06-16T02:12:32.553733100+00:00] read ACL run completed
+[2026-06-16 10:12:33.094 codex-command-runner-0.140.0-alpha.2.exe] hide users: profile dir hidden for current user (C:\Users\CodexSandboxOffline)
+[2026-06-16 10:12:33.340 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-Content -LiteralPath 'C:\Users\admin\.codex\pl
+[2026-06-16 10:12:43.723 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-ChildItem -LiteralPath 'Asset\Blueprint\Prefab
+[2026-06-16 10:12:43.724 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-ChildItem -LiteralPath 'Asset\Blueprint\Prefab
+[2026-06-16 10:12:43.726 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-ChildItem -LiteralPath 'Asset\Blueprint\Prefab
+[2026-06-16 10:12:43.797 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.609.30741-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=3476)
+[2026-06-16 10:12:43.798 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.609.30741-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=3476)
+[2026-06-16 10:12:43.803 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.609.30741-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=3476)
+[2026-06-16T02:12:43.819678200+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-16 10:12:43.819 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-16T02:12:43.822310+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-16 10:12:43.822 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-16T02:12:43.825362800+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-16 10:12:43.825 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-16 10:12:43.835 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.140.0-alpha.2.exe
+[2026-06-16 10:12:43.835 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.140.0-alpha.2.exe
+[2026-06-16 10:12:43.836 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.140.0-alpha.2.exe
+[2026-06-16 10:12:43.837 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.140.0-alpha.2.exe
+[2026-06-16 10:12:43.839 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.140.0-alpha.2.exe
+[2026-06-16 10:12:43.839 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.140.0-alpha.2.exe
+[2026-06-16T02:12:43.841327200+00:00] read-acl-only mode: applying read ACLs
+[2026-06-16T02:12:43.842717200+00:00] read ACL helper already running; skipping
+[2026-06-16T02:12:43.844057600+00:00] read ACL run completed
+[2026-06-16T02:12:43.844153+00:00] read-acl-only mode: applying read ACLs
+[2026-06-16T02:12:43.847325700+00:00] read ACL run completed
+[2026-06-16 10:12:44.189 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-ChildItem -LiteralPath 'Asset\Blueprint\Prefab[2026-06-16 10:12:44.189 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-ChildItem -LiteralPath 'Asset\Blueprint\Prefab
+
+[2026-06-16 10:12:44.200 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-ChildItem -LiteralPath 'Asset\Blueprint\Prefab
+[2026-06-16 10:12:55.842 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-Content -LiteralPath 'Script\Lin\MonsSpawMgr.l
+[2026-06-16 10:12:55.844 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-Content -LiteralPath 'Script\Blueprint\Actor\C
+[2026-06-16 10:12:55.925 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.609.30741-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=3476)
+[2026-06-16 10:12:55.926 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.609.30741-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=3476)
+[2026-06-16T02:12:55.951395800+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-16T02:12:55.951817200+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-16 10:12:55.951 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-16 10:12:55.951 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-16 10:12:55.967 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.140.0-alpha.2.exe
+[2026-06-16 10:12:55.967 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.140.0-alpha.2.exe
+[2026-06-16 10:12:55.967 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.140.0-alpha.2.exe[2026-06-16 10:12:55.967 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.140.0-alpha.2.exe
+
+[[2026-06-16T02:12:55.973064+00:00] read-acl-only mode: applying read ACLs
+2026-06-16T02:12:55.973079800+00:00] read ACL helper already running; skipping
+[2026-06-16T02:12:55.977165200+00:00] read ACL run completed
+[2026-06-16 10:12:56.286 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-Content -LiteralPath 'Script\Blueprint\Actor\C
+[2026-06-16 10:12:56.304 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-Content -LiteralPath 'Script\Lin\MonsSpawMgr.l
+[2026-06-16 10:13:11.553 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$root = (Resolve-Path -LiteralPath '.').Path
+$main
+[2026-06-16 10:13:11.595 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.609.30741-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=3476)
+[2026-06-16T02:13:11.613376800+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-16 10:13:11.613 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-16 10:13:11.624 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.140.0-alpha.2.exe
+[2026-06-16 10:13:11.625 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.140.0-alpha.2.exe
+[2026-06-16T02:13:11.628626800+00:00] read-acl-only mode: applying read ACLs
+[2026-06-16T02:13:11.631251500+00:00] read ACL run completed
+[2026-06-16 10:13:11.984 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$root = (Resolve-Path -LiteralPath '.').Path
+$main
+[2026-06-16 10:13:20.839 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$main = Join-Path (Resolve-Path -LiteralPath '.').
+[2026-06-16 10:13:20.896 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.609.30741-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=3476)
+[2026-06-16T02:13:20.917593500+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-16 10:13:20.917 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-16 10:13:20.928 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.140.0-alpha.2.exe
+[2026-06-16 10:13:20.928 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.140.0-alpha.2.exe
+[2026-06-16T02:13:20.935102200+00:00] read-acl-only mode: applying read ACLs
+[2026-06-16T02:13:20.937855500+00:00] read ACL run completed
+[2026-06-16 10:13:21.298 codex.exe] SUCCESS: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$main = Join-Path (Resolve-Path -LiteralPath '.').

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784268656360-a5rgay1pd",
+  "providerId": "claude",
+  "title": "Find official monster spawn tutorial in wiki",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784268656361,
+  "updatedAt": 1784603521891,
+  "lastResponseAt": 1784268667301,
+  "sessionId": "18d0aef2-e6a9-4da2-a8a4-1a14363dc1c4",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "18d0aef2-e6a9-4da2-a8a4-1a14363dc1c4"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 4563,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 33024,
+    "contextWindow": 200000,
+    "contextTokens": 37587,
+    "percentage": 19,
+    "contextWindowIsAuthoritative": true
+  }
+}

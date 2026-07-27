@@ -1,0 +1,1 @@
+{"Name":"ECommMiniMapItemType","Description":" ","Variables":[{"Name":"ECT_Actor","Value":"0","Description":" "},{"Name":"ECT_Line","Value":"1","Description":" "},{"Name":"ECT_Circle","Value":"2","Description":" "},{"Name":"ECT_MaskCircle","Value":"3","Description":" "},{"Name":"ECT_VirtualObject","Value":"4","Description":" "}]}

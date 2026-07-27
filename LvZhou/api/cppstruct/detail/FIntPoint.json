@@ -1,0 +1,1 @@
+{"Name":"FIntPoint","Description":"Screen coordinates.\n  The full C++ class is located here: Engine\\Source\\Runtime\\Core\\Public\\Math\\IntPoint.h","Variables":[{"Name":"X","Type":"int32","Description":"","Redirect":""},{"Name":"Y","Type":"int32","Description":"","Redirect":""}]}

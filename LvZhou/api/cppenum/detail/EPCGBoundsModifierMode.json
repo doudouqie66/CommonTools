@@ -1,0 +1,1 @@
+{"Name":"EPCGBoundsModifierMode","Description":" ","Variables":[{"Name":"Set","Value":"0","Description":" "},{"Name":"Intersect","Value":"1","Description":" "},{"Name":"Include","Value":"2","Description":" "},{"Name":"Translate","Value":"3","Description":" "},{"Name":"Scale","Value":"4","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"FRollbackNetStartupActorInfo","Description":"Information about net startup actors that need to be rolled back by being destroyed and re-created","Variables":[{"Name":"Archetype","Type":"UObject *","Description":"","Redirect":""},{"Name":"Level","Type":"ULevel *","Description":"","Redirect":""}]}

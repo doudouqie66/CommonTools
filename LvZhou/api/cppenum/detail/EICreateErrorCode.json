@@ -1,0 +1,1 @@
+{"Name":"EICreateErrorCode","Description":" ","Variables":[{"Name":"Success","Value":"0","Description":" "},{"Name":"MessageTimeout","Value":"1","Description":" "},{"Name":"PipeDisconnected","Value":"2","Description":" "},{"Name":"UnknownError","Value":"255","Description":" "}]}

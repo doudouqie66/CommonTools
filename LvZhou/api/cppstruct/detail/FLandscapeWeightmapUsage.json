@@ -1,0 +1,1 @@
+{"Name":"FLandscapeWeightmapUsage","Description":"Structure storing channel usage for weightmap textures","Variables":[{"Name":"ChannelUsage","Type":"ULandscapeComponent *","Description":"","Redirect":""}]}

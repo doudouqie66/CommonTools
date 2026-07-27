@@ -1,0 +1,1 @@
+{"Name":"FCustomHeightFog","Description":"","Variables":[{"Name":"Height","Type":"float","Description":"","Redirect":""},{"Name":"DensityCoefficient","Type":"float","Description":"","Redirect":""},{"Name":"CustomFogInscatteringColor","Type":"FLinearColor","Description":"","Redirect":""}]}

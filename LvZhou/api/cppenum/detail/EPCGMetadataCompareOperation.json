@@ -1,0 +1,1 @@
+{"Name":"EPCGMetadataCompareOperation","Description":" ","Variables":[{"Name":"Equal","Value":"0","Description":" "},{"Name":"NotEqual","Value":"1","Description":" "},{"Name":"Greater","Value":"2","Description":" "},{"Name":"GreaterOrEqual","Value":"3","Description":" "},{"Name":"Less","Value":"4","Description":" "},{"Name":"LessOrEqual","Value":"5","Description":" "}]}

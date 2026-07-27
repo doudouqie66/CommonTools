@@ -1,0 +1,1 @@
+{"Name":"EPhysicsSceneType","Description":" ","Variables":[{"Name":"PST_Sync","Value":"0","Description":" "},{"Name":"PST_Cloth","Value":"1","Description":" "},{"Name":"PST_Async","Value":"2","Description":" "},{"Name":"PST_MAX","Value":"3","Description":" "}]}

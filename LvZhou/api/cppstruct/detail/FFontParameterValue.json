@@ -1,0 +1,1 @@
+{"Name":"FFontParameterValue","Description":"Editable font parameter.","Variables":[{"Name":"ParameterName","Type":"FName","Description":"","Redirect":""},{"Name":"FontValue","Type":"UFont *","Description":"","Redirect":""},{"Name":"FontPage","Type":"int32","Description":"","Redirect":""},{"Name":"ExpressionGUID","Type":"FGuid","Description":"","Redirect":""}]}

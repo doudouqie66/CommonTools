@@ -1,0 +1,1 @@
+{"Name":"EMachineDogState","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"Warning","Value":"1","Description":" "},{"Name":"BeenInvaded","Value":"2","Description":" "},{"Name":"BeenHit","Value":"3","Description":" "},{"Name":"FindEnemy","Value":"4","Description":" "}]}

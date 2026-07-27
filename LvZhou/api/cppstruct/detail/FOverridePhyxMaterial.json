@@ -1,0 +1,1 @@
+{"Name":"FOverridePhyxMaterial","Description":"","Variables":[{"Name":"OriginalPhysxMaterial","Type":"TArray \u003c UPhysicalMaterial * \u003e","Description":"","Redirect":""},{"Name":"OverridePhysxMaterial","Type":"TArray \u003c UPhysicalMaterial * \u003e","Description":"","Redirect":""}]}

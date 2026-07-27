@@ -1,0 +1,1 @@
+{"Name":"FCompositeFallbackFont","Description":"","Variables":[{"Name":"Typeface","Type":"FTypeface","Description":"Typeface data for this sub-font","Redirect":""},{"Name":"ScalingFactor","Type":"float","Description":"Amount to scale this sub-font so that it better matches the size of the default font","Redirect":""}]}

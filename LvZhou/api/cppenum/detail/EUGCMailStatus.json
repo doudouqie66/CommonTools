@@ -1,0 +1,1 @@
+{"Name":"EUGCMailStatus","Description":" ","Variables":[{"Name":"Unread","Value":"0","Description":"未阅读"},{"Name":"Read","Value":"1","Description":"已阅读"},{"Name":"Claimed","Value":"2","Description":"已领取"}]}

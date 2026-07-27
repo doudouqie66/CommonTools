@@ -1,0 +1,1 @@
+{"Name":"EProjectileModifierType","Description":" ","Variables":[{"Name":"BasePropertyAdd","Value":"1","Description":" "},{"Name":"DamageTagAppend","Value":"2","Description":" "},{"Name":"ReplaceMovementPath","Value":"3","Description":" "},{"Name":"ActionAppend","Value":"4","Description":" "},{"Name":"CustomModifier","Value":"99","Description":" "}]}

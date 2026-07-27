@@ -1,0 +1,1 @@
+{"Name":"ELeanOutStatus","Description":" ","Variables":[{"Name":"Idle","Value":"0","Description":" "},{"Name":"LeanOutUnEquip","Value":"1","Description":" "},{"Name":"LeanOutEquip","Value":"2","Description":" "},{"Name":"Aim","Value":"3","Description":" "},{"Name":"LeanInUnEquip","Value":"4","Description":" "},{"Name":"LeanInEquip","Value":"5","Description":" "}]}

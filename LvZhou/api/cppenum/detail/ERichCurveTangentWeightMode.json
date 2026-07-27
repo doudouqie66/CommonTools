@@ -1,0 +1,1 @@
+{"Name":"ERichCurveTangentWeightMode","Description":" ","Variables":[{"Name":"RCTWM_WeightedNone","Value":"0","Description":" "},{"Name":"RCTWM_WeightedArrive","Value":"1","Description":" "},{"Name":"RCTWM_WeightedLeave","Value":"2","Description":" "},{"Name":"RCTWM_WeightedBoth","Value":"3","Description":" "}]}

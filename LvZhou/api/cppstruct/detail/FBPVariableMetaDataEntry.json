@@ -1,0 +1,1 @@
+{"Name":"FBPVariableMetaDataEntry","Description":"One metadata entry for a variable","Variables":[{"Name":"DataKey","Type":"FName","Description":"Name of metadata key","Redirect":""},{"Name":"DataValue","Type":"FString","Description":"Name of metadata value","Redirect":""},{"Name":"Flag","Type":"EVariableMetaDataFlag","Description":"","Redirect":""}]}

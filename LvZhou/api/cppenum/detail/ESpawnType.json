@@ -1,0 +1,1 @@
+{"Name":"ESpawnType","Description":" ","Variables":[{"Name":"Single","Value":"0","Description":" "},{"Name":"ContinuousOnTimer","Value":"1","Description":" "},{"Name":"ContinuousOnDeath","Value":"2","Description":" "}]}

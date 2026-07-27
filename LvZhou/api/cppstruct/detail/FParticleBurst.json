@@ -1,0 +1,1 @@
+{"Name":"FParticleBurst","Description":"","Variables":[{"Name":"Count","Type":"int32","Description":"The number of particles to burst","Redirect":""},{"Name":"CountLow","Type":"int32","Description":"If \u003e= 0, use as a range [CountLow..Count]","Redirect":""},{"Name":"Time","Type":"float","Description":"The time at which to burst them (0..1: emitter lifetime)","Redirect":""}]}

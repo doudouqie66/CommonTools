@@ -1,0 +1,1 @@
+{"Name":"UMovieSceneByteSection","Description":"A single byte section.","Variables":[{"Name":"ByteCurve","Type":"FIntegralCurve","Description":"Ordered curve data","Redirect":""}],"Functions":null,"Parents":["UMovieSceneSection","IKeyframeSection\u003cuint8\u003e"],"Event":null,"Delegate":null,"Language":"cpp"}

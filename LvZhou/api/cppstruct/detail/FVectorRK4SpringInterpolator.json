@@ -1,0 +1,1 @@
+{"Name":"FVectorRK4SpringInterpolator","Description":"","Variables":[{"Name":"StiffnessConstant","Type":"float","Description":"","Redirect":""},{"Name":"DampeningRatio","Type":"float","Description":"0 = Undamped, \u003c1 = Underdamped, 1 = Critically damped, \u003e1 = Over damped","Redirect":""}]}

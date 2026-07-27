@@ -1,0 +1,1 @@
+{"Name":"EVFXSimulationMode","Description":" ","Variables":[{"Name":"TransientWorld","Value":"0","Description":" "},{"Name":"EditorWorld","Value":"1","Description":" "},{"Name":"InPlace","Value":"2","Description":" "},{"Name":"ExternalComponent","Value":"3","Description":" "},{"Name":"PreviewWorld","Value":"4","Description":" "}]}

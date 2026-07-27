@@ -1,0 +1,1 @@
+{"Name":"EPDRBFNormalizeMethod","Description":" ","Variables":[{"Name":"OnlyNormalizeAboveOne","Value":"0","Description":" "},{"Name":"AlwaysNormalize","Value":"1","Description":" "},{"Name":"NormalizeWithinMedian","Value":"2","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"EThumbnailPrimType","Description":" ","Variables":[{"Name":"TPT_None","Value":"0","Description":" "},{"Name":"TPT_Sphere","Value":"1","Description":" "},{"Name":"TPT_Cube","Value":"2","Description":" "},{"Name":"TPT_Plane","Value":"3","Description":" "},{"Name":"TPT_Cylinder","Value":"4","Description":" "},{"Name":"TPT_MAX","Value":"5","Description":" "}]}

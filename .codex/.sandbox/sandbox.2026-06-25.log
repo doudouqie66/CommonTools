@@ -1,0 +1,1091 @@
+[2026-06-25 22:03:12.432 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-Content -LiteralPath "Script/Blueprint/Prefabs
+[2026-06-25 22:03:12.430 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "GetProbability_Bonus|Probability_Bonus|Mons
+[2026-06-25 22:03:12.430 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "Drop|drop|MonsterID|GetProbability_Bonus|Pr
+[2026-06-25 22:03:12.505 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4628)
+[2026-06-25 22:03:12.505 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4628)[2026-06-25 22:03:12.505 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4628)
+
+[2026-06-25T14:03:12.533664600+00:00] [[2026-06-25T14:03:12.533707200+00:00] 2026-06-25T14:03:12.533706200+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]setup refresh: processed 2 write roots (read roots delegated); errors=[]
+setup refresh: processed 2 write roots (read roots delegated); errors=[]
+
+[2026-06-25 22:03:12.534 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:03:12.534 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:03:12.534 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:03:12.545 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe[2026-06-25 22:03:12.545 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:03:12.545 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+
+[2026-06-25 22:03:12.545 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:03:12.545 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:03:12.545 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:03:12.546 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[[[2026-06-25T14:03:12.546750900+00:00] 2026-06-25T14:03:12.546760700+00:002026-06-25T14:03:12.546769100+00:00read-acl-only mode: applying read ACLs] ] 
+read ACL helper already running; skipping[2026-06-25 22:03:12.546 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+read ACL helper already running; skipping
+
+[2026-06-25 22:03:12.546 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:03:12.548434+00:00] granting read ACE to C:\Users\admin\.claude.json for sandbox users
+[2026-06-25T14:03:12.549367700+00:00] granting read ACE to C:\Users\admin\.wps-office-mcp for sandbox users
+[2026-06-25T14:03:12.550731600+00:00] granting read ACE to C:\Users\admin\generate_paper.js for sandbox users
+[2026-06-25T14:03:12.551197800+00:00] granting read ACE to C:\Users\admin\mkpaper.js for sandbox users
+[2026-06-25T14:03:12.551375+00:00] granting read ACE to C:\Users\admin\mkpaper_full.js for sandbox users
+[2026-06-25T14:03:12.551623400+00:00] granting read ACE to C:\Users\admin\node_modules for sandbox users
+[2026-06-25T14:03:12.588002600+00:00] granting read ACE to C:\Users\admin\package-lock.json for sandbox users
+[2026-06-25T14:03:12.588221100+00:00] granting read ACE to C:\Users\admin\package.json for sandbox users
+[2026-06-25T14:03:12.588493500+00:00] granting read ACE to C:\Users\admin\paper_content.json for sandbox users
+[2026-06-25T14:03:12.588956500+00:00] granting read ACE to C:\Users\admin\WPS Cloud Files for sandbox users
+[2026-06-25T14:03:12.589674400+00:00] read ACL run completed
+[2026-06-25 22:03:23.286 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+Get-Content -LiteralPath "Script/Blueprint/UGCPlay
+[2026-06-25 22:03:23.287 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "GetPlayerState|PlayerState|EventInstigator.
+[2026-06-25 22:03:23.345 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4628)
+[2026-06-25 22:03:23.346 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4628)
+[2026-06-25T14:03:23.359799900+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25T14:03:23.359913300+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:03:23.359 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:03:23.359 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:03:23.363 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:03:23.364 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe[2026-06-25 22:03:23.364 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+
+[2026-06-25 22:03:23.364 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[[2026-06-25T14:03:23.372412+00:002026-06-25T14:03:23.372400400+00:00] ] read ACL helper already running; skippingread-acl-only mode: applying read ACLs
+
+[2026-06-25T14:03:23.375907100+00:00] read ACL run completed
+[2026-06-25 22:03:28.132 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "\.PlayerState|:GetPlayerState|PlayerState =
+[2026-06-25 22:03:28.176 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4628)
+[2026-06-25T14:03:28.188827600+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:03:28.188 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:03:28.193 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:03:28.193 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:03:28.200932600+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:03:28.203859200+00:00] read ACL run completed
+[2026-06-25 22:03:40.380 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:03:40.387 codex.exe] sandbox setup required: offline firewall settings changed (stored_ports=[7897], desired_ports=[], stored_allow_local_binding=false, desired_allow_local_binding=false)
+[2026-06-25T14:03:40.441496500+00:00] ensuring sandbox users offline=CodexSandboxOffline online=CodexSandboxOnline
+[2026-06-25T14:03:40.641146300+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_udp protocol=17 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:03:40.758225100+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:03:40.893288500+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=1-65535 LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:03:41.021796+00:00] firewall rule configured name=codex_sandbox_offline_block_outbound protocol=256 RemoteAddresses=0.0.0.0-126.255.255.255,128.0.0.0-255.255.255.255,::,::2-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:03:41.026513500+00:00] WFP setup failed for CodexSandboxOffline: BuildSecurityDescriptorW failed: 0x000004B4; continuing elevated setup
+[2026-06-25T14:03:41.030228+00:00] granting write ACE to C:\tmp for sandbox group and capability SID
+[2026-06-25T14:03:41.034625700+00:00] applied deny ACE to protect C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo\.agents
+[2026-06-25T14:03:41.045550200+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25 22:03:41.046 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25T14:03:41.048895100+00:00] read ACL run completed
+[2026-06-25 22:03:41.087 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4780)
+[2026-06-25T14:03:41.100833800+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:03:41.100 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:03:41.105 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:03:41.106 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:03:41.106 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:03:41.112098100+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:03:41.115102800+00:00] read ACL run completed
+[2026-06-25 22:03:46.342 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$i=1; Get-Content -LiteralPath "Script/Blueprint/P
+[2026-06-25 22:03:46.349 codex.exe] sandbox setup required: offline firewall settings changed (stored_ports=[], desired_ports=[7897], stored_allow_local_binding=false, desired_allow_local_binding=false)
+[2026-06-25T14:03:46.401918700+00:00] ensuring sandbox users offline=CodexSandboxOffline online=CodexSandboxOnline
+[2026-06-25T14:03:46.588340500+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_udp protocol=17 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:03:46.709234900+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:03:46.850659800+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=1-7896,7898-65535 LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:03:46.982820400+00:00] firewall rule configured name=codex_sandbox_offline_block_outbound protocol=256 RemoteAddresses=0.0.0.0-126.255.255.255,128.0.0.0-255.255.255.255,::,::2-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:03:46.996322300+00:00] WFP setup succeeded for CodexSandboxOffline with 12 installed filters
+[2026-06-25 22:03:49.102 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25T14:03:49.124592700+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:03:49.138295400+00:00] read ACL run completed
+[2026-06-25 22:03:49.188 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4904)
+[2026-06-25T14:03:49.206224100+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:03:49.206 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:03:49.211 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:03:49.211 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:03:49.221546800+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:03:49.225151900+00:00] read ACL run completed
+[2026-06-25 22:03:59.228 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:03:59.236 codex.exe] sandbox setup required: offline firewall settings changed (stored_ports=[7897], desired_ports=[], stored_allow_local_binding=false, desired_allow_local_binding=false)
+[2026-06-25T14:03:59.288044600+00:00] ensuring sandbox users offline=CodexSandboxOffline online=CodexSandboxOnline
+[2026-06-25T14:03:59.482384500+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_udp protocol=17 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:03:59.604477800+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:03:59.748263800+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=1-65535 LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:03:59.872591+00:00] firewall rule configured name=codex_sandbox_offline_block_outbound protocol=256 RemoteAddresses=0.0.0.0-126.255.255.255,128.0.0.0-255.255.255.255,::,::2-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:03:59.874855100+00:00] WFP setup failed for CodexSandboxOffline: BuildSecurityDescriptorW failed: 0x000004B4; continuing elevated setup
+[2026-06-25 22:03:59.879 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25T14:03:59.891603800+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:03:59.894939600+00:00] read ACL run completed
+[2026-06-25 22:03:59.920 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:03:59.933529800+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:03:59.933 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:03:59.940 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:03:59.940 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:03:59.940 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:03:59.946248900+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:03:59.949453600+00:00] read ACL run completed
+[2026-06-25 22:04:00.088 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:04:00.145 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:04:00.161086100+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:04:00.161 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:04:00.167 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:04:00.168 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:04:00.168 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:04:00.176152900+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:04:00.179616300+00:00] read ACL run completed
+[2026-06-25 22:04:00.309 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:04:00.356 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:04:00.369957+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:04:00.370 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:04:00.374 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:04:00.375 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:04:00.375 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:04:00.382029500+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:04:00.385153100+00:00] read ACL run completed
+[2026-06-25 22:04:00.505 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:04:00.553 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:04:00.567696400+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:04:00.567 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:04:00.572 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:04:00.572 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:04:00.572 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:04:00.579440200+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:04:00.582584+00:00] read ACL run completed
+[2026-06-25 22:04:10.904 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$i=1; Get-Content -LiteralPath "Script/Blueprint/P
+[2026-06-25 22:04:10.911 codex.exe] sandbox setup required: offline firewall settings changed (stored_ports=[], desired_ports=[7897], stored_allow_local_binding=false, desired_allow_local_binding=false)
+[2026-06-25 22:04:10.919 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+git diff -- "Script/Blueprint/Prefabs/Monsters/Mai
+[2026-06-25 22:04:10.927 codex.exe] sandbox setup required: offline firewall settings changed (stored_ports=[], desired_ports=[7897], stored_allow_local_binding=false, desired_allow_local_binding=false)
+[2026-06-25T14:04:10.967316500+00:00] ensuring sandbox users offline=CodexSandboxOffline online=CodexSandboxOnline
+[2026-06-25T14:04:10.990242600+00:00] ensuring sandbox users offline=CodexSandboxOffline online=CodexSandboxOnline
+[2026-06-25 22:04:11.106 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+where.exe luac 2>$null; if ($LASTEXITCODE -eq 0) {
+[2026-06-25 22:04:11.112 codex.exe] sandbox setup required: sandbox setup marker missing or incompatible
+[2026-06-25T14:04:11.165505100+00:00] ensuring sandbox users offline=CodexSandboxOffline online=CodexSandboxOnline
+[2026-06-25T14:04:11.289120300+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_udp protocol=17 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:04:11.303945800+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_udp protocol=17 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:04:11.614325200+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:04:11.643586400+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:04:11.644791800+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_udp protocol=17 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:04:11.983474200+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=1-7896,7898-65535 LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:04:11.985539300+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:04:12.018567200+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=1-7896,7898-65535 LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:04:12.323178300+00:00] firewall rule configured name=codex_sandbox_offline_block_outbound protocol=256 RemoteAddresses=0.0.0.0-126.255.255.255,128.0.0.0-255.255.255.255,::,::2-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:04:12.323590800+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=1-7896,7898-65535 LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:04:12.331072400+00:00] WFP setup succeeded for CodexSandboxOffline with 12 installed filters
+[2026-06-25T14:04:12.368470600+00:00] firewall rule configured name=codex_sandbox_offline_block_outbound protocol=256 RemoteAddresses=0.0.0.0-126.255.255.255,128.0.0.0-255.255.255.255,::,::2-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:04:12.377924100+00:00] WFP setup succeeded for CodexSandboxOffline with 12 installed filters
+[2026-06-25T14:04:12.488247300+00:00] firewall rule configured name=codex_sandbox_offline_block_outbound protocol=256 RemoteAddresses=0.0.0.0-126.255.255.255,128.0.0.0-255.255.255.255,::,::2-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:04:12.495279200+00:00] WFP setup succeeded for CodexSandboxOffline with 12 installed filters
+[2026-06-25 22:04:13.024 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25T14:04:13.037459200+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:04:13.040702+00:00] read ACL run completed
+[2026-06-25 22:04:13.050 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25T14:04:13.060431300+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:04:13.063795700+00:00] read ACL run completed
+[2026-06-25 22:04:13.072 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4904)
+[2026-06-25T14:04:13.085433800+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:04:13.085 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:04:13.089 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:04:13.089 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:04:13.095 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4904)
+[2026-06-25T14:04:13.097281500+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:04:13.101813600+00:00] read ACL run completed
+[2026-06-25T14:04:13.110058700+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:04:13.110 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:04:13.113 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:04:13.114 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:04:13.122017+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:04:13.125118+00:00] read ACL run completed
+[2026-06-25 22:04:13.330 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25T14:04:13.347709900+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:04:13.351537300+00:00] read ACL run completed
+[2026-06-25 22:04:13.386 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4904)
+[2026-06-25T14:04:13.402655900+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:04:13.402 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:04:13.408 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:04:13.409 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:04:13.418125300+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:04:13.421217100+00:00] read ACL run completed
+[2026-06-25 22:04:21.128 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:04:21.136 codex.exe] sandbox setup required: offline firewall settings changed (stored_ports=[7897], desired_ports=[], stored_allow_local_binding=false, desired_allow_local_binding=false)
+[2026-06-25T14:04:21.189795300+00:00] ensuring sandbox users offline=CodexSandboxOffline online=CodexSandboxOnline
+[2026-06-25T14:04:21.377269+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_udp protocol=17 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:04:21.498691100+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:04:21.636035200+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=1-65535 LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:04:21.760639200+00:00] firewall rule configured name=codex_sandbox_offline_block_outbound protocol=256 RemoteAddresses=0.0.0.0-126.255.255.255,128.0.0.0-255.255.255.255,::,::2-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:04:21.762707800+00:00] WFP setup failed for CodexSandboxOffline: BuildSecurityDescriptorW failed: 0x000004B4; continuing elevated setup
+[2026-06-25 22:04:21.767 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25T14:04:21.779910700+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:04:21.783232600+00:00] read ACL run completed
+[2026-06-25 22:04:21.811 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:04:21.825801700+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:04:21.825 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:04:21.830 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:04:21.830 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:04:21.830 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:04:21.836825700+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:04:21.840067+00:00] read ACL run completed
+[2026-06-25 22:04:21.982 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:04:22.035 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:04:22.049495100+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:04:22.049 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:04:22.054 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:04:22.054 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:04:22.054 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:04:22.061567200+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:04:22.065162700+00:00] read ACL run completed
+[2026-06-25 22:04:22.171 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:04:22.220 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:04:22.234489800+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:04:22.234 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:04:22.238 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:04:22.239 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:04:22.239 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:04:22.246597600+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:04:22.249745600+00:00] read ACL run completed
+[2026-06-25 22:04:22.362 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:04:22.415 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:04:22.429303+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:04:22.429 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:04:22.433 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:04:22.433 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:04:22.433 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:04:22.439435900+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:04:22.443984900+00:00] read ACL run completed
+[2026-06-25 22:04:31.273 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+git diff -- "Script/Blueprint/Prefabs/Monsters/Mai
+[2026-06-25 22:04:31.280 codex.exe] sandbox setup required: offline firewall settings changed (stored_ports=[], desired_ports=[7897], stored_allow_local_binding=false, desired_allow_local_binding=false)
+[2026-06-25 22:04:31.287 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+git diff --stat -- "Script/Blueprint/Prefabs/Monst
+[2026-06-25 22:04:31.295 codex.exe] sandbox setup required: offline firewall settings changed (stored_ports=[], desired_ports=[7897], stored_allow_local_binding=false, desired_allow_local_binding=false)
+[2026-06-25T14:04:31.339793700+00:00] ensuring sandbox users offline=CodexSandboxOffline online=CodexSandboxOnline
+[2026-06-25T14:04:31.363459+00:00] ensuring sandbox users offline=CodexSandboxOffline online=CodexSandboxOnline
+[2026-06-25 22:04:31.578 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+git status --short -- "Script/Blueprint/Prefabs/Mo
+[2026-06-25 22:04:31.585 codex.exe] sandbox setup required: sandbox setup marker missing or incompatible
+[2026-06-25T14:04:31.641190500+00:00] ensuring sandbox users offline=CodexSandboxOffline online=CodexSandboxOnline
+[2026-06-25T14:04:31.665021300+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_udp protocol=17 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:04:31.680067300+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_udp protocol=17 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:04:31.936353200+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:04:31.966420200+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:04:32.081008900+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_udp protocol=17 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:04:32.287022300+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=1-7896,7898-65535 LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:04:32.357068600+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=1-7896,7898-65535 LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:04:32.385656700+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:04:32.697349900+00:00] firewall rule configured name=codex_sandbox_offline_block_outbound protocol=256 RemoteAddresses=0.0.0.0-126.255.255.255,128.0.0.0-255.255.255.255,::,::2-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:04:32.706086200+00:00] WFP setup succeeded for CodexSandboxOffline with 12 installed filters
+[2026-06-25T14:04:32.726763200+00:00] firewall rule configured name=codex_sandbox_offline_block_outbound protocol=256 RemoteAddresses=0.0.0.0-126.255.255.255,128.0.0.0-255.255.255.255,::,::2-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:04:32.733880400+00:00] WFP setup succeeded for CodexSandboxOffline with 12 installed filters
+[2026-06-25T14:04:32.742813700+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=1-7896,7898-65535 LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:04:32.873896100+00:00] firewall rule configured name=codex_sandbox_offline_block_outbound protocol=256 RemoteAddresses=0.0.0.0-126.255.255.255,128.0.0.0-255.255.255.255,::,::2-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:04:32.881864500+00:00] WFP setup succeeded for CodexSandboxOffline with 12 installed filters
+[2026-06-25 22:04:33.211 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25T14:04:33.221594700+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:04:33.225096800+00:00] read ACL run completed
+[2026-06-25 22:04:33.252 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4904)
+[2026-06-25T14:04:33.266331700+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:04:33.266 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:04:33.270 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:04:33.270 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:04:33.278171700+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:04:33.281338400+00:00] read ACL run completed
+[2026-06-25 22:04:33.419 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25T14:04:33.433426500+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:04:33.436760200+00:00] read ACL run completed
+[2026-06-25 22:04:33.466 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4904)
+[2026-06-25T14:04:33.480616100+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:04:33.480 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:04:33.485 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:04:33.485 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:04:33.492451200+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:04:33.495425800+00:00] read ACL run completed
+[2026-06-25 22:04:33.552 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25T14:04:33.565350600+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:04:33.569253700+00:00] read ACL run completed
+[2026-06-25 22:04:33.598 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4904)
+[2026-06-25T14:04:33.613850600+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:04:33.613 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:04:33.617 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:04:33.617 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:04:33.626674600+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:04:33.629804500+00:00] read ACL run completed
+[2026-06-25 22:06:41.755 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:06:41.763 codex.exe] sandbox setup required: offline firewall settings changed (stored_ports=[7897], desired_ports=[], stored_allow_local_binding=false, desired_allow_local_binding=false)
+[2026-06-25T14:06:41.818146+00:00] ensuring sandbox users offline=CodexSandboxOffline online=CodexSandboxOnline
+[2026-06-25T14:06:42.005125+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_udp protocol=17 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:06:42.129935+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:06:42.268485700+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=1-65535 LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:06:42.394846700+00:00] firewall rule configured name=codex_sandbox_offline_block_outbound protocol=256 RemoteAddresses=0.0.0.0-126.255.255.255,128.0.0.0-255.255.255.255,::,::2-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:06:42.397682100+00:00] WFP setup failed for CodexSandboxOffline: BuildSecurityDescriptorW failed: 0x000004B4; continuing elevated setup
+[2026-06-25 22:06:42.403 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25T14:06:42.413774500+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:06:42.417172800+00:00] read ACL run completed
+[2026-06-25 22:06:42.448 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:06:42.461171200+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:06:42.461 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:06:42.466 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:06:42.466 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:06:42.466 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:06:42.472121300+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:06:42.475192100+00:00] read ACL run completed
+[2026-06-25 22:06:42.619 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:06:42.671 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:06:42.685894800+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:06:42.685 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:06:42.690 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:06:42.690 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:06:42.690 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:06:42.698349300+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:06:42.701485500+00:00] read ACL run completed
+[2026-06-25 22:06:42.811 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:06:42.861 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:06:42.876344200+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:06:42.876 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:06:42.880 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:06:42.880 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:06:42.881 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:06:42.888090400+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:06:42.892267200+00:00] read ACL run completed
+[2026-06-25 22:06:43.006 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:06:43.055 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:06:43.070421300+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:06:43.070 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:06:43.075 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:06:43.075 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:06:43.075 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:06:43.080786200+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:06:43.083785300+00:00] read ACL run completed
+[2026-06-25 22:06:49.710 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$i=1; Get-Content -LiteralPath "Script/Blueprint/P
+[2026-06-25 22:06:49.716 codex.exe] sandbox setup required: offline firewall settings changed (stored_ports=[], desired_ports=[7897], stored_allow_local_binding=false, desired_allow_local_binding=false)
+[2026-06-25 22:06:49.744 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+git diff -- "Script/Blueprint/Prefabs/Monsters/Mai
+[2026-06-25 22:06:49.751 codex.exe] sandbox setup required: offline firewall settings changed (stored_ports=[], desired_ports=[7897], stored_allow_local_binding=false, desired_allow_local_binding=false)
+[2026-06-25T14:06:49.769376500+00:00] ensuring sandbox users offline=CodexSandboxOffline online=CodexSandboxOnline
+[2026-06-25T14:06:49.816365800+00:00] ensuring sandbox users offline=CodexSandboxOffline online=CodexSandboxOnline
+[2026-06-25T14:06:50.091469400+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_udp protocol=17 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:06:50.105844800+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_udp protocol=17 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:06:50.320576900+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:06:50.336428400+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:06:50.562677900+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=1-7896,7898-65535 LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:06:50.590986600+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=1-7896,7898-65535 LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:06:50.818535600+00:00] firewall rule configured name=codex_sandbox_offline_block_outbound protocol=256 RemoteAddresses=0.0.0.0-126.255.255.255,128.0.0.0-255.255.255.255,::,::2-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:06:50.833829200+00:00] firewall rule configured name=codex_sandbox_offline_block_outbound protocol=256 RemoteAddresses=0.0.0.0-126.255.255.255,128.0.0.0-255.255.255.255,::,::2-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:06:50.842422200+00:00] WFP setup succeeded for CodexSandboxOffline with 12 installed filters
+[2026-06-25T14:06:50.847595600+00:00] WFP setup succeeded for CodexSandboxOffline with 12 installed filters
+[2026-06-25 22:06:51.486 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25T14:06:51.498344600+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:06:51.501713+00:00] read ACL run completed
+[2026-06-25 22:06:51.529 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4904)
+[2026-06-25T14:06:51.543566400+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:06:51.543 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:06:51.547 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:06:51.547 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:06:51.555879+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:06:51.559342700+00:00] read ACL run completed
+[2026-06-25 22:06:52.068 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25T14:06:52.079555300+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:06:52.083560700+00:00] read ACL run completed
+[2026-06-25 22:06:52.110 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4904)
+[2026-06-25T14:06:52.124243600+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:06:52.124 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:06:52.127 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:06:52.128 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:06:52.138042200+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:06:52.141233500+00:00] read ACL run completed
+[2026-06-25 22:07:32.679 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:07:32.688 codex.exe] sandbox setup required: offline firewall settings changed (stored_ports=[7897], desired_ports=[], stored_allow_local_binding=false, desired_allow_local_binding=false)
+[2026-06-25T14:07:32.744603900+00:00] ensuring sandbox users offline=CodexSandboxOffline online=CodexSandboxOnline
+[2026-06-25T14:07:32.943399600+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_udp protocol=17 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:07:33.071342900+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:07:33.220428500+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=1-65535 LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:07:33.358622200+00:00] firewall rule configured name=codex_sandbox_offline_block_outbound protocol=256 RemoteAddresses=0.0.0.0-126.255.255.255,128.0.0.0-255.255.255.255,::,::2-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:07:33.360707500+00:00] WFP setup failed for CodexSandboxOffline: BuildSecurityDescriptorW failed: 0x000004B4; continuing elevated setup
+[2026-06-25 22:07:33.366 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25T14:07:33.379136700+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:07:33.382458+00:00] read ACL run completed
+[2026-06-25 22:07:33.412 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:07:33.427448600+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:07:33.427 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:07:33.431 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:07:33.432 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:07:33.432 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:07:33.439603800+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:07:33.442800500+00:00] read ACL run completed
+[2026-06-25 22:07:33.587 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:07:33.641 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:07:33.656495800+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:07:33.656 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:07:33.660 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:07:33.661 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:07:33.661 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:07:33.668836600+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:07:33.672320700+00:00] read ACL run completed
+[2026-06-25 22:07:33.788 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:07:33.842 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:07:33.857521600+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:07:33.857 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:07:33.864 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:07:33.864 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:07:33.865 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:07:33.871261600+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:07:33.874409500+00:00] read ACL run completed
+[2026-06-25 22:07:33.984 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:07:34.037 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:07:34.052468+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:07:34.052 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:07:34.056 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:07:34.056 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:07:34.057 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:07:34.064862600+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:07:34.067977500+00:00] read ACL run completed
+[2026-06-25 22:07:38.559 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$i=1; Get-Content -LiteralPath "Script/Blueprint/P
+[2026-06-25 22:07:38.567 codex.exe] sandbox setup required: offline firewall settings changed (stored_ports=[], desired_ports=[7897], stored_allow_local_binding=false, desired_allow_local_binding=false)
+[2026-06-25T14:07:38.621951400+00:00] ensuring sandbox users offline=CodexSandboxOffline online=CodexSandboxOnline
+[2026-06-25T14:07:38.817535400+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_udp protocol=17 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:07:38.939431+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:07:39.079885200+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=1-7896,7898-65535 LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:07:39.204146500+00:00] firewall rule configured name=codex_sandbox_offline_block_outbound protocol=256 RemoteAddresses=0.0.0.0-126.255.255.255,128.0.0.0-255.255.255.255,::,::2-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:07:39.212036300+00:00] WFP setup succeeded for CodexSandboxOffline with 12 installed filters
+[2026-06-25 22:07:40.110 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25T14:07:40.120765500+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:07:40.125147700+00:00] read ACL run completed
+[2026-06-25 22:07:40.151 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4904)
+[2026-06-25T14:07:40.164172900+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:07:40.164 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:07:40.168 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:07:40.168 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:07:40.176446400+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:07:40.179557900+00:00] read ACL run completed
+[2026-06-25 22:08:21.226 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:08:21.233 codex.exe] sandbox setup required: offline firewall settings changed (stored_ports=[7897], desired_ports=[], stored_allow_local_binding=false, desired_allow_local_binding=false)
+[2026-06-25T14:08:21.285888+00:00] ensuring sandbox users offline=CodexSandboxOffline online=CodexSandboxOnline
+[2026-06-25T14:08:21.515412600+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_udp protocol=17 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:08:21.646624800+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:08:21.784555100+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=1-65535 LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:08:21.915585400+00:00] firewall rule configured name=codex_sandbox_offline_block_outbound protocol=256 RemoteAddresses=0.0.0.0-126.255.255.255,128.0.0.0-255.255.255.255,::,::2-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:08:21.919537100+00:00] WFP setup failed for CodexSandboxOffline: BuildSecurityDescriptorW failed: 0x000004B4; continuing elevated setup
+[2026-06-25 22:08:21.924 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25T14:08:21.936844900+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:08:21.940363400+00:00] read ACL run completed
+[2026-06-25 22:08:21.973 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:08:21.988603900+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:08:21.988 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:08:21.993 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:08:21.993 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:08:21.993 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:08:22.001260+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:08:22.005222700+00:00] read ACL run completed
+[2026-06-25 22:08:27.926 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$i=1; Get-Content -LiteralPath "Script/Blueprint/P
+[2026-06-25 22:08:27.934 codex.exe] sandbox setup required: offline firewall settings changed (stored_ports=[], desired_ports=[7897], stored_allow_local_binding=false, desired_allow_local_binding=false)
+[2026-06-25T14:08:27.995650+00:00] ensuring sandbox users offline=CodexSandboxOffline online=CodexSandboxOnline
+[2026-06-25T14:08:28.188437500+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_udp protocol=17 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:08:28.305376700+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:08:28.444726200+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=1-7896,7898-65535 LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:08:28.573445300+00:00] firewall rule configured name=codex_sandbox_offline_block_outbound protocol=256 RemoteAddresses=0.0.0.0-126.255.255.255,128.0.0.0-255.255.255.255,::,::2-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:08:28.580765700+00:00] WFP setup succeeded for CodexSandboxOffline with 12 installed filters
+[2026-06-25 22:08:29.033 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25T14:08:29.044508200+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:08:29.048132500+00:00] read ACL run completed
+[2026-06-25 22:08:29.076 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4904)
+[2026-06-25T14:08:29.091571400+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:08:29.091 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:08:29.095 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:08:29.095 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:08:29.104059200+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:08:29.108021200+00:00] read ACL run completed
+[2026-06-25 22:08:34.001 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:08:34.008 codex.exe] sandbox setup required: offline firewall settings changed (stored_ports=[7897], desired_ports=[], stored_allow_local_binding=false, desired_allow_local_binding=false)
+[2026-06-25T14:08:34.061088300+00:00] ensuring sandbox users offline=CodexSandboxOffline online=CodexSandboxOnline
+[2026-06-25T14:08:34.249036600+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_udp protocol=17 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:08:34.371091400+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:08:34.516318700+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=1-65535 LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:08:34.645548800+00:00] firewall rule configured name=codex_sandbox_offline_block_outbound protocol=256 RemoteAddresses=0.0.0.0-126.255.255.255,128.0.0.0-255.255.255.255,::,::2-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:08:34.647384600+00:00] WFP setup failed for CodexSandboxOffline: BuildSecurityDescriptorW failed: 0x000004B4; continuing elevated setup
+[2026-06-25 22:08:34.653 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25T14:08:34.664612800+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:08:34.667902900+00:00] read ACL run completed
+[2026-06-25 22:08:34.694 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:08:34.707984900+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:08:34.708 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:08:34.712 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:08:34.712 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:08:34.712 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:08:34.720564100+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:08:34.724291900+00:00] read ACL run completed
+[2026-06-25 22:08:34.864 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:08:34.923 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:08:34.946128100+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:08:34.946 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:08:34.951 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:08:34.951 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:08:34.952 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:08:34.957665800+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:08:34.960637600+00:00] read ACL run completed
+[2026-06-25 22:08:35.074 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:08:35.121 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:08:35.135720+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:08:35.135 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:08:35.139 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:08:35.140 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:08:35.140 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:08:35.147543500+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:08:35.151172+00:00] read ACL run completed
+[2026-06-25 22:08:35.263 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:08:35.312 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:08:35.325259100+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:08:35.325 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:08:35.330 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:08:35.330 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:08:35.330 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:08:35.339000400+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:08:35.343222900+00:00] read ACL run completed
+[2026-06-25 22:08:40.315 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$i=1; Get-Content -LiteralPath "Script/Blueprint/P
+[2026-06-25 22:08:40.322 codex.exe] sandbox setup required: offline firewall settings changed (stored_ports=[], desired_ports=[7897], stored_allow_local_binding=false, desired_allow_local_binding=false)
+[2026-06-25T14:08:40.375946300+00:00] ensuring sandbox users offline=CodexSandboxOffline online=CodexSandboxOnline
+[2026-06-25T14:08:40.567741900+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_udp protocol=17 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:08:40.697757700+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:08:40.841064+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=1-7896,7898-65535 LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:08:40.975350600+00:00] firewall rule configured name=codex_sandbox_offline_block_outbound protocol=256 RemoteAddresses=0.0.0.0-126.255.255.255,128.0.0.0-255.255.255.255,::,::2-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:08:40.984481200+00:00] WFP setup succeeded for CodexSandboxOffline with 12 installed filters
+[2026-06-25 22:08:41.997 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25T14:08:42.007815500+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:08:42.011049200+00:00] read ACL run completed
+[2026-06-25 22:08:42.041 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4904)
+[2026-06-25T14:08:42.054123800+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:08:42.054 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:08:42.057 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:08:42.057 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:08:42.068214600+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:08:42.072027700+00:00] read ACL run completed
+[2026-06-25 22:24:53.916 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "ugcprint" "Script/Blueprint/UI/UI02.lua"
+[2026-06-25 22:24:53.916 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$i=1; Get-Content -LiteralPath "Script/Blueprint/U
+[2026-06-25 22:24:53.973 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4904)
+[2026-06-25 22:24:53.974 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4904)
+[2026-06-25T14:24:53.993188100+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25T14:24:53.993394900+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:24:53.993 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:24:53.993 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:24:53.997 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:24:53.997 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:24:53.998 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:24:53.998 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[[2026-06-25T14:24:54.007438200+00:00] 2026-06-25T14:24:54.007430400+00:00read ACL helper already running; skipping] 
+read-acl-only mode: applying read ACLs
+[2026-06-25T14:24:54.011292200+00:00] read ACL run completed
+[2026-06-25 22:25:10.644 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:25:10.654 codex.exe] sandbox setup required: offline firewall settings changed (stored_ports=[7897], desired_ports=[], stored_allow_local_binding=false, desired_allow_local_binding=false)
+[2026-06-25T14:25:10.712545600+00:00] ensuring sandbox users offline=CodexSandboxOffline online=CodexSandboxOnline
+[2026-06-25T14:25:10.908581700+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_udp protocol=17 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:25:11.034762500+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:25:11.176295200+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=1-65535 LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:25:11.317325100+00:00] firewall rule configured name=codex_sandbox_offline_block_outbound protocol=256 RemoteAddresses=0.0.0.0-126.255.255.255,128.0.0.0-255.255.255.255,::,::2-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:25:11.319540400+00:00] WFP setup failed for CodexSandboxOffline: BuildSecurityDescriptorW failed: 0x000004B4; continuing elevated setup
+[2026-06-25 22:25:11.324 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25T14:25:11.337936400+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:25:11.342283200+00:00] read ACL run completed
+[2026-06-25 22:25:11.368 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:25:11.382994500+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:25:11.383 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:25:11.387 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:25:11.387 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:25:11.387 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:25:11.396603400+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:25:11.399629600+00:00] read ACL run completed
+[2026-06-25 22:25:19.740 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$path = "Script/Blueprint/UI/UI02.lua"
+$lines = Ge
+[2026-06-25 22:25:19.747 codex.exe] sandbox setup required: offline firewall settings changed (stored_ports=[], desired_ports=[7897], stored_allow_local_binding=false, desired_allow_local_binding=false)
+[2026-06-25T14:25:19.801548400+00:00] ensuring sandbox users offline=CodexSandboxOffline online=CodexSandboxOnline
+[2026-06-25T14:25:19.998153800+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_udp protocol=17 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:25:20.118494+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:25:20.258774900+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=1-7896,7898-65535 LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:25:20.387117700+00:00] firewall rule configured name=codex_sandbox_offline_block_outbound protocol=256 RemoteAddresses=0.0.0.0-126.255.255.255,128.0.0.0-255.255.255.255,::,::2-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:25:20.396461300+00:00] WFP setup succeeded for CodexSandboxOffline with 12 installed filters
+[2026-06-25 22:25:21.002 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25T14:25:21.014272600+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:25:21.017362100+00:00] read ACL run completed
+[2026-06-25 22:25:21.041 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4904)
+[2026-06-25T14:25:21.054139900+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:25:21.054 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:25:21.058 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:25:21.058 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:25:21.067198+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:25:21.070094500+00:00] read ACL run completed
+[2026-06-25 22:25:27.455 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "ugcprint|else" "Script/Blueprint/UI/UI02.lu
+[2026-06-25 22:25:27.477 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$i=1; Get-Content -LiteralPath "Script/Blueprint/U
+[2026-06-25 22:25:27.511 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4904)
+[2026-06-25T14:25:27.528067400+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:25:27.528 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:25:27.531 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4904)
+[2026-06-25 22:25:27.532 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:25:27.532 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:25:27.540467+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:25:27.541563700+00:00] read ACL helper already running; skipping spawn
+[2026-06-25T14:25:27.543637200+00:00] read ACL run completed
+[2026-06-25T14:25:27.543701100+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:25:27.543 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:25:27.547 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:25:27.547 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:25:32.903 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:25:32.910 codex.exe] sandbox setup required: offline firewall settings changed (stored_ports=[7897], desired_ports=[], stored_allow_local_binding=false, desired_allow_local_binding=false)
+[2026-06-25T14:25:32.964423200+00:00] ensuring sandbox users offline=CodexSandboxOffline online=CodexSandboxOnline
+[2026-06-25T14:25:33.149776500+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_udp protocol=17 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:25:33.273092+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:25:33.412681200+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=1-65535 LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:25:33.539275100+00:00] firewall rule configured name=codex_sandbox_offline_block_outbound protocol=256 RemoteAddresses=0.0.0.0-126.255.255.255,128.0.0.0-255.255.255.255,::,::2-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:25:33.541314700+00:00] WFP setup failed for CodexSandboxOffline: BuildSecurityDescriptorW failed: 0x000004B4; continuing elevated setup
+[2026-06-25 22:25:33.546 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25T14:25:33.557645100+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:25:33.560944700+00:00] read ACL run completed
+[2026-06-25 22:25:33.589 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:25:33.603181100+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:25:33.603 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:25:33.607 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:25:33.607 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:25:33.607 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:25:33.614049+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:25:33.617997400+00:00] read ACL run completed
+[2026-06-25 22:25:33.756 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:25:33.809 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:25:33.823373400+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:25:33.823 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:25:33.827 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:25:33.827 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:25:33.827 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:25:33.834681100+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:25:33.837709500+00:00] read ACL run completed
+[2026-06-25 22:25:33.947 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:25:33.998 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:25:34.013847300+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:25:34.013 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:25:34.018 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:25:34.018 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:25:34.018 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:25:34.024903900+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:25:34.029293300+00:00] read ACL run completed
+[2026-06-25 22:25:34.135 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:25:34.184 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:25:34.198849400+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:25:34.198 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:25:34.203 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:25:34.203 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:25:34.203 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:25:34.212702700+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:25:34.215853100+00:00] read ACL run completed
+[2026-06-25 22:25:42.632 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "ugcprint" "Script/Blueprint/UI/UI02.lua"; i
+[2026-06-25 22:25:42.639 codex.exe] sandbox setup required: offline firewall settings changed (stored_ports=[], desired_ports=[7897], stored_allow_local_binding=false, desired_allow_local_binding=false)
+[2026-06-25 22:25:42.675 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+git diff --stat -- "Script/Blueprint/UI/UI02.lua";
+[2026-06-25 22:25:42.684 codex.exe] sandbox setup required: offline firewall settings changed (stored_ports=[], desired_ports=[7897], stored_allow_local_binding=false, desired_allow_local_binding=false)
+[2026-06-25T14:25:42.697980500+00:00] ensuring sandbox users offline=CodexSandboxOffline online=CodexSandboxOnline
+[2026-06-25T14:25:42.752530200+00:00] ensuring sandbox users offline=CodexSandboxOffline online=CodexSandboxOnline
+[2026-06-25T14:25:43.029888300+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_udp protocol=17 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:25:43.044265400+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_udp protocol=17 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:25:43.264850800+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:25:43.283071+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:25:43.515548500+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=1-7896,7898-65535 LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:25:43.543988800+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=1-7896,7898-65535 LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:25:43.765229200+00:00] firewall rule configured name=codex_sandbox_offline_block_outbound protocol=256 RemoteAddresses=0.0.0.0-126.255.255.255,128.0.0.0-255.255.255.255,::,::2-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:25:43.779951600+00:00] firewall rule configured name=codex_sandbox_offline_block_outbound protocol=256 RemoteAddresses=0.0.0.0-126.255.255.255,128.0.0.0-255.255.255.255,::,::2-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:25:43.786361500+00:00] WFP setup succeeded for CodexSandboxOffline with 12 installed filters
+[2026-06-25T14:25:43.790976600+00:00] WFP setup succeeded for CodexSandboxOffline with 12 installed filters
+[2026-06-25 22:25:44.231 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25T14:25:44.243947900+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:25:44.247116600+00:00] read ACL run completed
+[2026-06-25 22:25:44.271 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4904)
+[2026-06-25T14:25:44.283188100+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:25:44.283 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:25:44.287 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:25:44.288 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:25:44.295137300+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:25:44.297987700+00:00] read ACL run completed
+[2026-06-25 22:25:44.443 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25T14:25:44.456617300+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:25:44.461207700+00:00] read ACL run completed
+[2026-06-25 22:25:44.492 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4904)
+[2026-06-25T14:25:44.505768400+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:25:44.505 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:25:44.509 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:25:44.509 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:25:44.519178500+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:25:44.522636100+00:00] read ACL run completed
+[2026-06-25 22:25:52.094 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:25:52.101 codex.exe] sandbox setup required: offline firewall settings changed (stored_ports=[7897], desired_ports=[], stored_allow_local_binding=false, desired_allow_local_binding=false)
+[2026-06-25T14:25:52.154497700+00:00] ensuring sandbox users offline=CodexSandboxOffline online=CodexSandboxOnline
+[2026-06-25T14:25:52.342306800+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_udp protocol=17 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:25:52.463160+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:25:52.605816500+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=1-65535 LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:25:52.741153800+00:00] firewall rule configured name=codex_sandbox_offline_block_outbound protocol=256 RemoteAddresses=0.0.0.0-126.255.255.255,128.0.0.0-255.255.255.255,::,::2-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:25:52.743530500+00:00] WFP setup failed for CodexSandboxOffline: BuildSecurityDescriptorW failed: 0x000004B4; continuing elevated setup
+[2026-06-25 22:25:52.750 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25T14:25:52.762242800+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:25:52.765864200+00:00] read ACL run completed
+[2026-06-25 22:25:52.792 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:25:52.805802600+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:25:52.805 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:25:52.810 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:25:52.811 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:25:52.811 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:25:52.817795700+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:25:52.820785800+00:00] read ACL run completed
+[2026-06-25 22:25:52.960 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:25:53.010 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:25:53.024168500+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:25:53.024 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:25:53.028 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:25:53.028 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:25:53.028 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:25:53.035573300+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:25:53.038860800+00:00] read ACL run completed
+[2026-06-25 22:25:53.145 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:25:53.190 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:25:53.203435300+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:25:53.203 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:25:53.207 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:25:53.208 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:25:53.208 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:25:53.214199600+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:25:53.217553800+00:00] read ACL run completed
+[2026-06-25 22:25:53.328 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:25:53.375 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:25:53.390880500+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:25:53.390 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:25:53.394 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:25:53.395 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:25:53.395 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:25:53.402989400+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:25:53.405978600+00:00] read ACL run completed
+[2026-06-25 22:25:59.391 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+git diff -- "Script/Blueprint/UI/UI02.lua"
+[2026-06-25 22:25:59.392 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "ugcprint" "Script/Blueprint/UI/UI02.lua"; i
+[2026-06-25 22:25:59.405 codex.exe] sandbox setup required: offline firewall settings changed (stored_ports=[], desired_ports=[7897], stored_allow_local_binding=false, desired_allow_local_binding=false)
+[2026-06-25 22:25:59.405 codex.exe] sandbox setup required: offline firewall settings changed (stored_ports=[], desired_ports=[7897], stored_allow_local_binding=false, desired_allow_local_binding=false)
+[2026-06-25T14:25:59.490587500+00:00] setup error: helper_setup_marker_write_failed: create protected setup marker file C:\Users\admin\.codex\.sandbox\setup_marker.json failed: 80
+[2026-06-25 22:25:59.490 codex-windows-sandbox-setup.exe] setup error: helper_setup_marker_write_failed: create protected setup marker file C:\Users\admin\.codex\.sandbox\setup_marker.json failed: 80
+[2026-06-25T14:25:59.491210300+00:00] ensuring sandbox users offline=CodexSandboxOffline online=CodexSandboxOnline
+[2026-06-25T14:25:59.687488500+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_udp protocol=17 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:25:59.817372800+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:26:00.001543200+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=1-7896,7898-65535 LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:26:00.166469200+00:00] firewall rule configured name=codex_sandbox_offline_block_outbound protocol=256 RemoteAddresses=0.0.0.0-126.255.255.255,128.0.0.0-255.255.255.255,::,::2-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:26:00.178632+00:00] WFP setup succeeded for CodexSandboxOffline with 12 installed filters
+[2026-06-25 22:26:01.306 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25T14:26:01.319244200+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:26:01.322505200+00:00] read ACL run completed
+[2026-06-25 22:26:01.350 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4904)
+[2026-06-25T14:26:01.363750100+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:26:01.363 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:26:01.368 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:26:01.368 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:26:01.376853500+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:26:01.380046600+00:00] read ACL run completed
+[2026-06-25 22:26:06.800 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "ugcprint" "Script/Blueprint/UI/UI02.lua"; i
+[2026-06-25 22:26:06.864 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4904)
+[2026-06-25T14:26:06.883441600+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:26:06.883 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:26:06.891 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:26:06.892 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:26:06.903625+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:26:06.909020200+00:00] read ACL run completed
+[2026-06-25 22:27:52.777 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$i=1; Get-Content -LiteralPath "Script/Blueprint/U
+[2026-06-25 22:27:52.828 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4904)
+[2026-06-25T14:27:52.868532700+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:27:52.868 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:27:52.875 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:27:52.876 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:27:52.888778100+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:27:52.892672600+00:00] read ACL run completed
+[2026-06-25 22:28:08.310 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:28:08.317 codex.exe] sandbox setup required: offline firewall settings changed (stored_ports=[7897], desired_ports=[], stored_allow_local_binding=false, desired_allow_local_binding=false)
+[2026-06-25T14:28:08.384725+00:00] ensuring sandbox users offline=CodexSandboxOffline online=CodexSandboxOnline
+[2026-06-25T14:28:08.642884900+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_udp protocol=17 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:28:08.795221+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:28:08.983908100+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=1-65535 LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:28:09.158137+00:00] firewall rule configured name=codex_sandbox_offline_block_outbound protocol=256 RemoteAddresses=0.0.0.0-126.255.255.255,128.0.0.0-255.255.255.255,::,::2-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:28:09.161850100+00:00] WFP setup failed for CodexSandboxOffline: BuildSecurityDescriptorW failed: 0x000004B4; continuing elevated setup
+[2026-06-25 22:28:09.167 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25T14:28:09.177447800+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:28:09.181130100+00:00] read ACL run completed
+[2026-06-25 22:28:09.227 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:28:09.242976800+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:28:09.243 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:28:09.248 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:28:09.248 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:28:09.248 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:28:09.256480100+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:28:09.262495100+00:00] read ACL run completed
+[2026-06-25 22:28:09.437 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:28:09.524 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:28:09.538490+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:28:09.538 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:28:09.542 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:28:09.543 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:28:09.543 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:28:09.551302600+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:28:09.555439400+00:00] read ACL run completed
+[2026-06-25 22:28:09.692 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:28:09.758 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:28:09.774299600+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:28:09.774 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:28:09.779 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:28:09.779 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:28:09.779 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:28:09.787851300+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:28:09.793450700+00:00] read ACL run completed
+[2026-06-25 22:28:09.925 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:28:09.984 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:28:10.000224+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:28:10.000 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:28:10.007 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:28:10.007 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:28:10.008 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:28:10.015103+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:28:10.018779600+00:00] read ACL run completed
+[2026-06-25 22:28:18.167 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:28:18.241 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:28:18.263242900+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:28:18.263 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:28:18.269 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:28:18.269 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:28:18.270 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:28:18.278142700+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:28:18.285050800+00:00] read ACL run completed
+[2026-06-25 22:28:25.819 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$i=1; Get-Content -LiteralPath "Script/Blueprint/U
+[2026-06-25 22:28:25.825 codex.exe] sandbox setup required: offline firewall settings changed (stored_ports=[], desired_ports=[7897], stored_allow_local_binding=false, desired_allow_local_binding=false)
+[2026-06-25T14:28:25.913140+00:00] ensuring sandbox users offline=CodexSandboxOffline online=CodexSandboxOnline
+[2026-06-25T14:28:26.146910900+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_udp protocol=17 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:28:26.309176700+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:28:26.516076500+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=1-7896,7898-65535 LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:28:26.686399+00:00] firewall rule configured name=codex_sandbox_offline_block_outbound protocol=256 RemoteAddresses=0.0.0.0-126.255.255.255,128.0.0.0-255.255.255.255,::,::2-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:28:26.694977100+00:00] WFP setup succeeded for CodexSandboxOffline with 12 installed filters
+[2026-06-25 22:28:29.284 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25T14:28:29.306618300+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:28:29.310856900+00:00] read ACL run completed
+[2026-06-25 22:28:29.343 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4904)
+[2026-06-25T14:28:29.360336+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:28:29.360 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:28:29.386 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:28:29.387 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:28:29.397372800+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:28:29.401067100+00:00] read ACL run completed
+[2026-06-25 22:28:52.478 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$path = "Script/Blueprint/UI/UI02.lua"
+$fullPath =
+[2026-06-25 22:28:52.536 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4904)
+[2026-06-25T14:28:52.567923600+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:28:52.567 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:28:52.572 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:28:52.572 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:28:52.582674500+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:28:52.585739400+00:00] read ACL run completed
+[2026-06-25 22:29:00.565 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "ugcprint|Button_150_OnClicked|^\s+$" "Scrip
+[2026-06-25 22:29:00.566 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$i=1; Get-Content -LiteralPath "Script/Blueprint/U
+[2026-06-25 22:29:00.632 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4904)[2026-06-25 22:29:00.632 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4904)
+
+[2026-06-25T14:29:00.649952800+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25T14:29:00.650102300+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:29:00.650 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:29:00.650 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:29:00.655 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe[2026-06-25 22:29:00.655 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+
+[2026-06-25 22:29:00.655 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:29:00.656 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[[2026-06-25T14:29:00.665702400+00:002026-06-25T14:29:00.665710300+00:00] ] read ACL helper already running; skippingread-acl-only mode: applying read ACLs
+
+[2026-06-25T14:29:00.671342100+00:00] read ACL run completed
+[2026-06-25 22:29:00.724 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+git diff -- "Script/Blueprint/UI/UI02.lua"
+[2026-06-25 22:29:00.780 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4904)
+[2026-06-25T14:29:00.810047300+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:29:00.810 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:29:00.821 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:29:00.821 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:29:00.834467+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:29:00.840783100+00:00] read ACL run completed
+[2026-06-25 22:29:12.461 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$lines = Get-Content -LiteralPath "Script/Blueprin
+[2026-06-25 22:29:12.521 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4904)
+[2026-06-25T14:29:12.535054100+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:29:12.535 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:29:12.539 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:29:12.540 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:29:12.548548500+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:29:12.551910800+00:00] read ACL run completed
+[2026-06-25 22:50:29.408 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+rg -n "GetLocalPlayerPawn|PlayerState|GetLocalPlay
+[2026-06-25 22:50:29.411 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$i=1; Get-Content -LiteralPath "Script/Blueprint/U
+[2026-06-25 22:50:29.469 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4904)
+[2026-06-25 22:50:29.471 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4904)
+[2026-06-25T14:50:29.496922700+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25T14:50:29.497185300+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:50:29.496 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:50:29.497 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:50:29.509 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:50:29.509 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:50:29.510 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe[2026-06-25 22:50:29.510 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+
+[[2026-06-25T14:50:29.522013900+00:002026-06-25T14:50:29.522030400+00:00] ] read ACL helper already running; skipping
+read-acl-only mode: applying read ACLs
+[2026-06-25T14:50:29.526496400+00:00] read ACL run completed
+[2026-06-25 22:50:29.597 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$i=1; Get-Content -LiteralPath "Script/Blueprint/U
+[2026-06-25 22:50:29.664 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4904)
+[2026-06-25T14:50:29.678707700+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:50:29.678 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:50:29.684 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:50:29.684 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:50:29.692372400+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:50:29.695430900+00:00] read ACL run completed
+[2026-06-25 22:55:02.092 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:55:02.099 codex.exe] sandbox setup required: offline firewall settings changed (stored_ports=[7897], desired_ports=[], stored_allow_local_binding=false, desired_allow_local_binding=false)
+[2026-06-25T14:55:02.152344800+00:00] ensuring sandbox users offline=CodexSandboxOffline online=CodexSandboxOnline
+[2026-06-25T14:55:02.341005+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_udp protocol=17 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:55:02.456970+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:55:02.594026500+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=1-65535 LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:55:02.735806400+00:00] firewall rule configured name=codex_sandbox_offline_block_outbound protocol=256 RemoteAddresses=0.0.0.0-126.255.255.255,128.0.0.0-255.255.255.255,::,::2-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:55:02.737812200+00:00] WFP setup failed for CodexSandboxOffline: BuildSecurityDescriptorW failed: 0x000004B4; continuing elevated setup
+[2026-06-25 22:55:02.743 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25T14:55:02.753392+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:55:02.756411200+00:00] read ACL run completed
+[2026-06-25 22:55:02.784 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:55:02.796945600+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:55:02.796 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:55:02.800 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:55:02.801 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:55:02.801 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:55:02.807188200+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:55:02.812011800+00:00] read ACL run completed
+[2026-06-25 22:55:02.971 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:55:03.022 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:55:03.034679700+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:55:03.034 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:55:03.039 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:55:03.039 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:55:03.039 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:55:03.045879700+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:55:03.048756300+00:00] read ACL run completed
+[2026-06-25 22:55:03.162 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:55:03.209 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:55:03.223232400+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:55:03.223 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:55:03.227 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:55:03.227 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:55:03.227 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:55:03.234357100+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:55:03.238044400+00:00] read ACL run completed
+[2026-06-25 22:55:03.345 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:55:03.392 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:55:03.404914300+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:55:03.404 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:55:03.408 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:55:03.409 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:55:03.409 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:55:03.415085200+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:55:03.419233900+00:00] read ACL run completed
+[2026-06-25 22:55:11.172 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$i=1; Get-Content -LiteralPath "Script/Blueprint/P
+[2026-06-25 22:55:11.178 codex.exe] sandbox setup required: offline firewall settings changed (stored_ports=[], desired_ports=[7897], stored_allow_local_binding=false, desired_allow_local_binding=false)
+[2026-06-25T14:55:11.229571100+00:00] ensuring sandbox users offline=CodexSandboxOffline online=CodexSandboxOnline
+[2026-06-25T14:55:11.411457400+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_udp protocol=17 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:55:11.534484600+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:55:11.669167+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=1-7896,7898-65535 LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:55:11.797725100+00:00] firewall rule configured name=codex_sandbox_offline_block_outbound protocol=256 RemoteAddresses=0.0.0.0-126.255.255.255,128.0.0.0-255.255.255.255,::,::2-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:55:11.804635400+00:00] WFP setup succeeded for CodexSandboxOffline with 12 installed filters
+[2026-06-25 22:55:12.359 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25T14:55:12.373963700+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:55:12.377041700+00:00] read ACL run completed
+[2026-06-25 22:55:12.401 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4904)
+[2026-06-25T14:55:12.414625400+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:55:12.414 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:55:12.419 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:55:12.419 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:55:12.425985300+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:55:12.428950700+00:00] read ACL run completed
+[2026-06-25 22:56:33.460 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$i=1; Get-Content -LiteralPath "Script/Blueprint/U
+[2026-06-25 22:56:33.514 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4904)
+[2026-06-25T14:56:33.527281200+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:56:33.527 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:56:33.532 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:56:33.532 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:56:33.539445400+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:56:33.542254900+00:00] read ACL run completed
+[2026-06-25 22:56:39.324 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:56:39.332 codex.exe] sandbox setup required: offline firewall settings changed (stored_ports=[7897], desired_ports=[], stored_allow_local_binding=false, desired_allow_local_binding=false)
+[2026-06-25T14:56:39.385754100+00:00] ensuring sandbox users offline=CodexSandboxOffline online=CodexSandboxOnline
+[2026-06-25T14:56:39.563356700+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_udp protocol=17 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:56:39.681486800+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:56:39.824917800+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=1-65535 LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:56:39.951919800+00:00] firewall rule configured name=codex_sandbox_offline_block_outbound protocol=256 RemoteAddresses=0.0.0.0-126.255.255.255,128.0.0.0-255.255.255.255,::,::2-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:56:39.955191200+00:00] WFP setup failed for CodexSandboxOffline: BuildSecurityDescriptorW failed: 0x000004B4; continuing elevated setup
+[2026-06-25 22:56:39.960 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25T14:56:39.969840600+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:56:39.973478900+00:00] read ACL run completed
+[2026-06-25 22:56:40.000 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:56:40.014057700+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:56:40.014 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:56:40.017 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:56:40.018 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:56:40.018 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:56:40.025200400+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:56:40.028079100+00:00] read ACL run completed
+[2026-06-25 22:56:40.171 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:56:40.220 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:56:40.234587900+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:56:40.234 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:56:40.239 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:56:40.239 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:56:40.239 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:56:40.245808400+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:56:40.249111700+00:00] read ACL run completed
+[2026-06-25 22:56:40.357 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:56:40.405 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:56:40.418245600+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:56:40.418 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:56:40.422 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:56:40.423 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:56:40.423 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:56:40.428333600+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:56:40.432112800+00:00] read ACL run completed
+[2026-06-25 22:56:40.553 codex.exe] START: C:\Users\admin\.codex\.sandbox-bin\codex.exe --codex-run-as-fs-helper
+[2026-06-25 22:56:40.602 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\Douluo, payload_len=4912)
+[2026-06-25T14:56:40.616701300+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:56:40.616 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:56:40.620 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:56:40.620 codex.exe] helper copy: reused command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:56:40.621 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:56:40.627301300+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:56:40.630276900+00:00] read ACL run completed
+[2026-06-25 22:56:47.254 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$i=1; Get-Content -LiteralPath "Script/Blueprint/U
+[2026-06-25 22:56:47.261 codex.exe] sandbox setup required: offline firewall settings changed (stored_ports=[], desired_ports=[7897], stored_allow_local_binding=false, desired_allow_local_binding=false)
+[2026-06-25T14:56:47.315837+00:00] ensuring sandbox users offline=CodexSandboxOffline online=CodexSandboxOnline
+[2026-06-25T14:56:47.492487300+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_udp protocol=17 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:56:47.612188900+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:56:47.752714800+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=1-7896,7898-65535 LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:56:47.883332400+00:00] firewall rule configured name=codex_sandbox_offline_block_outbound protocol=256 RemoteAddresses=0.0.0.0-126.255.255.255,128.0.0.0-255.255.255.255,::,::2-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-25T14:56:47.891809400+00:00] WFP setup succeeded for CodexSandboxOffline with 12 installed filters
+[2026-06-25 22:56:50.579 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25T14:56:50.589218100+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:56:50.593466200+00:00] read ACL run completed
+[2026-06-25 22:56:50.617 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.81150-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4904)
+[2026-06-25T14:56:50.631411600+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-25 22:56:50.631 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-25 22:56:50.634 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25 22:56:50.635 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0.exe
+[2026-06-25T14:56:50.642799200+00:00] read-acl-only mode: applying read ACLs
+[2026-06-25T14:56:50.645753900+00:00] read ACL run completed

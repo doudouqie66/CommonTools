@@ -1,0 +1,1 @@
+{"Name":"FBoneMirrorConfig_GivenName","Description":"","Variables":[{"Name":"MirrorBoneSource","Type":"FName","Description":"","Redirect":""},{"Name":"MirrorBoneTarget","Type":"FName","Description":"","Redirect":""}]}

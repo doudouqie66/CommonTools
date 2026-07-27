@@ -1,0 +1,1 @@
+{"Name":"EFatalDamageMaxKillStatus","Description":" ","Variables":[{"Name":"ENormal","Value":"0","Description":" "},{"Name":"EFirstKill","Value":"1","Description":" "},{"Name":"ENewKill","Value":"2","Description":" "},{"Name":"EMaxKillerBeKilled","Value":"3","Description":" "},{"Name":"ENoExistMaxKiller","Value":"4","Description":" "}]}

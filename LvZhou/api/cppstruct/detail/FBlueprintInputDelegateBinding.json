@@ -1,0 +1,1 @@
+{"Name":"FBlueprintInputDelegateBinding","Description":"","Variables":[{"Name":"bConsumeInput","Type":"uint32","Description":"","Redirect":""},{"Name":"bExecuteWhenPaused","Type":"uint32","Description":"","Redirect":""},{"Name":"bOverrideParentBinding","Type":"uint32","Description":"","Redirect":""}]}

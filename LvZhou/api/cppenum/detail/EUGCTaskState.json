@@ -1,0 +1,1 @@
+{"Name":"EUGCTaskState","Description":" ","Variables":[{"Name":"Lock","Value":"1","Description":" "},{"Name":"Incomplete","Value":"2","Description":" "},{"Name":"NotClaimed","Value":"3","Description":" "},{"Name":"HasClaimed","Value":"4","Description":" "},{"Name":"Expired","Value":"5","Description":" "},{"Name":"NotBegin","Value":"6","Description":" "}]}

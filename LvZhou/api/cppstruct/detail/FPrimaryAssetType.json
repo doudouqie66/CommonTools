@@ -1,0 +1,1 @@
+{"Name":"FPrimaryAssetType","Description":"A type of primary asset, this is a wrapper around FName and can be cast back and forth","Variables":[{"Name":"Name","Type":"FName","Description":"The Type of this object, by default it's base class's name","Redirect":""}]}

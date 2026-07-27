@@ -1,0 +1,1 @@
+{"Name":"EGunKickType","Description":" ","Variables":[{"Name":"GunKickType_StartFire","Value":"0","Description":" "},{"Name":"GunKickType_Fire_Loop","Value":"1","Description":" "},{"Name":"GunKickType_Single_Shot","Value":"2","Description":" "},{"Name":"GunKickType_StopFire","Value":"3","Description":" "}]}

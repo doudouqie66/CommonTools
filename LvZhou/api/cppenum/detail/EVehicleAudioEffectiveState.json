@@ -1,0 +1,1 @@
+{"Name":"EVehicleAudioEffectiveState","Description":" ","Variables":[{"Name":"VehicleAudioInactive","Value":"0","Description":" "},{"Name":"OutsideEffectiveRange","Value":"1","Description":" "},{"Name":"WithinEffectiveRange","Value":"2","Description":" "},{"Name":"TopInEffectiveRange","Value":"3","Description":" "}]}

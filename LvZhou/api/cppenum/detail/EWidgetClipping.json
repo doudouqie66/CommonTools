@@ -1,0 +1,1 @@
+{"Name":"EWidgetClipping","Description":" ","Variables":[{"Name":"Inherit","Value":"0","Description":" "},{"Name":"ClipToBounds","Value":"1","Description":" "},{"Name":"ClipToBoundsWithoutIntersecting","Value":"2","Description":" "},{"Name":"ClipToBoundsAlways","Value":"3","Description":" "},{"Name":"OnDemand","Value":"4","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"FBuilderPoly","Description":"","Variables":[{"Name":"VertexIndices","Type":"TArray \u003c int32 \u003e","Description":"","Redirect":""},{"Name":"Direction","Type":"int32","Description":"","Redirect":""},{"Name":"ItemName","Type":"FName","Description":"","Redirect":""},{"Name":"PolyFlags","Type":"int32","Description":"","Redirect":""}]}

@@ -1,0 +1,1 @@
+{"Name":"ELobbyGameType","Description":" ","Variables":[{"Name":"LobbyTypeMobile","Value":"0","Description":" "},{"Name":"LobbyTypeSimulator","Value":"1","Description":" "},{"Name":"LobbyTypeExternalSimulator","Value":"2","Description":" "},{"Name":"LobbyTypeBlackRoom","Value":"8","Description":" "},{"Name":"LobbyTypeNovice","Value":"9","Description":" "}]}

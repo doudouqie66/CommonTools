@@ -1,0 +1,1 @@
+{"Name":"EPaintDecalTargetValidationType","Description":" ","Variables":[{"Name":"ValidTarget","Value":"0","Description":" "},{"Name":"InvalidTarget","Value":"1","Description":" "},{"Name":"OutrangeTarget","Value":"2","Description":" "}]}

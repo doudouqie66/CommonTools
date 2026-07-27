@@ -1,0 +1,1 @@
+{"Name":"ECommandFailureType","Description":" ","Variables":[{"Name":"PreValidation","Value":"0","Description":" "},{"Name":"Execution","Value":"1","Description":" "},{"Name":"Undo","Value":"2","Description":" "},{"Name":"Redo","Value":"3","Description":" "},{"Name":"LockViolation","Value":"4","Description":" "}]}

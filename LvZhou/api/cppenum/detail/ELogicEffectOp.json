@@ -1,0 +1,1 @@
+{"Name":"ELogicEffectOp","Description":" ","Variables":[{"Name":"ELogicEffectOp_None","Value":"0","Description":" "},{"Name":"ELogicEffectOp_Apply","Value":"1","Description":" "},{"Name":"ELogicEffectOp_UnApply","Value":"2","Description":" "},{"Name":"ELogicEffectOp_Custom","Value":"3","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"EIDCardDestroyReasonType","Description":" ","Variables":[{"Name":"EDRT_Revived","Value":"0","Description":" "},{"Name":"EDRT_Timeout","Value":"1","Description":" "},{"Name":"EDRT_PlayerExit","Value":"2","Description":" "},{"Name":"EDRT_TeamTerminated","Value":"3","Description":" "}]}

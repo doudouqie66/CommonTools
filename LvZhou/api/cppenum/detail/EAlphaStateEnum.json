@@ -1,0 +1,1 @@
+{"Name":"EAlphaStateEnum","Description":" ","Variables":[{"Name":"EAlphaStateEnum_Rotating","Value":"0","Description":" "},{"Name":"EAlphaStateEnum_IdleState","Value":"1","Description":" "},{"Name":"EAlphaStateEnum_EmoteBegin","Value":"2","Description":" "},{"Name":"EAlphaStateEnum_RotatingWhenEmote","Value":"3","Description":" "}]}

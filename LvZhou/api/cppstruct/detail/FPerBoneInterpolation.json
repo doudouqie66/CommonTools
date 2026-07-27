@@ -1,0 +1,1 @@
+{"Name":"FPerBoneInterpolation","Description":"","Variables":[{"Name":"BoneReference","Type":"FBoneReference","Description":"","Redirect":""},{"Name":"InterpolationSpeedPerSec","Type":"float","Description":"","Redirect":""}]}

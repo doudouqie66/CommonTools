@@ -1,0 +1,1 @@
+{"Name":"FSlateColor","Description":"A Slate color can be a directly specified value, or the color can be pulled from a WidgetStyle.","Variables":[{"Name":"SpecifiedColor","Type":"FLinearColor","Description":"","Redirect":""},{"Name":"ColorUseRule","Type":"TEnumAsByte \u003c ESlateColorStylingMode :: Type \u003e","Description":"","Redirect":""}]}

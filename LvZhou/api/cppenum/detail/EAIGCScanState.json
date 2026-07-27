@@ -1,0 +1,1 @@
+{"Name":"EAIGCScanState","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"Checking","Value":"1","Description":" "},{"Name":"Scanning","Value":"2","Description":" "},{"Name":"Success","Value":"3","Description":" "},{"Name":"Failed_NoDir","Value":"4","Description":" "}]}

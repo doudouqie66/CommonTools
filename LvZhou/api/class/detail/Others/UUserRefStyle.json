@@ -1,0 +1,1 @@
+{"Name":"UUserRefStyle","Description":"","Variables":[{"Name":"RefStylesInfo","Type":"TArray \u003c FUserRefStyleInfo \u003e","Description":"","Redirect":""}],"Functions":[{"Name":"ResetRefStylesInfo","Description":"","Params":null,"Return":[{"Name":"","Type":"void","Description":"","Redirect":""}]}],"Parents":["UDataAsset"],"Event":null,"Delegate":null,"Language":"cpp"}

@@ -1,0 +1,1 @@
+{"Name":"EThrowState","Description":" ","Variables":[{"Name":"Idle","Value":"0","Description":" "},{"Name":"Prepare","Value":"1","Description":" "},{"Name":"Aim","Value":"2","Description":" "},{"Name":"Release","Value":"3","Description":" "},{"Name":"Drop","Value":"4","Description":" "}]}

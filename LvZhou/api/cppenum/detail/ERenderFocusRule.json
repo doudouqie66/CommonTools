@@ -1,0 +1,1 @@
+{"Name":"ERenderFocusRule","Description":" ","Variables":[{"Name":"Always","Value":"0","Description":" "},{"Name":"NonPointer","Value":"1","Description":" "},{"Name":"NavigationOnly","Value":"2","Description":" "},{"Name":"Never","Value":"3","Description":" "}]}

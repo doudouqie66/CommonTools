@@ -1,0 +1,1 @@
+{"Name":"EMessageAuthorityType","Description":" ","Variables":[{"Name":"EMessageTypeBoth","Value":"0","Description":" "},{"Name":"EMessageTypeServer","Value":"1","Description":" "},{"Name":"EMessageTypeClient","Value":"2","Description":" "}]}

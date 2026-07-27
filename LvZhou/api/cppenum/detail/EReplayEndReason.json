@@ -1,0 +1,1 @@
+{"Name":"EReplayEndReason","Description":" ","Variables":[{"Name":"Unknown","Value":"0","Description":" "},{"Name":"Completed","Value":"1","Description":" "},{"Name":"ManualStop","Value":"2","Description":" "},{"Name":"PlaybackError","Value":"3","Description":" "}]}

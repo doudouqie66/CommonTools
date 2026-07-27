@@ -1,0 +1,1 @@
+{"Name":"FAudioQualitySettings","Description":"","Variables":[{"Name":"DisplayName","Type":"FText","Description":"","Redirect":""},{"Name":"MaxChannels","Type":"int32","Description":"","Redirect":""}]}

@@ -1,0 +1,1 @@
+{"Name":"GuideConfig.RunMode","Description":" ","Variables":[{"Name":"Client","Value":"1","Description":" "},{"Name":"Server","Value":"2","Description":"-- 仅客户端运行"},{"Name":"Both","Value":"3","Description":"-- 仅客户端运行 -- 仅服务端(DS)运行"}]}

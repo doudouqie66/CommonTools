@@ -1,0 +1,1 @@
+{"Name":"EMeleeAttackComboJumpType","Description":" ","Variables":[{"Name":"Default","Value":"0","Description":" "},{"Name":"ClickButton","Value":"1","Description":" "},{"Name":"LongPressButton","Value":"2","Description":" "},{"Name":"Timeout","Value":"3","Description":" "},{"Name":"Custom","Value":"4","Description":" "}]}

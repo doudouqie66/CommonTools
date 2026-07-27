@@ -1,0 +1,1 @@
+{"Name":"EUAVCharacterMsgType","Description":" ","Variables":[{"Name":"UAV_None","Value":"0","Description":" "},{"Name":"UAV_VehicleSound","Value":"1","Description":" "},{"Name":"UAV_CharacterMoveSound","Value":"2","Description":" "},{"Name":"UAV_BulletSound","Value":"3","Description":" "},{"Name":"UAV_HurtSoud","Value":"4","Description":" "}]}

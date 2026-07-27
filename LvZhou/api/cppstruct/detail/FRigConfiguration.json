@@ -1,0 +1,1 @@
+{"Name":"FRigConfiguration","Description":"","Variables":[{"Name":"Rig","Type":"URig *","Description":"","Redirect":""},{"Name":"BoneMappingTable","Type":"TArray \u003c FNameMapping \u003e","Description":"","Redirect":""}]}

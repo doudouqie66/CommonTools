@@ -1,0 +1,1 @@
+{"Name":"EBuildingActorConstructingMode","Description":" ","Variables":[{"Name":"EBCM_SNAP_TO_GROUND","Value":"0","Description":" "},{"Name":"EBCM_SNAP_TO_VEHICLE","Value":"1","Description":" "},{"Name":"EBCM_SNAP_TO_ACTOR","Value":"2","Description":" "},{"Name":"EBCM_SNAP_EVERYWHERE","Value":"3","Description":" "},{"Name":"EBCM_SNAP_CUSTOM","Value":"4","Description":" "}]}

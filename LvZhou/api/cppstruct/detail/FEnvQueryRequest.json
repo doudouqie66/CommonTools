@@ -1,0 +1,1 @@
+{"Name":"FEnvQueryRequest","Description":"wrapper for easy query execution","Variables":[{"Name":"QueryTemplate","Type":"UEnvQuery *","Description":"query to run","Redirect":""},{"Name":"Owner","Type":"UObject *","Description":"querier","Redirect":""},{"Name":"World","Type":"UWorld *","Description":"world","Redirect":""}]}

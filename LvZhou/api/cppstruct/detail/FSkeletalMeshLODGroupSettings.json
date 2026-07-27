@@ -1,0 +1,1 @@
+{"Name":"FSkeletalMeshLODGroupSettings","Description":"","Variables":[{"Name":"ScreenSize","Type":"float","Description":"The screen sizes to use for the respective LOD level","Redirect":""},{"Name":"OptimizationSettings","Type":"FSkeletalMeshOptimizationSettings","Description":"The optimization settings to use for the respective LOD level","Redirect":""}]}

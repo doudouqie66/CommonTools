@@ -1,0 +1,1 @@
+{"Name":"FDialogueWaveParameter","Description":"","Variables":[{"Name":"DialogueWave","Type":"UDialogueWave *","Description":"The dialogue wave to play.","Redirect":""},{"Name":"Context","Type":"FDialogueContext","Description":"The context to use for the dialogue wave.","Redirect":""}]}

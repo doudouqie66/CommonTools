@@ -1,0 +1,1 @@
+{"Name":"EVehicleMultiMoveStateChangeReason","Description":" ","Variables":[{"Name":"VehicleMultiMoveStateReason_None","Value":"0","Description":" "},{"Name":"VehicleMultiMoveStateReason_PassiveDetection","Value":"1","Description":" "},{"Name":"VehicleMultiMoveStateReason_ActiveChange","Value":"1","Description":" "}]}

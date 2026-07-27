@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784860617174-iny76emoz",
+  "providerId": "claude",
+  "title": "Search wiki entries for terms",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784860617174,
+  "updatedAt": 1784884057025,
+  "lastResponseAt": 1784860746104,
+  "sessionId": "3d602450-5df3-4498-9124-d84e3fc43934",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "3d602450-5df3-4498-9124-d84e3fc43934"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 356,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 41216,
+    "contextWindow": 200000,
+    "contextTokens": 41572,
+    "percentage": 21,
+    "contextWindowIsAuthoritative": true
+  }
+}

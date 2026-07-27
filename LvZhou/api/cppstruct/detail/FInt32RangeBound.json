@@ -1,0 +1,1 @@
+{"Name":"FInt32RangeBound","Description":"","Variables":[{"Name":"Type","Type":"TEnumAsByte \u003c ERangeBoundTypes :: Type \u003e","Description":"","Redirect":""},{"Name":"Value","Type":"int32","Description":"","Redirect":""}]}

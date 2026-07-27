@@ -1,0 +1,1 @@
+{"Name":"FEditorElement","Description":"Each elements in the grid","Variables":[{"Name":"Indices","Type":"int32","Description":"","Redirect":""},{"Name":"Weights","Type":"float","Description":"","Redirect":""}]}

@@ -1,0 +1,1 @@
+{"Name":"ERollState","Description":" ","Variables":[{"Name":"ROLL_IDLE","Value":"0","Description":" "},{"Name":"ROLL_START_Tips","Value":"1","Description":" "},{"Name":"ROLL_START_Roll","Value":"2","Description":" "},{"Name":"ROLL_RST","Value":"3","Description":" "},{"Name":"ROLL_PickUp","Value":"4","Description":" "},{"Name":"ROLL_END","Value":"5","Description":" "}]}

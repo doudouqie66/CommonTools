@@ -1,0 +1,1 @@
+{"Name":"FReferenceBoneFrame","Description":"Reference Bone Frame","Variables":[{"Name":"Bone","Type":"FBoneReference","Description":"","Redirect":""},{"Name":"Axis","Type":"FAxis","Description":"","Redirect":""}]}

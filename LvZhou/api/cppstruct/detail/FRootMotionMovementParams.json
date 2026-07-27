@@ -1,0 +1,1 @@
+{"Name":"FRootMotionMovementParams","Description":"Utility struct to accumulate root motion.","Variables":[{"Name":"bHasRootMotion","Type":"bool","Description":"","Redirect":""},{"Name":"BlendWeight","Type":"float","Description":"","Redirect":""},{"Name":"RootMotionTransform","Type":"FTransform","Description":"","Redirect":""}]}

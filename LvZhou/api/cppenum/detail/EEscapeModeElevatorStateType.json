@@ -1,0 +1,1 @@
+{"Name":"EEscapeModeElevatorStateType","Description":" ","Variables":[{"Name":"NONE","Value":"99","Description":" "},{"Name":"STOP","Value":"0","Description":" "},{"Name":"UP","Value":"1","Description":" "},{"Name":"DOWN","Value":"2","Description":" "}]}

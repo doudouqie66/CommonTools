@@ -1,0 +1,1 @@
+{"Name":"ECharacterPoseType","Description":" ","Variables":[{"Name":"ECharPose_Stand","Value":"0","Description":" "},{"Name":"ECharPose_Crouch","Value":"1","Description":" "},{"Name":"ECharPose_Prone","Value":"2","Description":" "},{"Name":"ECharPose_Max","Value":"3","Description":" "}]}

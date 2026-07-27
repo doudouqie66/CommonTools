@@ -1,0 +1,1 @@
+{"Name":"ETrailsRenderAxisOption","Description":" ","Variables":[{"Name":"Trails_CameraUp","Value":"0","Description":" "},{"Name":"Trails_SourceUp","Value":"1","Description":" "},{"Name":"Trails_WorldUp","Value":"2","Description":" "},{"Name":"Trails_MAX","Value":"3","Description":" "}]}

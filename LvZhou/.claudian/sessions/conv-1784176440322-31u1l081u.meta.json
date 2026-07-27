@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784176440322-31u1l081u",
+  "providerId": "claude",
+  "title": "Verify API loading method",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784176440322,
+  "updatedAt": 1784191438850,
+  "lastResponseAt": 1784183185451,
+  "sessionId": "36137a0a-fd8a-4da0-b1e6-afb2ac0fa42b",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "36137a0a-fd8a-4da0-b1e6-afb2ac0fa42b"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 869,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 59904,
+    "contextWindow": 200000,
+    "contextTokens": 60773,
+    "percentage": 30,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,1 @@
+{"Name":"EMicroTransactionResult","Description":" ","Variables":[{"Name":"MTR_Succeeded","Value":"0","Description":" "},{"Name":"MTR_Failed","Value":"1","Description":" "},{"Name":"MTR_Canceled","Value":"2","Description":" "},{"Name":"MTR_RestoredFromServer","Value":"3","Description":" "},{"Name":"MTR_MAX","Value":"4","Description":" "}]}

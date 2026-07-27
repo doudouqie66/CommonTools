@@ -1,0 +1,1 @@
+{"Name":"ERulePriority","Description":" ","Variables":[{"Name":"LOW","Value":"0","Description":" "},{"Name":"GENERAL","Value":"1","Description":" "},{"Name":"WARNING","Value":"2","Description":" "},{"Name":"IMPORTENT","Value":"3","Description":" "},{"Name":"FATAL","Value":"4","Description":" "},{"Name":"Max","Value":"5","Description":" "}]}

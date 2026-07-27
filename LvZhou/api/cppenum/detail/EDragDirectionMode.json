@@ -1,0 +1,1 @@
+{"Name":"EDragDirectionMode","Description":" ","Variables":[{"Name":"DDM_Free","Value":"0","Description":" "},{"Name":"DDM_Horizonal","Value":"1","Description":"-- 任意方向拖拽"},{"Name":"DDM_Vertical","Value":"2","Description":"-- 任意方向拖拽 -- 仅水平拖拽"}]}

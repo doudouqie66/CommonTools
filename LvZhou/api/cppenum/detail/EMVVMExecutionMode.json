@@ -1,0 +1,1 @@
+{"Name":"EMVVMExecutionMode","Description":" ","Variables":[{"Name":"Immediate","Value":"0","Description":" "},{"Name":"Delayed","Value":"1","Description":" "},{"Name":"Tick","Value":"2","Description":" "}]}

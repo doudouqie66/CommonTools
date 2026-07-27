@@ -1,0 +1,1 @@
+{"Name":"EGIFPlayStrategy","Description":" ","Variables":[{"Name":"Invalid","Value":"0","Description":" "},{"Name":"AsyncLoadAllFrames","Value":"1","Description":" "},{"Name":"CacheOnFirstPass","Value":"2","Description":" "},{"Name":"DecodeRealTime","Value":"3","Description":" "},{"Name":"Max","Value":"4","Description":" "}]}

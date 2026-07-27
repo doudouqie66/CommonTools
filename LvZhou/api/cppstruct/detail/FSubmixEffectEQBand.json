@@ -1,0 +1,1 @@
+{"Name":"FSubmixEffectEQBand","Description":"","Variables":[{"Name":"Frequency","Type":"float","Description":"","Redirect":""},{"Name":"Bandwidth","Type":"float","Description":"","Redirect":""},{"Name":"GainDb","Type":"float","Description":"","Redirect":""},{"Name":"bEnabled","Type":"uint32","Description":"","Redirect":""}]}

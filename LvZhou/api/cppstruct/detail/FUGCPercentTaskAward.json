@@ -1,0 +1,1 @@
+{"Name":"FUGCPercentTaskAward","Description":"活跃任务线奖励结构体","Variables":[{"Name":"Percent","Type":"int32","Description":"活跃度","Redirect":""},{"Name":"ItemList","Type":"TArray \u003c FUGCRankingListAwardItem \u003e","Description":"奖励道具列表","Redirect":""}]}

@@ -1,0 +1,1 @@
+{"Name":"FClothConstraintSetup","Description":"","Variables":[{"Name":"Stiffness","Type":"float","Description":"","Redirect":""},{"Name":"StiffnessMultiplier","Type":"float","Description":"","Redirect":""},{"Name":"StretchLimit","Type":"float","Description":"","Redirect":""},{"Name":"CompressionLimit","Type":"float","Description":"","Redirect":""}]}

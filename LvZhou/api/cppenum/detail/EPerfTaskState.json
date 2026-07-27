@@ -1,0 +1,1 @@
+{"Name":"EPerfTaskState","Description":" ","Variables":[{"Name":"Pending","Value":"0","Description":" "},{"Name":"Running","Value":"1","Description":" "},{"Name":"Completed","Value":"2","Description":" "},{"Name":"Failed","Value":"3","Description":" "}]}

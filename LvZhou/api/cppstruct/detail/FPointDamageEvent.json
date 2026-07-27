@@ -1,0 +1,1 @@
+{"Name":"FPointDamageEvent","Description":"","Variables":[{"Name":"Damage","Type":"float","Description":"","Redirect":""},{"Name":"ShotDirection","Type":"FVector_NetQuantizeNormal","Description":"Direction the shot came from. Should be normalized.","Redirect":""},{"Name":"HitInfo","Type":"FHitResult","Description":"","Redirect":""}]}

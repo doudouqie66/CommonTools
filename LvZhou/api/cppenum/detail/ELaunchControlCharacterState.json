@@ -1,0 +1,1 @@
+{"Name":"ELaunchControlCharacterState","Description":" ","Variables":[{"Name":"ELCPS_Driver","Value":"0","Description":" "},{"Name":"ELCPS_Passenger","Value":"1","Description":" "},{"Name":"ELCPS_PassengerLeanOut","Value":"2","Description":" "},{"Name":"ELCPS_PassengerScopeIn","Value":"3","Description":" "}]}

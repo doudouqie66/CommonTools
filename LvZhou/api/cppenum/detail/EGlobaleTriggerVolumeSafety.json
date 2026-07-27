@@ -1,0 +1,1 @@
+{"Name":"EGlobaleTriggerVolumeSafety","Description":" ","Variables":[{"Name":"Box","Value":"0","Description":" "},{"Name":"Sphere","Value":"1","Description":" "},{"Name":"Capsule","Value":"2","Description":" "},{"Name":"Custom","Value":"3","Description":" "}]}

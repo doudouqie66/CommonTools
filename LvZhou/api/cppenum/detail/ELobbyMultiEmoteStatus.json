@@ -1,0 +1,1 @@
+{"Name":"ELobbyMultiEmoteStatus","Description":" ","Variables":[{"Name":"Preparing","Value":"0","Description":" "},{"Name":"Playing","Value":"1","Description":" "},{"Name":"Paused","Value":"2","Description":" "},{"Name":"Stopped","Value":"3","Description":" "}]}

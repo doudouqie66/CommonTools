@@ -1,0 +1,1 @@
+{"Name":"EVirtualKeyboardType","Description":" ","Variables":[{"Name":"Default","Value":"0","Description":" "},{"Name":"Number","Value":"1","Description":" "},{"Name":"Web","Value":"2","Description":" "},{"Name":"Email","Value":"3","Description":" "},{"Name":"Password","Value":"4","Description":" "},{"Name":"AlphaNumeric","Value":"5","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"FVectorParameterValue","Description":"Editable vector parameter.","Variables":[{"Name":"ParameterName","Type":"FName","Description":"","Redirect":""},{"Name":"ParameterValue","Type":"FLinearColor","Description":"","Redirect":""},{"Name":"ExpressionGUID","Type":"FGuid","Description":"","Redirect":""}]}

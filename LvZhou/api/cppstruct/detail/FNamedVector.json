@@ -1,0 +1,1 @@
+{"Name":"FNamedVector","Description":"A named float","Variables":[{"Name":"Value","Type":"FVector","Description":"","Redirect":""},{"Name":"Name","Type":"FName","Description":"","Redirect":""}]}

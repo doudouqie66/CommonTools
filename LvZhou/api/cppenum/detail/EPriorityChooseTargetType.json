@@ -1,0 +1,1 @@
+{"Name":"EPriorityChooseTargetType","Description":" ","Variables":[{"Name":"PCTT_Player","Value":"1","Description":" "},{"Name":"PCTT_Vehicle","Value":"2","Description":" "},{"Name":"PCTT_Building","Value":"3","Description":" "},{"Name":"PCTT_Projectile","Value":"4","Description":" "},{"Name":"PCTT_Monster","Value":"5","Description":" "}]}

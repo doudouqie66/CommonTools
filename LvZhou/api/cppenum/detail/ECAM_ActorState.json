@@ -1,0 +1,1 @@
+{"Name":"ECAM_ActorState","Description":" ","Variables":[{"Name":"CAM_None","Value":"0","Description":" "},{"Name":"CAM_Relevant","Value":"1","Description":" "},{"Name":"CAM_NotRelevant","Value":"2","Description":" "},{"Name":"CAM_WatingRemove","Value":"3","Description":" "}]}

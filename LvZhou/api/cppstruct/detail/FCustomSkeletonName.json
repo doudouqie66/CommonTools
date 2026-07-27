@@ -1,0 +1,1 @@
+{"Name":"FCustomSkeletonName","Description":"","Variables":[{"Name":"SkeletonNameMap","Type":"TMap \u003c FName , FName \u003e","Description":"","Redirect":""},{"Name":"SkeletonNotOffsetName","Type":"TMap \u003c FName , FBoneOffset \u003e","Description":"","Redirect":""}]}

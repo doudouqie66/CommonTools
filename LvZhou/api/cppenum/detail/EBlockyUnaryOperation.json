@@ -1,0 +1,1 @@
+{"Name":"EBlockyUnaryOperation","Description":" ","Variables":[{"Name":"EBUO_Negative","Value":"0","Description":" "},{"Name":"EBUO_BooleanNot","Value":"1","Description":" "},{"Name":"EBUO_BitwiseNot","Value":"2","Description":" "}]}

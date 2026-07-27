@@ -1,0 +1,1 @@
+{"Name":"ETravelType","Description":" ","Variables":[{"Name":"TRAVEL_Absolute","Value":"0","Description":" "},{"Name":"TRAVEL_Partial","Value":"1","Description":" "},{"Name":"TRAVEL_Relative","Value":"2","Description":" "},{"Name":"TRAVEL_MAX","Value":"3","Description":" "}]}

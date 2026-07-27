@@ -1,0 +1,1 @@
+{"Name":"FMaterialParameterInfo","Description":"","Variables":[{"Name":"Name","Type":"FName","Description":"","Redirect":""},{"Name":"bCanCollectedForCustomData","Type":"bool","Description":"","Redirect":""},{"Name":"CustomDataIndex","Type":"int32","Description":"","Redirect":""}]}

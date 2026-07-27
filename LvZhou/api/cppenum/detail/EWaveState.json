@@ -1,0 +1,1 @@
+{"Name":"EWaveState","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"WaveSpawning","Value":"1","Description":" "},{"Name":"WaveSpawned","Value":"2","Description":" "},{"Name":"WaveCD","Value":"3","Description":" "},{"Name":"WaveReadyForNext","Value":"4","Description":" "}]}

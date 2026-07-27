@@ -1,0 +1,1 @@
+{"Name":"EBuildingStateType","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"Idle","Value":"1","Description":" "},{"Name":"Alertness","Value":"2","Description":" "},{"Name":"Battle","Value":"3","Description":" "},{"Name":"Reload","Value":"4","Description":" "},{"Name":"Max","Value":"5","Description":" "}]}

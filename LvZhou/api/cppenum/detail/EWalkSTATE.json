@@ -1,0 +1,1 @@
+{"Name":"EWalkSTATE","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"Normal","Value":"-1","Description":" "},{"Name":"BreakOut","Value":"-1","Description":"-- the value appears as -1 more due to UHT parse error rather than it actually be -1."}]}

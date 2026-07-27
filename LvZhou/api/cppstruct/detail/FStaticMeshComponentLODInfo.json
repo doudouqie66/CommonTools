@@ -1,0 +1,1 @@
+{"Name":"FStaticMeshComponentLODInfo","Description":"","Variables":[{"Name":"PaintedVertices","Type":"TArray \u003c FPaintedVertex \u003e","Description":"Vertex data cached at the time this LOD was painted, if any","Redirect":""}]}

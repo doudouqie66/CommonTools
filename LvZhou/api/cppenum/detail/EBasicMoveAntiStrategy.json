@@ -1,0 +1,1 @@
+{"Name":"EBasicMoveAntiStrategy","Description":" ","Variables":[{"Name":"Strategy_SpeedUp","Value":"0","Description":" "},{"Name":"Strategy_BadFall","Value":"1","Description":" "},{"Name":"Strategy_Jump","Value":"2","Description":" "},{"Name":"Strategy_TimeStamp","Value":"3","Description":" "},{"Name":"Strategy_Max","Value":"4","Description":" "}]}

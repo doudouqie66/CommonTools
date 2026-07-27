@@ -1,0 +1,1 @@
+{"Name":"EAutomationState","Description":" ","Variables":[{"Name":"NotRun","Value":"0","Description":" "},{"Name":"InProcess","Value":"1","Description":" "},{"Name":"Fail","Value":"2","Description":" "},{"Name":"Success","Value":"3","Description":" "},{"Name":"NotEnoughParticipants","Value":"4","Description":" "}]}

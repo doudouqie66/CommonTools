@@ -1,0 +1,1 @@
+{"Name":"FAnimationTransitionRule","Description":"","Variables":[{"Name":"RuleToExecute","Type":"FName","Description":"","Redirect":""},{"Name":"TransitionReturnVal","Type":"bool","Description":"What RuleToExecute must return to take transition (for bidirectional transitions)","Redirect":""},{"Name":"TransitionIndex","Type":"int32","Description":"","Redirect":""}]}

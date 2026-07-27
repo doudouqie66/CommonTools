@@ -1,0 +1,1 @@
+{"Name":"EClientActionSetPersistentType","Description":" ","Variables":[{"Name":"ECASPT_NONE","Value":"0","Description":" "},{"Name":"ECASPT_TICK_READY","Value":"-1","Description":" "},{"Name":"ECASPT_TICK_NOT_READY","Value":"-1","Description":"-- the value appears as -1 more due to UHT parse error rather than it actually be -1."}]}

@@ -1,0 +1,1 @@
+{"Name":"EOpenOrCloseHoodResult","Description":" ","Variables":[{"Name":"EOOCHR_Success","Value":"0","Description":" "},{"Name":"EOOCHR_BPRejected","Value":"1","Description":" "},{"Name":"EOOCHR_Busy","Value":"2","Description":" "},{"Name":"EOOCHR_ShouldStop","Value":"3","Description":" "},{"Name":"EOOCHR_AlreadySuccess","Value":"4","Description":" "}]}

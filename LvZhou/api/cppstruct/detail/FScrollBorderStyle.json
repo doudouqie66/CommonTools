@@ -1,0 +1,1 @@
+{"Name":"FScrollBorderStyle","Description":"Represents the appearance of an FScrollBorderStyle","Variables":[{"Name":"TopShadowBrush","Type":"FSlateBrush","Description":"Brush used to draw the top shadow of a scrollborder","Redirect":""},{"Name":"BottomShadowBrush","Type":"FSlateBrush","Description":"Brush used to draw the bottom shadow of a scrollborder","Redirect":""}]}

@@ -1,0 +1,1 @@
+{"Name":"EChainState","Description":" ","Variables":[{"Name":"ChainState_None","Value":"0","Description":" "},{"Name":"ChainState_FlyOut","Value":"1","Description":" "},{"Name":"ChainState_Wait","Value":"2","Description":" "},{"Name":"ChainState_FlyBack","Value":"3","Description":" "},{"Name":"ChainState_FlyBackAlone","Value":"4","Description":" "}]}

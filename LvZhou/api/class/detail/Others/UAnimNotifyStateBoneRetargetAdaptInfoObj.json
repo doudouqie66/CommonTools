@@ -1,0 +1,1 @@
+{"Name":"UAnimNotifyStateBoneRetargetAdaptInfoObj","Description":"","Variables":[{"Name":"AnimNotifyStateBoneRetargetAdaptInfoMap","Type":"TMap \u003c UObject * , FAnimNotifyStateBoneRetargetAdaptInfo \u003e","Description":"","Redirect":""}],"Functions":null,"Parents":["UObject"],"Event":null,"Delegate":null,"Language":"cpp"}

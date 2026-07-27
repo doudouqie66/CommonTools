@@ -1,0 +1,1 @@
+{"Name":"EButtonEventType","Description":" ","Variables":[{"Name":"OnClick","Value":"0","Description":" "},{"Name":"Press","Value":"1","Description":" "},{"Name":"OnRelase","Value":"2","Description":" "},{"Name":"OnMouseButtonDown","Value":"3","Description":" "},{"Name":"OnMouseButtonUp","Value":"4","Description":" "}]}

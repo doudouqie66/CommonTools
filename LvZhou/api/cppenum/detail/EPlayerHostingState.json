@@ -1,0 +1,1 @@
+{"Name":"EPlayerHostingState","Description":" ","Variables":[{"Name":"HostingState_None","Value":"0","Description":" "},{"Name":"HostingState_Pending","Value":"1","Description":" "},{"Name":"HostingState_Hosting","Value":"2","Description":" "},{"Name":"HostingState_Hosted","Value":"3","Description":" "}]}

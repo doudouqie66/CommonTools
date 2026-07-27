@@ -1,0 +1,1 @@
+{"Name":"FPhysicalSurfaceName","Description":"Structure that represents the name of physical surfaces.","Variables":[{"Name":"Type","Type":"TEnumAsByte \u003c enum EPhysicalSurface \u003e","Description":"","Redirect":""},{"Name":"Name","Type":"FName","Description":"","Redirect":""}]}

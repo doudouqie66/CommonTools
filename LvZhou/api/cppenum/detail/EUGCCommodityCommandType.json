@@ -1,0 +1,1 @@
+{"Name":"EUGCCommodityCommandType","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"Buy","Value":"1","Description":" "},{"Name":"Use","Value":"2","Description":" "},{"Name":"Compensate","Value":"3","Description":" "},{"Name":"Redeem","Value":"4","Description":" "},{"Name":"ClaimMail","Value":"5","Description":" "}]}

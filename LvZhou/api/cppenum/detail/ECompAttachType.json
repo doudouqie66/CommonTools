@@ -1,0 +1,1 @@
+{"Name":"ECompAttachType","Description":" ","Variables":[{"Name":"ECAT_None","Value":"0","Description":" "},{"Name":"ECAT_All","Value":"1","Description":" "},{"Name":"ECAT_ServerOnly","Value":"2","Description":" "},{"Name":"ECAT_ClientOnly","Value":"3","Description":" "}]}

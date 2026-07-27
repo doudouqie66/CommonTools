@@ -1,0 +1,1 @@
+{"Name":"FPESkillTargetData","Description":"条件触发时的数据","Variables":[{"Name":"TargetActors","Type":"TArray \u003c AActor * \u003e","Description":"范围Action中的Actor列表","Redirect":""},{"Name":"HitResult","Type":"FHitResult","Description":"碰撞结果","Redirect":""},{"Name":"Origin","Type":"FVector","Description":"发射起点","Redirect":""}]}

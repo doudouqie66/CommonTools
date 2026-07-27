@@ -1,0 +1,1 @@
+{"Name":"EMarkDispatchActionType","Description":" ","Variables":[{"Name":"EMAMAT_INSTANT","Value":"0","Description":" "},{"Name":"EMAMAT_DELAYED","Value":"1","Description":" "},{"Name":"EMAMAT_DELAYED_WITHCALLBACK","Value":"2","Description":" "},{"Name":"EMAMAT_BATCH","Value":"3","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"EConstructBuildingType","Description":" ","Variables":[{"Name":"ECG_INVALID","Value":"0","Description":" "},{"Name":"ECG_STRUCTURE","Value":"1","Description":" "},{"Name":"ECG_DECORATION","Value":"2","Description":" "},{"Name":"ECG_PAINT","Value":"3","Description":" "}]}

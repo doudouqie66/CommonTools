@@ -1,0 +1,1 @@
+{"Name":"FForeignControlPointData","Description":"","Variables":[{"Name":"ModificationKey","Type":"FGuid","Description":"","Redirect":""},{"Name":"MeshComponent","Type":"UControlPointMeshComponent *","Description":"","Redirect":""},{"Name":"Identifier","Type":"TLazyObjectPtr \u003c ULandscapeSplineControlPoint \u003e","Description":"","Redirect":""}]}

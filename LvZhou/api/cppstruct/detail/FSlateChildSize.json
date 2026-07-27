@@ -1,0 +1,1 @@
+{"Name":"FSlateChildSize","Description":"A struct exposing size param related properties to UMG.","Variables":[{"Name":"Value","Type":"float","Description":"The parameter of the size rule.","Redirect":""},{"Name":"SizeRule","Type":"TEnumAsByte \u003c ESlateSizeRule :: Type \u003e","Description":"The sizing rule of the content.","Redirect":""}]}

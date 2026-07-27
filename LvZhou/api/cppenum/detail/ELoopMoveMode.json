@@ -1,0 +1,1 @@
+{"Name":"ELoopMoveMode","Description":" ","Variables":[{"Name":"ELoopMoveMode_None","Value":"0","Description":" "},{"Name":"ELoopMoveMode_NoLoop","Value":"1","Description":" "},{"Name":"ELoopMoveMode_Forward","Value":"2","Description":" "},{"Name":"ELoopMoveMode_Back","Value":"3","Description":" "}]}

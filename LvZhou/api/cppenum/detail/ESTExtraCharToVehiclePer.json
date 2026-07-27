@@ -1,0 +1,1 @@
+{"Name":"ESTExtraCharToVehiclePer","Description":" ","Variables":[{"Name":"ECharacter_DirverAndPassenger","Value":"0","Description":" "},{"Name":"ECharacter_OnlyPassenger","Value":"1","Description":" "},{"Name":"ECharacter_CannotGetIn","Value":"2","Description":" "},{"Name":"ECharacter_Error","Value":"3","Description":" "}]}

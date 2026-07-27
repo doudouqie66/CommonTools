@@ -1,0 +1,1 @@
+{"Name":"USoundNodeMixer","Description":"Defines how concurrent sounds are mixed together","Variables":[{"Name":"InputVolume","Type":"TArray \u003c float \u003e","Description":"A volume for each input.  Automatically sized.","Redirect":""}],"Functions":null,"Parents":["USoundNode"],"Event":null,"Delegate":null,"Language":"cpp"}

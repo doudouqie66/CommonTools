@@ -1,0 +1,1 @@
+{"Name":"ETimerOperateType","Description":" ","Variables":[{"Name":"Start","Value":"0","Description":" "},{"Name":"Pause","Value":"1","Description":" "},{"Name":"Stop","Value":"2","Description":" "},{"Name":"Reset","Value":"3","Description":" "}]}

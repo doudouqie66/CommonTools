@@ -1,0 +1,1 @@
+{"Name":"FParticleCurvePair","Description":"","Variables":[{"Name":"CurveName","Type":"FString","Description":"","Redirect":""},{"Name":"CurveObject","Type":"UObject *","Description":"","Redirect":""}]}

@@ -1,0 +1,1 @@
+{"Name":"EBlockyVisitMode","Description":" ","Variables":[{"Name":"BVM_Public","Value":"0","Description":" "},{"Name":"BVM_Protected","Value":"1","Description":" "},{"Name":"BVM_Private","Value":"2","Description":" "},{"Name":"BVM_Local","Value":"3","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"EFbxSceneReimportStatusFlags","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"Added","Value":"1","Description":" "},{"Name":"Removed","Value":"2","Description":" "},{"Name":"Same","Value":"4","Description":" "},{"Name":"FoundContentBrowserAsset","Value":"8","Description":" "},{"Name":"ReimportAsset","Value":"16","Description":" "}]}

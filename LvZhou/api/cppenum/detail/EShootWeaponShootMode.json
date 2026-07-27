@@ -1,0 +1,1 @@
+{"Name":"EShootWeaponShootMode","Description":" ","Variables":[{"Name":"SWST_MuzzleDirection","Value":"0","Description":" "},{"Name":"SWST_TargetDirection","Value":"1","Description":" "},{"Name":"SWST_TraceTarget","Value":"2","Description":" "},{"Name":"SWST_None","Value":"3","Description":" "},{"Name":"SWST_MAX","Value":"4","Description":" "}]}

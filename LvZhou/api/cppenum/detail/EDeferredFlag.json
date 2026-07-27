@@ -1,0 +1,1 @@
+{"Name":"EDeferredFlag","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"CreateOnServer","Value":"1","Description":" "},{"Name":"CreateOnClient","Value":"2","Description":" "},{"Name":"SetReplicated","Value":"4","Description":" "},{"Name":"SetNameStable","Value":"8","Description":" "}]}

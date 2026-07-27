@@ -1,0 +1,1 @@
+{"Name":"EProjectileMoveType","Description":" ","Variables":[{"Name":"HitActor","Value":"0","Description":" "},{"Name":"InValid","Value":"1","Description":" "},{"Name":"HitGround","Value":"2","Description":" "},{"Name":"Stop","Value":"3","Description":" "},{"Name":"Penetrate","Value":"4","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"EPCGLandscapeCacheSerializationMode","Description":" ","Variables":[{"Name":"SerializeOnlyAtCook","Value":"0","Description":" "},{"Name":"NeverSerialize","Value":"1","Description":" "},{"Name":"AlwaysSerialize","Value":"2","Description":" "}]}

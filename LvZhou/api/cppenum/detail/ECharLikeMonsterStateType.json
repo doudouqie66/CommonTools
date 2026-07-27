@@ -1,0 +1,1 @@
+{"Name":"ECharLikeMonsterStateType","Description":" ","Variables":[{"Name":"ECharLikeMonsterState_Normal","Value":"0","Description":" "},{"Name":"ECharLikeMonsterState_Idle","Value":"1","Description":" "},{"Name":"ECharLikeMonsterState_Battle","Value":"2","Description":" "},{"Name":"ECharLikeMonsterState_Max","Value":"3","Description":" "}]}

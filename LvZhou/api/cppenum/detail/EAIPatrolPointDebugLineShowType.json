@@ -1,0 +1,1 @@
+{"Name":"EAIPatrolPointDebugLineShowType","Description":" ","Variables":[{"Name":"AIPatrolPointDebugLineShowNone","Value":"0","Description":" "},{"Name":"AIPatrolPointDebugLineShowSelectedOnly","Value":"1","Description":" "},{"Name":"AIPatrolPointDebugLineShowAll","Value":"2","Description":" "}]}

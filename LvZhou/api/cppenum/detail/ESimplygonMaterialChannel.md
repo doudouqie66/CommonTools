@@ -1,0 +1,25 @@
+---
+title: ESimplygonMaterialChannel
+---
+
+# ESimplygonMaterialChannel
+
+ 
+
+## Variables
+
+| Name | Type | Description |
+|------|------|-------------|
+| SG_MATERIAL_CHANNEL_AMBIENT |  |   |
+| SG_MATERIAL_CHANNEL_DIFFUSE |  |   |
+| SG_MATERIAL_CHANNEL_SPECULAR |  |   |
+| SG_MATERIAL_CHANNEL_OPACITY |  |   |
+| SG_MATERIAL_CHANNEL_EMISSIVE |  |   |
+| SG_MATERIAL_CHANNEL_NORMALS |  |   |
+| SG_MATERIAL_CHANNEL_DISPLACEMENT |  |   |
+| SG_MATERIAL_CHANNEL_BASECOLOR |  |   |
+| SG_MATERIAL_CHANNEL_ROUGHNESS |  |   |
+| SG_MATERIAL_CHANNEL_METALLIC |  |   |
+| SG_MATERIAL_CHANNEL_AO |  |   |
+| SG_MATERIAL_CHANNEL_SUBSURFACE |  |   |
+| SG_MATERIAL_CHANNEL_OPACITYMASK |  |   |

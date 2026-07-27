@@ -1,0 +1,1 @@
+{"Name":"FGridBlendSample","Description":"result of how much weight of the grid element","Variables":[{"Name":"GridElement","Type":"FEditorElement","Description":"","Redirect":""},{"Name":"BlendWeight","Type":"float","Description":"","Redirect":""}]}

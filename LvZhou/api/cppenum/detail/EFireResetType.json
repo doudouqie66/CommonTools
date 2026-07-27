@@ -1,0 +1,1 @@
+{"Name":"EFireResetType","Description":" ","Variables":[{"Name":"EFireResetType_None","Value":"0","Description":" "},{"Name":"EFireResetType_Single","Value":"1","Description":" "},{"Name":"EFireResetType_Loop","Value":"2","Description":" "},{"Name":"EFireResetType_SingleAndLoop","Value":"3","Description":" "}]}

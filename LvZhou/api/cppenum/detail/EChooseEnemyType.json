@@ -1,0 +1,1 @@
+{"Name":"EChooseEnemyType","Description":" ","Variables":[{"Name":"EnemyType_Player","Value":"0","Description":" "},{"Name":"EnemyType_YearBeast","Value":"1","Description":" "},{"Name":"EnemyType_Animal","Value":"2","Description":" "},{"Name":"EnemyType_Zombie","Value":"3","Description":" "},{"Name":"EnemyType_UAV","Value":"4","Description":" "}]}

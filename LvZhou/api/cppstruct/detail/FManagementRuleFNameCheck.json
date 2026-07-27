@@ -1,0 +1,1 @@
+{"Name":"FManagementRuleFNameCheck","Description":"ini配置使用, Structure to encapsulate a package name with a flip flag","Variables":[{"Name":"bEnable","Type":"bool","Description":"","Redirect":""},{"Name":"Name","Type":"FName","Description":"","Redirect":""}]}

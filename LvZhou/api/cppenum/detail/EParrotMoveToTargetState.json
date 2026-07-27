@@ -1,0 +1,1 @@
+{"Name":"EParrotMoveToTargetState","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"MoveToTarget","Value":"1","Description":" "},{"Name":"MoveToTargetFailed","Value":"2","Description":" "},{"Name":"MoveToTargetSuccess","Value":"3","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"EArcadeVehicleDriftState","Description":" ","Variables":[{"Name":"Normal","Value":"0","Description":" "},{"Name":"Drift","Value":"1","Description":" "},{"Name":"DragDrift","Value":"2","Description":" "},{"Name":"DriftToNormal","Value":"3","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"FPaperTileInfo","Description":"","Variables":[{"Name":"TileSet","Type":"UPaperTileSet *","Description":"","Redirect":""},{"Name":"PackedTileIndex","Type":"int32","Description":"","Redirect":""}]}

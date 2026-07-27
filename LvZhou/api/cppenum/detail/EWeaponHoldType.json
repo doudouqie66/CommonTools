@@ -1,0 +1,1 @@
+{"Name":"EWeaponHoldType","Description":" ","Variables":[{"Name":"EWHT_None","Value":"0","Description":" "},{"Name":"EWHT_SingleHand","Value":"1","Description":" "},{"Name":"EWHT_TwoHand","Value":"2","Description":" "},{"Name":"EWHT_Carried","Value":"3","Description":" "},{"Name":"EWHT_Max","Value":"4","Description":" "}]}

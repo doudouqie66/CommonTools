@@ -1,0 +1,1 @@
+{"Name":"FMaterialRemapIndex","Description":"","Variables":[{"Name":"ImportVersionKey","Type":"uint32","Description":"","Redirect":""},{"Name":"MaterialRemap","Type":"TArray \u003c int32 \u003e","Description":"","Redirect":""}]}

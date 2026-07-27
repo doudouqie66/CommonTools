@@ -1,0 +1,1 @@
+{"Name":"FGraphReference","Description":"","Variables":[{"Name":"MacroGraph","Type":"UEdGraph *","Description":"","Redirect":""},{"Name":"GraphBlueprint","Type":"UBlueprint *","Description":"","Redirect":""},{"Name":"GraphGuid","Type":"FGuid","Description":"","Redirect":""}]}

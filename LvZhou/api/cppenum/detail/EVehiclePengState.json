@@ -1,0 +1,1 @@
+{"Name":"EVehiclePengState","Description":" ","Variables":[{"Name":"NoPeng","Value":"0","Description":" "},{"Name":"Opened","Value":"1","Description":" "},{"Name":"Closed","Value":"2","Description":" "},{"Name":"Opening","Value":"3","Description":" "},{"Name":"Closing","Value":"4","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"EPlayerRangeType","Description":" ","Variables":[{"Name":"EPRT_INRANGE","Value":"0","Description":" "},{"Name":"EPRT_OUTRANGE","Value":"1","Description":" "},{"Name":"EPRT_BEGINPLAY","Value":"2","Description":" "},{"Name":"EPRT_ENDPLAY","Value":"3","Description":" "}]}

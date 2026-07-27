@@ -1,0 +1,1 @@
+{"Name":"EUTGetterType","Description":" ","Variables":[{"Name":"EUTGetterType_None","Value":"0","Description":" "},{"Name":"EUTGetterType_Constant","Value":"1","Description":" "},{"Name":"EUTGetterType_Function","Value":"2","Description":" "},{"Name":"EUTGetterType_Attribute","Value":"3","Description":" "},{"Name":"EUTGetterType_BlackBoard","Value":"4","Description":" "}]}

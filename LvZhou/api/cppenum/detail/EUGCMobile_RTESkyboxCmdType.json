@@ -1,0 +1,1 @@
+{"Name":"EUGCMobile_RTESkyboxCmdType","Description":" ","Variables":[{"Name":"CreateSkybox","Value":"0","Description":" "},{"Name":"DeleteSkybox","Value":"1","Description":" "},{"Name":"ResetSkybox","Value":"2","Description":" "},{"Name":"CreateTransform","Value":"3","Description":" "},{"Name":"DeleteTransform","Value":"4","Description":" "}]}

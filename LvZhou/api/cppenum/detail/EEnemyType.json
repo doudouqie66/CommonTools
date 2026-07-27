@@ -1,0 +1,1 @@
+{"Name":"EEnemyType","Description":" ","Variables":[{"Name":"EPlayer","Value":"0","Description":" "},{"Name":"EZombie","Value":"1","Description":" "},{"Name":"EBuildings","Value":"2","Description":" "},{"Name":"ETreasureBox","Value":"3","Description":" "},{"Name":"EProjectile","Value":"4","Description":" "},{"Name":"EAttackMeEnemy","Value":"5","Description":" "}]}

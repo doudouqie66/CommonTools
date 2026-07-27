@@ -1,0 +1,1 @@
+{"Name":"EDolphinDancerPoseState","Description":" ","Variables":[{"Name":"PoseBoard","Value":"0","Description":" "},{"Name":"PoseJump","Value":"1","Description":" "},{"Name":"PoseJump2","Value":"2","Description":" "},{"Name":"PoseBrake","Value":"3","Description":" "},{"Name":"PoseBoost","Value":"4","Description":" "},{"Name":"PoseIdle","Value":"5","Description":" "}]}

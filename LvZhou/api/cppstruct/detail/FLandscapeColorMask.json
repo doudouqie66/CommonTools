@@ -1,0 +1,1 @@
+{"Name":"FLandscapeColorMask","Description":"","Variables":[{"Name":"ColorMaskName","Type":"FString","Description":"","Redirect":""},{"Name":"ColorMaskLayerList","Type":"TArray \u003c FLandscapeColorMaskLayer \u003e","Description":"","Redirect":""},{"Name":"LayerIndexUsed","Type":"TArray \u003c bool \u003e","Description":"","Redirect":""}]}

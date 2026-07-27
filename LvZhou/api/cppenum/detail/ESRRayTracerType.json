@@ -1,0 +1,1 @@
+{"Name":"ESRRayTracerType","Description":" ","Variables":[{"Name":"CPU","Value":"0","Description":" "},{"Name":"EMBREE","Value":"1","Description":" "},{"Name":"GPU","Value":"2","Description":" "}]}

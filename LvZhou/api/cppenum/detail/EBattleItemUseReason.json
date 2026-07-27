@@ -1,0 +1,1 @@
+{"Name":"EBattleItemUseReason","Description":" ","Variables":[{"Name":"Manually","Value":"0","Description":" "},{"Name":"Associated","Value":"1","Description":" "},{"Name":"AutoEquipAndDrop","Value":"2","Description":" "},{"Name":"Swapped","Value":"3","Description":" "},{"Name":"Initial","Value":"4","Description":" "},{"Name":"Emergency","Value":"5","Description":" "}]}

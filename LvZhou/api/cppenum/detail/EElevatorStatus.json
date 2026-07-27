@@ -1,0 +1,1 @@
+{"Name":"EElevatorStatus","Description":" ","Variables":[{"Name":"EElevatorStatus_Wait","Value":"0","Description":" "},{"Name":"EElevatorStatus_Up","Value":"1","Description":" "},{"Name":"EElevatorStatus_Down","Value":"2","Description":" "}]}

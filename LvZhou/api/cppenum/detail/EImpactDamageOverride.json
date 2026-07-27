@@ -1,0 +1,1 @@
+{"Name":"EImpactDamageOverride","Description":" ","Variables":[{"Name":"IDO_None","Value":"0","Description":" "},{"Name":"IDO_On","Value":"1","Description":" "},{"Name":"IDO_Off","Value":"2","Description":" "},{"Name":"IDO_MAX","Value":"3","Description":" "}]}

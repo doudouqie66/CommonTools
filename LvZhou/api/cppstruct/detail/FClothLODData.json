@@ -1,0 +1,1 @@
+{"Name":"FClothLODData","Description":"","Variables":[{"Name":"PhysicalMeshData","Type":"FClothPhysicalMeshData","Description":"","Redirect":""},{"Name":"CollisionData","Type":"FClothCollisionData","Description":"","Redirect":""}]}

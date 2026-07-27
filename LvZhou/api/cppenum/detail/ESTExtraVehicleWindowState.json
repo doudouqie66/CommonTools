@@ -1,0 +1,1 @@
+{"Name":"ESTExtraVehicleWindowState","Description":" ","Variables":[{"Name":"VWS_Opening","Value":"0","Description":" "},{"Name":"VWS_Opened","Value":"1","Description":" "},{"Name":"VWS_Closing","Value":"2","Description":" "},{"Name":"VWS_Closed","Value":"3","Description":" "},{"Name":"VWS_Destroied","Value":"4","Description":" "}]}

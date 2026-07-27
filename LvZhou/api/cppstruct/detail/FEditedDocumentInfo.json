@@ -1,0 +1,1 @@
+{"Name":"FEditedDocumentInfo","Description":"","Variables":[{"Name":"EditedObject","Type":"UObject *","Description":"","Redirect":""},{"Name":"SavedViewOffset","Type":"FVector2D","Description":"Saved view position","Redirect":""},{"Name":"SavedZoomAmount","Type":"float","Description":"Saved zoom amount","Redirect":""}]}

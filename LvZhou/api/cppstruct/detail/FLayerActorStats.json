@@ -1,0 +1,1 @@
+{"Name":"FLayerActorStats","Description":"","Variables":[{"Name":"Type","Type":"UClass *","Description":"A Type of Actor currently associated with the Layer","Redirect":""},{"Name":"Total","Type":"int32","Description":"The total number of Actors of Type assigned to the Layer","Redirect":""}]}

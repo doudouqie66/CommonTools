@@ -1,0 +1,1 @@
+{"Name":"EPESkillPointPickerType","Description":" ","Variables":[{"Name":"E_PESKILL_PointPicker_Circle","Value":"0","Description":" "},{"Name":"E_PESKILL_PointPicker_StaticMesh","Value":"1","Description":" "},{"Name":"E_PESKILL_PointPicker_SkeletalMesh","Value":"2","Description":" "}]}

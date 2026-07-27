@@ -1,0 +1,1 @@
+{"Name":"FPaperTileSetTerrain","Description":"","Variables":[{"Name":"TerrainName","Type":"FString","Description":"","Redirect":""},{"Name":"CenterTileIndex","Type":"int32","Description":"","Redirect":""}]}

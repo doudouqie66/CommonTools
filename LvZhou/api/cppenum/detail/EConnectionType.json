@@ -1,0 +1,1 @@
+{"Name":"EConnectionType","Description":" ","Variables":[{"Name":"NONE","Value":"0","Description":" "},{"Name":"INPUT_VALUE","Value":"1","Description":" "},{"Name":"OUTPUT_VALUE","Value":"2","Description":" "},{"Name":"NEXT_STATEMENT","Value":"3","Description":" "},{"Name":"PREVIOUS_STATEMENT","Value":"4","Description":" "}]}

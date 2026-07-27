@@ -1,0 +1,1 @@
+{"Name":"EWeaponGAActiveCondition","Description":" ","Variables":[{"Name":"ActiveOnEquip","Value":"1","Description":" "},{"Name":"ActiveOnUse","Value":"2","Description":" "},{"Name":"ActiveOnManual","Value":"255","Description":" "}]}

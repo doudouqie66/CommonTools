@@ -1,0 +1,1 @@
+{"Name":"EGameplayStateOp","Description":" ","Variables":[{"Name":"EGameplayStateOp_None","Value":"0","Description":" "},{"Name":"EGameplayStateOp_Enter","Value":"1","Description":" "},{"Name":"EGameplayStateOp_Leave","Value":"2","Description":" "},{"Name":"EGameplayStateOp_Interrupt","Value":"3","Description":" "}]}

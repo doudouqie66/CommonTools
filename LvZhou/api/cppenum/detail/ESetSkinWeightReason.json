@@ -1,0 +1,1 @@
+{"Name":"ESetSkinWeightReason","Description":" ","Variables":[{"Name":"Default","Value":"0","Description":" "},{"Name":"PawnState","Value":"1","Description":" "},{"Name":"AnimNotify","Value":"2","Description":" "},{"Name":"LobbyAnim","Value":"3","Description":" "},{"Name":"ForceDisable","Value":"4","Description":" "},{"Name":"RegisteredSWPState","Value":"5","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"EAvatarAsyncLoadRequestState","Description":" ","Variables":[{"Name":"Wait","Value":"0","Description":" "},{"Name":"Executing","Value":"1","Description":" "},{"Name":"Complete","Value":"2","Description":" "},{"Name":"Error","Value":"3","Description":" "}]}

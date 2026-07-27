@@ -1,0 +1,1 @@
+{"Name":"FNameCurveKey","Description":"One key in a curve of FNames.","Variables":[{"Name":"Time","Type":"float","Description":"Time at this key","Redirect":""},{"Name":"Value","Type":"FName","Description":"Value at this key","Redirect":""}]}

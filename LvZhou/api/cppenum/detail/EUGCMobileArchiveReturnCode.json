@@ -1,0 +1,1 @@
+{"Name":"EUGCMobileArchiveReturnCode","Description":" ","Variables":[{"Name":"Ok","Value":"0","Description":" "},{"Name":"AsyncWait","Value":"1","Description":" "},{"Name":"WrongDelta","Value":"2","Description":" "},{"Name":"Fail","Value":"255","Description":" "}]}

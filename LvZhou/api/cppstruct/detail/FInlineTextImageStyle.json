@@ -1,0 +1,1 @@
+{"Name":"FInlineTextImageStyle","Description":"Represents the appearance of an inline image used by rich text","Variables":[{"Name":"Image","Type":"FSlateBrush","Description":"Image to use when the slider thumb is in its normal state","Redirect":""},{"Name":"Baseline","Type":"int16","Description":"The offset from the bottom of the image height to the baseline.","Redirect":""}]}

@@ -1,0 +1,1 @@
+{"Name":"UTexture2DDynamic","Description":"","Variables":[{"Name":"Format","Type":"TEnumAsByte \u003c enum EPixelFormat \u003e","Description":"The format of the texture.","Redirect":""}],"Functions":null,"Parents":["UTexture"],"Event":null,"Delegate":null,"Language":"cpp"}

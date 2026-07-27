@@ -1,0 +1,1 @@
+{"Name":"ECollisionTraceFlag","Description":" ","Variables":[{"Name":"CTF_UseDefault","Value":"0","Description":" "},{"Name":"CTF_UseSimpleAndComplex","Value":"1","Description":" "},{"Name":"CTF_UseSimpleAsComplex","Value":"2","Description":" "},{"Name":"CTF_UseComplexAsSimple","Value":"3","Description":" "},{"Name":"CTF_MAX","Value":"4","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"EBuildingType","Description":" ","Variables":[{"Name":"EBuilding_Wall","Value":"0","Description":" "},{"Name":"EBuilding_Stairs","Value":"1","Description":" "},{"Name":"EBuilding_Prop","Value":"2","Description":" "},{"Name":"EBuilding_Max","Value":"3","Description":" "}]}

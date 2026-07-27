@@ -1,0 +1,1 @@
+{"Name":"FKSphereElem","Description":"Sphere shape used for collision","Variables":[{"Name":"TM_DEPRECATED","Type":"FMatrix","Description":"","Redirect":""},{"Name":"Center","Type":"FVector","Description":"Position of the sphere's origin","Redirect":""},{"Name":"Radius","Type":"float","Description":"Radius of the sphere","Redirect":""}]}

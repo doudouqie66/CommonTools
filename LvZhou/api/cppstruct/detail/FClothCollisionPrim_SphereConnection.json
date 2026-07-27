@@ -1,0 +1,1 @@
+{"Name":"FClothCollisionPrim_SphereConnection","Description":"Data for a single connected sphere primitive. This should be configured after all spheres have\n   been processed as they are really just indexing the existing spheres","Variables":[{"Name":"SphereIndices","Type":"int32","Description":"","Redirect":""}]}

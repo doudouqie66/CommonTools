@@ -1,0 +1,1 @@
+{"Name":"FRandomStream","Description":"Thread-safe RNG.\n  The full C++ class is located here: Engine\\Source\\Runtime\\Core\\Public\\Math\\RandomStream.h","Variables":[{"Name":"InitialSeed","Type":"int32","Description":"","Redirect":""},{"Name":"Seed","Type":"int32","Description":"","Redirect":""}]}

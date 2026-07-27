@@ -1,0 +1,1 @@
+{"Name":"ERandomRocketExplosionType","Description":" ","Variables":[{"Name":"ERRET_COLLIDE","Value":"0","Description":" "},{"Name":"ERRET_BOMBARMENT","Value":"1","Description":" "},{"Name":"ERRET_DESTRUCTED","Value":"2","Description":" "},{"Name":"ERRET_MAX","Value":"3","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"FWidgetInputBinding","Description":"","Variables":[{"Name":"HandlerFunctionName","Type":"FName","Description":"","Redirect":""},{"Name":"bTriggeredEvenNotRendered","Type":"bool","Description":"","Redirect":""},{"Name":"bTriggeredWhenPCVisible","Type":"bool","Description":"","Redirect":""},{"Name":"bPlaySoundFx","Type":"bool","Description":"","Redirect":""}]}

@@ -1,0 +1,1 @@
+{"Name":"EPostOperationType","Description":" ","Variables":[{"Name":"EPOT_INVALID","Value":"0","Description":" "},{"Name":"EPOT_Create","Value":"1","Description":" "},{"Name":"EPOT_Recycle","Value":"2","Description":" "},{"Name":"EPOT_Modify","Value":"3","Description":" "},{"Name":"EPOT_Replace","Value":"4","Description":" "}]}

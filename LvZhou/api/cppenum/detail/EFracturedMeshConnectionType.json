@@ -1,0 +1,1 @@
+{"Name":"EFracturedMeshConnectionType","Description":" ","Variables":[{"Name":"FracturedMeshConnType_None","Value":"0","Description":" "},{"Name":"FracturedMeshConnType_Indestructible","Value":"1","Description":" "},{"Name":"FracturedMeshConnType_Border","Value":"2","Description":" "},{"Name":"FracturedMeshConnType_IndestructibleAndBorder","Value":"3","Description":" "}]}

@@ -1,0 +1,134 @@
+[2026-07-25 16:53:22.551 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$uri='http://127.0.0.1:12463/mcp'; $headers=@{'Acc
+[2026-07-25 16:53:22.601 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.721.41059-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4564)
+[2026-07-25T08:53:22.629568800+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-25 16:53:22.629 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-25 16:53:22.639 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.721.41059-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.146.0-alpha.3.1.exe
+[2026-07-25 16:53:22.644 codex.exe] helper copy: recopied command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.721.41059-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.146.0-alpha.3.1.exe
+[2026-07-25 16:53:22.644 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.146.0-alpha.3.1.exe
+[2026-07-25T08:53:22.645373600+00:00] read-acl-only mode: applying read ACLs
+[2026-07-25T08:53:22.646701500+00:00] granting read ACE to C:\Users\admin\.agents for sandbox users
+[2026-07-25T08:53:22.647739200+00:00] granting read ACE to C:\Users\admin\.claude.json for sandbox users
+[2026-07-25T08:53:22.650446900+00:00] granting read ACE to C:\Users\admin\skills-lock.json for sandbox users
+[2026-07-25T08:53:22.650958400+00:00] read ACL run completed
+[2026-07-25 16:53:22.810 codex-command-runner-0.146.0-alpha.3.1.exe] hide users: failed to hide current user profile dir (C:\Users\Default): SetFileAttributesW failed for C:\Users\Default: 5 (拒绝访问。)
+[2026-07-25 16:53:32.195 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$uri='http://127.0.0.1:12463/mcp'; $headers=@{'Acc
+[2026-07-25 16:53:32.244 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.721.41059-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4564)
+[2026-07-25T08:53:32.258689100+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-25 16:53:32.258 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-25 16:53:32.262 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.146.0-alpha.3.1.exe
+[2026-07-25 16:53:32.263 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.146.0-alpha.3.1.exe
+[2026-07-25T08:53:32.270251800+00:00] read-acl-only mode: applying read ACLs
+[2026-07-25T08:53:32.273503900+00:00] read ACL run completed
+[2026-07-25 16:53:32.286 codex-command-runner-0.146.0-alpha.3.1.exe] hide users: failed to hide current user profile dir (C:\Users\Default): SetFileAttributesW failed for C:\Users\Default: 5 (拒绝访问。)
+[2026-07-25 16:53:45.984 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$uri='http://127.0.0.1:12463/mcp'; $headers=@{'Acc
+[2026-07-25 16:53:46.033 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.721.41059-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4564)
+[2026-07-25T08:53:46.046964800+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-25 16:53:46.047 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-25 16:53:46.051 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.146.0-alpha.3.1.exe
+[2026-07-25 16:53:46.051 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.146.0-alpha.3.1.exe
+[2026-07-25T08:53:46.058821400+00:00] read-acl-only mode: applying read ACLs
+[2026-07-25T08:53:46.062328300+00:00] read ACL run completed
+[2026-07-25 16:53:46.074 codex-command-runner-0.146.0-alpha.3.1.exe] hide users: failed to hide current user profile dir (C:\Users\Default): SetFileAttributesW failed for C:\Users\Default: 5 (拒绝访问。)
+[2026-07-25 16:53:59.682 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$uri='http://127.0.0.1:12463/mcp'; $headers=@{'Acc
+[2026-07-25 16:53:59.731 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.721.41059-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4564)
+[2026-07-25T08:53:59.745900400+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-25 16:53:59.745 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-25 16:53:59.749 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.146.0-alpha.3.1.exe
+[2026-07-25 16:53:59.749 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.146.0-alpha.3.1.exe
+[2026-07-25T08:53:59.757289200+00:00] read-acl-only mode: applying read ACLs
+[2026-07-25T08:53:59.760434100+00:00] read ACL run completed
+[2026-07-25 16:53:59.772 codex-command-runner-0.146.0-alpha.3.1.exe] hide users: failed to hide current user profile dir (C:\Users\Default): SetFileAttributesW failed for C:\Users\Default: 5 (拒绝访问。)
+[2026-07-25 16:54:14.718 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$uri='http://127.0.0.1:12463/mcp'; $headers=@{'Acc
+[2026-07-25 16:54:14.767 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.721.41059-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4564)
+[2026-07-25T08:54:14.781155400+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-25 16:54:14.781 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-25 16:54:14.784 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.146.0-alpha.3.1.exe
+[2026-07-25 16:54:14.784 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.146.0-alpha.3.1.exe
+[2026-07-25T08:54:14.794091400+00:00] read-acl-only mode: applying read ACLs
+[2026-07-25T08:54:14.797486700+00:00] read ACL run completed
+[2026-07-25 16:54:14.809 codex-command-runner-0.146.0-alpha.3.1.exe] hide users: failed to hide current user profile dir (C:\Users\Default): SetFileAttributesW failed for C:\Users\Default: 5 (拒绝访问。)
+[2026-07-25 16:54:27.492 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$uri='http://127.0.0.1:12463/mcp'; $headers=@{'Acc
+[2026-07-25 16:54:27.543 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.721.41059-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4564)
+[2026-07-25T08:54:27.556738200+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-25 16:54:27.556 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-25 16:54:27.561 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.146.0-alpha.3.1.exe
+[2026-07-25 16:54:27.561 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.146.0-alpha.3.1.exe
+[2026-07-25T08:54:27.568533900+00:00] read-acl-only mode: applying read ACLs
+[2026-07-25T08:54:27.571585+00:00] read ACL run completed
+[2026-07-25 16:54:27.585 codex-command-runner-0.146.0-alpha.3.1.exe] hide users: failed to hide current user profile dir (C:\Users\Default): SetFileAttributesW failed for C:\Users\Default: 5 (拒绝访问。)
+[2026-07-25 16:54:39.496 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$uri='http://127.0.0.1:12463/mcp'; $headers=@{'Acc
+[2026-07-25 16:54:39.545 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.721.41059-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4564)
+[2026-07-25T08:54:39.560043600+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-25 16:54:39.560 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-25 16:54:39.565 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.146.0-alpha.3.1.exe
+[2026-07-25 16:54:39.565 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.146.0-alpha.3.1.exe
+[2026-07-25T08:54:39.572809500+00:00] read-acl-only mode: applying read ACLs
+[2026-07-25T08:54:39.576386900+00:00] read ACL run completed
+[2026-07-25 16:54:39.588 codex-command-runner-0.146.0-alpha.3.1.exe] hide users: failed to hide current user profile dir (C:\Users\Default): SetFileAttributesW failed for C:\Users\Default: 5 (拒绝访问。)
+[2026-07-25 16:54:56.432 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$uri='http://127.0.0.1:12463/mcp'; $headers=@{'Acc
+[2026-07-25 16:54:56.481 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.721.41059-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4564)
+[2026-07-25T08:54:56.494950+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-25 16:54:56.494 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-25 16:54:56.498 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.146.0-alpha.3.1.exe
+[2026-07-25 16:54:56.499 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.146.0-alpha.3.1.exe
+[2026-07-25T08:54:56.506585400+00:00] read-acl-only mode: applying read ACLs
+[2026-07-25T08:54:56.510044200+00:00] read ACL run completed
+[2026-07-25 16:54:56.522 codex-command-runner-0.146.0-alpha.3.1.exe] hide users: failed to hide current user profile dir (C:\Users\Default): SetFileAttributesW failed for C:\Users\Default: 5 (拒绝访问。)
+[2026-07-25 16:55:10.124 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$uri='http://127.0.0.1:12463/mcp'; $headers=@{'Acc
+[2026-07-25 16:55:10.172 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.721.41059-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4564)
+[2026-07-25T08:55:10.186403800+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-25 16:55:10.186 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-25 16:55:10.190 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.146.0-alpha.3.1.exe
+[2026-07-25 16:55:10.191 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.146.0-alpha.3.1.exe
+[2026-07-25T08:55:10.199194900+00:00] read-acl-only mode: applying read ACLs
+[2026-07-25T08:55:10.202377900+00:00] read ACL run completed
+[2026-07-25 16:55:10.213 codex-command-runner-0.146.0-alpha.3.1.exe] hide users: failed to hide current user profile dir (C:\Users\Default): SetFileAttributesW failed for C:\Users\Default: 5 (拒绝访问。)
+[2026-07-25 16:55:23.320 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$uri='http://127.0.0.1:12463/mcp'; $headers=@{'Acc
+[2026-07-25 16:55:23.366 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.721.41059-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4564)
+[2026-07-25T08:55:23.380294900+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-25 16:55:23.380 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-25 16:55:23.384 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.146.0-alpha.3.1.exe
+[2026-07-25 16:55:23.384 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.146.0-alpha.3.1.exe
+[2026-07-25T08:55:23.392309300+00:00] read-acl-only mode: applying read ACLs
+[2026-07-25T08:55:23.395800400+00:00] read ACL run completed
+[2026-07-25 16:55:23.409 codex-command-runner-0.146.0-alpha.3.1.exe] hide users: failed to hide current user profile dir (C:\Users\Default): SetFileAttributesW failed for C:\Users\Default: 5 (拒绝访问。)
+[2026-07-25 16:55:40.274 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$root='C:\WeGameApps\rail_apps\OasisEraEditor(2001
+[2026-07-25 16:55:40.321 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.721.41059-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4564)
+[2026-07-25T08:55:40.336694700+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-25 16:55:40.336 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-25 16:55:40.341 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.146.0-alpha.3.1.exe
+[2026-07-25 16:55:40.341 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.146.0-alpha.3.1.exe
+[2026-07-25T08:55:40.348914300+00:00] read-acl-only mode: applying read ACLs
+[2026-07-25T08:55:40.352169300+00:00] read ACL run completed
+[2026-07-25 16:55:40.365 codex-command-runner-0.146.0-alpha.3.1.exe] hide users: failed to hide current user profile dir (C:\Users\Default): SetFileAttributesW failed for C:\Users\Default: 5 (拒绝访问。)
+[2026-07-25 16:55:48.056 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$dir='C:\WeGameApps\rail_apps\OasisEraEditor(20017
+[2026-07-25 16:55:48.106 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.721.41059-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4564)
+[2026-07-25T08:55:48.119710500+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-25 16:55:48.119 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-25 16:55:48.123 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.146.0-alpha.3.1.exe
+[2026-07-25 16:55:48.123 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.146.0-alpha.3.1.exe
+[2026-07-25T08:55:48.131105300+00:00] read-acl-only mode: applying read ACLs
+[2026-07-25T08:55:48.134854700+00:00] read ACL run completed
+[2026-07-25 16:55:48.146 codex-command-runner-0.146.0-alpha.3.1.exe] hide users: failed to hide current user profile dir (C:\Users\Default): SetFileAttributesW failed for C:\Users\Default: 5 (拒绝访问。)
+[2026-07-25 16:55:54.153 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+$dir='C:\WeGameApps\rail_apps\OasisEraEditor(20017
+[2026-07-25 16:55:54.201 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.721.41059-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=4564)
+[2026-07-25T08:55:54.215489+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-07-25 16:55:54.215 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-07-25 16:55:54.219 codex.exe] helper copy: using in-memory cache for command-runner -> C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.146.0-alpha.3.1.exe
+[2026-07-25 16:55:54.219 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.146.0-alpha.3.1.exe
+[2026-07-25T08:55:54.227560100+00:00] read-acl-only mode: applying read ACLs
+[2026-07-25T08:55:54.231740300+00:00] read ACL run completed
+[2026-07-25 16:55:54.243 codex-command-runner-0.146.0-alpha.3.1.exe] hide users: failed to hide current user profile dir (C:\Users\Default): SetFileAttributesW failed for C:\Users\Default: 5 (拒绝访问。)

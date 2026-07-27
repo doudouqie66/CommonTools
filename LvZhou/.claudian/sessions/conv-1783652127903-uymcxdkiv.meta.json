@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783652127903-uymcxdkiv",
+  "providerId": "claude",
+  "title": "Respond to Chinese greeting",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783652127906,
+  "updatedAt": 1783655890891,
+  "lastResponseAt": 1783655873089,
+  "sessionId": "d43e9191-bb71-4e22-8995-3f491bfa6146",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "d43e9191-bb71-4e22-8995-3f491bfa6146"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 80,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 104320,
+    "contextWindow": 200000,
+    "contextTokens": 104400,
+    "percentage": 52,
+    "contextWindowIsAuthoritative": true
+  }
+}

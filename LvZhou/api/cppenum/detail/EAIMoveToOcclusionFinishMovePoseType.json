@@ -1,0 +1,1 @@
+{"Name":"EAIMoveToOcclusionFinishMovePoseType","Description":" ","Variables":[{"Name":"FinishMovePoseType_Normal","Value":"0","Description":" "},{"Name":"FinishMovePoseType_CrouchIfACrouchOcclusion","Value":"1","Description":" "}]}

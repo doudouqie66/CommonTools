@@ -1,0 +1,1 @@
+{"Name":"FAnimNode_MakeDynamicAdditive","Description":"","Variables":[{"Name":"Base","Type":"FPoseLink","Description":"","Redirect":""},{"Name":"Additive","Type":"FPoseLink","Description":"","Redirect":""},{"Name":"bMeshSpaceAdditive","Type":"bool","Description":"","Redirect":""}]}

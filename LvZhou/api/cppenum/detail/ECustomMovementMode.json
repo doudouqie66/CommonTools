@@ -1,0 +1,1 @@
+{"Name":"ECustomMovementMode","Description":" ","Variables":[{"Name":"CMOVE_None","Value":"0","Description":" "},{"Name":"CMOVE_Climb","Value":"1","Description":" "},{"Name":"CMOVE_ClimbEnd","Value":"2","Description":" "},{"Name":"CMOVE_MAX","Value":"3","Description":" "}]}

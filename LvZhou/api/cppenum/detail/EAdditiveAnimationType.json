@@ -1,0 +1,1 @@
+{"Name":"EAdditiveAnimationType","Description":" ","Variables":[{"Name":"AAT_None","Value":"0","Description":" "},{"Name":"AAT_LocalSpaceBase","Value":"1","Description":" "},{"Name":"AAT_RotationOffsetMeshSpace","Value":"2","Description":" "},{"Name":"AAT_MAX","Value":"3","Description":" "}]}

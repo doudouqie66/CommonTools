@@ -1,0 +1,1 @@
+{"Name":"UMovieSceneSubTrack","Description":"A track that holds sub-sequences within a larger sequence.","Variables":[{"Name":"Sections","Type":"TArray \u003c UMovieSceneSection * \u003e","Description":"All movie scene sections.","Redirect":""}],"Functions":null,"Parents":["UMovieSceneNameableTrack"],"Event":null,"Delegate":null,"Language":"cpp"}

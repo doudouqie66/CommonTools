@@ -1,0 +1,1 @@
+{"Name":"EModifyBlackboardDataValueType","Description":" ","Variables":[{"Name":"Int","Value":"0","Description":" "},{"Name":"Float","Value":"1","Description":" "},{"Name":"Bool","Value":"2","Description":" "},{"Name":"String","Value":"3","Description":" "},{"Name":"Object","Value":"4","Description":" "},{"Name":"Vector3","Value":"5","Description":" "}]}

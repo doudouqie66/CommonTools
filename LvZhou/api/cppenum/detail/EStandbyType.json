@@ -1,0 +1,1 @@
+{"Name":"EStandbyType","Description":" ","Variables":[{"Name":"STDBY_Rx","Value":"0","Description":" "},{"Name":"STDBY_Tx","Value":"1","Description":" "},{"Name":"STDBY_BadPing","Value":"2","Description":" "},{"Name":"STDBY_MAX","Value":"3","Description":" "}]}

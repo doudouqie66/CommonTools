@@ -1,0 +1,1 @@
+{"Name":"PerfStartEventType","Description":" ","Variables":[{"Name":"EnterFightingState","Value":"1","Description":" "},{"Name":"FirstPlayerJumpParachute","Value":"2","Description":" "},{"Name":"FirstPlayerExitParachute","Value":"3","Description":" "}]}

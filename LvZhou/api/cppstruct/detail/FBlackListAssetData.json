@@ -1,0 +1,1 @@
+{"Name":"FBlackListAssetData","Description":"A struct to hold blacklist information about an assets.","Variables":[{"Name":"StandardPath","Type":"FName","Description":"","Redirect":""},{"Name":"FullPath","Type":"FName","Description":"","Redirect":""},{"Name":"AssetTags","Type":"TArray \u003c FName \u003e","Description":"","Redirect":""}]}

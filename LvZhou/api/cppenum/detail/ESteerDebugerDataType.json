@@ -1,0 +1,1 @@
+{"Name":"ESteerDebugerDataType","Description":" ","Variables":[{"Name":"PathIntersection","Value":"0","Description":" "},{"Name":"LocalBoundary","Value":"1","Description":" "},{"Name":"AgentInfo","Value":"2","Description":" "},{"Name":"SteerForceInfo","Value":"3","Description":" "},{"Name":"SteerAvoidNeighborInfo","Value":"4","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"EAIMoveToOcclusionPoseType","Description":" ","Variables":[{"Name":"PoseProne","Value":"1","Description":" "},{"Name":"PoseCrouch","Value":"2","Description":" "},{"Name":"PoseStand","Value":"4","Description":" "},{"Name":"PoseBush","Value":"8","Description":" "}]}

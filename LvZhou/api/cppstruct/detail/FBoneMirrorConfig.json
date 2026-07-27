@@ -1,0 +1,1 @@
+{"Name":"FBoneMirrorConfig","Description":"","Variables":[{"Name":"MirrorBoneSource","Type":"FName","Description":"","Redirect":""},{"Name":"MirrorType","Type":"EBoneMirrorType","Description":"","Redirect":""},{"Name":"Depth","Type":"int32","Description":"","Redirect":""},{"Name":"MirrorBoneTarget","Type":"FName","Description":"","Redirect":""}]}

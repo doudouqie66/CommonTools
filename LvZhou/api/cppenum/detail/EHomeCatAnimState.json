@@ -1,0 +1,1 @@
+{"Name":"EHomeCatAnimState","Description":" ","Variables":[{"Name":"EHomeCatAnimState_Idle","Value":"0","Description":" "},{"Name":"EHomeCatAnimState_RandomAction","Value":"1","Description":" "},{"Name":"EHomeCatAnimState_PoseSwitch","Value":"2","Description":" "},{"Name":"EHomeCatAnimState_DoAnim","Value":"3","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"FSlotAnimationTrack","Description":"Each slot data referenced by Animation Slot\n  contains slot name, and animation data","Variables":[{"Name":"SlotName","Type":"FName","Description":"","Redirect":""},{"Name":"AnimTrack","Type":"FAnimTrack","Description":"","Redirect":""}]}

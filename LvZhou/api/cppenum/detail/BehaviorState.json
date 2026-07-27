@@ -1,0 +1,1 @@
+{"Name":"BehaviorState","Description":" ","Variables":[{"Name":"Wild","Value":"0","Description":" "},{"Name":"NoWildWalking","Value":"1","Description":" "},{"Name":"NoWildTurning","Value":"2","Description":" "},{"Name":"NoWildJumping","Value":"3","Description":" "}]}

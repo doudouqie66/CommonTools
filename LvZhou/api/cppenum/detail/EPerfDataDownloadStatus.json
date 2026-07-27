@@ -1,0 +1,1 @@
+{"Name":"EPerfDataDownloadStatus","Description":" ","Variables":[{"Name":"Idle","Value":"0","Description":" "},{"Name":"FetchingList","Value":"1","Description":" "},{"Name":"Downloading","Value":"2","Description":" "},{"Name":"Completed","Value":"3","Description":" "},{"Name":"Failed","Value":"4","Description":" "},{"Name":"Cancelled","Value":"5","Description":" "}]}

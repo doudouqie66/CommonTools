@@ -1,0 +1,1 @@
+{"Name":"ESubmixEffectDynamicsProcessorType","Description":" ","Variables":[{"Name":"Compressor","Value":"0","Description":" "},{"Name":"Limiter","Value":"1","Description":" "},{"Name":"Expander","Value":"2","Description":" "},{"Name":"Gate","Value":"3","Description":" "},{"Name":"Count","Value":"4","Description":" "}]}

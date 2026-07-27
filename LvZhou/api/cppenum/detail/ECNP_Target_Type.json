@@ -1,0 +1,1 @@
+{"Name":"ECNP_Target_Type","Description":" ","Variables":[{"Name":"Target_None","Value":"1","Description":" "},{"Name":"Target_Client","Value":"2","Description":" "},{"Name":"Target_DS","Value":"3","Description":" "},{"Name":"Target_Svr","Value":"4","Description":" "}]}

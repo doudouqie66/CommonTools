@@ -1,0 +1,1 @@
+{"Name":"EPCGMetadataMakeVector4","Description":" ","Variables":[{"Name":"FourValues","Value":"0","Description":" "},{"Name":"Vector2AndTwoValues","Value":"1","Description":" "},{"Name":"TwoVector2","Value":"2","Description":" "},{"Name":"Vector3AndValue","Value":"3","Description":" "}]}

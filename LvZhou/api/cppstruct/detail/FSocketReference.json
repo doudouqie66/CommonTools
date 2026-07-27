@@ -1,0 +1,1 @@
+{"Name":"FSocketReference","Description":"","Variables":[{"Name":"SocketName","Type":"FName","Description":"Target socket to look at. Used if LookAtBone is empty. - You can use  LookAtLocation if you need offset from this point. That location will be used in their local space.","Redirect":""}]}

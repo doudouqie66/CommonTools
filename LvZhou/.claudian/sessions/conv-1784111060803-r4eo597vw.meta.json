@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784111060803-r4eo597vw",
+  "providerId": "claude",
+  "title": "Research adding a skill in wiki",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784111060803,
+  "updatedAt": 1784172933317,
+  "lastResponseAt": 1784113445096,
+  "sessionId": "5b7c18b3-eb7a-4bbd-8e75-84e791a952da",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "5b7c18b3-eb7a-4bbd-8e75-84e791a952da"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 680,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 111232,
+    "contextWindow": 200000,
+    "contextTokens": 111912,
+    "percentage": 56,
+    "contextWindowIsAuthoritative": true
+  }
+}

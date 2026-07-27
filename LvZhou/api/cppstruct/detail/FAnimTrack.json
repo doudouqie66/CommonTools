@@ -1,0 +1,1 @@
+{"Name":"FAnimTrack","Description":"This is list of anim segments for this track \n  For now this is only one TArray, but in the future \n  we should define more transitionblending behaviors","Variables":[{"Name":"AnimSegments","Type":"TArray \u003c FAnimSegment \u003e","Description":"","Redirect":""}]}

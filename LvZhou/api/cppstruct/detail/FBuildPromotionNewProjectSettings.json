@@ -1,0 +1,1 @@
+{"Name":"FBuildPromotionNewProjectSettings","Description":"Holds settings for the new project stage of the build promotion test","Variables":[{"Name":"NewProjectFolderOverride","Type":"FDirectoryPath","Description":"The path for the new project","Redirect":""},{"Name":"NewProjectNameOverride","Type":"FString","Description":"The name of the project","Redirect":""}]}

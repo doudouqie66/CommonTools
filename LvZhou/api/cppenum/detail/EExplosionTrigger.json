@@ -1,0 +1,1 @@
+{"Name":"EExplosionTrigger","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"Immediately","Value":"1","Description":" "},{"Name":"StopDelay","Value":"2","Description":" "},{"Name":"OnBounceDelay","Value":"3","Description":" "},{"Name":"OnImpactDelay","Value":"4","Description":" "},{"Name":"OnCustomDelay","Value":"5","Description":" "}]}

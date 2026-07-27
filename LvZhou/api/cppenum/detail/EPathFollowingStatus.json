@@ -1,0 +1,1 @@
+{"Name":"EPathFollowingStatus","Description":" ","Variables":[{"Name":"Idle","Value":"0","Description":" "},{"Name":"Waiting","Value":"1","Description":" "},{"Name":"Paused","Value":"2","Description":" "},{"Name":"Moving","Value":"3","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"ELightShadowAdventureActorStatus","Description":" ","Variables":[{"Name":"Sleep","Value":"0","Description":" "},{"Name":"Awake","Value":"1","Description":" "},{"Name":"Ready","Value":"2","Description":" "},{"Name":"PreGame","Value":"3","Description":" "},{"Name":"Teleport","Value":"4","Description":" "},{"Name":"Gaming","Value":"5","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"FPackedRGBA16N","Description":"A packed vector.\n The full C++ class is located here: Engine\\Source\\Runtime\\RenderCore\\Public\\PackedNormal.h","Variables":[{"Name":"XY","Type":"int32","Description":"","Redirect":""},{"Name":"ZW","Type":"int32","Description":"","Redirect":""}]}

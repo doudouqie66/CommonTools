@@ -1,0 +1,1 @@
+{"Name":"EPlayerCameraMode","Description":" ","Variables":[{"Name":"PCM_Normal","Value":"0","Description":" "},{"Name":"PCM_Near","Value":"1","Description":" "},{"Name":"PCM_Aim","Value":"2","Description":" "},{"Name":"PCM_Plane","Value":"3","Description":" "},{"Name":"PCM_FPP","Value":"4","Description":" "}]}

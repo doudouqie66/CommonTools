@@ -1,0 +1,1 @@
+{"Name":"EMaterialShadowOverride","Description":" ","Variables":[{"Name":"MSO_Default","Value":"0","Description":" "},{"Name":"MSO_NoShadow","Value":"1","Description":" "},{"Name":"MSO_NoFilter","Value":"2","Description":" "},{"Name":"MSO_PCF1x1","Value":"3","Description":" "},{"Name":"MSO_MAX","Value":"4","Description":" "}]}

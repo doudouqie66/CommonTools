@@ -1,0 +1,1 @@
+{"Name":"FBlendProfileBoneEntry","Description":"A single entry for a blend scale within a profile, mapping a bone to a blendscale","Variables":[{"Name":"BoneReference","Type":"FBoneReference","Description":"","Redirect":""},{"Name":"BlendScale","Type":"float","Description":"","Redirect":""}]}

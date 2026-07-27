@@ -1,0 +1,1 @@
+{"Name":"EWriteDisallowedWarningState","Description":" ","Variables":[{"Name":"WDWS_PendingWarn","Value":"0","Description":" "},{"Name":"WDWS_Warned","Value":"1","Description":" "},{"Name":"WDWS_WarningUnnecessary","Value":"2","Description":" "},{"Name":"WDWS_MAX","Value":"3","Description":" "}]}

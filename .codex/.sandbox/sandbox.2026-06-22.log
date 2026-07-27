@@ -1,0 +1,15 @@
+[2026-06-22 10:42:34.863 codex.exe] START: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+net helpmsg 4551
+[2026-06-22 10:42:34.901 codex.exe] setup refresh: spawning c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.51431-win32-x64\bin\windows-x86_64\codex-windows-sandbox-setup.exe (cwd=C:\Users\admin\AppData\Local\Programs\Microsoft VS Code, payload_len=3476)
+[2026-06-22T02:42:35.163959700+00:00] granting write ACE to C:\Users\admin\AppData\Roaming\io.github.clash-verge-rev.clash-verge-rev\profiles for sandbox group and capability SID
+[2026-06-22T02:42:35.166114500+00:00] setup refresh: processed 2 write roots (read roots delegated); errors=[]
+[2026-06-22 10:42:35.166 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-22 10:42:35.169 codex.exe] helper copy: validating command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.51431-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0-alpha.6.exe
+[2026-06-22 10:42:35.172 codex.exe] helper copy: recopied command-runner source=c:\Users\admin\.vscode\extensions\openai.chatgpt-26.616.51431-win32-x64\bin\windows-x86_64\codex-command-runner.exe destination=C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0-alpha.6.exe
+[2026-06-22 10:42:35.172 codex.exe] helper launch resolution: using copied command-runner path C:\Users\admin\.codex\.sandbox-bin\codex-command-runner-0.142.0-alpha.6.exe
+[2026-06-22T02:42:35.173787800+00:00] read-acl-only mode: applying read ACLs
+[2026-06-22T02:42:35.174858200+00:00] granting read ACE to C:\Users\admin\.claude.json for sandbox users
+[2026-06-22T02:42:35.176365600+00:00] granting read ACE to C:\Users\admin\gpedit-install.bat for sandbox users
+[2026-06-22T02:42:35.176735700+00:00] granting read ACE to C:\Users\admin\gpedit-result.txt for sandbox users
+[2026-06-22T02:42:35.177254300+00:00] granting read ACE to C:\Users\admin\List.txt for sandbox users
+[2026-06-22T02:42:35.178073900+00:00] read ACL run completed

@@ -1,0 +1,1 @@
+{"Name":"FAnimSlotDesc","Description":"Used to indicate each slot name and how many channels they have.","Variables":[{"Name":"SlotName","Type":"FName","Description":"Name of the slot.","Redirect":""},{"Name":"NumChannels","Type":"int32","Description":"Number of channels that are available in this slot.","Redirect":""}]}

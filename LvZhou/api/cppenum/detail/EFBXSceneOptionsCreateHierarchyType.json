@@ -1,0 +1,1 @@
+{"Name":"EFBXSceneOptionsCreateHierarchyType","Description":" ","Variables":[{"Name":"FBXSOCHT_CreateLevelActors","Value":"0","Description":" "},{"Name":"FBXSOCHT_CreateActorComponents","Value":"1","Description":" "},{"Name":"FBXSOCHT_CreateBlueprint","Value":"2","Description":" "},{"Name":"FBXSOCHT_MAX","Value":"3","Description":" "}]}

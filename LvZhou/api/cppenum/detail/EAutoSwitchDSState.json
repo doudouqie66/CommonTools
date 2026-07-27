@@ -1,0 +1,1 @@
+{"Name":"EAutoSwitchDSState","Description":" ","Variables":[{"Name":"Idle","Value":"0","Description":" "},{"Name":"Switching","Value":"1","Description":" "},{"Name":"ForceSwitching","Value":"2","Description":" "},{"Name":"Closing","Value":"3","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"EAnimBPType","Description":" ","Variables":[{"Name":"EAnimBP_None","Value":"0","Description":" "},{"Name":"EAnimBP_Vehicle","Value":"1","Description":" "},{"Name":"EAnimBP_TPP","Value":"2","Description":" "},{"Name":"EAnimBP_FPP","Value":"3","Description":" "},{"Name":"EAnimBP_NewFPP","Value":"4","Description":" "},{"Name":"EAnimBP_Max","Value":"5","Description":" "}]}

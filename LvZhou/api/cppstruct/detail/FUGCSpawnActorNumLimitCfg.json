@@ -1,0 +1,1 @@
+{"Name":"FUGCSpawnActorNumLimitCfg","Description":"","Variables":[{"Name":"ActorName","Type":"FString","Description":"","Redirect":""},{"Name":"NumLimit","Type":"int32","Description":"","Redirect":""}]}

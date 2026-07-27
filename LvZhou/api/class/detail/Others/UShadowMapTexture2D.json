@@ -1,0 +1,1 @@
+{"Name":"UShadowMapTexture2D","Description":"","Variables":[{"Name":"ShadowmapFlags","Type":"TEnumAsByte \u003c enum EShadowMapFlags \u003e","Description":"Bit-field with shadowmap flags.","Redirect":""}],"Functions":null,"Parents":["UTexture2D"],"Event":null,"Delegate":null,"Language":"cpp"}

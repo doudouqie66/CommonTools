@@ -1,0 +1,1 @@
+{"Name":"FAISenseAffiliationFilter","Description":"","Variables":[{"Name":"bDetectEnemies","Type":"uint32","Description":"","Redirect":""},{"Name":"bDetectNeutrals","Type":"uint32","Description":"","Redirect":""},{"Name":"bDetectFriendlies","Type":"uint32","Description":"","Redirect":""}]}

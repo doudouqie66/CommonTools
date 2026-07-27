@@ -1,0 +1,1 @@
+{"Name":"EUGCMobileMotionEventActionType","Description":" ","Variables":[{"Name":"Start","Value":"1","Description":" "},{"Name":"Pause","Value":"2","Description":" "},{"Name":"Reset","Value":"3","Description":" "},{"Name":"SplineRepos","Value":"4","Description":" "},{"Name":"Undefined","Value":"99","Description":" "}]}

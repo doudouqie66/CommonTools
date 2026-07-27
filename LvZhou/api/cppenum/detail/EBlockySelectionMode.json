@@ -1,0 +1,1 @@
+{"Name":"EBlockySelectionMode","Description":" ","Variables":[{"Name":"UnSelected","Value":"0","Description":" "},{"Name":"Selected","Value":"1","Description":" "},{"Name":"ChildSlotSelected","Value":"2","Description":" "},{"Name":"ChildHookupSlotSelected","Value":"3","Description":" "}]}

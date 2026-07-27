@@ -1,0 +1,1 @@
+{"Name":"FSplineIKCachedBoneData","Description":"Data cached per bone in the chain","Variables":[{"Name":"Bone","Type":"FBoneReference","Description":"The bone we refer to","Redirect":""},{"Name":"RefSkeletonIndex","Type":"int32","Description":"Index of the bone in the reference skeleton","Redirect":""}]}

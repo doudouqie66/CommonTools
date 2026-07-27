@@ -1,0 +1,1 @@
+{"Name":"FBlueprintWidgetAnimationDelegateBinding","Description":"","Variables":[{"Name":"Action","Type":"EWidgetAnimationEvent","Description":"","Redirect":""},{"Name":"AnimationToBind","Type":"FName","Description":"","Redirect":""},{"Name":"FunctionNameToBind","Type":"FName","Description":"","Redirect":""},{"Name":"UserTag","Type":"FName","Description":"","Redirect":""}]}

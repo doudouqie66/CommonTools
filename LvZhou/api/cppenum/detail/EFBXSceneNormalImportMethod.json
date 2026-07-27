@@ -1,0 +1,1 @@
+{"Name":"EFBXSceneNormalImportMethod","Description":" ","Variables":[{"Name":"FBXSceneNIM_ComputeNormals","Value":"0","Description":" "},{"Name":"FBXSceneNIM_ImportNormals","Value":"1","Description":" "},{"Name":"FBXSceneNIM_ImportNormalsAndTangents","Value":"2","Description":" "},{"Name":"FBXSceneNIM_MAX","Value":"3","Description":" "}]}

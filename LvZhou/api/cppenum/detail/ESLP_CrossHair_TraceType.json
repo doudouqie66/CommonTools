@@ -1,0 +1,1 @@
+{"Name":"ESLP_CrossHair_TraceType","Description":" ","Variables":[{"Name":"ESLP_CrossHair_Line","Value":"0","Description":" "},{"Name":"ESLP_CrossHair_Sphere","Value":"1","Description":" "},{"Name":"ESLP_CrossHair_Box","Value":"2","Description":" "},{"Name":"ESLP_CrossHair_Capsule","Value":"3","Description":" "},{"Name":"ESLP_CrossHair_Fan","Value":"4","Description":" "}]}

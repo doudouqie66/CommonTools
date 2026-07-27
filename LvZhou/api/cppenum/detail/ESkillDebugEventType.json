@@ -1,0 +1,1 @@
+{"Name":"ESkillDebugEventType","Description":" ","Variables":[{"Name":"ES_SkillStart","Value":"0","Description":" "},{"Name":"ES_SkillPhaseStart","Value":"1","Description":" "},{"Name":"ES_SkillInterrupt","Value":"2","Description":" "},{"Name":"ES_OutputStats","Value":"3","Description":" "},{"Name":"ES_SkillEnd","Value":"4","Description":" "}]}

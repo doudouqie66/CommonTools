@@ -1,0 +1,1 @@
+{"Name":"FSpriteInstanceData","Description":"","Variables":[{"Name":"Transform","Type":"FMatrix","Description":"","Redirect":""},{"Name":"SourceSprite","Type":"UPaperSprite *","Description":"","Redirect":""},{"Name":"VertexColor","Type":"FColor","Description":"","Redirect":""},{"Name":"MaterialIndex","Type":"int32","Description":"","Redirect":""}]}

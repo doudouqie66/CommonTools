@@ -1,0 +1,1 @@
+{"Name":"ENetworkSmoothingMode","Description":" ","Variables":[{"Name":"Disabled","Value":"0","Description":" "},{"Name":"Linear","Value":"1","Description":" "},{"Name":"Exponential","Value":"2","Description":" "},{"Name":"Replay","Value":"3","Description":" "}]}

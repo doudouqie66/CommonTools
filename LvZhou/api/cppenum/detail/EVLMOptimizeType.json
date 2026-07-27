@@ -1,0 +1,1 @@
+{"Name":"EVLMOptimizeType","Description":" ","Variables":[{"Name":"Default","Value":"0","Description":" "},{"Name":"ForceGpuVlmSH2","Value":"1","Description":" "},{"Name":"ForceCpuInterpolation","Value":"2","Description":" "}]}

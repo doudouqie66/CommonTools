@@ -1,0 +1,1 @@
+{"Name":"EWeaponAttachState","Description":" ","Variables":[{"Name":"WAS_NoAttach","Value":"0","Description":" "},{"Name":"WAS_Silencer","Value":"1","Description":" "},{"Name":"WAS_FiringSuppressor","Value":"2","Description":" "},{"Name":"WAS_Compensator","Value":"3","Description":" "}]}

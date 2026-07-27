@@ -1,0 +1,1 @@
+{"Name":"EAddPlayerResult","Description":" ","Variables":[{"Name":"Result_Success","Value":"0","Description":" "},{"Name":"Result_Full","Value":"1","Description":" "},{"Name":"Result_Error","Value":"2","Description":" "},{"Name":"Result_Exist","Value":"3","Description":" "}]}

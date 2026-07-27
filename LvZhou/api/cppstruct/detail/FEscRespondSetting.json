@@ -1,0 +1,1 @@
+{"Name":"FEscRespondSetting","Description":"","Variables":[{"Name":"bIsRespondEsc","Type":"bool","Description":"","Redirect":""},{"Name":"HandlerFunctionName","Type":"FName","Description":"","Redirect":""}]}

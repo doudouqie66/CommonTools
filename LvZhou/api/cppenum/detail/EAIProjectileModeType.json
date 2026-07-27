@@ -1,0 +1,1 @@
+{"Name":"EAIProjectileModeType","Description":" ","Variables":[{"Name":"EAIProjectileModeType_None","Value":"0","Description":" "},{"Name":"EAIProjectileModeType_LowThrow","Value":"1","Description":" "},{"Name":"EAIProjectileModeType_HighThrow","Value":"2","Description":" "},{"Name":"EAIProjectileModeType_OnlySetDirection","Value":"3","Description":" "}]}

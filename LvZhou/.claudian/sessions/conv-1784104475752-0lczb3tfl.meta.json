@@ -1,0 +1,25 @@
+{
+  "id": "conv-1784104475752-0lczb3tfl",
+  "providerId": "claude",
+  "title": "Explain version resubmission after rejection",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784104475752,
+  "updatedAt": 1784111058276,
+  "lastResponseAt": 1784104658496,
+  "sessionId": "b74c6400-d630-4c06-9a6d-222dd01d11f7",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "b74c6400-d630-4c06-9a6d-222dd01d11f7"
+  },
+  "currentNote": "人物等级经验/等级经验系统设计文档.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 584,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 60288,
+    "contextWindow": 200000,
+    "contextTokens": 60872,
+    "percentage": 30,
+    "contextWindowIsAuthoritative": true
+  }
+}

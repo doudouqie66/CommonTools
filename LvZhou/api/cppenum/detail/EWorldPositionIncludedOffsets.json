@@ -1,0 +1,1 @@
+{"Name":"EWorldPositionIncludedOffsets","Description":" ","Variables":[{"Name":"WPT_Default","Value":"0","Description":" "},{"Name":"WPT_ExcludeAllShaderOffsets","Value":"1","Description":" "},{"Name":"WPT_CameraRelative","Value":"2","Description":" "},{"Name":"WPT_CameraRelativeNoOffsets","Value":"3","Description":" "},{"Name":"WPT_MAX","Value":"4","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"ECharOperationType","Description":" ","Variables":[{"Name":"OpMove","Value":"0","Description":" "},{"Name":"OpSprint","Value":"1","Description":" "},{"Name":"OpJump","Value":"2","Description":" "},{"Name":"OpInvalidEnum","Value":"3","Description":" "}]}

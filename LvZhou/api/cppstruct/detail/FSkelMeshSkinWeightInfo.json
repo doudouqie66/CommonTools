@@ -1,0 +1,1 @@
+{"Name":"FSkelMeshSkinWeightInfo","Description":"Vertex skin weight info supplied for a component override.","Variables":[{"Name":"Bones","Type":"int32","Description":"Index of bones that influence this vertex","Redirect":""},{"Name":"Weights","Type":"uint8","Description":"Influence of each bone on this vertex","Redirect":""}]}

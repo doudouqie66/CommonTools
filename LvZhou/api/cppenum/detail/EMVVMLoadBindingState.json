@@ -1,0 +1,1 @@
+{"Name":"EMVVMLoadBindingState","Description":" ","Variables":[{"Name":"Success","Value":"0","Description":" "},{"Name":"Invalid_LuaDerived","Value":"1","Description":" "},{"Name":"Invalid_NoBinding","Value":"2","Description":" "},{"Name":"Invalid_ViewModel","Value":"3","Description":" "}]}

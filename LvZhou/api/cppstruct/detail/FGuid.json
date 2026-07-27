@@ -1,0 +1,1 @@
+{"Name":"FGuid","Description":"A globally unique identifier.","Variables":[{"Name":"A","Type":"int32","Description":"","Redirect":""},{"Name":"B","Type":"int32","Description":"","Redirect":""},{"Name":"C","Type":"int32","Description":"","Redirect":""},{"Name":"D","Type":"int32","Description":"","Redirect":""}]}

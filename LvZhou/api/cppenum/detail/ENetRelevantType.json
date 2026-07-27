@@ -1,0 +1,1 @@
+{"Name":"ENetRelevantType","Description":" ","Variables":[{"Name":"ENetRelevantType_All","Value":"0","Description":" "},{"Name":"ENetRelevantType_Teammates","Value":"1","Description":" "},{"Name":"ENetRelevantType_OwnerOnly","Value":"2","Description":" "},{"Name":"ENetRelevantType_None","Value":"3","Description":" "},{"Name":"ENetRelevantType_Max","Value":"4","Description":" "}]}

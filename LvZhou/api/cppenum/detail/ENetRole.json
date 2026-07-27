@@ -1,0 +1,1 @@
+{"Name":"ENetRole","Description":" ","Variables":[{"Name":"ROLE_None","Value":"0","Description":" "},{"Name":"ROLE_SimulatedProxy","Value":"1","Description":" "},{"Name":"ROLE_AutonomousProxy","Value":"2","Description":" "},{"Name":"ROLE_Authority","Value":"3","Description":" "},{"Name":"ROLE_MAX","Value":"4","Description":" "}]}

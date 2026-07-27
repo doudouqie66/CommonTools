@@ -1,0 +1,1 @@
+{"Name":"EPEBuffEffectTriggerConditionOptType","Description":" ","Variables":[{"Name":"PEBuffEffectTriggerConditionOptType_Equal","Value":"0","Description":" "},{"Name":"PEBuffEffectTriggerConditionOptType_Greater","Value":"1","Description":" "},{"Name":"PEBuffEffectTriggerConditionOptType_Less","Value":"2","Description":" "}]}

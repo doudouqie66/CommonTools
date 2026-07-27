@@ -1,0 +1,1 @@
+{"Name":"ESuperPeopleSkillType","Description":" ","Variables":[{"Name":"ESPST_None","Value":"0","Description":" "},{"Name":"ESPST_Buff","Value":"1","Description":" "},{"Name":"ESPST_Throw","Value":"2","Description":" "},{"Name":"ESPST_Shoot","Value":"3","Description":" "},{"Name":"ESPST_Build","Value":"4","Description":" "}]}

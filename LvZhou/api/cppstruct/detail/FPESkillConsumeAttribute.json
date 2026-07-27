@@ -1,0 +1,1 @@
+{"Name":"FPESkillConsumeAttribute","Description":"技能属性消耗","Variables":[{"Name":"GameAttribute","Type":"FGameAttributeContainer","Description":"要消耗的属性名","Redirect":""},{"Name":"ConsumeValue","Type":"float","Description":"消耗的数值","Redirect":""}]}

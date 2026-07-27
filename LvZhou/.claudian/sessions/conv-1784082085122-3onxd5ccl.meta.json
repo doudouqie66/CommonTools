@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784082085122-3onxd5ccl",
+  "providerId": "claude",
+  "title": "Find UI name opened by quest",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784082085123,
+  "updatedAt": 1784100335858,
+  "lastResponseAt": 1784086566192,
+  "sessionId": "7749ebd3-4c44-4dfd-a091-cf5838d2fff7",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "7749ebd3-4c44-4dfd-a091-cf5838d2fff7"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 420,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 58240,
+    "contextWindow": 200000,
+    "contextTokens": 58660,
+    "percentage": 29,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,1 @@
+{"Name":"EFBXNormalImportMethod","Description":" ","Variables":[{"Name":"FBXNIM_ComputeNormals","Value":"0","Description":" "},{"Name":"FBXNIM_ImportNormals","Value":"1","Description":" "},{"Name":"FBXNIM_ImportNormalsAndTangents","Value":"2","Description":" "},{"Name":"FBXNIM_MAX","Value":"3","Description":" "}]}

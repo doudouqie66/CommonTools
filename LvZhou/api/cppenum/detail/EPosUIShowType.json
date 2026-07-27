@@ -1,0 +1,1 @@
+{"Name":"EPosUIShowType","Description":" ","Variables":[{"Name":"All","Value":"0","Description":" "},{"Name":"MyTeam","Value":"1","Description":" "},{"Name":"OtherTeam","Value":"2","Description":" "},{"Name":"Observer","Value":"3","Description":" "},{"Name":"NotObserver","Value":"4","Description":" "}]}

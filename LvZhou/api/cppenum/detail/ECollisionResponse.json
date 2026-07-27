@@ -1,0 +1,1 @@
+{"Name":"ECollisionResponse","Description":" ","Variables":[{"Name":"ECR_Ignore","Value":"0","Description":" "},{"Name":"ECR_Overlap","Value":"1","Description":" "},{"Name":"ECR_Block","Value":"2","Description":" "},{"Name":"ECR_MAX","Value":"3","Description":" "}]}

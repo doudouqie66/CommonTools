@@ -1,0 +1,1 @@
+{"Name":"UDeviceSensorType","Description":" ","Variables":[{"Name":"Sensor_Gyroscope","Value":"0","Description":" "},{"Name":"Sensor_Accelerometer","Value":"1","Description":" "},{"Name":"Sensor_Magnetometer","Value":"2","Description":" "},{"Name":"Sensor_SensorGame","Value":"3","Description":" "}]}

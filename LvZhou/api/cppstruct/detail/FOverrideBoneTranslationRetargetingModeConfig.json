@@ -1,0 +1,1 @@
+{"Name":"FOverrideBoneTranslationRetargetingModeConfig","Description":"","Variables":[{"Name":"RetargetingModeConfig","Type":"TMap \u003c TEnumAsByte \u003c EBoneTranslationRetargetingMode :: Type \u003e , TEnumAsByte \u003c EBoneTranslationRetargetingMode :: Type \u003e \u003e","Description":"","Redirect":""}]}

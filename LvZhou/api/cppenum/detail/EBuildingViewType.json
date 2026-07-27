@@ -1,0 +1,1 @@
+{"Name":"EBuildingViewType","Description":" ","Variables":[{"Name":"EBVT_Invalid","Value":"0","Description":" "},{"Name":"EBVT_UseController","Value":"1","Description":" "},{"Name":"EBVT_UseCamera","Value":"2","Description":" "},{"Name":"EBVT_UseControllerRot","Value":"3","Description":" "},{"Name":"EBVT_Max","Value":"4","Description":" "}]}

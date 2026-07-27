@@ -1,0 +1,1 @@
+{"Name":"EFreeCombinationVoicePlayConflictType","Description":" ","Variables":[{"Name":"PlayConflict_NotMatch","Value":"0","Description":" "},{"Name":"PlayConflict_Abandon","Value":"1","Description":" "},{"Name":"PlayConflict_Interrupt","Value":"2","Description":" "},{"Name":"PlayConflict_Wait","Value":"3","Description":" "}]}

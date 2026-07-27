@@ -1,0 +1,1 @@
+{"Name":"FDecalBakingRequest","Description":"","Variables":[{"Name":"Mesh","Type":"UObject *","Description":"","Redirect":""},{"Name":"DecalParams","Type":"TArray \u003c FDecalParameter \u003e","Description":"","Redirect":""},{"Name":"RenderTarget","Type":"UTextureRenderTarget2D *","Description":"","Redirect":""}]}

@@ -1,0 +1,1 @@
+{"Name":"EFieldLogicType","Description":" ","Variables":[{"Name":"EField_None","Value":"0","Description":" "},{"Name":"EField_Int32","Value":"1","Description":" "},{"Name":"EField_Float","Value":"2","Description":" "},{"Name":"EField_FVector","Value":"3","Description":" "}]}

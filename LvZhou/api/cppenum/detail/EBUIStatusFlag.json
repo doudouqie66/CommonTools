@@ -1,0 +1,1 @@
+{"Name":"EBUIStatusFlag","Description":" ","Variables":[{"Name":"UIF_None","Value":"0","Description":" "},{"Name":"UIF_AsyncLoading","Value":"2","Description":" "},{"Name":"UIF_Deferred","Value":"8","Description":" "},{"Name":"UIF_Preloading","Value":"16","Description":" "},{"Name":"UIF_PendingShow","Value":"4096","Description":" "}]}

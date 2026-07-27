@@ -1,0 +1,1 @@
+{"Name":"EAirAttackInfo","Description":" ","Variables":[{"Name":"AttackWarningTips","Value":"0","Description":" "},{"Name":"Attacking","Value":"1","Description":" "},{"Name":"AttackOver","Value":"2","Description":" "},{"Name":"NoAirAttack","Value":"3","Description":" "},{"Name":"GameFinishClearInfo","Value":"4","Description":" "}]}

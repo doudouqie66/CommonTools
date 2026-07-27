@@ -1,0 +1,1 @@
+{"Name":"EAvatarSubSystemCreationMethod","Description":" ","Variables":[{"Name":"ClientOnly","Value":"1","Description":" "},{"Name":"ServerOnly","Value":"2","Description":" "},{"Name":"ServerReplication","Value":"3","Description":" "}]}

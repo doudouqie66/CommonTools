@@ -1,0 +1,1 @@
+{"Name":"EMaterialTessellationMode","Description":" ","Variables":[{"Name":"MTM_NoTessellation","Value":"0","Description":" "},{"Name":"MTM_FlatTessellation","Value":"1","Description":" "},{"Name":"MTM_PNTriangles","Value":"2","Description":" "},{"Name":"MTM_MAX","Value":"3","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"EPxTouchType","Description":" ","Variables":[{"Name":"TouchStart","Value":"0","Description":" "},{"Name":"TouchMoved","Value":"1","Description":" "},{"Name":"TouchEnd","Value":"2","Description":" "},{"Name":"TouchCanceled","Value":"3","Description":" "}]}

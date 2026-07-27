@@ -1,0 +1,1 @@
+{"Name":"EEntityMemberAnimSharingState","Description":" ","Variables":[{"Name":"Idle","Value":"0","Description":" "},{"Name":"Run","Value":"1","Description":" "},{"Name":"Walk","Value":"2","Description":" "},{"Name":"Attack","Value":"3","Description":" "},{"Name":"Hurt","Value":"4","Description":" "},{"Name":"Dead","Value":"5","Description":" "}]}

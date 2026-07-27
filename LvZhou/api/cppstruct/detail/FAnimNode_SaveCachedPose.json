@@ -1,0 +1,1 @@
+{"Name":"FAnimNode_SaveCachedPose","Description":"","Variables":[{"Name":"Pose","Type":"FPoseLink","Description":"","Redirect":""},{"Name":"CachePoseName","Type":"FName","Description":"Intentionally not exposed, set by AnimBlueprintCompiler","Redirect":""},{"Name":"GlobalWeight","Type":"float","Description":"","Redirect":""}]}

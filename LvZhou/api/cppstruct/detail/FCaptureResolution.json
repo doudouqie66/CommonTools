@@ -1,0 +1,1 @@
+{"Name":"FCaptureResolution","Description":"Structure representing a capture resolution","Variables":[{"Name":"ResX","Type":"uint32","Description":"","Redirect":""},{"Name":"ResY","Type":"uint32","Description":"","Redirect":""}]}

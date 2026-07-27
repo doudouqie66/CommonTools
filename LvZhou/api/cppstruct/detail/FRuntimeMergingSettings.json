@@ -1,0 +1,1 @@
+{"Name":"FRuntimeMergingSettings","Description":"","Variables":[{"Name":"ComponentToWorldTransforms","Type":"TArray \u003c FTransform \u003e","Description":"","Redirect":""},{"Name":"RuntimeMergingOverrideMaterial","Type":"TArray \u003c FRuntimeMergingOverrideMaterial \u003e","Description":"","Redirect":""}]}

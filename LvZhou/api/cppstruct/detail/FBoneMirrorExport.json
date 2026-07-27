@@ -1,0 +1,1 @@
+{"Name":"FBoneMirrorExport","Description":"Structure to exportimport bone mirroring information","Variables":[{"Name":"BoneName","Type":"FName","Description":"","Redirect":""},{"Name":"SourceBoneName","Type":"FName","Description":"","Redirect":""},{"Name":"BoneFlipAxis","Type":"TEnumAsByte \u003c EAxis :: Type \u003e","Description":"","Redirect":""}]}

@@ -1,0 +1,1 @@
+{"Name":"EUGCMobileMotionCompType","Description":" ","Variables":[{"Name":"Linear","Value":"1","Description":" "},{"Name":"Rotation","Value":"2","Description":" "},{"Name":"Pendulum","Value":"3","Description":" "},{"Name":"Nonuniform","Value":"4","Description":" "},{"Name":"Scale","Value":"5","Description":" "},{"Name":"Spline","Value":"6","Description":" "}]}

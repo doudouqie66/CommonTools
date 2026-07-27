@@ -1,0 +1,1 @@
+{"Name":"FUGCMobileMotionSyncState","Description":" ","Variables":[{"Name":"MotionMoving","Value":"1","Description":" "},{"Name":"MotionStoppingWaitSync","Value":"2","Description":" "},{"Name":"MotionStoppingNoSync","Value":"3","Description":" "}]}

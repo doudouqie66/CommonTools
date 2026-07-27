@@ -1,0 +1,1 @@
+{"Name":"EWidgetMatchStatus","Description":" ","Variables":[{"Name":"Matched","Value":"0","Description":" "},{"Name":"NotFound","Value":"1","Description":" "},{"Name":"TypeMismatch","Value":"2","Description":" "},{"Name":"ResourceMismatch","Value":"3","Description":" "},{"Name":"Skipped","Value":"4","Description":" "},{"Name":"Conflict","Value":"5","Description":" "}]}

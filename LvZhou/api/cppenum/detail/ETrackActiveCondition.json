@@ -1,0 +1,1 @@
+{"Name":"ETrackActiveCondition","Description":" ","Variables":[{"Name":"ETAC_Always","Value":"0","Description":" "},{"Name":"ETAC_GoreEnabled","Value":"1","Description":" "},{"Name":"ETAC_GoreDisabled","Value":"2","Description":" "},{"Name":"ETAC_MAX","Value":"3","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"FTimerHandle","Description":"用于区分不同类型的计时器句柄","Variables":[{"Name":"Handle","Type":"uint64","Description":"","Redirect":""}]}

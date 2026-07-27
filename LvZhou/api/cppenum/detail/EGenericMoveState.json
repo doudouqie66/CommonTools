@@ -1,0 +1,1 @@
+{"Name":"EGenericMoveState","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"Moving","Value":"1","Description":" "},{"Name":"Success","Value":"2","Description":" "},{"Name":"Failed","Value":"3","Description":" "},{"Name":"Blocked","Value":"4","Description":" "}]}

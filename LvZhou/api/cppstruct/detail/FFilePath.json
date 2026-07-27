@@ -1,0 +1,1 @@
+{"Name":"FFilePath","Description":"Structure for file paths that are displayed in the UI.","Variables":[{"Name":"FilePath","Type":"FString","Description":"The path to the file.","Redirect":""}]}

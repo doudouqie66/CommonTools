@@ -1,0 +1,1 @@
+{"Name":"FImportFactorySettingValues","Description":"Holds UProperty names and values to customize factory settings","Variables":[{"Name":"SettingName","Type":"FString","Description":"The name of the UProperty to change","Redirect":""},{"Name":"Value","Type":"FString","Description":"The value to apply to the UProperty","Redirect":""}]}

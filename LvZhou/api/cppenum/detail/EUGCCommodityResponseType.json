@@ -1,0 +1,1 @@
+{"Name":"EUGCCommodityResponseType","Description":" ","Variables":[{"Name":"OrderID","Value":"1","Description":" "},{"Name":"CommodityID_Count","Value":"2","Description":" "},{"Name":"RechargeResult","Value":"3","Description":" "},{"Name":"TicketChanged","Value":"4","Description":" "},{"Name":"ActiveCoinChanged","Value":"5","Description":" "}]}

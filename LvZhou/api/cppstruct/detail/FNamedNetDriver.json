@@ -1,0 +1,1 @@
+{"Name":"FNamedNetDriver","Description":"Active and named net drivers instantiated from an FNetDriverDefinition\n  The net driver will remain instantiated on this struct until it is destroyed","Variables":[{"Name":"NetDriver","Type":"UNetDriver *","Description":"Instantiation of named net driver","Redirect":""}]}

@@ -1,0 +1,1 @@
+{"Name":"EAIMovePose","Description":" ","Variables":[{"Name":"Walk","Value":"0","Description":" "},{"Name":"Run","Value":"1","Description":" "},{"Name":"CrouchSprint","Value":"2","Description":" "},{"Name":"KeepCurrentPose","Value":"3","Description":" "}]}

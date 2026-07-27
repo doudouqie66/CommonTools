@@ -1,0 +1,1 @@
+{"Name":"FCullDistanceSizePair","Description":"Helper structure containing size and cull distance pair.","Variables":[{"Name":"Size","Type":"float","Description":"Size to associate with cull distance.","Redirect":""},{"Name":"CullDistance","Type":"float","Description":"Cull distance associated with size.","Redirect":""}]}

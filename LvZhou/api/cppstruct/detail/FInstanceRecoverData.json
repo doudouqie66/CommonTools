@@ -1,0 +1,1 @@
+{"Name":"FInstanceRecoverData","Description":"","Variables":[{"Name":"InstanceRenderDataMap","Type":"TMap \u003c int32 , FInstancedStaticMeshInstanceDataWithLightmap \u003e","Description":"","Redirect":""}]}

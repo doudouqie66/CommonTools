@@ -1,0 +1,1 @@
+{"Name":"EDragBackpackItemMsgType","Description":" ","Variables":[{"Name":"EDBIMT_DragBegin","Value":"1","Description":" "},{"Name":"EDBIMT_DragDrop","Value":"2","Description":" "},{"Name":"EDBIMT_DragCancelled","Value":"3","Description":" "}]}

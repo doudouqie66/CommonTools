@@ -1,0 +1,19 @@
+---
+title: FPoseDataContainer
+---
+
+# FPoseDataContainer
+
+Pose data container
+ 
+ Contains animation and curve for all poses
+
+## Variables
+
+| Name | Type | Description |
+|------|------|-------------|
+| PoseNames | TArray < FSmartName > |  |
+| Poses | TArray < FPoseData > |  |
+| Tracks | TArray < FName > |  |
+| TrackMap | TMap < FName , int32 > |  |
+| Curves | TArray < FAnimCurveBase > |  |

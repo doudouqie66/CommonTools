@@ -1,0 +1,1 @@
+{"Name":"UAISenseConfig_Blueprint","Description":"","Variables":[{"Name":"Implementation","Type":"TSubclassOf \u003c UAISense_Blueprint \u003e","Description":"","Redirect":""}],"Functions":null,"Parents":["UAISenseConfig"],"Event":null,"Delegate":null,"Language":"cpp"}

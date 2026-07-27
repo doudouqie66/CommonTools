@@ -1,0 +1,1 @@
+{"Name":"EPerformLinkType","Description":" ","Variables":[{"Name":"Default","Value":"0","Description":" "},{"Name":"TakeElevator","Value":"1","Description":" "},{"Name":"TakeTrackVehicle","Value":"2","Description":" "},{"Name":"TakeZipline","Value":"3","Description":" "},{"Name":"TakeInteractiveDoor","Value":"4","Description":" "}]}

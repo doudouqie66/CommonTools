@@ -1,0 +1,1 @@
+{"Name":"ULightmassPortalComponent","Description":"","Variables":[{"Name":"PreviewBox","Type":"UBoxComponent *","Description":"","Redirect":""}],"Functions":null,"Parents":["USceneComponent"],"Event":null,"Delegate":null,"Language":"cpp"}

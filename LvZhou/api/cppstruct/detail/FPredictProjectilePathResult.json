@@ -1,0 +1,1 @@
+{"Name":"FPredictProjectilePathResult","Description":"","Variables":[{"Name":"PathData","Type":"TArray \u003c FPredictProjectilePathPointData \u003e","Description":"","Redirect":""},{"Name":"LastTraceDestination","Type":"FPredictProjectilePathPointData","Description":"","Redirect":""},{"Name":"HitResult","Type":"FHitResult","Description":"","Redirect":""}]}

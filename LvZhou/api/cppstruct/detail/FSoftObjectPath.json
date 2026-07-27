@@ -1,0 +1,1 @@
+{"Name":"FSoftObjectPath","Description":"An object path, this is saved as a namestring pair","Variables":[{"Name":"AssetPathName","Type":"FName","Description":"Asset path, patch to a top level object in a package","Redirect":""},{"Name":"SubPathString","Type":"FString","Description":"Optional FString for subobject within an asset","Redirect":""}]}

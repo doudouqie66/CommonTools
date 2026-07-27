@@ -1,0 +1,1 @@
+{"Name":"FActionCluster","Description":"","Variables":[{"Name":"ClusterID","Type":"int32","Description":"","Redirect":""},{"Name":"ClusterActionNames","Type":"TArray \u003c FName \u003e","Description":"","Redirect":""}]}

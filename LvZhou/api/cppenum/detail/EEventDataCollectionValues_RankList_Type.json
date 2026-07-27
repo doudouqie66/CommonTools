@@ -1,0 +1,1 @@
+{"Name":"EEventDataCollectionValues_RankList_Type","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"Hot","Value":"-1","Description":" "},{"Name":"Lucky","Value":"-1","Description":"-- the value appears as -1 more due to UHT parse error rather than it actually be -1."}]}

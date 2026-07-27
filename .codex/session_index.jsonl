@@ -1,0 +1,397 @@
+{"id":"019eb490-917c-7991-878b-51b5fccf0814","thread_name":"排查传送回城无响应","updated_at":"2026-06-11T02:44:29.5568055Z"}
+{"id":"019eb4a0-8879-77f1-b27a-dc6ad5b9e046","thread_name":"检查语法错误","updated_at":"2026-06-11T03:01:38.4170742Z"}
+{"id":"019eb4a5-ce35-7110-979d-d1ef09ca4131","thread_name":"添加全局 Lua 语法","updated_at":"2026-06-11T03:07:45.8924473Z"}
+{"id":"019eba9c-813a-79f3-ac37-7eb12bc0fc44","thread_name":"检查 MainUI.lua 写法","updated_at":"2026-06-12T06:55:03.5564838Z"}
+{"id":"019ebb01-4a7a-7c12-9bb4-d3a37238731b","thread_name":"保存数据到服务器","updated_at":"2026-06-12T08:44:57.4432682Z"}
+{"id":"019ebeb4-a3ff-7b22-8947-f764b95f1446","thread_name":"实现广播调用","updated_at":"2026-06-13T02:00:34.4217755Z"}
+{"id":"019ebee5-cd9e-7401-b300-721428ead309","thread_name":"定位 UGCGameState 问题","updated_at":"2026-06-13T02:53:40.0519315Z"}
+{"id":"019ebef0-d6d8-7410-949d-acb4373201b6","thread_name":"制作千纸鹤材质","updated_at":"2026-06-13T03:06:28.1017858Z"}
+{"id":"019ebef2-b974-7f10-9d5c-cd4827336cda","thread_name":"生成全队可见怪物","updated_at":"2026-06-13T03:07:47.0263505Z"}
+{"id":"019ebfbf-3da5-7761-a815-607df90ca9a0","thread_name":"设置地图碰撞边界","updated_at":"2026-06-13T06:51:08.4911576Z"}
+{"id":"019ebfd3-db93-72d2-a4c4-7f5b23928476","thread_name":"修改怪物生成属性","updated_at":"2026-06-13T07:14:08.2759758Z"}
+{"id":"019ec91f-2492-76b0-8347-318dcb9f99e4","thread_name":"查找获取自己UID语句","updated_at":"2026-06-15T02:32:20.4933565Z"}
+{"id":"019ec938-51fe-7240-ae7a-9cda27094e37","thread_name":"实现碰撞后广播更新UI","updated_at":"2026-06-15T03:00:43.7481204Z"}
+{"id":"019ec941-f69a-7593-bdbc-4ba4fc02e622","thread_name":"修复碰撞通知全客户端","updated_at":"2026-06-15T03:10:30.1872953Z"}
+{"id":"019ec94e-8036-7dd1-a67f-53ca1d8a0c8a","thread_name":"排查修改未正确显示","updated_at":"2026-06-15T03:24:08.8392045Z"}
+{"id":"019ec979-2a2c-7770-8275-9a5fc9c8ec4e","thread_name":"Review bottomCreateMoms.lua","updated_at":"2026-06-15T04:10:36.565204Z"}
+{"id":"019ec98f-f005-7dc2-bf71-e0692a8fe28d","thread_name":"实现怪物出生点自定义","updated_at":"2026-06-15T04:37:37.4414542Z"}
+{"id":"019ece31-e5b7-7951-bf28-e7f18ceed5fb","thread_name":"复制小关卡并生成四大关卡","updated_at":"2026-06-16T02:12:25.7114495Z"}
+{"id":"019ece77-1f12-72b0-bc64-0340e385c0b2","thread_name":"Resolve git pull conflicts","updated_at":"2026-06-16T03:26:33.9995015Z"}
+{"id":"019ed988-66f9-73f2-bc31-95114a0e7ff1","thread_name":"打招呼","updated_at":"2026-06-18T07:01:03.1866999Z"}
+{"id":"019ed9b5-01d0-78a2-90fb-778ad2a47569","thread_name":"设计碰撞区刷怪重生机制","updated_at":"2026-06-18T07:50:49.782759Z"}
+{"id":"019ed9c8-923b-7920-a7ad-c3ac7fbd5b72","thread_name":"添加绿洲启元 API 文档","updated_at":"2026-06-18T08:11:59.6483546Z"}
+{"id":"019eddc9-7da0-7660-8798-b335dbbc191b","thread_name":"了解图片生成功能","updated_at":"2026-06-19T02:50:42.3188397Z"}
+{"id":"019edeb3-26c0-7f81-a3af-4b75c6b512a7","thread_name":"整理 com 图片并重命名","updated_at":"2026-06-19T07:07:11.7768953Z"}
+{"id":"019eed34-d1db-7fc2-950b-cb893b8afa02","thread_name":"修复绿洲启元启动失败","updated_at":"2026-06-22T02:42:29.3355774Z"}
+{"id":"019eed58-8378-78c1-ab9e-762905312fd1","thread_name":"检查 UGCPlayerPawn.lua 问题","updated_at":"2026-06-22T03:21:17.4167846Z"}
+{"id":"019eeeab-8710-7fa3-9cd5-b4ce656986de","thread_name":"添加日志排查UGCPlayerPawn","updated_at":"2026-06-22T09:31:51.2504351Z"}
+{"id":"019eeee2-e801-70b1-9cdb-4fb2ed417b8c","thread_name":"排查 pathsoul 不显示","updated_at":"2026-06-22T10:32:22.0246929Z"}
+{"id":"019ef241-b093-76a3-88f5-feaa328642e1","thread_name":"查找自监听 AddListener API","updated_at":"2026-06-23T02:14:52.76743Z"}
+{"id":"019ef31a-4af2-7d21-9891-a96de70ec830","thread_name":"定位 SoulMesh 加载问题","updated_at":"2026-06-23T06:11:11.9816062Z"}
+{"id":"019ef35d-dcad-7320-8853-38b463a8c28b","thread_name":"排查无法卸载原因","updated_at":"2026-06-23T07:25:04.6079473Z"}
+{"id":"019ef36f-c529-7862-b1c8-b473c3528800","thread_name":"关闭 Image_0","updated_at":"2026-06-23T07:44:49.561339Z"}
+{"id":"019ef374-e8f0-7120-9ad1-2ee8ba0ab96e","thread_name":"排查 Image_0 可见性设置","updated_at":"2026-06-23T07:49:59.886466Z"}
+{"id":"019ef3be-492a-7ad3-abb0-07d0d1fc4ccd","thread_name":"修复数量减少异常","updated_at":"2026-06-23T09:10:04.6498059Z"}
+{"id":"019ef4b1-58b0-7260-bf60-726a8a68e38a","thread_name":"实现怪物越区直接消失","updated_at":"2026-06-23T13:36:23.7100093Z"}
+{"id":"019ef775-5d96-7d12-8055-be52b4781eec","thread_name":"修复死亡后魂环残留","updated_at":"2026-06-24T02:29:11.6047403Z"}
+{"id":"019ef795-c93b-7273-a0a7-5d764fb62afb","thread_name":"排查怪物不生成原因","updated_at":"2026-06-24T03:08:25.5634514Z"}
+{"id":"019ef7a6-c39f-7003-a117-c9255e6c13e8","thread_name":"实现碰撞体清空销毁怪物","updated_at":"2026-06-24T03:25:48.8848539Z"}
+{"id":"019ef841-1d95-7521-b54d-39aa832d2ddd","thread_name":"设置Boss死亡5秒后复活","updated_at":"2026-06-24T06:12:26.2294749Z"}
+{"id":"019efe3e-4c96-7842-ae84-5603e637b942","thread_name":"整理怪物关卡表","updated_at":"2026-06-25T10:07:45.8714898Z"}
+{"id":"019efeba-4b89-7190-a496-9fc73817f722","thread_name":"查找怪物死亡掉落逻辑","updated_at":"2026-06-25T12:21:36.5926502Z"}
+{"id":"019efeea-2add-7663-b2e3-25751762e9dd","thread_name":"确认可获取掉落方案Id","updated_at":"2026-06-25T13:14:16.457392Z"}
+{"id":"019eff12-49c0-7f82-b733-4eb5cf82c3bf","thread_name":"新增掉落表10%到100%","updated_at":"2026-06-25T13:57:47.846592Z"}
+{"id":"019eff4d-d039-7c62-9a76-e99253bd99e5","thread_name":"定位错误","updated_at":"2026-06-25T15:02:46.4732337Z"}
+{"id":"019f01bb-310b-7e70-afda-3c0e1dab2e9a","thread_name":"排查魂环显示问题","updated_at":"2026-06-26T02:21:46.8496071Z"}
+{"id":"019f01db-30c9-7590-96d0-56942dd8a446","thread_name":"添加日志排查准确性","updated_at":"2026-06-26T02:57:08.8686406Z"}
+{"id":"019f020c-d4b7-7781-96c8-54558aebe186","thread_name":"批量修改其他怪物掉落","updated_at":"2026-06-26T03:51:01.2059861Z"}
+{"id":"019f0233-e280-7ce2-9e87-b3ab9eb5445b","thread_name":"排查按钮文本被覆盖","updated_at":"2026-06-26T04:34:18.7256692Z"}
+{"id":"019f023f-3654-78c3-9565-14ad5544535f","thread_name":"固定怪物受伤掉2血","updated_at":"2026-06-26T04:45:52.5274977Z"}
+{"id":"019f02c0-bd0b-7c31-9fd8-947733704d72","thread_name":"修改怪物伤害为2","updated_at":"2026-06-26T07:07:07.0719516Z"}
+{"id":"019f082e-f125-7212-ae82-0e17699c5dd5","thread_name":"给其他BaseMons加死亡处理","updated_at":"2026-06-27T08:25:31.5920552Z"}
+{"id":"019f0850-e8eb-7871-bc96-8c78c544d70c","thread_name":"测试连接绿洲启元 MCP","updated_at":"2026-06-27T09:03:08.3625035Z"}
+{"id":"019f08bb-6b82-7630-b9f5-bd9fd20730e0","thread_name":"Add ponytail plugin","updated_at":"2026-06-27T10:59:13.2386323Z"}
+{"id":"019f112b-465a-7880-94d5-5fad26cea72b","thread_name":"开局设置最大血量9999999999999999","updated_at":"2026-06-29T02:18:45.0007365Z"}
+{"id":"019f114b-de30-7050-817a-2cf51e41d099","thread_name":"实现物品全消耗回血","updated_at":"2026-06-29T02:53:55.9704885Z"}
+{"id":"019f114c-b987-70e3-a554-ab7392b5c1cc","thread_name":"Add DietrichGebert/ponytail","updated_at":"2026-06-29T02:54:38.0519723Z"}
+{"id":"019f1187-e61a-7071-8c6f-b300c6d96128","thread_name":"加速绿洲启元调试","updated_at":"2026-06-29T03:59:40.6674224Z"}
+{"id":"019f123f-5f89-79b2-ab3e-7d0f32a9abba","thread_name":"补充Customized数据","updated_at":"2026-06-29T07:19:54.120181Z"}
+{"id":"019f1277-35f8-7250-b0d9-c9f7787f5086","thread_name":"Update global minimal-change rules","updated_at":"2026-06-29T08:21:57.6953674Z"}
+{"id":"019f12b0-0da0-7350-8671-9557624ae1b5","thread_name":"修改test CSV列数据","updated_at":"2026-06-29T09:23:26.208184Z"}
+{"id":"019f12d0-02c1-7192-883f-f89a1878a34d","thread_name":"检查问题","updated_at":"2026-06-29T09:57:43.8287237Z"}
+{"id":"019f12ea-2289-7c10-9b78-2a29fba4723c","thread_name":"查找 image2 模型入口","updated_at":"2026-06-29T10:26:30.2024845Z"}
+{"id":"019f1314-7b9d-7500-93aa-c1ba133e6577","thread_name":"检查运行日志","updated_at":"2026-06-29T11:12:42.6362257Z"}
+{"id":"019f134b-96ab-7b92-84ed-373693ce5454","thread_name":"查找怪物死亡动画","updated_at":"2026-06-29T12:12:58.0306863Z"}
+{"id":"019f136b-9806-7821-b392-148823705a32","thread_name":"查找自动拾取接口","updated_at":"2026-06-29T12:47:43.5634411Z"}
+{"id":"019f1389-32ae-7bd3-8f27-52fdd18e899b","thread_name":"设置保存时自动格式化","updated_at":"2026-06-29T13:20:22.025173Z"}
+{"id":"019f1397-75f2-7353-bdd5-c0288d8a3075","thread_name":"设置无限血量","updated_at":"2026-06-29T13:35:30.947321Z"}
+{"id":"019f139a-52b2-7a53-a8fc-c222a389de07","thread_name":"实现自动平a功能","updated_at":"2026-06-29T13:38:57.0466062Z"}
+{"id":"019f1648-d6dd-7b93-bcff-8144fcc8b5c9","thread_name":"实现魂环批量使用","updated_at":"2026-06-30T02:10:39.6285486Z"}
+{"id":"019f169a-0a80-7411-8f52-908f6ef3e278","thread_name":"修改桌面drop表格","updated_at":"2026-06-30T03:37:50.935965Z"}
+{"id":"019f16c5-faa9-7fe3-81ba-522a43b74c14","thread_name":"定位Pawn获取问题","updated_at":"2026-06-30T04:25:21.8639097Z"}
+{"id":"019f1729-1447-7543-bc25-b5752326e1db","thread_name":"检查 addend 写法","updated_at":"2026-06-30T06:13:25.5479007Z"}
+{"id":"019f1760-e942-7f91-97b5-e6e5da470d46","thread_name":"查找副本英文说法","updated_at":"2026-06-30T07:14:32.8092473Z"}
+{"id":"019f17ea-f451-7661-a731-5a2e2ebb2a69","thread_name":"查找主角全局伤害脚本","updated_at":"2026-06-30T09:45:28.364156Z"}
+{"id":"019f1812-c0f2-7121-bef1-da5953d83da0","thread_name":"修复 Boss 攻击加成逻辑","updated_at":"2026-06-30T10:29:51.9071352Z"}
+{"id":"019f182b-7339-7b20-b9b0-bdfc26445288","thread_name":"说明脚本用途","updated_at":"2026-06-30T10:55:38.2958717Z"}
+{"id":"019f1874-0b1a-7133-810f-13e63f22b80e","thread_name":"确认传送出生点","updated_at":"2026-06-30T12:15:04.2451343Z"}
+{"id":"019f1883-bdcc-76b3-8ea7-1fa6d437e070","thread_name":"更新 Codex 全局简洁规则","updated_at":"2026-06-30T12:32:48.0786358Z"}
+{"id":"019f189a-03c1-7231-8142-6bbe21c9f4d5","thread_name":"调整Boss缩放与攻击巡逻距离","updated_at":"2026-06-30T12:57:38.6687158Z"}
+{"id":"019f189d-4d4e-78f2-ba90-e05d9621ec84","thread_name":"连接MCP端口12463","updated_at":"2026-06-30T13:00:14.0454888Z"}
+{"id":"019f1c7a-4aa5-71b2-8ffd-18b59438ae39","thread_name":"在duplicate关卡生成Boss_1","updated_at":"2026-07-01T07:02:34.5162905Z"}
+{"id":"019f1cba-dcdd-7352-bb65-ad3149180a7a","thread_name":"补全小怪其他功能","updated_at":"2026-07-01T08:11:15.3847576Z"}
+{"id":"019f1d10-0dee-7f30-935c-d562ec6715c6","thread_name":"实现剑自动平A","updated_at":"2026-07-01T09:44:41.0614407Z"}
+{"id":"019f1d15-9bf7-7243-bfee-e73d4f0e091f","thread_name":"移除 Lua 编译检查","updated_at":"2026-07-01T09:50:09.8388436Z"}
+{"id":"019f1d40-b1ac-7870-974d-471fe39ba53e","thread_name":"连接MCP","updated_at":"2026-07-01T10:36:59.8676553Z"}
+{"id":"019f1dce-e9c6-7c12-8ac8-babafe2258f3","thread_name":"实现持续平a效果","updated_at":"2026-07-01T13:13:27.6189557Z"}
+{"id":"019f20ba-855f-7783-af62-da79542b6c0a","thread_name":"解释脚本作用","updated_at":"2026-07-02T02:48:57.5184445Z"}
+{"id":"019f20c3-bf30-7d23-bb6e-aeaef58a052a","thread_name":"修复魂环属性复活丢失","updated_at":"2026-07-02T02:59:27.5434183Z"}
+{"id":"019f218d-e152-7a71-a573-15d938e88706","thread_name":"定位血量文本设置","updated_at":"2026-07-02T06:39:56.4806041Z"}
+{"id":"019f21a1-18d4-7ef3-8ef5-c9ed828b503b","thread_name":"获取UI02的TextBlock_303","updated_at":"2026-07-02T07:01:15.7409532Z"}
+{"id":"019f21b2-fdea-7550-a0f5-1b3cdb25e04d","thread_name":"新增基础属性排行持久化","updated_at":"2026-07-02T07:22:04.6137198Z"}
+{"id":"019f21bf-6594-7802-b61b-e40bb1cc8c30","thread_name":"初始化时调用PaiHangTextShow","updated_at":"2026-07-02T07:34:07.9944182Z"}
+{"id":"019f21d4-9b64-7283-87e3-dea205a3b479","thread_name":"对齐 PlayerState 属性值","updated_at":"2026-07-02T07:57:41.1407154Z"}
+{"id":"019f21eb-8ea6-7990-9e06-be32096611b7","thread_name":"修正攻击加成百分比","updated_at":"2026-07-02T08:22:36.6671385Z"}
+{"id":"019f2207-0b79-7902-9273-af3eeaa2942b","thread_name":"在Statemgr实现魂环加血加攻","updated_at":"2026-07-02T08:52:46.829495Z"}
+{"id":"019f2214-1507-7a73-98f8-00ab07568e30","thread_name":"检查 WuQiTextShow 流程","updated_at":"2026-07-02T09:06:44.2514346Z"}
+{"id":"019f2216-207f-7313-9838-1b6a89114455","thread_name":"排查 SetText 不显示","updated_at":"2026-07-02T09:08:58.6940315Z"}
+{"id":"019f2227-82ee-7043-aa92-961c45e2ac62","thread_name":"设置全局日志路径","updated_at":"2026-07-02T09:27:43.9107677Z"}
+{"id":"019f222c-4237-7123-b830-daae361200c8","thread_name":"修复最大血量问题","updated_at":"2026-07-02T09:32:45.7231241Z"}
+{"id":"019f2265-0512-7592-8699-1c8f50570f55","thread_name":"传递L_Com数值到StateMgr","updated_at":"2026-07-02T10:36:46.3187802Z"}
+{"id":"019f226e-818d-7ff2-be19-3a873afb1d61","thread_name":"通知属性关联值更新","updated_at":"2026-07-02T10:45:15.2270279Z"}
+{"id":"019f2301-eef8-76a3-9fc8-fc6359f308d7","thread_name":"查找 UGCGenericMessageSystem 注册处","updated_at":"2026-07-02T13:26:09.4068223Z"}
+{"id":"019f25b9-de9c-7473-b5d9-1afecdbc3f4c","thread_name":"先注释掉代码","updated_at":"2026-07-03T02:06:21.1733504Z"}
+{"id":"019f25c8-3050-7fa3-8c04-0ad487da6815","thread_name":"排查初始化问题","updated_at":"2026-07-03T02:22:08.0553498Z"}
+{"id":"019f25d4-342a-70c1-9930-7424b2ab8981","thread_name":"修复攻击力显示异常","updated_at":"2026-07-03T02:35:04.6817452Z"}
+{"id":"019f25e7-f048-7ca2-b61c-473b3e595b4b","thread_name":"修复战力显示异常","updated_at":"2026-07-03T02:56:38.5703929Z"}
+{"id":"019f2608-6b5a-7ab2-b1e7-2802e3f93486","thread_name":"给PlayerState BaseAttack加3","updated_at":"2026-07-03T03:33:10.8395541Z"}
+{"id":"019f260d-de29-7623-95d7-c02d8921fa05","thread_name":"查找死亡后PlayerState数据","updated_at":"2026-07-03T03:38:13.8509143Z"}
+{"id":"019f2617-a953-7500-be79-c1e72ab5a93c","thread_name":"添加 UseHunHuan 数值加成","updated_at":"2026-07-03T03:49:24.1606119Z"}
+{"id":"019f262d-1467-71e3-9e3b-f30a59fe1995","thread_name":"排查最大血量未生效","updated_at":"2026-07-03T04:12:22.421832Z"}
+{"id":"019f262d-e80a-73e2-8692-415000ece2cc","thread_name":"查找物品使用调用方法","updated_at":"2026-07-03T04:13:12.5900795Z"}
+{"id":"019f2635-9e94-7d12-9ecb-9a74e45379ff","thread_name":"添加当前最大血量显示","updated_at":"2026-07-03T04:22:52.1121773Z"}
+{"id":"019f263a-310e-7783-9ec1-3a39bec33846","thread_name":"排查复活后血量异常","updated_at":"2026-07-03T04:26:44.5827886Z"}
+{"id":"019f263d-babc-7440-a42b-3b9e9537076f","thread_name":"查找复活后血量异常原因","updated_at":"2026-07-03T04:30:27.0782019Z"}
+{"id":"019f263f-9012-7541-9082-80fed000d356","thread_name":"修复复活后获取最大血量","updated_at":"2026-07-03T04:32:46.7314825Z"}
+{"id":"019f2646-c352-7650-bffa-8842709a050d","thread_name":"查找魂环未更新血量UI原因","updated_at":"2026-07-03T04:40:24.3044962Z"}
+{"id":"019f26a7-9679-7d73-be83-08c03b09a5f7","thread_name":"合并战力血量方法","updated_at":"2026-07-03T06:26:09.9098702Z"}
+{"id":"019f26ae-04f6-7801-995b-218efcf15764","thread_name":"重构死亡后血攻重置流程","updated_at":"2026-07-03T06:33:48.3088356Z"}
+{"id":"019f26c4-1685-7953-93be-a7da7a6106e4","thread_name":"排查复活后魂环问题","updated_at":"2026-07-03T06:57:31.8168522Z"}
+{"id":"019f26d8-2941-7be2-b218-55db1f22f6d9","thread_name":"改成v2方法","updated_at":"2026-07-03T07:19:30.6879807Z"}
+{"id":"019f270b-f070-7751-872a-e4d154bd3e6c","thread_name":"检查出生点冲突","updated_at":"2026-07-03T08:19:13.7780075Z"}
+{"id":"019f2733-1e6d-7ed1-b581-ec2f176fa8d0","thread_name":"修改境界加成文本","updated_at":"2026-07-03T09:00:09.644663Z"}
+{"id":"019f273a-efeb-7183-8a6d-825e6f13cba0","thread_name":"更新JingJieConfig","updated_at":"2026-07-03T09:07:29.1694079Z"}
+{"id":"019f2778-f1f1-7603-9329-afef711c5585","thread_name":"配置怪物无限巡逻","updated_at":"2026-07-03T10:14:53.6898735Z"}
+{"id":"019f27a2-ddff-72a2-8ff6-5db6e245a79f","thread_name":"查找屏幕震动效果","updated_at":"2026-07-03T11:00:31.8719928Z"}
+{"id":"019f2846-375b-7053-b1fe-85dc50ba072d","thread_name":"排查 Obj save package 失败","updated_at":"2026-07-03T13:58:51.0741244Z"}
+{"id":"019f285d-3ed8-72f2-967c-38db7fae0097","thread_name":"确认怪物落地 hitbox","updated_at":"2026-07-03T14:24:06.3853734Z"}
+{"id":"019f288f-bc24-7eb1-a2ab-69b77f0aa737","thread_name":"调整怪物巡逻距离","updated_at":"2026-07-03T15:19:13.4359654Z"}
+{"id":"019f28d6-488b-7a70-b628-48c6233aa08a","thread_name":"调整怪物按点位生成","updated_at":"2026-07-03T16:36:06.9577723Z"}
+{"id":"019f2ae2-f865-7140-bc06-4efa3916a25c","thread_name":"命名震动变红UI管理器","updated_at":"2026-07-04T02:09:42.3959983Z"}
+{"id":"019f2af7-e58a-7c40-8ae0-39d53c150520","thread_name":"优化这个功能","updated_at":"2026-07-04T02:32:25.1519294Z"}
+{"id":"019f2b3d-ad7b-7281-bdb6-11eccd513b25","thread_name":"检查明显问题","updated_at":"2026-07-04T03:48:24.9314291Z"}
+{"id":"019f2b5d-ebf8-7692-a1a3-232f86e504c5","thread_name":"定位屏幕抖动值","updated_at":"2026-07-04T04:23:36.6298512Z"}
+{"id":"019f2b7d-7831-7241-aad0-a450c8b7d79f","thread_name":"确认1到10继承关系","updated_at":"2026-07-04T04:58:36.0202417Z"}
+{"id":"019f2bfa-2bb3-7743-983a-7fa0a9f373e1","thread_name":"比较1和2","updated_at":"2026-07-04T07:14:19.4746879Z"}
+{"id":"019f2c1b-3b61-7410-ac55-7527ec5bb5f1","thread_name":"检查 self.CSPoint","updated_at":"2026-07-04T07:50:22.3779924Z"}
+{"id":"019f2c21-43c1-7c52-95ea-4ed8c0142510","thread_name":"点击打开TowerTopUI","updated_at":"2026-07-04T07:57:18.8517358Z"}
+{"id":"019f2c40-c513-7ef3-8d2c-518e01022cc6","thread_name":"排查传送后数量未减少","updated_at":"2026-07-04T08:31:32.2010784Z"}
+{"id":"019f2c47-8e34-7ec2-b3f8-498b32272443","thread_name":"修改爬塔大礼包掉落","updated_at":"2026-07-04T08:41:57.8109756Z"}
+{"id":"019f2c61-28da-7023-8d45-25181e4a608d","thread_name":"定位怪物碰撞打开UI02组件","updated_at":"2026-07-04T09:07:29.685638Z"}
+{"id":"019f2c93-89cf-7f02-92ba-a0291454f7ed","thread_name":"实现按钮一键吃魂环","updated_at":"2026-07-04T10:01:42.883906Z"}
+{"id":"019f2caf-8313-72c2-a968-5278f28cd4f0","thread_name":"添加基础属性方法","updated_at":"2026-07-04T10:33:24.104402Z"}
+{"id":"019f2cd2-1c97-77e3-906b-2fb828746df5","thread_name":"查找 Probability_Bonus 来源","updated_at":"2026-07-04T11:10:11.460839Z"}
+{"id":"019f2ce3-c9ef-7073-97f8-efd9fb4a2d54","thread_name":"移动倍率到 BeiLvTextShow","updated_at":"2026-07-04T11:29:41.9003807Z"}
+{"id":"019f2d36-2235-7fd0-9a90-1c6871bde1a3","thread_name":"添加碰撞刷怪点位生成","updated_at":"2026-07-04T13:02:10.7331359Z"}
+{"id":"019f2d56-f469-73d3-8734-a6816f40245c","thread_name":"添加outbox进出音效","updated_at":"2026-07-04T13:35:45.3592811Z"}
+{"id":"019f2d60-9993-7880-a53a-b5f124bc556b","thread_name":"定位 Client_SetTowerOutBoxVisible","updated_at":"2026-07-04T13:47:35.9097398Z"}
+{"id":"019f3014-9adf-7320-8eac-9d572d6974c9","thread_name":"转换万亿为数字","updated_at":"2026-07-05T02:21:34.4696491Z"}
+{"id":"019f3022-7c77-7261-9de2-4dc7cc9790bc","thread_name":"修改掉落物概率","updated_at":"2026-07-05T02:39:03.0976892Z"}
+{"id":"019f3049-e95a-72e0-a39b-205252e79939","thread_name":"添加掉落调试日志","updated_at":"2026-07-05T03:19:57.429416Z"}
+{"id":"019f3135-c22d-73c0-8ca5-ea91a648dc39","thread_name":"添加10分钟双倍倍率","updated_at":"2026-07-05T07:39:45.5335169Z"}
+{"id":"019f3147-b2c6-73c2-85a5-6864415b1432","thread_name":"清理桌面CSV保留指定范围","updated_at":"2026-07-05T07:59:38.5774723Z"}
+{"id":"019f3168-924f-75d0-8fe4-94138804ac9d","thread_name":"实现物品通行门","updated_at":"2026-07-05T08:33:39.7627944Z"}
+{"id":"019f31b2-7fe3-7d21-a573-efc11c7068ef","thread_name":"查找重力限制","updated_at":"2026-07-05T09:53:42.7861717Z"}
+{"id":"019f3201-2b9b-7b22-8ab6-238ef6eed9cc","thread_name":"解释DeattachAreaRadius","updated_at":"2026-07-05T11:19:34.6584864Z"}
+{"id":"019f321a-d994-7363-b1d9-ed4e0703a375","thread_name":"修复竖向滑动失效","updated_at":"2026-07-05T11:47:54.0750916Z"}
+{"id":"019f322b-8a7c-7a13-9f44-ab8bee38d96a","thread_name":"修复竖向无法滑动","updated_at":"2026-07-05T12:06:05.00523Z"}
+{"id":"019f32a5-ae78-74e0-869a-fdf83fa103be","thread_name":"连接 MCP","updated_at":"2026-07-05T14:19:33.6908661Z"}
+{"id":"019f35b2-bebe-7202-8dfb-f37a96bd7f7c","thread_name":"压缩桌面333图片","updated_at":"2026-07-06T04:34:46.8973546Z"}
+{"id":"019f36f9-7995-7851-91b5-2f4c80c203f5","thread_name":"修复结束绳索后无法攻击","updated_at":"2026-07-06T10:29:40.177321Z"}
+{"id":"019f44cc-c05c-7131-893f-89589e1d64b0","thread_name":"调整SpawnNearPlayer掉落概率","updated_at":"2026-07-09T02:55:25.8457958Z"}
+{"id":"019f4520-ec7d-7b82-a0a0-acecf519834a","thread_name":"关联血量改动","updated_at":"2026-07-09T04:27:15.8038246Z"}
+{"id":"019f4589-95b5-7c71-ae33-a5c1f1cebec1","thread_name":"修改血条血量显示方法","updated_at":"2026-07-09T06:21:33.8103653Z"}
+{"id":"019f45bc-de29-7fe3-abb9-650abac0a159","thread_name":"转换49121.33万亿","updated_at":"2026-07-09T07:17:31.4297199Z"}
+{"id":"019f4723-67be-7c92-a16a-9e63b27aa519","thread_name":"查明0.1秒用途","updated_at":"2026-07-09T13:49:23.2270392Z"}
+{"id":"019f4a2d-7cc5-7452-b63d-89fad77fc77b","thread_name":"实现百人同局","updated_at":"2026-07-10T03:59:03.6218869Z"}
+{"id":"019f4a3a-94d4-7461-9b3e-5bbc02fc7ac9","thread_name":"问候","updated_at":"2026-07-10T04:13:09.2519177Z"}
+{"id":"019f4a3c-19cf-7ad2-a430-18bf1ecb0b36","thread_name":"配置10人随时组队匹配","updated_at":"2026-07-10T04:15:10.6569402Z"}
+{"id":"019f4b2e-5c2b-7d81-8935-3e52f25cf754","thread_name":"修复底图灰色显示","updated_at":"2026-07-10T08:39:50.7678406Z"}
+{"id":"019f4b5c-4281-7251-a0ef-8ba7f7440e01","thread_name":"让 ToastManager 全局可用","updated_at":"2026-07-10T09:30:05.6074868Z"}
+{"id":"019f4c07-2f68-7fc1-88d2-a95657335161","thread_name":"Refactor UGCGameMode join flow","updated_at":"2026-07-10T12:36:38.1881357Z"}
+{"id":"019f4c08-c7e9-71d3-8898-dc4df991d60e","thread_name":"Fix dynamic team refresh","updated_at":"2026-07-10T12:38:32.9059197Z"}
+{"id":"019f4ef2-1395-7b11-922e-38d69dc1b66a","thread_name":"你好","updated_at":"2026-07-11T02:12:04.7811112Z"}
+{"id":"019f4ef2-a087-7d73-9838-885be546e4d2","thread_name":"回应问候","updated_at":"2026-07-11T02:12:48.2046332Z"}
+{"id":"019f4efb-ae76-7e30-b44e-3fa464c16193","thread_name":"排查 RPC 定时器泄露","updated_at":"2026-07-11T02:23:47.619166Z"}
+{"id":"019f4f12-4e2c-7271-b97d-c8f8450706b7","thread_name":"分析最新DS日志","updated_at":"2026-07-11T02:47:20.1721226Z"}
+{"id":"019f4f56-b9b5-7cb0-a745-8d46321a9a61","thread_name":"安装 superpower 技能","updated_at":"2026-07-11T04:02:52.6733847Z"}
+{"id":"019f4f58-73a6-7b71-8ff1-ac61eebd23b7","thread_name":"排查逻辑问题","updated_at":"2026-07-11T04:04:12.778343Z"}
+{"id":"019f4f5e-cfae-7980-a60c-5c20ccd38892","thread_name":"删除 Douluo 日志文件","updated_at":"2026-07-11T04:11:06.5507879Z"}
+{"id":"019f4f6d-3200-71c1-acf8-00fe585ae606","thread_name":"Identify 錡","updated_at":"2026-07-11T04:26:36.391616Z"}
+{"id":"019f4fcb-f334-77d3-8898-2e5f7130085a","thread_name":"查找手机端日志位置","updated_at":"2026-07-11T06:10:06.9125171Z"}
+{"id":"019f4fdd-797f-76c2-89b8-da8f3031654a","thread_name":"检查CSV日志异常","updated_at":"2026-07-11T06:29:20.3427047Z"}
+{"id":"019f4feb-f783-7c40-b40e-6d53c5020e6f","thread_name":"查看日志","updated_at":"2026-07-11T06:45:02.5926134Z"}
+{"id":"019f4ffe-dd08-7c81-bb91-c71cd7810f0e","thread_name":"排查服务器连接超时","updated_at":"2026-07-11T07:05:57.2136214Z"}
+{"id":"019f5941-7bf2-78e1-887c-9d91326e50d1","thread_name":"处理问候","updated_at":"2026-07-13T02:14:58.4255322Z"}
+{"id":"019f597b-9d8e-76d2-9712-3246b8c5ea5c","thread_name":"Locate update image setting","updated_at":"2026-07-13T03:18:36.6604796Z"}
+{"id":"019f5990-03a7-7450-86bf-33d74cbda502","thread_name":"添加全局 MCP 端口设置","updated_at":"2026-07-13T03:41:38.042684Z"}
+{"id":"019f5996-fc2d-7853-9afb-cb5b4dd6d392","thread_name":"排查服务器重连掉线","updated_at":"2026-07-13T03:48:54.2673668Z"}
+{"id":"019f59c7-500e-7fe1-9102-d3a2debc9f69","thread_name":"查找扩张时间 API","updated_at":"2026-07-13T04:41:20.7903242Z"}
+{"id":"019f5a3e-18ec-7a33-9c23-a139359208aa","thread_name":"修复 PIE Lua 加载失败","updated_at":"2026-07-13T06:51:03.2647784Z"}
+{"id":"019f5a3e-e33b-7891-97a4-59799996bc52","thread_name":"修复 PIE 调试 Lua 缺失","updated_at":"2026-07-13T06:51:45.0302734Z"}
+{"id":"019f5a4a-83e8-7220-9258-f3d6ed2c336a","thread_name":"重导 Wwise 资源关联","updated_at":"2026-07-13T07:04:32.1573835Z"}
+{"id":"019f5a94-375a-79c0-ba7a-ff1d31e952e5","thread_name":"你想办法帮我去下载apex这个游戏中的碎甲和倒地的音效到我的桌面上","updated_at":"2026-07-13T08:25:14.3001107Z"}
+{"id":"019f5ad3-cc03-70a1-a033-21832dc4d591","thread_name":"讲解玩家数据存档","updated_at":"2026-07-13T09:34:32.2988139Z"}
+{"id":"019f5ae7-f690-7f10-adbe-c9d108e5f731","thread_name":"查找 ScrollView 等效组件","updated_at":"2026-07-13T09:56:26.4417101Z"}
+{"id":"019f5b09-c60b-7670-8667-533460e9d1ae","thread_name":"修复 LotteryAwardConfig 资源缺失","updated_at":"2026-07-13T10:33:19.9176394Z"}
+{"id":"019f5ec2-75b6-7933-842d-361d89d16b5e","thread_name":"查看MCP功能","updated_at":"2026-07-14T03:54:02.1273766Z"}
+{"id":"019f603d-cf16-7602-8805-de003f75f982","thread_name":"排查武器伤害未生效","updated_at":"2026-07-14T10:48:25.9667042Z"}
+{"id":"019f60e6-59a3-7ea2-a657-a6ce3f71e2e3","thread_name":"添加 Button_152 日志","updated_at":"2026-07-14T13:53:00.1917876Z"}
+{"id":"019f6108-af57-72e3-b02b-540fdf4927da","thread_name":"填写 DA_GameModeGeneral","updated_at":"2026-07-14T14:30:16.3764569Z"}
+{"id":"019f611f-acf4-7343-b91b-d0ddcba35704","thread_name":"更新任务描述","updated_at":"2026-07-14T14:55:29.8930942Z"}
+{"id":"019f638d-190b-7070-a725-718817da8a92","thread_name":"克隆 PaTa 仓库","updated_at":"2026-07-15T02:14:20.7011249Z"}
+{"id":"019f63da-bc7c-75d0-bf97-4bd0561bd8a3","thread_name":"检查TaskMgr进度调用","updated_at":"2026-07-15T03:38:46.0660521Z"}
+{"id":"019f63e9-7d60-7a23-aa83-a2924bcb3ca2","thread_name":"检查问题","updated_at":"2026-07-15T03:54:47.6047692Z"}
+{"id":"019f63f4-9e2e-7770-a481-79475f2441bc","thread_name":"用MCP补全修改文件","updated_at":"2026-07-15T04:07:03.0560109Z"}
+{"id":"019f6401-f834-7db1-a6a4-57f86be5f1dc","thread_name":"添加调试日志","updated_at":"2026-07-15T04:21:38.08121Z"}
+{"id":"019f6420-a1c7-7590-a668-af2e0684b4b7","thread_name":"定位 TaskMgr 报错","updated_at":"2026-07-15T04:55:05.5615375Z"}
+{"id":"019f6465-09c2-76f1-8208-e0075f012653","thread_name":"补全怪物任务进度","updated_at":"2026-07-15T06:10:11.4206315Z"}
+{"id":"019f6486-d879-7c50-8df2-0cfda994eaed","thread_name":"检查 ToastManager 路径","updated_at":"2026-07-15T06:46:42.3368416Z"}
+{"id":"019f64b8-f20a-7a81-aedb-4a4ed7b978b1","thread_name":"连接 MCP","updated_at":"2026-07-15T07:41:25.7117668Z"}
+{"id":"019f64e0-31c5-7bd3-9678-c33502a180cc","thread_name":"查找等级经验文档","updated_at":"2026-07-15T08:24:21.8453153Z"}
+{"id":"019f64fb-5ec9-7661-94dd-c02daa84a548","thread_name":"Add method comment rule","updated_at":"2026-07-15T08:54:27.7210684Z"}
+{"id":"019f6509-33d5-76f1-a642-20d0b807e690","thread_name":"帮我把剩下的怪物都加上 PlayerLevelMgr:AddExp(EventInstigator, KillExp)","updated_at":"2026-07-15T09:09:38.6139779Z"}
+{"id":"019f650c-98ad-72d0-b840-0ef0918d9912","thread_name":"同步经验进度显示","updated_at":"2026-07-15T09:14:08.3428372Z"}
+{"id":"019f653c-0942-7ab1-baf1-d9d103cd044b","thread_name":"Add DT2csv 101-105 values","updated_at":"2026-07-15T10:05:16.047243Z"}
+{"id":"019f656c-4cd6-7070-80aa-aa80d2886248","thread_name":"Add spawn skill on character create","updated_at":"2026-07-15T11:01:10.7841698Z"}
+{"id":"019f68c0-d38d-7b11-b23d-fd9744b6ee27","thread_name":"添加20级技能判断","updated_at":"2026-07-16T02:28:51.5345046Z"}
+{"id":"019f68c6-7c92-7383-b85c-a55c17c0fbaf","thread_name":"查看脚本用途","updated_at":"2026-07-16T02:34:54.3967813Z"}
+{"id":"019f68df-efb9-7f82-a034-fbb613739a6c","thread_name":"Fix 经验条等级显示","updated_at":"2026-07-16T03:05:08.8691747Z"}
+{"id":"019f68e2-880e-7c42-b931-fa87e0563f6c","thread_name":"修正经验条显示","updated_at":"2026-07-16T03:05:40.4169126Z"}
+{"id":"019f68f4-c7d5-7450-af92-36f8613c2982","thread_name":"调整技能等级要求","updated_at":"2026-07-16T03:25:35.1061895Z"}
+{"id":"019f6928-a5a8-7813-aebb-84cd86dea113","thread_name":"查找 text 赋值时机","updated_at":"2026-07-16T04:22:00.3850794Z"}
+{"id":"019f6930-6860-7873-a460-c91a3de673b2","thread_name":"排查问题","updated_at":"2026-07-16T04:30:24.4396561Z"}
+{"id":"019f6935-c27b-7342-8b96-f05c665036f8","thread_name":"检查 Clientlog 目录","updated_at":"2026-07-16T04:36:13.3829133Z"}
+{"id":"019f693e-7e29-7ed0-a431-89f38e451865","thread_name":"定位问题","updated_at":"2026-07-16T04:45:44.397382Z"}
+{"id":"019f6988-5088-7090-a35c-92ed5adda1b9","thread_name":"解释 ReceiveBeginPlay 调用","updated_at":"2026-07-16T06:06:17.1933197Z"}
+{"id":"019f698a-e1c2-7e82-a012-8830cd31e05f","thread_name":"改为异步加载","updated_at":"2026-07-16T06:09:09.1238799Z"}
+{"id":"019f6995-4e63-7843-bb1b-3725e1c40d57","thread_name":"检查 ToastItemClass 使用情况","updated_at":"2026-07-16T06:20:26.4371019Z"}
+{"id":"019f69a8-62e0-7a21-a908-3d76112cf412","thread_name":"检查写法","updated_at":"2026-07-16T06:41:27.3801734Z"}
+{"id":"019f69cf-3de5-7ce0-965a-0086ad417e85","thread_name":"查明击杀数量共享原因","updated_at":"2026-07-16T07:24:49.9637454Z"}
+{"id":"019f69dc-bce8-7422-ae0c-968f75150e18","thread_name":"添加等级同步日志","updated_at":"2026-07-16T07:39:28.0732891Z"}
+{"id":"019f69df-404f-7c52-b37a-a043d0bf00ab","thread_name":"禁止默认使用 git","updated_at":"2026-07-16T07:41:42.7111576Z"}
+{"id":"019f69ee-4cb2-7e50-ac11-6a858733a9ee","thread_name":"Diagnose replication mismatch","updated_at":"2026-07-16T07:57:41.0003986Z"}
+{"id":"019f69f2-fce1-7282-b44a-8cea9a8dc207","thread_name":"刷新 TextBlock_73z 显示","updated_at":"2026-07-16T08:02:57.0410672Z"}
+{"id":"019f6a1f-2af3-7dc0-b1eb-e2edb3e733cd","thread_name":"调整等级刷新颜色","updated_at":"2026-07-16T08:51:31.7968556Z"}
+{"id":"019f6a36-8be8-7d13-9fa6-9b291c8579c1","thread_name":"设计存档方案","updated_at":"2026-07-16T09:17:24.5575769Z"}
+{"id":"019f6ac9-5312-78f0-a70b-40f2a3c16fe5","thread_name":"预定义经验常量","updated_at":"2026-07-16T11:57:16.9404239Z"}
+{"id":"019f6ac9-c97f-7e93-81a1-a7e4305940d2","thread_name":"改成公式化成长","updated_at":"2026-07-16T11:59:26.227127Z"}
+{"id":"019f6ad6-7065-7a82-a561-5aca0fe0f3e6","thread_name":"修改行为树反向逃跑2秒再追击","updated_at":"2026-07-16T12:12:15.949355Z"}
+{"id":"019f6aec-dad8-7ac3-a936-d7179d06264a","thread_name":"修改行为树受击逃跑","updated_at":"2026-07-16T12:35:48.0087132Z"}
+{"id":"019f6b09-98bf-7b22-b3d1-d423804d72ee","thread_name":"你可以用mcp改我的行为树吗，UGCGameSystem.GetUGCResourcesFullPath('Asset…","updated_at":"2026-07-16T13:07:52.8457187Z"}
+{"id":"019f6dc3-843f-7592-9f4f-0bf4271724bf","thread_name":"设计怪物首次受击逃跑","updated_at":"2026-07-17T01:52:11.9742029Z"}
+{"id":"019f6de2-36b6-79f1-bd98-52f500ec0aff","thread_name":"定位最新项目日志","updated_at":"2026-07-17T02:23:21.8688601Z"}
+{"id":"019f6dea-2939-7000-9c68-783146d7901a","thread_name":"查持久化属性刷新问题","updated_at":"2026-07-17T02:32:28.9541014Z"}
+{"id":"019f6e0f-ab69-7262-a261-258512b67a57","thread_name":"排查怪物行为树不追击","updated_at":"2026-07-17T03:13:24.2841917Z"}
+{"id":"019f6e15-8017-70f3-bb44-1d5a4f5b6162","thread_name":"Add inline variable comments","updated_at":"2026-07-17T03:19:35.9634536Z"}
+{"id":"019f6e21-bc16-73d3-b902-65c4dc6618ee","thread_name":"实现怪物首击乱走追击","updated_at":"2026-07-17T03:33:35.8759274Z"}
+{"id":"019f6ed6-1d11-7792-97e3-5dae73e5223d","thread_name":"Locate 存档取档与UI02顺序","updated_at":"2026-07-17T06:50:08.0870151Z"}
+{"id":"019f6f3f-b281-71f1-8fa2-a9b95512301d","thread_name":"Locate auto respawn setting","updated_at":"2026-07-17T08:45:06.164269Z"}
+{"id":"019f6f41-8e1a-76c0-a38d-72c9cb6fbd7a","thread_name":"检查怪物路点不走","updated_at":"2026-07-17T08:47:14.4424246Z"}
+{"id":"019f6f5d-9339-7a12-890d-7a31d3642c55","thread_name":"设置人物6倍移速","updated_at":"2026-07-17T09:17:37.092846Z"}
+{"id":"019f6f7c-160e-7b02-86c1-39860aca1e20","thread_name":"排查怪物路点不动","updated_at":"2026-07-17T09:50:39.3775522Z"}
+{"id":"019f6f96-17a5-7650-be3d-54e8484c62c6","thread_name":"Locate OpenGL 4.3 issue","updated_at":"2026-07-17T10:19:07.0484523Z"}
+{"id":"019f7014-0d97-7ce2-9b5c-36c22c473a63","thread_name":"实现分层巡逻怪物","updated_at":"2026-07-17T12:37:41.0175173Z"}
+{"id":"019f705e-4d83-7b03-a9e5-0e3d39489a11","thread_name":"排查死亡自动复活","updated_at":"2026-07-17T13:59:03.0846375Z"}
+{"id":"019f7061-ae53-7e62-bf0c-c23afd5f3f8e","thread_name":"Locate direction marker and weapon阻挡","updated_at":"2026-07-17T14:01:44.442976Z"}
+{"id":"019f7078-a4f7-7642-b2b1-6b00add0ddfb","thread_name":"查找死亡自动复活逻辑","updated_at":"2026-07-17T14:26:42.4273536Z"}
+{"id":"019f70b1-33fb-7103-8a94-5cf0a11ddde9","thread_name":"排查关闭状态失效","updated_at":"2026-07-17T15:28:20.1995452Z"}
+{"id":"019f729e-7f25-70c3-9f5d-8a1f47fb816a","thread_name":"调整怪物受击逃跑方向","updated_at":"2026-07-18T00:28:34.5885258Z"}
+{"id":"019f72a5-fc3f-7c12-aa5d-6e548c09b352","thread_name":"默认关闭代码开关","updated_at":"2026-07-18T00:35:45.9137715Z"}
+{"id":"019f72c2-b0c2-7800-9fe7-c2ea00198c5a","thread_name":"Locate warehouse entry","updated_at":"2026-07-18T01:06:49.9700577Z"}
+{"id":"019f72ce-2fce-70d2-854e-7404279ab3b4","thread_name":"Check ShowRechargeEntryUI","updated_at":"2026-07-18T01:19:17.9085293Z"}
+{"id":"019f72d3-ed9c-7992-b6db-97b8755173fe","thread_name":"解释虚拟物品转实际物品","updated_at":"2026-07-18T01:25:40.9008549Z"}
+{"id":"019f7320-bd68-7220-8dab-18b3b698a0f2","thread_name":"解释 Table 遍历报错","updated_at":"2026-07-18T02:49:25.7504496Z"}
+{"id":"019f734a-ba31-7331-90e7-f3c314064a1a","thread_name":"排查签到测试页崩溃","updated_at":"2026-07-18T03:35:41.5725767Z"}
+{"id":"019f735e-10d7-7341-82fe-55bf12341e56","thread_name":"排查签到打开异常","updated_at":"2026-07-18T03:57:50.4222193Z"}
+{"id":"019f737b-0b7d-7312-a410-5b7a09be7159","thread_name":"排查任务主界面无响应","updated_at":"2026-07-18T04:28:02.9056059Z"}
+{"id":"019f73e7-ea7c-7de1-9cec-da68bb7a2248","thread_name":"查找排行榜分数失效原因","updated_at":"2026-07-18T06:27:12.0120749Z"}
+{"id":"019f7408-d15f-72b2-877c-6af3dfc6a323","thread_name":"测试兑换码回调","updated_at":"2026-07-18T07:03:22.0932441Z"}
+{"id":"019f7419-e189-7843-9157-4d82c3210906","thread_name":"修复 EditorUtilityEditableTextBox_36 完","updated_at":"2026-07-18T07:22:03.9591558Z"}
+{"id":"019f743e-d1f1-76d0-84b5-300d16865739","thread_name":"解释 HideMainButtonRedDot","updated_at":"2026-07-18T08:01:55.9978168Z"}
+{"id":"019f744b-0a7a-70f2-904e-798120cdd68f","thread_name":"移除资源商店下载提示","updated_at":"2026-07-18T08:16:04.0543712Z"}
+{"id":"019f747f-1ebd-76f0-b150-1d6a19316c75","thread_name":"修复经验等级显示异常","updated_at":"2026-07-18T09:13:30.5733348Z"}
+{"id":"019f7494-80f0-7471-90f6-fa52fd623c8b","thread_name":"解释蓝图过滤报错","updated_at":"2026-07-18T09:35:28.9241695Z"}
+{"id":"019f74a3-ad32-7881-af80-35a5e5ea75d7","thread_name":"添加兑换码确认RPC","updated_at":"2026-07-18T09:53:30.7652768Z"}
+{"id":"019f74d3-c14a-76f0-92b9-0a83cc4982c4","thread_name":"排查 Douluo 测试启动问题","updated_at":"2026-07-18T10:44:51.5701342Z"}
+{"id":"019f7d4f-ff12-7c43-b5b2-6054ff15e3ce","thread_name":"排查兑换失败原因","updated_at":"2026-07-20T02:17:49.0631719Z"}
+{"id":"019f7d9c-4bf3-7d12-a201-70bf24209e91","thread_name":"排查斗罗兑换码失效","updated_at":"2026-07-20T03:40:42.5982486Z"}
+{"id":"019f7e33-72b2-7403-8341-7a83893e22d2","thread_name":"解释这是什么意思","updated_at":"2026-07-20T06:25:46.539711Z"}
+{"id":"019f7e40-4cbd-7283-87b4-28da2c33ccde","thread_name":"你看我这边爬塔咋不生效呢","updated_at":"2026-07-20T06:40:12.8317788Z"}
+{"id":"019f7e52-e82c-7283-8ec7-85a703a807f9","thread_name":"确定爬塔免费更新默认日期","updated_at":"2026-07-20T07:00:24.562854Z"}
+{"id":"019f7eb8-a192-7710-9c78-fba7ac814066","thread_name":"你看我这边有没有什么问题呢","updated_at":"2026-07-20T08:51:38.3633059Z"}
+{"id":"019f7ec5-4c7c-7872-ad48-671844136896","thread_name":"实现传值控制开关效果","updated_at":"2026-07-20T09:05:56.8389526Z"}
+{"id":"019f7ed6-d8bb-7d73-b1d8-548b7eca0ed6","thread_name":"统一全局中文注释","updated_at":"2026-07-20T09:24:24.2967126Z"}
+{"id":"019f7ee9-9bd0-71c0-9103-cd7e295501f6","thread_name":"分析屏幕变红效果实现","updated_at":"2026-07-20T09:45:18.7161272Z"}
+{"id":"019f7f07-25d6-76c2-af2e-ccaeeb6d4b62","thread_name":"查找未变红原因","updated_at":"2026-07-20T10:17:15.8196846Z"}
+{"id":"019f7f23-89b7-7ab0-8664-e06038eed354","thread_name":"排查子物体碰撞未触发","updated_at":"2026-07-20T10:48:30.6395238Z"}
+{"id":"019f8077-da98-79c1-ad59-0a66fcd63e92","thread_name":"你看这边，这个蓝图如果是拖到场景中，会正常绑定，但是我通过怪物生成器生成的，不知道为什么好像没有绑定成功，你帮我找找原…","updated_at":"2026-07-20T17:00:31.1181018Z"}
+{"id":"019f808f-2ea6-7603-99eb-251f6b4da23b","thread_name":"排查怪物生成点碰撞体","updated_at":"2026-07-20T17:25:41.3957323Z"}
+{"id":"019f80b5-66ea-77e0-a861-e4b28813db55","thread_name":"查找红色UI被关闭原因","updated_at":"2026-07-20T18:07:46.131487Z"}
+{"id":"019f80d7-98bf-74a2-852c-312f525764d9","thread_name":"修复碰撞通知导致UI隐藏","updated_at":"2026-07-20T18:48:50.347605Z"}
+{"id":"019f80dc-3d76-7d43-beec-c524b90018c1","thread_name":"检查 ShowTips_01 通用性","updated_at":"2026-07-20T18:49:21.8083166Z"}
+{"id":"019f80e2-9cd1-7412-add9-9acf8d941503","thread_name":"排查碰撞触发UI隐藏问题","updated_at":"2026-07-20T18:56:12.5223515Z"}
+{"id":"019f80e8-1930-7133-aad6-f146e33f6a0b","thread_name":"比较 GPT 与 Luna 用量性价比","updated_at":"2026-07-20T19:02:26.5026633Z"}
+{"id":"019f80f6-4d6b-7d63-b0c2-232e7c99c40c","thread_name":"Add Lua variable comments","updated_at":"2026-07-20T19:18:06.532829Z"}
+{"id":"019f80ff-ba77-74e0-8c02-9f974b988e57","thread_name":"查找UI08相关文件","updated_at":"2026-07-20T19:28:19.158002Z"}
+{"id":"019f8104-3e59-7cb0-b105-faf6c09a365d","thread_name":"添加UI资源完整路径","updated_at":"2026-07-20T19:33:07.4425922Z"}
+{"id":"019f810b-e185-7622-a33d-bf2be68e0f9a","thread_name":"添加按钮复活代码","updated_at":"2026-07-20T19:41:29.6453483Z"}
+{"id":"019f8270-206b-7b62-b6b1-59510e0818b5","thread_name":"填写UGCObjectMapping表格","updated_at":"2026-07-21T02:11:27.4484843Z"}
+{"id":"019f8273-b372-7b52-9b98-6b69502c0f77","thread_name":"填写UGCObjectMapping表格","updated_at":"2026-07-21T02:14:52.8382989Z"}
+{"id":"019f827c-1818-73c3-bb80-a12f1d14bb4a","thread_name":"填充Virtual表物品数据","updated_at":"2026-07-21T02:24:52.1830361Z"}
+{"id":"019f83b9-2990-7930-bc40-568b41e7303a","thread_name":"查找塔怪物复活时间","updated_at":"2026-07-21T08:11:07.4788975Z"}
+{"id":"019f83c3-2b9e-79b3-937c-5462342d5b2d","thread_name":"实现碰撞死亡与出生点设置","updated_at":"2026-07-21T08:21:37.8537697Z"}
+{"id":"019f8427-9d99-7202-b780-4a7bff01a13e","thread_name":"排查无敌效果未生效","updated_at":"2026-07-21T10:10:45.8457092Z"}
+{"id":"019f8437-b519-7ef2-be6f-00f204948c51","thread_name":"实现使用后增加跳跃高度","updated_at":"2026-07-21T10:29:46.1802271Z"}
+{"id":"019f845d-2c39-7d53-a5db-16b92c70effd","thread_name":"查找摔死复活处理方式","updated_at":"2026-07-21T11:09:15.1732327Z"}
+{"id":"019f87d6-052a-7303-9564-306c2b1e0285","thread_name":"实现Lua自销毁方法","updated_at":"2026-07-22T03:20:19.8084171Z"}
+{"id":"019f88d9-8699-7963-9089-7edc1413b1d4","thread_name":"确认当前项目状态","updated_at":"2026-07-22T08:03:34.44789Z"}
+{"id":"019f88ff-3e96-7bd0-955c-1ad69c90482e","thread_name":"排查 Box_OnComponentBeginOverlap","updated_at":"2026-07-22T08:44:43.9669694Z"}
+{"id":"019f890d-c83f-7471-91af-d10f86d25c3d","thread_name":"修复炸弹复活后技能消失","updated_at":"2026-07-22T09:01:19.7842129Z"}
+{"id":"019f8918-7495-7531-86f3-68f1adf0914d","thread_name":"补全关卡事件配置","updated_at":"2026-07-22T09:12:09.7504588Z"}
+{"id":"019f892a-67a5-7792-8cad-c60816f23462","thread_name":"补全 L_Enum 配置","updated_at":"2026-07-22T09:31:57.370867Z"}
+{"id":"019f8936-fcd8-75e0-a708-0c3548c31c2e","thread_name":"将倒计时和事件改为3秒","updated_at":"2026-07-22T09:48:19.6419918Z"}
+{"id":"019f8942-758a-7303-bb30-68e17c4bf906","thread_name":"修复 EventConfig_BackUp 空值错误","updated_at":"2026-07-22T09:59:25.8975396Z"}
+{"id":"019f894d-5e96-7503-8727-afc9ae3071ed","thread_name":"修复 PIE 调试 Lua 文件缺失","updated_at":"2026-07-22T10:09:54.1389884Z"}
+{"id":"019f8953-4e05-7b72-9899-3d3c8c826169","thread_name":"检查项目日志报错","updated_at":"2026-07-22T10:16:40.4342112Z"}
+{"id":"019f8958-27d8-7a63-a774-7ab7b35d848b","thread_name":"更新 MainUI 秒数显示","updated_at":"2026-07-22T10:22:15.9458583Z"}
+{"id":"019f8977-4cb2-7d11-8470-dcc1c19d5db4","thread_name":"抽离通用Buff方法","updated_at":"2026-07-22T10:57:03.2686343Z"}
+{"id":"019f89c1-1b8a-7532-a3df-a9b14d60020c","thread_name":"设计全屏黑夜效果","updated_at":"2026-07-22T12:16:32.1260443Z"}
+{"id":"019f8a0e-09fc-7593-b0ab-47620857e1fa","thread_name":"设置移动输入反向效果","updated_at":"2026-07-22T13:40:52.107147Z"}
+{"id":"019f8a20-d4b0-7303-8872-06a06e281fa7","thread_name":"实现轴输入取反注入","updated_at":"2026-07-22T14:01:01.4610304Z"}
+{"id":"019f8a31-63b8-7400-9e26-9aa55806c9f8","thread_name":"实现Pawn左摇杆反向输入","updated_at":"2026-07-22T14:19:27.4395501Z"}
+{"id":"019f8a42-0451-7c81-b25f-166881065f83","thread_name":"实现飞行 Buff08","updated_at":"2026-07-22T14:37:48.5268564Z"}
+{"id":"019f8a49-b594-77a3-9e0e-5747fbb9cb63","thread_name":"修改飞行持续时间","updated_at":"2026-07-22T14:45:45.639137Z"}
+{"id":"019f8a51-13d7-7b52-a52b-47fad9dbf7a1","thread_name":"删除 superpower 技能","updated_at":"2026-07-22T14:53:43.3898206Z"}
+{"id":"019f8a81-0322-79e2-8d2b-03bffb5779a9","thread_name":"规划游戏货币存放位置","updated_at":"2026-07-22T15:45:58.5383583Z"}
+{"id":"019f8a91-9b35-7073-a5a8-85f1e359b829","thread_name":"设置延迟获得物品","updated_at":"2026-07-22T16:04:01.7682685Z"}
+{"id":"019f8aba-714d-7132-909d-f4a42ebc2930","thread_name":"设计周卡会员收益方案","updated_at":"2026-07-22T16:48:30.9858048Z"}
+{"id":"019f8ad5-fbd5-7170-9ee5-d7e0cb539397","thread_name":"排查101礼包配置问题","updated_at":"2026-07-22T17:19:14.6247712Z"}
+{"id":"019f8ae6-d920-7c60-a1eb-bb6652df0530","thread_name":"排查礼包使用界面异常","updated_at":"2026-07-22T17:38:15.5488285Z"}
+{"id":"019f8cc5-d7e7-71d0-934e-0bd9a33b54d6","thread_name":"解释 OnCreateItemHandleV2 回调","updated_at":"2026-07-23T02:20:40.4152115Z"}
+{"id":"019f8cf1-681b-7881-8254-29fa9db8a2be","thread_name":"更新周礼包有效期","updated_at":"2026-07-23T03:08:33.3805784Z"}
+{"id":"019f8d01-fa37-7633-b158-748b30bc01bf","thread_name":"查找绿洲币购买接口","updated_at":"2026-07-23T03:26:31.9425482Z"}
+{"id":"019f8d0c-45bf-7582-b46f-ec5b3717e8f9","thread_name":"添加头顶奖杯数3D UI","updated_at":"2026-07-23T03:37:56.590611Z"}
+{"id":"019f8d2c-3874-71b2-87a9-973adf2b0c7d","thread_name":"设计定时奖励进度条","updated_at":"2026-07-23T04:12:50.9014582Z"}
+{"id":"019f8d47-ee9b-77b2-acb7-ab3d2f32d9e4","thread_name":"设置3D UI背面显示图案","updated_at":"2026-07-23T04:43:45.8151211Z"}
+{"id":"019f8d51-ec72-78c2-9aa0-2b823c15b45e","thread_name":"补充奖杯持久化","updated_at":"2026-07-23T04:53:19.2472355Z"}
+{"id":"019f8db7-ecc3-76b1-a81c-7a0d68e0f8c8","thread_name":"排查 Button_381 数量未增加","updated_at":"2026-07-23T06:45:00.627913Z"}
+{"id":"019f8ddb-955b-73e3-b17e-b4f7d75f537c","thread_name":"计算商品折扣","updated_at":"2026-07-23T07:23:54.6456181Z"}
+{"id":"019f8dfb-2391-7b11-8527-07ce1877b658","thread_name":"设置UI01为顶层加载界面","updated_at":"2026-07-23T07:58:44.4963828Z"}
+{"id":"019f8e1f-27aa-7e70-a6b8-8e5531090217","thread_name":"关闭跳跃攻击按键","updated_at":"2026-07-23T08:38:28.3378565Z"}
+{"id":"019f8e64-08b2-7d80-9fb5-c18e403020ce","thread_name":"换算350泰铢为人民币","updated_at":"2026-07-23T09:52:49.5997025Z"}
+{"id":"019f8e6a-6a4f-72f0-9093-2cfe4b4ba25b","thread_name":"调整UI层级覆盖跳跃界面","updated_at":"2026-07-23T09:59:54.93261Z"}
+{"id":"019f8e70-fd84-72d1-8ed6-87384ddca0c2","thread_name":"查找购买UI层级","updated_at":"2026-07-23T10:06:49.7588492Z"}
+{"id":"019f8e8f-0d8b-7062-a72e-06e2d64bd441","thread_name":"确认 Gold_Count 计算写法","updated_at":"2026-07-23T10:39:39.6778243Z"}
+{"id":"019f8e90-976f-7722-83b7-0f1ef6a0ba79","thread_name":"添加开通状态更新方法","updated_at":"2026-07-23T10:44:24.114337Z"}
+{"id":"019f91eb-012d-7f80-9ac5-878ad96e2e3c","thread_name":"查找七天签到和排行榜API","updated_at":"2026-07-24T02:19:19.9007981Z"}
+{"id":"019f91fa-f19f-7682-8768-76193bd54bd7","thread_name":"抽离购买商品方法","updated_at":"2026-07-24T02:36:45.1791264Z"}
+{"id":"019f9208-2a30-77d0-b7b1-da64cfa27aab","thread_name":"翻译新手大礼包","updated_at":"2026-07-24T02:51:17.7656642Z"}
+{"id":"019f9224-1f38-7e33-8220-857e39357c06","thread_name":"查找 TeleToPoint 方法","updated_at":"2026-07-24T03:21:32.7852959Z"}
+{"id":"019f9240-553b-7911-81c2-842c8d954bab","thread_name":"实现绿洲爬梯子功能","updated_at":"2026-07-24T03:52:26.997105Z"}
+{"id":"019f925a-dd22-7b42-b825-76d7ed018a1b","thread_name":"实现物品点击打开UI","updated_at":"2026-07-24T04:21:39.0648508Z"}
+{"id":"019f9271-d3e8-77e2-a1fd-699ff4caa09b","thread_name":"为UI07按钮回调添加备注","updated_at":"2026-07-24T04:46:35.3383302Z"}
+{"id":"019f92b8-e3b0-75c2-a3d5-3ea82dbcbbb3","thread_name":"设计房间共享随机密码锁","updated_at":"2026-07-24T06:05:28.5286269Z"}
+{"id":"019f92df-a42c-7132-94f6-2b710cec0449","thread_name":"确认礼包使用端","updated_at":"2026-07-24T06:48:40.6312481Z"}
+{"id":"019f92f2-7e7d-7750-a8e3-2b268829bd5a","thread_name":"添加物品入包通用方法","updated_at":"2026-07-24T07:07:29.7065092Z"}
+{"id":"019f9311-cc4c-7092-98c2-64d52fdf2571","thread_name":"修复商城购买弹窗显示","updated_at":"2026-07-24T07:42:40.9776981Z"}
+{"id":"019f9325-1637-7ba2-9b3f-18c37b0ec164","thread_name":"TextBlock_61是显示金币，TextBlock_62是奖杯，他们Id","updated_at":"2026-07-24T08:02:43.7253424Z"}
+{"id":"019f9326-0eae-7221-92d7-8e4bb255e030","thread_name":"设计主城金币奖杯刷新","updated_at":"2026-07-24T08:03:31.3879592Z"}
+{"id":"019f9330-3313-7133-941e-951648948c4f","thread_name":"修复周卡金币奖励异常","updated_at":"2026-07-24T08:14:35.870882Z"}
+{"id":"019f934a-4d7b-78d1-9653-33d45d7ae235","thread_name":"添加关闭Men碰撞体测试","updated_at":"2026-07-24T08:43:13.6687176Z"}
+{"id":"019f934b-3ce7-7a40-8723-73a010c30c74","thread_name":"确认Men标签Actor材质修改","updated_at":"2026-07-24T08:45:31.3678216Z"}
+{"id":"019f9353-0c0a-7381-b189-61807ceb504d","thread_name":"查找材质路径配置","updated_at":"2026-07-24T08:52:27.4838684Z"}
+{"id":"019f937f-7aaf-7400-8758-a5084f1f07f7","thread_name":"实现密码正确后20秒状态切换","updated_at":"2026-07-24T09:42:03.9452666Z"}
+{"id":"019f9387-cff6-7f80-a40a-8d2cbe280aa3","thread_name":"了解UI加入场景方法","updated_at":"2026-07-24T09:50:14.6547171Z"}
+{"id":"019f9394-a5da-70c3-82f7-78d762e54947","thread_name":"实现Men_Head倒计时Widget","updated_at":"2026-07-24T10:05:28.418827Z"}
+{"id":"019f93b0-486a-7bd0-91f1-3bb8baf30c80","thread_name":"实现Actor自动旋转展示","updated_at":"2026-07-24T10:34:41.684018Z"}
+{"id":"019f93cf-4aab-7e72-a6cc-8f34b69f69df","thread_name":"排查CG035静态网格体不旋转","updated_at":"2026-07-24T11:08:08.4510912Z"}
+{"id":"019f93ee-af30-7890-8a9e-daae66707cda","thread_name":"排查场景旋转抽动问题","updated_at":"2026-07-24T11:43:00.7571845Z"}
+{"id":"019f94c8-bc41-77f1-9435-aa650bc2e28d","thread_name":"排查新手礼包未自动打开","updated_at":"2026-07-24T15:40:22.2688074Z"}
+{"id":"019f94cd-44e0-7830-9d1b-902aa70334ff","thread_name":"排查奖杯商店无法打开","updated_at":"2026-07-24T15:45:35.9243469Z"}
+{"id":"019f94cf-761c-74f2-a728-6322ff913018","thread_name":"设计全局礼包定时奖励","updated_at":"2026-07-24T15:50:17.8302323Z"}
+{"id":"019f94d2-2a0c-7611-94c6-43eb12efc158","thread_name":"修复武器槽位未更新问题","updated_at":"2026-07-24T15:52:01.0436056Z"}
+{"id":"019f94ea-1e99-73b1-9ffe-d232b071b93f","thread_name":"设计碰撞体计时领取功能","updated_at":"2026-07-24T16:16:53.6005144Z"}
+{"id":"019f94ed-b79d-7721-a7f0-5ea26d313544","thread_name":"调整密码显示到TextBlock_81","updated_at":"2026-07-24T16:22:13.1608541Z"}
+{"id":"019f96da-d2cd-7613-be83-dee7ca2d7fed","thread_name":"检查调用是否有误","updated_at":"2026-07-25T01:19:14.8434351Z"}
+{"id":"019f96db-a240-75a0-92b1-825fd297e3c1","thread_name":"查找绿洲商店打开API","updated_at":"2026-07-25T01:20:20.9535478Z"}
+{"id":"019f96f7-1de8-7ce0-9dbc-003f17bf2896","thread_name":"配置虚拟物品购买表","updated_at":"2026-07-25T01:50:10.0066081Z"}
+{"id":"019f972e-d6f3-7682-ac90-4a4fdfc1476a","thread_name":"排查传送回去未生效","updated_at":"2026-07-25T02:51:16.5125316Z"}
+{"id":"019f974d-28e6-78c3-b44b-e4c4fe122279","thread_name":"排查梯子无法爬到顶","updated_at":"2026-07-25T03:25:40.8306229Z"}
+{"id":"019f9762-1fbc-7f53-b7c0-4cf5984e3e17","thread_name":"排查传送到2号出生点失败","updated_at":"2026-07-25T03:47:15.55303Z"}
+{"id":"019f978c-4e05-7961-ad66-818e795d8fdb","thread_name":"检查传送回去功能","updated_at":"2026-07-25T04:33:12.0760884Z"}
+{"id":"019f97e0-8dce-7ba2-98c5-2cf1c406c351","thread_name":"实现图片文本同步缩放","updated_at":"2026-07-25T06:05:50.7110462Z"}
+{"id":"019f97ee-b74d-7f33-b642-41de05ab846e","thread_name":"排查香蕉单数量使用异常","updated_at":"2026-07-25T06:21:50.8529051Z"}
+{"id":"019f980c-f628-7be2-a250-7dfd59c21ba5","thread_name":"实现喷射钩爪武器","updated_at":"2026-07-25T06:54:25.4554776Z"}
+{"id":"019f9867-2f5e-77a3-ad5a-a461ccc9cbbf","thread_name":"实现Buff天黑屏幕特效","updated_at":"2026-07-25T08:32:26.1240958Z"}
+{"id":"019f987e-ff7a-71a1-8c75-89b460a27dd8","thread_name":"查找减速 Buff 噪声图","updated_at":"2026-07-25T08:58:40.403361Z"}
+{"id":"019f989a-7968-7382-b859-8a008495741a","thread_name":"排查 debuff02 黑色屏幕特效","updated_at":"2026-07-25T09:28:45.8260137Z"}
+{"id":"019f98cb-a7b8-7d41-9a06-3f1c9354eb7c","thread_name":"设置摔死后复活","updated_at":"2026-07-25T10:22:13.2180251Z"}
+{"id":"019f98e2-60b1-7b23-9bb7-8aefe988e24f","thread_name":"修复金币翻倍Buff9","updated_at":"2026-07-25T10:47:56.2632513Z"}
+{"id":"019fa157-3e74-78f3-99f8-0a9b00a6e3c2","thread_name":"实现面板展开收起动画","updated_at":"2026-07-27T02:13:45.8875299Z"}
+{"id":"019fa164-b0f8-7712-bbe3-26648a962ea1","thread_name":"Add weekly card validation","updated_at":"2026-07-27T02:27:18.0885681Z"}
+{"id":"019fa171-57e9-7482-9f5f-3fc1844bc213","thread_name":"实现道具购买与技能切换","updated_at":"2026-07-27T02:40:01.047919Z"}
+{"id":"019fa185-9267-7931-bec0-fd92cae6d9f1","thread_name":"规划项目音效系统","updated_at":"2026-07-27T03:02:51.2427872Z"}
+{"id":"019fa1d6-8fb1-7b60-a822-053a570c034b","thread_name":"跳过微软账号创建","updated_at":"2026-07-27T04:30:56.3974689Z"}
+{"id":"019fa22b-6bda-7900-83a3-f4a7e99d5e33","thread_name":"设计房间最多十人匹配","updated_at":"2026-07-27T06:06:28.8631392Z"}
+{"id":"019fa249-1d82-7151-bc2f-b80722092642","thread_name":"我现在有一个项目在git上面，我该怎么保存一个什么公用密钥，然后给另一台机子去获取这个项目呢","updated_at":"2026-07-27T06:36:41.1680029Z"}

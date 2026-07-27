@@ -1,0 +1,1 @@
+{"Name":"ETrackingStatus","Description":" ","Variables":[{"Name":"NotTracked","Value":"0","Description":" "},{"Name":"InertialOnly","Value":"1","Description":" "},{"Name":"Tracked","Value":"2","Description":" "}]}

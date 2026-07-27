@@ -1,0 +1,1 @@
+{"Name":"EFootStepState","Description":" ","Variables":[{"Name":"Run","Value":"0","Description":" "},{"Name":"Squat","Value":"1","Description":" "},{"Name":"Walk","Value":"2","Description":" "},{"Name":"Crawl","Value":"3","Description":" "},{"Name":"Fall","Value":"4","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"AudioPlotterActionType","Description":" ","Variables":[{"Name":"APA_Create","Value":"0","Description":" "},{"Name":"APA_Record","Value":"1","Description":" "},{"Name":"APA_Pause","Value":"2","Description":" "},{"Name":"APA_Delete","Value":"3","Description":" "},{"Name":"APA_Load","Value":"4","Description":" "},{"Name":"APA_Show","Value":"5","Description":" "}]}

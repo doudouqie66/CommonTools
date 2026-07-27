@@ -1,0 +1,1 @@
+{"Name":"EPCGExecutionPhase","Description":" ","Variables":[{"Name":"NotExecuted","Value":"0","Description":" "},{"Name":"PrepareData","Value":"1","Description":" "},{"Name":"Execute","Value":"2","Description":" "},{"Name":"PostExecute","Value":"3","Description":" "},{"Name":"Done","Value":"4","Description":" "}]}

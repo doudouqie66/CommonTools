@@ -1,0 +1,1 @@
+{"Name":"ESPCRJointSimSpaceType","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"Component","Value":"1","Description":" "},{"Name":"Actor","Value":"2","Description":" "},{"Name":"World","Value":"3","Description":" "},{"Name":"RootRelative","Value":"4","Description":" "},{"Name":"BoneRelative","Value":"5","Description":" "}]}

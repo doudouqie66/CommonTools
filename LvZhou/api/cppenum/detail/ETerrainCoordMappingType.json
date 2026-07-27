@@ -1,0 +1,1 @@
+{"Name":"ETerrainCoordMappingType","Description":" ","Variables":[{"Name":"TCMT_Auto","Value":"0","Description":" "},{"Name":"TCMT_XY","Value":"1","Description":" "},{"Name":"TCMT_XZ","Value":"2","Description":" "},{"Name":"TCMT_YZ","Value":"3","Description":" "},{"Name":"TCMT_MAX","Value":"4","Description":" "}]}

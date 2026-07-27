@@ -1,0 +1,1 @@
+{"Name":"ESimpleVertexNormalSituation","Description":" ","Variables":[{"Name":"SVNS_None","Value":"0","Description":" "},{"Name":"SVNS_UsedInFullyRough","Value":"1","Description":" "},{"Name":"SVNS_UsedInNonMetalAndFullyRough","Value":"2","Description":" "},{"Name":"SVNS_Always","Value":"3","Description":" "},{"Name":"SVNS_MAX","Value":"4","Description":" "}]}

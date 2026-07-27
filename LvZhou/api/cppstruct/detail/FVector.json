@@ -1,0 +1,1 @@
+{"Name":"FVector","Description":"A point or direction FVector in 3d space.\n  The full C++ class is located here: Engine\\Source\\Runtime\\Core\\Public\\Math\\Vector.h","Variables":[{"Name":"X","Type":"float","Description":"","Redirect":""},{"Name":"Y","Type":"float","Description":"","Redirect":""},{"Name":"Z","Type":"float","Description":"","Redirect":""}]}

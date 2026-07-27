@@ -1,0 +1,25 @@
+{
+  "id": "conv-1784003900815-l1ke3yd0u",
+  "providerId": "claude",
+  "title": "Run diff-check script",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784003900815,
+  "updatedAt": 1784004612119,
+  "lastResponseAt": 1784004205307,
+  "sessionId": "15e7f578-196e-4832-a0d4-1f84c10be711",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "15e7f578-196e-4832-a0d4-1f84c10be711"
+  },
+  "currentNote": "日记/2026-07-14.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 124,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 37888,
+    "contextWindow": 200000,
+    "contextTokens": 38012,
+    "percentage": 19,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,1 @@
+{"Name":"FPerConOwningObjectInfo","Description":"","Variables":[{"Name":"Actor","Type":"AActor *","Description":"","Redirect":""},{"Name":"Channel","Type":"UActorChannel *","Description":"","Redirect":""}]}

@@ -1,0 +1,1 @@
+{"Name":"EOHGradeScoreType","Description":" ","Variables":[{"Name":"OHGST_GPU","Value":"0","Description":" "},{"Name":"OHGST_Memory","Value":"1","Description":" "},{"Name":"OHGST_CPUCore","Value":"2","Description":" "},{"Name":"OHGST_CPUFreq","Value":"3","Description":" "},{"Name":"OHGST_MAX","Value":"4","Description":" "}]}

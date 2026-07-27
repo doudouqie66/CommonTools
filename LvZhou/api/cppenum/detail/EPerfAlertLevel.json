@@ -1,0 +1,1 @@
+{"Name":"EPerfAlertLevel","Description":" ","Variables":[{"Name":"Excellent","Value":"0","Description":" "},{"Name":"Good","Value":"1","Description":" "},{"Name":"Normal","Value":"2","Description":" "},{"Name":"Warning","Value":"3","Description":" "},{"Name":"Critical","Value":"4","Description":" "},{"Name":"MAX","Value":"5","Description":" "}]}

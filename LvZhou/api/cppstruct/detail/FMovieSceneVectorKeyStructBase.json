@@ -1,0 +1,1 @@
+{"Name":"FMovieSceneVectorKeyStructBase","Description":"Base Proxy structure for vector section key data.","Variables":[{"Name":"Time","Type":"float","Description":"The key's time.","Redirect":""}]}

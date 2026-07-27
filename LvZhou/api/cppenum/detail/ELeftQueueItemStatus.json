@@ -1,0 +1,1 @@
+{"Name":"ELeftQueueItemStatus","Description":" ","Variables":[{"Name":"ELQIS_Idle","Value":"1","Description":" "},{"Name":"ELQIS_PlayingInit","Value":"2","Description":" "},{"Name":"ELQIS_PlayingSwitching","Value":"3","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"AnimPhysSimSpaceType","Description":" ","Variables":[{"Name":"Component","Value":"0","Description":" "},{"Name":"Actor","Value":"1","Description":" "},{"Name":"World","Value":"2","Description":" "},{"Name":"RootRelative","Value":"3","Description":" "},{"Name":"BoneRelative","Value":"4","Description":" "}]}

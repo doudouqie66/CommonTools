@@ -1,0 +1,1 @@
+{"Name":"EVehicleParachuteState","Description":" ","Variables":[{"Name":"EVehicleParachute_None","Value":"0","Description":" "},{"Name":"EVehicleParachute_FreeFall","Value":"1","Description":" "},{"Name":"EVehicleParachute_Opening","Value":"2","Description":" "},{"Name":"EVehicleParachute_Landed","Value":"3","Description":" "}]}

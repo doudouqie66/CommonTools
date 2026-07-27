@@ -1,0 +1,1 @@
+{"Name":"FCDLODMeshNodeData","Description":"","Variables":[{"Name":"Material","Type":"UMaterialInterface *","Description":"","Redirect":""},{"Name":"MaterialInstance","Type":"UMaterialInstanceConstant *","Description":"","Redirect":""},{"Name":"MobileMaterialInterface","Type":"UMaterialInstance *","Description":"","Redirect":""}]}

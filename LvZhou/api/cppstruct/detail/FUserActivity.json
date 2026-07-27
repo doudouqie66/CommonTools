@@ -1,0 +1,1 @@
+{"Name":"FUserActivity","Description":"The description of a user activity","Variables":[{"Name":"ActionName","Type":"FString","Description":"Describes the user's activity","Redirect":""}]}

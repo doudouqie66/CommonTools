@@ -1,0 +1,1 @@
+{"Name":"EVoiceSignFailedReason","Description":" ","Variables":[{"Name":"SignSuccess","Value":"0","Description":" "},{"Name":"FailedFindPlayerController","Value":"1","Description":" "},{"Name":"FindItemFailed","Value":"2","Description":" "},{"Name":"FoundButBlocked","Value":"3","Description":" "}]}

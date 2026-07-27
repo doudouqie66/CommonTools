@@ -1,0 +1,1 @@
+{"Name":"FAnimNode_CachedBoneTransform","Description":"","Variables":[{"Name":"Source","Type":"FPoseLink","Description":"","Redirect":""},{"Name":"BoneToCache","Type":"FBoneReference","Description":"","Redirect":""},{"Name":"CacheFlagName","Type":"FName","Description":"","Redirect":""},{"Name":"bSaveCacheToRootAnimIns","Type":"bool","Description":"","Redirect":""}]}

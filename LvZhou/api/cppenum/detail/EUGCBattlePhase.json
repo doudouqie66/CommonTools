@@ -1,0 +1,1 @@
+{"Name":"EUGCBattlePhase","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"Matching","Value":"1","Description":" "},{"Name":"Prepare","Value":"2","Description":" "},{"Name":"InGame","Value":"4","Description":" "},{"Name":"End","Value":"8","Description":" "},{"Name":"All","Value":"-1","Description":" "}]}

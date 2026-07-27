@@ -1,0 +1,1 @@
+{"Name":"UMaterialExpressionScreenPosition","Description":"","Variables":[{"Name":"Mapping","Type":"TEnumAsByte \u003c EMaterialExpressionScreenPositionMapping \u003e","Description":"View input property to be accessed","Redirect":""}],"Functions":null,"Parents":["UMaterialExpression"],"Event":null,"Delegate":null,"Language":"cpp"}

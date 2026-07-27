@@ -1,0 +1,1 @@
+{"Name":"USoundGroups","Description":"","Variables":[{"Name":"SoundGroupProfiles","Type":"TArray \u003c FSoundGroup \u003e","Description":"","Redirect":""}],"Functions":null,"Parents":["UObject"],"Event":null,"Delegate":null,"Language":"cpp"}

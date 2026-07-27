@@ -1,0 +1,1 @@
+{"Name":"EPathFollowingRequestResult","Description":" ","Variables":[{"Name":"Failed","Value":"0","Description":" "},{"Name":"AlreadyAtGoal","Value":"1","Description":" "},{"Name":"RequestSuccessful","Value":"2","Description":" "}]}

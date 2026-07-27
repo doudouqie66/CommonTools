@@ -1,0 +1,1 @@
+{"Name":"EProcMeshSliceCapOption","Description":" ","Variables":[{"Name":"NoCap","Value":"0","Description":" "},{"Name":"CreateNewSectionForCap","Value":"1","Description":" "},{"Name":"UseLastSectionForCap","Value":"2","Description":" "}]}

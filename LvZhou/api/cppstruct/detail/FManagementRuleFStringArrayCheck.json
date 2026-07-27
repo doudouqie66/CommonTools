@@ -1,0 +1,1 @@
+{"Name":"FManagementRuleFStringArrayCheck","Description":"Structure to encapsulate a set of directories with a flip flag","Variables":[{"Name":"Names","Type":"TArray \u003c FString \u003e","Description":"","Redirect":""}]}

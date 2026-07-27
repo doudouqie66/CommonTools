@@ -1,0 +1,1 @@
+{"Name":"FBox2D","Description":"A rectangular 2D Box.\n  The full C++ class is located here: Engine\\Source\\Runtime\\Core\\Public\\Math\\Box2D.h","Variables":[{"Name":"Min","Type":"FVector2D","Description":"","Redirect":""},{"Name":"Max","Type":"FVector2D","Description":"","Redirect":""},{"Name":"bIsValid","Type":"uint8","Description":"","Redirect":""}]}

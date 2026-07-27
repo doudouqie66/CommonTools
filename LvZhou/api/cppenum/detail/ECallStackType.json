@@ -1,0 +1,1 @@
+{"Name":"ECallStackType","Description":" ","Variables":[{"Name":"ECST_None","Value":"0","Description":" "},{"Name":"ECST_Native","Value":"1","Description":" "},{"Name":"ECST_Script","Value":"2","Description":" "},{"Name":"ECST_Lua","Value":"4","Description":" "},{"Name":"ECST_NativeAndScript","Value":"3","Description":" "},{"Name":"ECST_All","Value":"255","Description":" "}]}

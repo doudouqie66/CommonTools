@@ -1,0 +1,1 @@
+{"Name":"FAnimNode_UseCachedPose","Description":"","Variables":[{"Name":"LinkToCachingNode","Type":"FPoseLink","Description":"","Redirect":""},{"Name":"CachePoseName","Type":"FName","Description":"Intentionally not exposed, set by AnimBlueprintCompiler","Redirect":""}]}

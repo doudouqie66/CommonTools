@@ -1,0 +1,1 @@
+{"Name":"UAISense_Team","Description":"","Variables":[{"Name":"RegisteredEvents","Type":"TArray \u003c FAITeamStimulusEvent \u003e","Description":"","Redirect":""}],"Functions":null,"Parents":["UAISense"],"Event":null,"Delegate":null,"Language":"cpp"}

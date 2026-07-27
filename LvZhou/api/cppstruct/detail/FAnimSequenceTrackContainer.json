@@ -1,0 +1,1 @@
+{"Name":"FAnimSequenceTrackContainer","Description":"","Variables":[{"Name":"AnimationTracks","Type":"TArray \u003c struct FRawAnimSequenceTrack \u003e","Description":"","Redirect":""},{"Name":"TrackNames","Type":"TArray \u003c FName \u003e","Description":"","Redirect":""}]}

@@ -1,0 +1,1 @@
+{"Name":"EInputEvent","Description":" ","Variables":[{"Name":"IE_Pressed","Value":"0","Description":" "},{"Name":"IE_Released","Value":"1","Description":" "},{"Name":"IE_Repeat","Value":"2","Description":" "},{"Name":"IE_DoubleClick","Value":"3","Description":" "},{"Name":"IE_Axis","Value":"4","Description":" "},{"Name":"IE_MAX","Value":"5","Description":" "}]}

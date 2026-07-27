@@ -1,0 +1,1 @@
+{"Name":"EFatalDamageRelationShip","Description":" ","Variables":[{"Name":"MyTeamateIsCauser","Value":"0","Description":" "},{"Name":"NotRelated","Value":"1","Description":" "},{"Name":"MyTeammateIsVictim","Value":"2","Description":" "},{"Name":"MyTeammateIsCauserAndVictim","Value":"3","Description":" "}]}

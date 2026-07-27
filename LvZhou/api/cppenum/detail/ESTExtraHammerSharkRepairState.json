@@ -1,0 +1,1 @@
+{"Name":"ESTExtraHammerSharkRepairState","Description":" ","Variables":[{"Name":"EHSRS_Default","Value":"0","Description":" "},{"Name":"EHSRS_Strating","Value":"1","Description":" "},{"Name":"EHSRS_Repairing","Value":"2","Description":" "},{"Name":"EHSRS_Ending","Value":"3","Description":" "}]}

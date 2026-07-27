@@ -1,0 +1,1 @@
+{"Name":"FParallelWorldPlayerInfo","Description":"","Variables":[{"Name":"WorldParallelismID","Type":"uint32","Description":"","Redirect":""},{"Name":"PlayerName","Type":"FString","Description":"","Redirect":""},{"Name":"PlayerController","Type":"APlayerController *","Description":"","Redirect":""}]}

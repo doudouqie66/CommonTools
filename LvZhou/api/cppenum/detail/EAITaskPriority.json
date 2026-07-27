@@ -1,0 +1,1 @@
+{"Name":"EAITaskPriority","Description":" ","Variables":[{"Name":"Lowest","Value":"0","Description":" "},{"Name":"Low","Value":"64","Description":" "},{"Name":"AutonomousAI","Value":"127","Description":" "},{"Name":"High","Value":"192","Description":" "},{"Name":"Ultimate","Value":"254","Description":" "}]}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784025161195-4wk498g74",
+  "providerId": "claude",
+  "title": "Document GameMode spawn point fix",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784025161195,
+  "updatedAt": 1784082064122,
+  "lastResponseAt": 1784025343859,
+  "sessionId": "82d74883-2b0b-4363-9c0c-1aefa882804f",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "82d74883-2b0b-4363-9c0c-1aefa882804f"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 68,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 45056,
+    "contextWindow": 200000,
+    "contextTokens": 45124,
+    "percentage": 23,
+    "contextWindowIsAuthoritative": true
+  }
+}

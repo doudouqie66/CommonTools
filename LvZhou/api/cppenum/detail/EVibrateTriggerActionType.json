@@ -1,0 +1,1 @@
+{"Name":"EVibrateTriggerActionType","Description":" ","Variables":[{"Name":"EVibrateTriggerActionType_None","Value":"0","Description":" "},{"Name":"EVibrateTriggerActionType_Onece","Value":"1","Description":" "},{"Name":"EVibrateTriggerActionType_Start","Value":"2","Description":" "},{"Name":"EVibrateTriggerActionType_Stop","Value":"3","Description":" "}]}

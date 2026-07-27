@@ -1,0 +1,1 @@
+{"Name":"FTTVectorTrack","Description":"Structure storing information about one vector interpolation track","Variables":[{"Name":"CurveVector","Type":"UCurveVector *","Description":"Curve object used to define vector value over time","Redirect":""}]}

@@ -1,0 +1,1 @@
+{"Name":"EDeviceVisibilityStrategy","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"LowLevelHiddenOnly","Value":"1","Description":" "},{"Name":"HighLevelHiddenOnly","Value":"2","Description":" "},{"Name":"SpecifyShowOnly","Value":"3","Description":" "},{"Name":"SpecifyHiddenOnly","Value":"4","Description":" "}]}

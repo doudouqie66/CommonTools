@@ -1,0 +1,1 @@
+{"Name":"FRootMotionFinishVelocitySettings","Description":"Struct for RootMotion Finish Velocity options.","Variables":[{"Name":"Mode","Type":"ERootMotionFinishVelocityMode","Description":"","Redirect":""},{"Name":"SetVelocity","Type":"FVector","Description":"","Redirect":""},{"Name":"ClampVelocity","Type":"float","Description":"","Redirect":""}]}

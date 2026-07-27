@@ -1,0 +1,1 @@
+{"Name":"EPhysAssetFitGeomType","Description":" ","Variables":[{"Name":"EFG_Box","Value":"0","Description":" "},{"Name":"EFG_Sphyl","Value":"1","Description":" "},{"Name":"EFG_Sphere","Value":"2","Description":" "},{"Name":"EFG_SingleConvexHull","Value":"3","Description":" "},{"Name":"EFG_MultiConvexHull","Value":"4","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"EAvailableForSale","Description":" ","Variables":[{"Name":"NotForSale","Value":"1","Description":"不售卖"},{"Name":"PermanentSale","Value":"2","Description":"永久售卖"},{"Name":"LimitedTimeSale","Value":"3","Description":"限时售卖"}]}

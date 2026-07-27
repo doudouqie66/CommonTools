@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784603536388-nvztcoo6l",
+  "providerId": "claude",
+  "title": "Find official 光子鸡 tutorial location",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784603536389,
+  "updatedAt": 1784690521042,
+  "lastResponseAt": 1784603552089,
+  "sessionId": "b18828c7-b406-419d-97a4-70e5433d1fa0",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "b18828c7-b406-419d-97a4-70e5433d1fa0"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1901,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 33664,
+    "contextWindow": 200000,
+    "contextTokens": 35565,
+    "percentage": 18,
+    "contextWindowIsAuthoritative": true
+  }
+}

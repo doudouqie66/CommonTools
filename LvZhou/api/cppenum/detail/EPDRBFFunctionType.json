@@ -1,0 +1,1 @@
+{"Name":"EPDRBFFunctionType","Description":" ","Variables":[{"Name":"Gaussian","Value":"0","Description":" "},{"Name":"Exponential","Value":"1","Description":" "},{"Name":"Linear","Value":"2","Description":" "},{"Name":"Cubic","Value":"3","Description":" "},{"Name":"Quintic","Value":"4","Description":" "},{"Name":"DefaultFunction","Value":"5","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"FCameraCacheEntry","Description":"Cached camera POV info, stored as optimization so we only\n  need to do a full camera update once per tick.","Variables":[{"Name":"TimeStamp","Type":"float","Description":"World time this entry was created.","Redirect":""},{"Name":"POV","Type":"FMinimalViewInfo","Description":"Camera POV to cache.","Redirect":""}]}

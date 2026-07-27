@@ -1,0 +1,1 @@
+{"Name":"EConstructType","Description":" ","Variables":[{"Name":"ECT_Static","Value":"0","Description":" "},{"Name":"ECT_Dynamic","Value":"1","Description":" "},{"Name":"ECT_BlueprintAttach","Value":"2","Description":" "},{"Name":"ECT_GlobalOverride","Value":"3","Description":" "}]}

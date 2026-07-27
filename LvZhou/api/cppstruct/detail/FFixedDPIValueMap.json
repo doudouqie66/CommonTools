@@ -1,0 +1,1 @@
+{"Name":"FFixedDPIValueMap","Description":"通过分辨率XY查询固定缩放值","Variables":[{"Name":"ScaleValues","Type":"TMap \u003c int32 , float \u003e","Description":"","Redirect":""}]}

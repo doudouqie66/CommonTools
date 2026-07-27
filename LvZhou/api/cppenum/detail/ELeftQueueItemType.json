@@ -1,0 +1,1 @@
+{"Name":"ELeftQueueItemType","Description":" ","Variables":[{"Name":"EEmpty","Value":"0","Description":" "},{"Name":"EControlItem","Value":"1","Description":" "},{"Name":"EKillInfo","Value":"2","Description":" "},{"Name":"EMaxKiller","Value":"3","Description":" "},{"Name":"EPrompt","Value":"4","Description":" "}]}

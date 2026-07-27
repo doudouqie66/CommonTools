@@ -1,0 +1,1 @@
+{"Name":"eAnimState","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"idle","Value":"1","Description":" "},{"Name":"Walking","Value":"2","Description":" "},{"Name":"Running","Value":"3","Description":" "},{"Name":"Falling","Value":"4","Description":" "},{"Name":"Attack","Value":"5","Description":" "}]}

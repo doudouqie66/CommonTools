@@ -1,0 +1,1 @@
+{"Name":"EChooseEnemySearchMethod","Description":" ","Variables":[{"Name":"SearchMethod_Nearest","Value":"0","Description":" "},{"Name":"SearchMethod_MostHP","Value":"1","Description":" "},{"Name":"SearchMethod_LeastHP","Value":"2","Description":" "},{"Name":"SearchMethod_ByBlackboardValue","Value":"255","Description":" "}]}

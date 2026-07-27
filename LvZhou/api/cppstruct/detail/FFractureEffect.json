@@ -1,0 +1,1 @@
+{"Name":"FFractureEffect","Description":"Struct used to hold effects for destructible damage events","Variables":[{"Name":"ParticleSystem","Type":"UParticleSystem *","Description":"Particle system effect to play at fracture location.","Redirect":""},{"Name":"Sound","Type":"USoundBase *","Description":"Sound cue to play at fracture location.","Redirect":""}]}

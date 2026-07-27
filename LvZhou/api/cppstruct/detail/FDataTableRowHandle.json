@@ -1,0 +1,1 @@
+{"Name":"FDataTableRowHandle","Description":"Handle to a particular row in a table","Variables":[{"Name":"DataTable","Type":"UDataTable *","Description":"Pointer to table we want a row from","Redirect":""},{"Name":"RowName","Type":"FName","Description":"Name of row in the table that we want","Redirect":""}]}

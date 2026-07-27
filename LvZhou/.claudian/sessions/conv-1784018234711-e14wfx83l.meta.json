@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784018234711-e14wfx83l",
+  "providerId": "claude",
+  "title": "Create notes folder for current tasks",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784018234711,
+  "updatedAt": 1784082060706,
+  "lastResponseAt": 1784042123154,
+  "sessionId": "9f75cc72-13b1-44eb-b817-ee6f363447b7",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "9f75cc72-13b1-44eb-b817-ee6f363447b7"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 485,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 95744,
+    "contextWindow": 200000,
+    "contextTokens": 96229,
+    "percentage": 48,
+    "contextWindowIsAuthoritative": true
+  }
+}

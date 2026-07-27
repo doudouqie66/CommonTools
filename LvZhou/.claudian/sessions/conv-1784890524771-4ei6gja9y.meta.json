@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784890524771-4ei6gja9y",
+  "providerId": "claude",
+  "title": "查找场景物体自旋Wiki",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784890524771,
+  "updatedAt": 1784890542990,
+  "lastResponseAt": 1784890542990,
+  "sessionId": "66683494-3d44-432b-96e3-1093d79e53cc",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "66683494-3d44-432b-96e3-1093d79e53cc"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 15193,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 33152,
+    "contextWindow": 200000,
+    "contextTokens": 48345,
+    "percentage": 24,
+    "contextWindowIsAuthoritative": true
+  }
+}

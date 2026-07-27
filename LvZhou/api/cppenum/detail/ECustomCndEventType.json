@@ -1,0 +1,1 @@
+{"Name":"ECustomCndEventType","Description":" ","Variables":[{"Name":"OnStartFire","Value":"0","Description":" "},{"Name":"OnStopFire","Value":"1","Description":" "},{"Name":"OnFireHitServer","Value":"2","Description":" "},{"Name":"MaxType","Value":"3","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"EVehicleAcclerateType","Description":" ","Variables":[{"Name":"NormalType","Value":"0","Description":" "},{"Name":"DriftAccelerate","Value":"1","Description":" "},{"Name":"NIOAccelerate","Value":"2","Description":" "},{"Name":"RaceStartAccelerate","Value":"3","Description":" "},{"Name":"WakeEffectAccelerate","Value":"4","Description":" "}]}

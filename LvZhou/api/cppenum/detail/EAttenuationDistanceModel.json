@@ -1,0 +1,1 @@
+{"Name":"EAttenuationDistanceModel","Description":" ","Variables":[{"Name":"Linear","Value":"0","Description":" "},{"Name":"Logarithmic","Value":"1","Description":" "},{"Name":"Inverse","Value":"2","Description":" "},{"Name":"LogReverse","Value":"3","Description":" "},{"Name":"NaturalSound","Value":"4","Description":" "},{"Name":"Custom","Value":"5","Description":" "}]}

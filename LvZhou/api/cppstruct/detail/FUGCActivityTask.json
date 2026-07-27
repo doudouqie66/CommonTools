@@ -1,0 +1,1 @@
+{"Name":"FUGCActivityTask","Description":"活动任务结构体","Variables":[{"Name":"TaskID","Type":"int32","Description":"任务ID","Redirect":""},{"Name":"ResetType","Type":"EUGCActivityTaskResetType","Description":"重置类型","Redirect":""}]}

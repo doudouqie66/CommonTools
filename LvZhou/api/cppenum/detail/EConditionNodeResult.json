@@ -1,0 +1,1 @@
+{"Name":"EConditionNodeResult","Description":" ","Variables":[{"Name":"Success","Value":"0","Description":" "},{"Name":"Fail_Temporary","Value":"1","Description":" "},{"Name":"Fail_FadeOut","Value":"2","Description":" "},{"Name":"Fail_All","Value":"3","Description":" "}]}

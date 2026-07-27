@@ -1,0 +1,1 @@
+{"Name":"ECollisionType","Description":" ","Variables":[{"Name":"Collision_Default","Value":"0","Description":" "},{"Name":"Collision_None","Value":"1","Description":" "},{"Name":"Collision_Raw","Value":"2","Description":" "},{"Name":"Collision_Optimize","Value":"3","Description":" "}]}

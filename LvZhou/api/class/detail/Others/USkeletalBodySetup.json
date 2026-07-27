@@ -1,0 +1,1 @@
+{"Name":"USkeletalBodySetup","Description":"","Variables":[{"Name":"bClientOnlyBody","Type":"bool","Description":"","Redirect":""},{"Name":"PhysicalAnimationData","Type":"TArray \u003c FPhysicalAnimationProfile \u003e","Description":"","Redirect":""}],"Functions":null,"Parents":["UBodySetup"],"Event":null,"Delegate":null,"Language":"cpp"}

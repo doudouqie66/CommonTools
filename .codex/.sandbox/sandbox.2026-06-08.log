@@ -1,0 +1,35 @@
+[2026-06-08T07:26:26.062328100+00:00] ensuring sandbox users offline=CodexSandboxOffline online=CodexSandboxOnline
+[2026-06-08T07:26:26.258307+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_udp protocol=17 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-08T07:26:26.370264200+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-08T07:26:26.497358800+00:00] firewall rule configured name=codex_sandbox_offline_block_loopback_tcp protocol=6 RemoteAddresses=127.0.0.0/8,::/127 RemotePorts=1-65535 LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-08T07:26:26.619883700+00:00] firewall rule configured name=codex_sandbox_offline_block_outbound protocol=256 RemoteAddresses=0.0.0.0-126.255.255.255,128.0.0.0-255.255.255.255,::,::2-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff RemotePorts=* LocalUserAuthorizedList=O:LSD:(A;;CC;;;S-1-5-21-3265740196-2565969744-2377451907-1003)
+[2026-06-08T07:26:26.634916300+00:00] WFP setup succeeded for CodexSandboxOffline with 12 installed filters
+[2026-06-08 15:26:27.802 codex-windows-sandbox-setup.exe] setup binary completed
+[2026-06-08T07:26:27.816052600+00:00] read-acl-only mode: applying read ACLs
+[2026-06-08T07:26:27.817188400+00:00] granting read ACE to C:\Users\admin\.cc-switch for sandbox users
+[2026-06-08T07:26:27.818479600+00:00] granting read ACE to C:\Users\admin\.claude for sandbox users
+[2026-06-08T07:26:27.860553600+00:00] granting read ACE to C:\Users\admin\.claude.json for sandbox users
+[2026-06-08T07:26:27.860898+00:00] granting read ACE to C:\Users\admin\.codex for sandbox users
+[2026-06-08T07:26:28.591899800+00:00] granting read ACE to C:\Users\admin\.vscode for sandbox users
+[2026-06-08T07:26:29.395473100+00:00] granting read ACE to C:\Users\admin\.vscode-shared for sandbox users
+[2026-06-08T07:26:29.396350+00:00] granting read ACE to C:\Users\admin\AppData for sandbox users
+[2026-06-08T07:26:35.014751200+00:00] granting read ACE to C:\Users\admin\Contacts for sandbox users
+[2026-06-08T07:26:35.015709300+00:00] granting read ACE to C:\Users\admin\Desktop for sandbox users
+[2026-06-08T07:26:35.018603300+00:00] granting read ACE to C:\Users\admin\Documents for sandbox users
+[2026-06-08T07:26:35.112579400+00:00] granting read ACE to C:\Users\admin\Downloads for sandbox users
+[2026-06-08T07:26:35.114683800+00:00] granting read ACE to C:\Users\admin\Favorites for sandbox users
+[2026-06-08T07:26:35.116093600+00:00] granting read ACE to C:\Users\admin\Links for sandbox users
+[2026-06-08T07:26:35.117308+00:00] granting read ACE to C:\Users\admin\Music for sandbox users
+[2026-06-08T07:26:35.118137400+00:00] granting read ACE to C:\Users\admin\NTUSER.DAT for sandbox users
+[2026-06-08T07:26:35.118810200+00:00] granting read ACE to C:\Users\admin\ntuser.dat.LOG1 for sandbox users
+[2026-06-08T07:26:35.119451900+00:00] granting read ACE to C:\Users\admin\ntuser.dat.LOG2 for sandbox users
+[2026-06-08T07:26:35.120065400+00:00] granting read ACE to C:\Users\admin\NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TM.blf for sandbox users
+[2026-06-08T07:26:35.120668600+00:00] granting read ACE to C:\Users\admin\NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TMContainer00000000000000000001.regtrans-ms for sandbox users
+[2026-06-08T07:26:35.121264500+00:00] granting read ACE to C:\Users\admin\NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TMContainer00000000000000000002.regtrans-ms for sandbox users
+[2026-06-08T07:26:35.121855400+00:00] granting read ACE to C:\Users\admin\ntuser.ini for sandbox users
+[2026-06-08T07:26:35.122380600+00:00] granting read ACE to C:\Users\admin\OneDrive for sandbox users
+[2026-06-08T07:26:35.123089600+00:00] granting read ACE to C:\Users\admin\Pictures for sandbox users
+[2026-06-08T07:26:35.123830800+00:00] granting read ACE to C:\Users\admin\Saved Games for sandbox users
+[2026-06-08T07:26:35.124619300+00:00] granting read ACE to C:\Users\admin\Searches for sandbox users
+[2026-06-08T07:26:35.125488600+00:00] granting read ACE to C:\Users\admin\Videos for sandbox users
+[2026-06-08T07:26:35.126300700+00:00] read ACL run completed

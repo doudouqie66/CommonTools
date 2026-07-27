@@ -1,0 +1,1 @@
+{"Name":"FDPProfileMatchItem","Description":"","Variables":[{"Name":"SourceType","Type":"TEnumAsByte \u003c EDPSourceType \u003e","Description":"","Redirect":""},{"Name":"CompareType","Type":"TEnumAsByte \u003c EDPCompareType \u003e","Description":"","Redirect":""},{"Name":"MatchString","Type":"FString","Description":"","Redirect":""}]}

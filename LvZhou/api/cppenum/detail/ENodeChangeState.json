@@ -1,0 +1,1 @@
+{"Name":"ENodeChangeState","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"BlendListNodeEnter","Value":"1","Description":" "},{"Name":"BlendListNodeLeave","Value":"2","Description":" "},{"Name":"ReinitNode","Value":"3","Description":" "}]}

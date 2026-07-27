@@ -1,0 +1,1 @@
+{"Name":"EShootingRoomStatus","Description":" ","Variables":[{"Name":"Normal","Value":"0","Description":" "},{"Name":"Training","Value":"1","Description":" "},{"Name":"PreTraining","Value":"2","Description":" "},{"Name":"WaitReset","Value":"3","Description":" "}]}

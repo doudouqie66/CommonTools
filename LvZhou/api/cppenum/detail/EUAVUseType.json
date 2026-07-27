@@ -1,0 +1,1 @@
+{"Name":"EUAVUseType","Description":" ","Variables":[{"Name":"UAV_None","Value":"0","Description":" "},{"Name":"UAV_Init","Value":"1","Description":" "},{"Name":"UAV_Using","Value":"2","Description":" "},{"Name":"UAV_Standby","Value":"3","Description":" "}]}

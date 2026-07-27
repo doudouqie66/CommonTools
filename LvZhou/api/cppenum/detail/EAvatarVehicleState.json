@@ -1,0 +1,1 @@
+{"Name":"EAvatarVehicleState","Description":" ","Variables":[{"Name":"NoneState","Value":"0","Description":" "},{"Name":"DefaultState","Value":"1","Description":" "},{"Name":"EngineOn","Value":"2","Description":" "},{"Name":"Running","Value":"3","Description":" "},{"Name":"Boosting","Value":"4","Description":" "},{"Name":"Brake","Value":"5","Description":" "}]}

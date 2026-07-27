@@ -1,0 +1,1 @@
+{"Name":"ELadderClimbState","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"Up","Value":"1","Description":" "},{"Name":"Down","Value":"2","Description":" "},{"Name":"UpVaulted","Value":"3","Description":" "},{"Name":"UpCannotVault","Value":"4","Description":" "},{"Name":"DownJumped","Value":"5","Description":" "}]}

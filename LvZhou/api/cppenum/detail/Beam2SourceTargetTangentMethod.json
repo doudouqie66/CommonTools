@@ -1,0 +1,1 @@
+{"Name":"Beam2SourceTargetTangentMethod","Description":" ","Variables":[{"Name":"PEB2STTM_Direct","Value":"0","Description":" "},{"Name":"PEB2STTM_UserSet","Value":"1","Description":" "},{"Name":"PEB2STTM_Distribution","Value":"2","Description":" "},{"Name":"PEB2STTM_Emitter","Value":"3","Description":" "},{"Name":"PEB2STTM_MAX","Value":"4","Description":" "}]}

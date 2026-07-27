@@ -1,0 +1,1 @@
+{"Name":"TextureFilter","Description":" ","Variables":[{"Name":"TF_Nearest","Value":"0","Description":" "},{"Name":"TF_Bilinear","Value":"1","Description":" "},{"Name":"TF_Trilinear","Value":"2","Description":" "},{"Name":"TF_Default","Value":"3","Description":" "},{"Name":"TF_MAX","Value":"4","Description":" "}]}

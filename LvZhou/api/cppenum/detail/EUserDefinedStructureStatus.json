@@ -1,0 +1,1 @@
+{"Name":"EUserDefinedStructureStatus","Description":" ","Variables":[{"Name":"UDSS_UpToDate","Value":"0","Description":" "},{"Name":"UDSS_Dirty","Value":"1","Description":" "},{"Name":"UDSS_Error","Value":"2","Description":" "},{"Name":"UDSS_Duplicate","Value":"3","Description":" "},{"Name":"UDSS_MAX","Value":"4","Description":" "}]}

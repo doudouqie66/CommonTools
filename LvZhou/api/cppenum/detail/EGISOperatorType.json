@@ -1,0 +1,1 @@
+{"Name":"EGISOperatorType","Description":" ","Variables":[{"Name":"EGISOperator_Equal","Value":"0","Description":" "},{"Name":"EGISOperator_Greater","Value":"1","Description":" "},{"Name":"EGISOperator_Less","Value":"2","Description":" "},{"Name":"EGISOperator_GreaterEqual","Value":"3","Description":" "},{"Name":"EGISOperator_LessEqual","Value":"4","Description":" "}]}

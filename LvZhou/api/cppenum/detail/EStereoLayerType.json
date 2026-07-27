@@ -1,0 +1,1 @@
+{"Name":"EStereoLayerType","Description":" ","Variables":[{"Name":"SLT_WorldLocked","Value":"0","Description":" "},{"Name":"SLT_TrackerLocked","Value":"1","Description":" "},{"Name":"SLT_FaceLocked","Value":"2","Description":" "},{"Name":"SLT_MAX","Value":"3","Description":" "}]}

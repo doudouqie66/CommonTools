@@ -1,0 +1,1 @@
+{"Name":"EJumpType","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"HighSpeedBigJump","Value":"1","Description":" "},{"Name":"HighSpeedSmallJump","Value":"2","Description":" "},{"Name":"LowSpeedBigJump","Value":"3","Description":" "},{"Name":"ObstacleJump","Value":"4","Description":" "}]}

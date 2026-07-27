@@ -1,0 +1,1 @@
+{"Name":"FMeshSocketSelector","Description":"在Mesh上的位置","Variables":[{"Name":"Socket","Type":"FName","Description":"Mesh上的Socket名字","Redirect":""},{"Name":"Offset","Type":"FTransform","Description":"相对于Socket的偏移","Redirect":""}]}

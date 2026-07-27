@@ -1,0 +1,1 @@
+{"Name":"EDepthOfFieldFunctionValue","Description":" ","Variables":[{"Name":"TDOF_NearAndFarMask","Value":"0","Description":" "},{"Name":"TDOF_NearMask","Value":"1","Description":" "},{"Name":"TDOF_FarMask","Value":"2","Description":" "},{"Name":"TDOF_CircleOfConfusionRadius","Value":"3","Description":" "},{"Name":"TDOF_MAX","Value":"4","Description":" "}]}

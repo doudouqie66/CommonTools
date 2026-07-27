@@ -1,0 +1,1 @@
+{"Name":"EFunctionalTestResult","Description":" ","Variables":[{"Name":"Default","Value":"0","Description":" "},{"Name":"Invalid","Value":"1","Description":" "},{"Name":"Error","Value":"2","Description":" "},{"Name":"Running","Value":"3","Description":" "},{"Name":"Failed","Value":"4","Description":" "},{"Name":"Succeeded","Value":"5","Description":" "}]}

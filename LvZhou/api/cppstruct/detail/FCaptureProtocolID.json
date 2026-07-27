@@ -1,0 +1,1 @@
+{"Name":"FCaptureProtocolID","Description":"Structure used to uniquely identify a specific capture protocol","Variables":[{"Name":"Identifier","Type":"FName","Description":"","Redirect":""}]}

@@ -1,0 +1,1 @@
+{"Name":"EPakResState","Description":" ","Variables":[{"Name":"UnInit","Value":"0","Description":" "},{"Name":"MountSuccess","Value":"1","Description":" "},{"Name":"MountFailedAndDelete","Value":"2","Description":" "}]}

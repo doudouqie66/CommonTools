@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784728664074-bhvttmfmn",
+  "providerId": "claude",
+  "title": "Check reverse movement features",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784728664074,
+  "updatedAt": 1784732045072,
+  "lastResponseAt": 1784729678461,
+  "sessionId": "db28a3c3-bcb2-4932-a72f-496706e4b4ff",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "db28a3c3-bcb2-4932-a72f-496706e4b4ff"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 752,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 124160,
+    "contextWindow": 200000,
+    "contextTokens": 124912,
+    "percentage": 62,
+    "contextWindowIsAuthoritative": true
+  }
+}

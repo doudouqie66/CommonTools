@@ -1,0 +1,1 @@
+{"Name":"EItemStopReason","Description":" ","Variables":[{"Name":"Completed","Value":"1","Description":" "},{"Name":"Interrupt","Value":"2","Description":" "},{"Name":"Cancel","Value":"4","Description":" "},{"Name":"None","Value":"255","Description":" "}]}

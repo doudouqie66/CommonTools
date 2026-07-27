@@ -1,0 +1,1 @@
+{"Name":"ETemperatureSeverityType","Description":" ","Variables":[{"Name":"Unknown","Value":"0","Description":" "},{"Name":"Good","Value":"1","Description":" "},{"Name":"Bad","Value":"2","Description":" "},{"Name":"Serious","Value":"3","Description":" "},{"Name":"Critical","Value":"4","Description":" "},{"Name":"NumSeverities","Value":"5","Description":" "}]}

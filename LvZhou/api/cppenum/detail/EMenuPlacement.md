@@ -1,0 +1,25 @@
+---
+title: EMenuPlacement
+---
+
+# EMenuPlacement
+
+ 
+
+## Variables
+
+| Name | Type | Description |
+|------|------|-------------|
+| MenuPlacement_BelowAnchor |  |   |
+| MenuPlacement_CenteredBelowAnchor |  |   |
+| MenuPlacement_BelowRightAnchor |  |   |
+| MenuPlacement_ComboBox |  |   |
+| MenuPlacement_ComboBoxRight |  |   |
+| MenuPlacement_MenuRight |  |   |
+| MenuPlacement_AboveAnchor |  |   |
+| MenuPlacement_CenteredAboveAnchor |  |   |
+| MenuPlacement_AboveRightAnchor |  |   |
+| MenuPlacement_MenuLeft |  |   |
+| MenuPlacement_Center |  |   |
+| MenuPlacement_RightLeftCenter |  |   |
+| MenuPlacement_MatchBottomLeft |  |   |

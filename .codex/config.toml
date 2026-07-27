@@ -1,0 +1,83 @@
+model = "gpt-5.6-sol"
+service_tier = "default"
+model_reasoning_effort = "medium"
+
+[projects.'c:\wegameapps\rail_apps\oasiseraeditor(2001776)\shadowtrackerextra\ugcprojects\douluo']
+trust_level = "trusted"
+
+[projects.'c:\wegameapps\rail_apps\oasiseraeditor(2001776)\shadowtrackerextra\ugcprojects\test_mons']
+trust_level = "trusted"
+[windows]
+sandbox = "elevated"
+
+[projects.'c:\wegameapps\rail_apps\oasiseraeditor(2001776)\shadowtrackerextra\ugcprojects\test_03']
+trust_level = "trusted"
+
+[projects.'c:\wegameapps\rail_apps\oasiseraeditor(2001776)\shadowtrackerextra\ugcprojects\hunhuan']
+trust_level = "trusted"
+
+[projects.'c:\wegameapps\rail_apps\oasiseraeditor(2001776)\shadowtrackerextra\ugcprojects\lin_template']
+trust_level = "trusted"
+
+[projects.'c:\wegameapps\rail_apps\oasiseraeditor(2001776)\shadowtrackerextra\ugcprojects\chongzita']
+trust_level = "trusted"
+
+[shell_environment_policy]
+experimental_use_profile=true
+inherit="all"
+
+[[skills.config]]
+path = 'C:\Users\admin\.codex\skills\using-superpowers\SKILL.md'
+enabled = false
+
+[[skills.config]]
+path = 'C:\Users\admin\.codex\skills\writing-skills\SKILL.md'
+enabled = false
+
+[[skills.config]]
+path = 'C:\Users\admin\.codex\skills\writing-plans\SKILL.md'
+enabled = false
+
+[[skills.config]]
+path = 'C:\Users\admin\.codex\skills\verification-before-completion\SKILL.md'
+enabled = false
+
+[[skills.config]]
+path = 'C:\Users\admin\.codex\skills\using-git-worktrees\SKILL.md'
+enabled = false
+
+[[skills.config]]
+path = 'C:\Users\admin\.codex\skills\test-driven-development\SKILL.md'
+enabled = false
+
+[[skills.config]]
+path = 'C:\Users\admin\.codex\skills\systematic-debugging\SKILL.md'
+enabled = false
+
+[[skills.config]]
+path = 'C:\Users\admin\.codex\skills\subagent-driven-development\SKILL.md'
+enabled = false
+
+[[skills.config]]
+path = 'C:\Users\admin\.codex\skills\requesting-code-review\SKILL.md'
+enabled = false
+
+[[skills.config]]
+path = 'C:\Users\admin\.codex\skills\receiving-code-review\SKILL.md'
+enabled = false
+
+[[skills.config]]
+path = 'C:\Users\admin\.codex\skills\finishing-a-development-branch\SKILL.md'
+enabled = false
+
+[[skills.config]]
+path = 'C:\Users\admin\.codex\skills\executing-plans\SKILL.md'
+enabled = false
+
+[[skills.config]]
+path = 'C:\Users\admin\.codex\skills\dispatching-parallel-agents\SKILL.md'
+enabled = false
+
+[[skills.config]]
+path = 'C:\Users\admin\.codex\skills\brainstorming\SKILL.md'
+enabled = false

@@ -1,0 +1,1 @@
+{"Name":"FPaintedVertex","Description":"Cached vertex information at the time the mesh was painted.","Variables":[{"Name":"Position","Type":"FVector","Description":"","Redirect":""},{"Name":"Normal","Type":"FPackedNormal","Description":"","Redirect":""},{"Name":"Color","Type":"FColor","Description":"","Redirect":""}]}

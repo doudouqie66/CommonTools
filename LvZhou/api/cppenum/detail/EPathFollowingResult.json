@@ -1,0 +1,1 @@
+{"Name":"EPathFollowingResult","Description":" ","Variables":[{"Name":"Success","Value":"0","Description":" "},{"Name":"Blocked","Value":"1","Description":" "},{"Name":"OffPath","Value":"2","Description":" "},{"Name":"Aborted","Value":"3","Description":" "},{"Name":"Skipped_DEPRECATED","Value":"4","Description":" "},{"Name":"Invalid","Value":"5","Description":" "}]}

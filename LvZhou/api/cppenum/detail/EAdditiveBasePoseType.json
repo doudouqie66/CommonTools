@@ -1,0 +1,1 @@
+{"Name":"EAdditiveBasePoseType","Description":" ","Variables":[{"Name":"ABPT_None","Value":"0","Description":" "},{"Name":"ABPT_RefPose","Value":"1","Description":" "},{"Name":"ABPT_AnimScaled","Value":"2","Description":" "},{"Name":"ABPT_AnimFrame","Value":"3","Description":" "},{"Name":"ABPT_MAX","Value":"4","Description":" "}]}

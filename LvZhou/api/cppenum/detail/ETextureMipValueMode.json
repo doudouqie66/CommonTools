@@ -1,0 +1,1 @@
+{"Name":"ETextureMipValueMode","Description":" ","Variables":[{"Name":"TMVM_None","Value":"0","Description":" "},{"Name":"TMVM_MipLevel","Value":"1","Description":" "},{"Name":"TMVM_MipBias","Value":"2","Description":" "},{"Name":"TMVM_Derivative","Value":"3","Description":" "},{"Name":"TMVM_MAX","Value":"4","Description":" "}]}

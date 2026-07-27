@@ -1,0 +1,1 @@
+{"Name":"EHideAndSeekRoundStateType","Description":" ","Variables":[{"Name":"LoadingState","Value":"0","Description":" "},{"Name":"SelectCampState","Value":"1","Description":" "},{"Name":"HidingState","Value":"2","Description":" "},{"Name":"HuntingState","Value":"3","Description":" "},{"Name":"RoundSwitchState","Value":"4","Description":" "}]}

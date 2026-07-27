@@ -1,0 +1,1 @@
+{"Name":"EPrimaryAssetPriorityRule","Description":" ","Variables":[{"Name":"Default","Value":"0","Description":" "},{"Name":"ApplyRecursivelyPriority","Value":"1","Description":" "},{"Name":"ApplyNoneRecursivelyPriority","Value":"2","Description":" "},{"Name":"ApplyNoPriority","Value":"3","Description":" "}]}

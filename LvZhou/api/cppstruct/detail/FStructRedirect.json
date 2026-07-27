@@ -1,0 +1,1 @@
+{"Name":"FStructRedirect","Description":"","Variables":[{"Name":"OldStructName","Type":"FName","Description":"","Redirect":""},{"Name":"NewStructName","Type":"FName","Description":"","Redirect":""}]}

@@ -1,0 +1,1 @@
+{"Name":"FBeamTargetData","Description":"","Variables":[{"Name":"TargetName","Type":"FName","Description":"Name of the target.","Redirect":""},{"Name":"TargetPercentage","Type":"float","Description":"Percentage chance the target will be selected (100 = always).","Redirect":""}]}

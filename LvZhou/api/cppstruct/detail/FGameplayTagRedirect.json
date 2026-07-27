@@ -1,0 +1,1 @@
+{"Name":"FGameplayTagRedirect","Description":"A single redirect from a deleted tag to the new tag that should replace it","Variables":[{"Name":"OldTagName","Type":"FName","Description":"","Redirect":""},{"Name":"NewTagName","Type":"FName","Description":"","Redirect":""}]}

@@ -1,0 +1,1 @@
+{"Name":"FToggleTrackKey","Description":"Information for one toggle in the track.","Variables":[{"Name":"Time","Type":"float","Description":"","Redirect":""},{"Name":"ToggleAction","Type":"TEnumAsByte \u003c enum ETrackToggleAction \u003e","Description":"","Redirect":""}]}

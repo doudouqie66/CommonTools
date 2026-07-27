@@ -1,0 +1,1 @@
+{"Name":"FNavigationSegmentLink","Description":"","Variables":[{"Name":"LeftStart","Type":"FVector","Description":"","Redirect":""},{"Name":"LeftEnd","Type":"FVector","Description":"","Redirect":""},{"Name":"RightStart","Type":"FVector","Description":"","Redirect":""},{"Name":"RightEnd","Type":"FVector","Description":"","Redirect":""}]}

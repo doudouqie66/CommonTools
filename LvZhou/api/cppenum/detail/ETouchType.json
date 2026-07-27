@@ -1,0 +1,1 @@
+{"Name":"ETouchType","Description":" ","Variables":[{"Name":"Began","Value":"0","Description":" "},{"Name":"Moved","Value":"1","Description":" "},{"Name":"Stationary","Value":"2","Description":" "},{"Name":"Ended","Value":"3","Description":" "},{"Name":"NumTypes","Value":"4","Description":" "}]}

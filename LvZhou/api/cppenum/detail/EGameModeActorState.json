@@ -1,0 +1,1 @@
+{"Name":"EGameModeActorState","Description":" ","Variables":[{"Name":"Invalid","Value":"0","Description":" "},{"Name":"Active","Value":"1","Description":" "},{"Name":"Ready","Value":"2","Description":" "},{"Name":"Fighting","Value":"3","Description":" "},{"Name":"Finished","Value":"4","Description":" "}]}

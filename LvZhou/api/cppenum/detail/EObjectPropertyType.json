@@ -1,0 +1,1 @@
+{"Name":"EObjectPropertyType","Description":" ","Variables":[{"Name":"Object","Value":"0","Description":" "},{"Name":"Array","Value":"1","Description":" "},{"Name":"Struct","Value":"2","Description":" "},{"Name":"Set","Value":"3","Description":" "},{"Name":"Map","Value":"4","Description":" "},{"Name":"Other","Value":"5","Description":" "}]}

@@ -1,0 +1,1 @@
+{"Name":"ELockTPPReason","Description":" ","Variables":[{"Name":"LTR_None","Value":"0","Description":" "},{"Name":"LTR_Skill","Value":"1","Description":" "},{"Name":"LTR_Interacte","Value":"2","Description":" "},{"Name":"LTR_Weapon","Value":"4","Description":" "},{"Name":"LTR_Vehicle","Value":"8","Description":" "},{"Name":"LTR_Level","Value":"16","Description":" "}]}

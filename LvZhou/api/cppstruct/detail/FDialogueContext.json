@@ -1,0 +1,1 @@
+{"Name":"FDialogueContext","Description":"","Variables":[{"Name":"Speaker","Type":"UDialogueVoice *","Description":"The person speaking the dialogue.","Redirect":""},{"Name":"Targets","Type":"TArray \u003c UDialogueVoice * \u003e","Description":"The people being spoken to.","Redirect":""}]}

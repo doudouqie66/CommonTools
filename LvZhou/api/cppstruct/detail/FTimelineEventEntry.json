@@ -1,0 +1,1 @@
+{"Name":"FTimelineEventEntry","Description":"Struct that contains one entry for an 'event' during the timeline","Variables":[{"Name":"Time","Type":"float","Description":"Time at which event should fire","Redirect":""}]}

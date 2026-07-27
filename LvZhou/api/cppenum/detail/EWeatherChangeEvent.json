@@ -1,0 +1,1 @@
+{"Name":"EWeatherChangeEvent","Description":" ","Variables":[{"Name":"EWeatherChangeEvent_StartEnter","Value":"0","Description":" "},{"Name":"EWeatherChangeEvent_Staturated","Value":"1","Description":" "},{"Name":"EWeatherChangeEvent_StartQuit","Value":"2","Description":" "},{"Name":"EWeatherChangeEvent_Quit","Value":"3","Description":" "}]}

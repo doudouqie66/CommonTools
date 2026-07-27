@@ -1,0 +1,1 @@
+{"Name":"FTransformBase","Description":"This is a mapping table between bone in a particular skeletal mesh and bone of this skeleton set.","Variables":[{"Name":"Node","Type":"FName","Description":"","Redirect":""},{"Name":"Constraints","Type":"FTransformBaseConstraint","Description":"","Redirect":""}]}

@@ -1,0 +1,1 @@
+{"Name":"EEnvQueryRunMode","Description":" ","Variables":[{"Name":"SingleResult","Value":"0","Description":" "},{"Name":"RandomBest5Pct","Value":"1","Description":" "},{"Name":"RandomBest25Pct","Value":"2","Description":" "},{"Name":"AllMatching","Value":"3","Description":" "}]}

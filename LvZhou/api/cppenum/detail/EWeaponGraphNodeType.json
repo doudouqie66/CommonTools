@@ -1,0 +1,1 @@
+{"Name":"EWeaponGraphNodeType","Description":" ","Variables":[{"Name":"PhaseSelector","Value":"0","Description":" "},{"Name":"PhaseDetail","Value":"1","Description":" "},{"Name":"PhaseCondition","Value":"2","Description":" "},{"Name":"PhaseAction","Value":"3","Description":" "}]}

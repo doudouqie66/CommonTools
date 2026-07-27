@@ -1,0 +1,1 @@
+{"Name":"EAddonControlCharacterPolicyOnDeath","Description":" ","Variables":[{"Name":"None","Value":"0","Description":" "},{"Name":"CustomPolicy","Value":"1","Description":" "},{"Name":"ChangeToNewCharacter","Value":"2","Description":" "},{"Name":"KeepUsingOldCharacter","Value":"3","Description":" "},{"Name":"ChangeToTemporaryPawn","Value":"4","Description":" "}]}

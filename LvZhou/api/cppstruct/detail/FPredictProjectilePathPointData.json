@@ -1,0 +1,1 @@
+{"Name":"FPredictProjectilePathPointData","Description":"","Variables":[{"Name":"Location","Type":"FVector","Description":"","Redirect":""},{"Name":"Velocity","Type":"FVector","Description":"","Redirect":""},{"Name":"Time","Type":"float","Description":"","Redirect":""}]}

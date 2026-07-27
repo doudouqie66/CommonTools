@@ -1,0 +1,1 @@
+{"Name":"ETextureSourceArtType","Description":" ","Variables":[{"Name":"TSAT_Uncompressed","Value":"0","Description":" "},{"Name":"TSAT_PNGCompressed","Value":"1","Description":" "},{"Name":"TSAT_DDSFile","Value":"2","Description":" "},{"Name":"TSAT_MAX","Value":"3","Description":" "}]}

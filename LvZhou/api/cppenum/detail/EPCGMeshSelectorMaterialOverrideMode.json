@@ -1,0 +1,1 @@
+{"Name":"EPCGMeshSelectorMaterialOverrideMode","Description":" ","Variables":[{"Name":"NoOverride","Value":"0","Description":" "},{"Name":"StaticOverride","Value":"1","Description":" "},{"Name":"ByAttributeOverride","Value":"2","Description":" "}]}

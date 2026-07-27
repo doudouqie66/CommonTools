@@ -1,0 +1,1 @@
+{"Name":"ETextureSamplerFilter","Description":" ","Variables":[{"Name":"Point","Value":"0","Description":" "},{"Name":"Bilinear","Value":"1","Description":" "},{"Name":"Trilinear","Value":"2","Description":" "},{"Name":"AnisotropicPoint","Value":"3","Description":" "},{"Name":"AnisotropicLinear","Value":"4","Description":" "}]}

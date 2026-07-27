@@ -1,0 +1,1 @@
+{"Name":"ELoginPlatform","Description":" ","Variables":[{"Name":"ELoginPlatform_NONE","Value":"0","Description":" "},{"Name":"ELoginPlatform_Wechat","Value":"1","Description":" "},{"Name":"ELoginPlatform_QQ","Value":"2","Description":" "},{"Name":"ELoginPlatform_Guest","Value":"5","Description":" "}]}

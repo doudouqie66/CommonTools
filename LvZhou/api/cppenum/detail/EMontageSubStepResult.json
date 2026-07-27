@@ -1,0 +1,1 @@
+{"Name":"EMontageSubStepResult","Description":" ","Variables":[{"Name":"Moved","Value":"0","Description":" "},{"Name":"NotMoved","Value":"1","Description":" "},{"Name":"InvalidSection","Value":"2","Description":" "},{"Name":"InvalidMontage","Value":"3","Description":" "}]}

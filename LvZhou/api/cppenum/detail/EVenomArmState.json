@@ -1,0 +1,1 @@
+{"Name":"EVenomArmState","Description":" ","Variables":[{"Name":"Arm_None","Value":"0","Description":" "},{"Name":"Arm_Stretch","Value":"1","Description":" "},{"Name":"Arm_Delay","Value":"2","Description":" "},{"Name":"Arm_Shrink","Value":"3","Description":" "}]}

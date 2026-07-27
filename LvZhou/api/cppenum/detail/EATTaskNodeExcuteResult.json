@@ -1,0 +1,1 @@
+{"Name":"EATTaskNodeExcuteResult","Description":" ","Variables":[{"Name":"EATTaskNodeExcuteResult_None","Value":"0","Description":" "},{"Name":"EATTaskNodeExcuteResult_Success","Value":"1","Description":" "},{"Name":"EATTaskNodeExcuteResult_Warning","Value":"2","Description":" "},{"Name":"EATTaskNodeExcuteResult_Error","Value":"3","Description":" "}]}
