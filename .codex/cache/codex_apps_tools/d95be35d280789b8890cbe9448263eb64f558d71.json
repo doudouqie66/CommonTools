@@ -297,7 +297,8 @@
                   "enum": [
                     "active",
                     "archived",
-                    "suspended"
+                    "suspended",
+                    "deleting"
                   ],
                   "title": "AppProjectStatus",
                   "type": "string"
@@ -1548,7 +1549,8 @@
                   "enum": [
                     "active",
                     "archived",
-                    "suspended"
+                    "suspended",
+                    "deleting"
                   ],
                   "title": "AppProjectStatus",
                   "type": "string"
@@ -2016,7 +2018,8 @@
                   "enum": [
                     "active",
                     "archived",
-                    "suspended"
+                    "suspended",
+                    "deleting"
                   ],
                   "title": "AppProjectStatus",
                   "type": "string"
@@ -3246,7 +3249,8 @@
                         "enum": [
                           "active",
                           "archived",
-                          "suspended"
+                          "suspended",
+                          "deleting"
                         ],
                         "title": "AppProjectStatus",
                         "type": "string"
@@ -4061,7 +4065,8 @@
                         "enum": [
                           "active",
                           "archived",
-                          "suspended"
+                          "suspended",
+                          "deleting"
                         ],
                         "title": "AppProjectStatus",
                         "type": "string"
@@ -6349,7 +6354,8 @@
                   "enum": [
                     "active",
                     "archived",
-                    "suspended"
+                    "suspended",
+                    "deleting"
                   ],
                   "title": "AppProjectStatus",
                   "type": "string"
