@@ -1,0 +1,12 @@
+{
+  "id": "conv-1785246022681-pmzl9bhti",
+  "providerId": "claude",
+  "title": "你用脚本检查有没有更新",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1785246022681,
+  "updatedAt": 1785246074213,
+  "lastResponseAt": 1785246022881,
+  "sessionId": null,
+  "selectedModel": "haiku",
+  "providerState": {}
+}

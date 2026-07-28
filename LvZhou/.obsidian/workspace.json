@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/通用运动组件.md",
+                "file": "日记/2026-07-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "通用运动组件"
+              "title": "2026-07-14"
+            }
+          },
+          {
+            "id": "ea5478fc55063010",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2026-07-28.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-28"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -237,8 +251,25 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a07235b693129f51",
+  "active": "ea5478fc55063010",
   "lastOpenFiles": [
+    "日记/2026-07-14.md",
+    "日记/2026-07-28.md",
+    "日记/2026-07-28.md.tmp.13844.7d0a3d11e1fc",
+    "wiki/1.37 Release Notes.md.tmp.13844.693cb07e39c3",
+    "wiki/BuffListUI.md",
+    "wiki/在UI上渲染一个场景Actor.md",
+    "wiki/技能组件.md",
+    "wiki/新手引导组件.md",
+    "wiki/物品实例化数据.md",
+    "wiki/自定义掉落效果.md",
+    "wiki/角色调试工具.md",
+    "wiki/交互相关功能组件.md",
+    "wiki/自定义拾取组件.md",
+    "wiki/_temp_20424.json",
+    "日记/2026-07-10.md",
+    "MOC-总览.md",
+    "wiki/通用运动组件.md",
     "wiki/装备随机词条.md",
     "wiki/通用进度条UI.md",
     "笔记/我的笔记.md",
@@ -255,27 +286,10 @@
     "logs/sync-wiki",
     "logs",
     "wiki/物品编辑器.md",
-    "MOC-总览.md",
-    "人物等级经验/等级经验系统设计文档.md",
-    "爬塔/爬塔-模块化架构设计文档.md",
-    "任务管理/2. 人物等级经验.md",
-    "任务管理/1. TaskMgr-任务进度管理中心.md",
-    "任务管理/_index.md",
     "任务管理/1. TaskMgr-任务进度管理中心.md.tmp.18324.58fdead33343",
-    "wiki/玩法特权接入指南.md",
     "人物等级经验",
-    "日记/2026-07-14.md",
     "日记/结果.png",
-    "日记/2026-07-14-Bug-出生点GameMode配置问题.md",
     "日记/2026-07-14-Bug-出生点GameMode配置问题.md.tmp.21940.8a0db1553c0a",
-    "爬塔/爬塔-Bug追踪-出生点GameMode配置问题.md",
-    "爬塔/爬塔-Bug追踪-出生点GameMode配置问题.md.tmp.21940.a9278569c525",
-    "任务管理/1. TaskMgr-任务进度管理中心.md.tmp.26016.00744830fdf7",
-    "任务管理/_index.md.tmp.26016.8d7b842cacd8",
-    "任务管理/TaskMgr-任务进度管理中心.md",
-    "wiki/上传_调试.md",
-    "wiki/模式编辑器Event-Condition-Action.md",
-    "wiki/怪物制作-附件工程.md",
     "未命名.canvas"
   ]
 }

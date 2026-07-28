@@ -1,0 +1,25 @@
+{
+  "id": "conv-1785247573529-qd9zfp3ex",
+  "providerId": "claude",
+  "title": "Check 绿洲文档更新",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785247573529,
+  "updatedAt": 1785248098356,
+  "lastResponseAt": 1785248098356,
+  "sessionId": "b1876c57-5d64-4e8a-bad5-b1c580a0ae09",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "b1876c57-5d64-4e8a-bad5-b1c580a0ae09"
+  },
+  "currentNote": "日记/2026-07-10.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 85,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 77824,
+    "contextWindow": 200000,
+    "contextTokens": 77909,
+    "percentage": 39,
+    "contextWindowIsAuthoritative": true
+  }
+}
